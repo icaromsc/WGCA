@@ -45,3 +45,13 @@ rule summarize_resistance:
         "resistance_genes/summary.tsv"
     shell:
         "abricate --summary {input} > {output}"
+
+rule summary_results:
+    input:
+        r="resistance_genes/summary.tsv",
+        v="virulence_genes/summary.tsv"
+    output:
+        v="WGCA_analysis_result/vir_summary.tsv",
+        r="WGCA_analysis_result/res_summary.tsv"
+    shell:
+        "cp {input.r} {output.r} ; cp {input.v} {output.v}"
