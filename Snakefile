@@ -1,5 +1,19 @@
 #SnakeMake clinical genomic annotation workflow
-SAMPLES = ["MP2-6", "MP5-8", "MP8-1"]
+
+def list_files():
+    import os
+    l=os.listdir('data/samples/')
+    li=[x.split('.')[0] for x in l]
+    return li
+
+SAMPLES = list_files()
+
+# rule get_files:
+#     input: myfunc
+#     output: "someoutput.{somewildcard}.txt"
+#     shell: "..."
+
+
 rule virulence_identification:
     input:
         "data/samples/{sample}.fasta"

@@ -1,0 +1,1 @@
+abricate --minid=90 --db=vfdb data/samples/OG1RF.fasta > virulence_genes/OG1RF.tsv

@@ -1,0 +1,1 @@
+abricate --minid=90 --db=vfdb data/samples/V583.fasta > virulence_genes/V583.tsv

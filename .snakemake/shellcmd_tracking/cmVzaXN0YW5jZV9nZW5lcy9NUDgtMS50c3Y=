@@ -1,0 +1,1 @@
+abricate --minid=90 --db=card data/samples/MP8-1.fasta > resistance_genes/MP8-1.tsv

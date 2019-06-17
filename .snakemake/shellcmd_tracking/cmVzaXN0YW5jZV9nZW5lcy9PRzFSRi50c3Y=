@@ -1,0 +1,1 @@
+abricate --minid=90 --db=card data/samples/OG1RF.fasta > resistance_genes/OG1RF.tsv
