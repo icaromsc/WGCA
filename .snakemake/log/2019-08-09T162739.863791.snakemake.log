@@ -1,0 +1,109 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	3	resistance_identification
+	1	summarize_resistance
+	1	summarize_virulence
+	1	summary_results
+	3	virulence_identification
+	9
+
+[Fri Aug  9 16:27:39 2019]
+rule resistance_identification:
+    input: data/samples/V583.fasta
+    output: resistance_genes/V583.tsv
+    jobid: 5
+    wildcards: sample=V583
+
+[Fri Aug  9 16:28:04 2019]
+Finished job 5.
+1 of 9 steps (11%) done
+
+[Fri Aug  9 16:28:04 2019]
+rule virulence_identification:
+    input: data/samples/V583.fasta
+    output: virulence_genes/V583.tsv
+    jobid: 6
+    wildcards: sample=V583
+
+[Fri Aug  9 16:28:18 2019]
+Finished job 6.
+2 of 9 steps (22%) done
+
+[Fri Aug  9 16:28:18 2019]
+rule virulence_identification:
+    input: data/samples/MP2-6.fasta
+    output: virulence_genes/MP2-6.tsv
+    jobid: 8
+    wildcards: sample=MP2-6
+
+[Fri Aug  9 16:28:31 2019]
+Finished job 8.
+3 of 9 steps (33%) done
+
+[Fri Aug  9 16:28:31 2019]
+rule resistance_identification:
+    input: data/samples/MP2-6.fasta
+    output: resistance_genes/MP2-6.tsv
+    jobid: 4
+    wildcards: sample=MP2-6
+
+[Fri Aug  9 16:28:36 2019]
+Finished job 4.
+4 of 9 steps (44%) done
+
+[Fri Aug  9 16:28:36 2019]
+rule virulence_identification:
+    input: data/samples/OG1RF.fasta
+    output: virulence_genes/OG1RF.tsv
+    jobid: 7
+    wildcards: sample=OG1RF
+
+[Fri Aug  9 16:28:48 2019]
+Finished job 7.
+5 of 9 steps (56%) done
+
+[Fri Aug  9 16:28:49 2019]
+rule resistance_identification:
+    input: data/samples/OG1RF.fasta
+    output: resistance_genes/OG1RF.tsv
+    jobid: 3
+    wildcards: sample=OG1RF
+
+[Fri Aug  9 16:28:55 2019]
+Finished job 3.
+6 of 9 steps (67%) done
+
+[Fri Aug  9 16:28:55 2019]
+rule summarize_virulence:
+    input: virulence_genes/V583.tsv, virulence_genes/OG1RF.tsv, virulence_genes/MP2-6.tsv
+    output: virulence_genes/summary.tsv
+    jobid: 2
+
+[Fri Aug  9 16:28:55 2019]
+Finished job 2.
+7 of 9 steps (78%) done
+
+[Fri Aug  9 16:28:55 2019]
+rule summarize_resistance:
+    input: resistance_genes/V583.tsv, resistance_genes/OG1RF.tsv, resistance_genes/MP2-6.tsv
+    output: resistance_genes/summary.tsv
+    jobid: 1
+
+[Fri Aug  9 16:28:55 2019]
+Finished job 1.
+8 of 9 steps (89%) done
+
+[Fri Aug  9 16:28:55 2019]
+rule summary_results:
+    input: resistance_genes/summary.tsv, virulence_genes/summary.tsv
+    output: WGCA_analysis_result/vir_summary.tsv, WGCA_analysis_result/res_summary.tsv
+    jobid: 0
+
+[Fri Aug  9 16:28:55 2019]
+Finished job 0.
+9 of 9 steps (100%) done
+Complete log: /home/bioinfo/WGCA/.snakemake/log/2019-08-09T162739.863791.snakemake.log

@@ -1,0 +1,265 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-file-temp",
+    "perl-xml-namespacesupport",
+    "perl-xml-sax-base"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-xml-sax-1.02-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/XML/SAX.pm",
+    "lib/site_perl/5.26.2/XML/SAX/DocumentLocator.pm",
+    "lib/site_perl/5.26.2/XML/SAX/Intro.pod",
+    "lib/site_perl/5.26.2/XML/SAX/ParserDetails.ini",
+    "lib/site_perl/5.26.2/XML/SAX/ParserFactory.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/DTDDecls.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/DebugHandler.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/DocType.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/EncodingDetect.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Exception.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/NoUnicodeExt.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Productions.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/NoUnicodeExt.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/Stream.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/String.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/URI.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/UnicodeExt.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/UnicodeExt.pm",
+    "lib/site_perl/5.26.2/XML/SAX/PurePerl/XMLDecl.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/XML/SAX/.packlist",
+    "man/man3/XML::SAX.3",
+    "man/man3/XML::SAX::DocumentLocator.3",
+    "man/man3/XML::SAX::Intro.3",
+    "man/man3/XML::SAX::ParserFactory.3",
+    "man/man3/XML::SAX::PurePerl.3",
+    "man/man3/XML::SAX::PurePerl::Reader.3"
+  ],
+  "fn": "perl-xml-sax-1.02-pl526_0.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-xml-sax-1.02-pl526_0",
+    "type": 1
+  },
+  "md5": "b4fda7e83376806d5eedbef2c3a3b356",
+  "name": "perl-xml-sax",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-xml-sax-1.02-pl526_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX.pm",
+        "path_type": "hardlink",
+        "sha256": "f6fb49c570353829a0d7c1e8bd148a5f1d5140c828480a4fa27fb72b9170bcbb",
+        "sha256_in_prefix": "f6fb49c570353829a0d7c1e8bd148a5f1d5140c828480a4fa27fb72b9170bcbb",
+        "size_in_bytes": 9269
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/DocumentLocator.pm",
+        "path_type": "hardlink",
+        "sha256": "0abeda789792e29e831d640c2e0fd146ae30c46f9e021fcd8385a10ae8846d37",
+        "sha256_in_prefix": "0abeda789792e29e831d640c2e0fd146ae30c46f9e021fcd8385a10ae8846d37",
+        "size_in_bytes": 2882
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/Intro.pod",
+        "path_type": "hardlink",
+        "sha256": "e046d7d416ef0587b4a5a38bf7cd1b6e681ca3c799dc2d7d132e5b805bf44d03",
+        "sha256_in_prefix": "e046d7d416ef0587b4a5a38bf7cd1b6e681ca3c799dc2d7d132e5b805bf44d03",
+        "size_in_bytes": 14817
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/ParserDetails.ini",
+        "path_type": "hardlink",
+        "sha256": "40d56d589f74b0c54982b384080882e7fff8da3d5373f353a1d3e1ee56523ae8",
+        "sha256_in_prefix": "40d56d589f74b0c54982b384080882e7fff8da3d5373f353a1d3e1ee56523ae8",
+        "size_in_bytes": 66
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/ParserFactory.pm",
+        "path_type": "hardlink",
+        "sha256": "a680c05422c7e542de183c1f373e601afa43d8c00e17349acd8c19b5fd035984",
+        "sha256_in_prefix": "a680c05422c7e542de183c1f373e601afa43d8c00e17349acd8c19b5fd035984",
+        "size_in_bytes": 6535
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl.pm",
+        "path_type": "hardlink",
+        "sha256": "92e1fac2e06e2097349acc56588e1665991917b581b52801169fdeece457bea5",
+        "sha256_in_prefix": "92e1fac2e06e2097349acc56588e1665991917b581b52801169fdeece457bea5",
+        "size_in_bytes": 20587
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/DTDDecls.pm",
+        "path_type": "hardlink",
+        "sha256": "a334c77ec58b3f0e3fed20ba566122d713a53e77e1e4058d3dd18c75b65cc269",
+        "sha256_in_prefix": "a334c77ec58b3f0e3fed20ba566122d713a53e77e1e4058d3dd18c75b65cc269",
+        "size_in_bytes": 16992
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/DebugHandler.pm",
+        "path_type": "hardlink",
+        "sha256": "df26478efbe5045802e1196d1bc19f6955cb00f419f20a62b2aa77137d48d171",
+        "sha256_in_prefix": "df26478efbe5045802e1196d1bc19f6955cb00f419f20a62b2aa77137d48d171",
+        "size_in_bytes": 1879
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/DocType.pm",
+        "path_type": "hardlink",
+        "sha256": "2807d22d4863a5f43f26ccd3a99e9d7b3c08656a8309d0d6732a758c78901e5e",
+        "sha256_in_prefix": "2807d22d4863a5f43f26ccd3a99e9d7b3c08656a8309d0d6732a758c78901e5e",
+        "size_in_bytes": 4658
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/EncodingDetect.pm",
+        "path_type": "hardlink",
+        "sha256": "5466b413c5fe8ab0641d1ca7a044abc5d7c8efcab3d0b958f825865f2f1774e5",
+        "sha256_in_prefix": "5466b413c5fe8ab0641d1ca7a044abc5d7c8efcab3d0b958f825865f2f1774e5",
+        "size_in_bytes": 2628
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Exception.pm",
+        "path_type": "hardlink",
+        "sha256": "d93807be95b521123d0f081a5b89deb75b06f1e1e0ce0805261168dab42ed717",
+        "sha256_in_prefix": "d93807be95b521123d0f081a5b89deb75b06f1e1e0ce0805261168dab42ed717",
+        "size_in_bytes": 1707
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/NoUnicodeExt.pm",
+        "path_type": "hardlink",
+        "sha256": "2fd0d09749fe8410b7b3f55fcb894d2de76709dee5c1f71f326362b1850dd2b3",
+        "sha256_in_prefix": "2fd0d09749fe8410b7b3f55fcb894d2de76709dee5c1f71f326362b1850dd2b3",
+        "size_in_bytes": 628
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Productions.pm",
+        "path_type": "hardlink",
+        "sha256": "74b6e89f9128ff5fd9316728502f730e8b6028dde56e85faad6fcbfd052e076a",
+        "sha256_in_prefix": "74b6e89f9128ff5fd9316728502f730e8b6028dde56e85faad6fcbfd052e076a",
+        "size_in_bytes": 6623
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader.pm",
+        "path_type": "hardlink",
+        "sha256": "9f5d00fcae37f5fb8e3211fd5c932d8fe1a92a134de9cf09ad36a86db11cf878",
+        "sha256_in_prefix": "9f5d00fcae37f5fb8e3211fd5c932d8fe1a92a134de9cf09ad36a86db11cf878",
+        "size_in_bytes": 2541
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/NoUnicodeExt.pm",
+        "path_type": "hardlink",
+        "sha256": "d53b2e37f97259c1f01500f962d19491779290f30a5674b50e4d0495865f255f",
+        "sha256_in_prefix": "d53b2e37f97259c1f01500f962d19491779290f30a5674b50e4d0495865f255f",
+        "size_in_bytes": 587
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/Stream.pm",
+        "path_type": "hardlink",
+        "sha256": "ec8b81679b23f6fa7a6b5cfba215e947b58a20c9866fa6278037277ae9285b68",
+        "sha256_in_prefix": "ec8b81679b23f6fa7a6b5cfba215e947b58a20c9866fa6278037277ae9285b68",
+        "size_in_bytes": 1801
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/String.pm",
+        "path_type": "hardlink",
+        "sha256": "65973b548276b0d8beff1917e2011fa3401d519122523c1043f366594d9731fd",
+        "sha256_in_prefix": "65973b548276b0d8beff1917e2011fa3401d519122523c1043f366594d9731fd",
+        "size_in_bytes": 1691
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/URI.pm",
+        "path_type": "hardlink",
+        "sha256": "f9c6f451fb0b41caec8173471ef8a5f44f554fe9dad742e27e472c4deac3fef4",
+        "sha256_in_prefix": "f9c6f451fb0b41caec8173471ef8a5f44f554fe9dad742e27e472c4deac3fef4",
+        "size_in_bytes": 1462
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/Reader/UnicodeExt.pm",
+        "path_type": "hardlink",
+        "sha256": "397d27d0740eac48c407363886618495f3f4961c5a8ad96b1b4428901d4a8c49",
+        "sha256_in_prefix": "397d27d0740eac48c407363886618495f3f4961c5a8ad96b1b4428901d4a8c49",
+        "size_in_bytes": 326
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/UnicodeExt.pm",
+        "path_type": "hardlink",
+        "sha256": "1a146d86a698186f00409ce1b5b36e0801c3851a43c6506054a4e49de657d899",
+        "sha256_in_prefix": "1a146d86a698186f00409ce1b5b36e0801c3851a43c6506054a4e49de657d899",
+        "size_in_bytes": 369
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/SAX/PurePerl/XMLDecl.pm",
+        "path_type": "hardlink",
+        "sha256": "69df228905e2d75c1d0ba835c5bba7da2aacc5a0d9727e83b0b73e15a4e57d7d",
+        "sha256_in_prefix": "69df228905e2d75c1d0ba835c5bba7da2aacc5a0d9727e83b0b73e15a4e57d7d",
+        "size_in_bytes": 3389
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/XML/SAX/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "34d492d6967884a50057d5e527c985c7d421cac43b4ba95ff15ecdc650f806bf",
+        "sha256_in_prefix": "2dcf43f5f8703e4e379e0391330b064528cff39c7ad67a7e476dbbb634809254",
+        "size_in_bytes": 3498
+      },
+      {
+        "_path": "man/man3/XML::SAX.3",
+        "path_type": "hardlink",
+        "sha256": "582b1e8aa7af269a08bf2a98605db65cbfd0cfebbd6e503dbdd67cdd17e983c8",
+        "sha256_in_prefix": "582b1e8aa7af269a08bf2a98605db65cbfd0cfebbd6e503dbdd67cdd17e983c8",
+        "size_in_bytes": 7345
+      },
+      {
+        "_path": "man/man3/XML::SAX::DocumentLocator.3",
+        "path_type": "hardlink",
+        "sha256": "901de4482a07381f3dad2d122da93b6983cbcfcb797ee85014330829d50cdf59",
+        "sha256_in_prefix": "901de4482a07381f3dad2d122da93b6983cbcfcb797ee85014330829d50cdf59",
+        "size_in_bytes": 3355
+      },
+      {
+        "_path": "man/man3/XML::SAX::Intro.3",
+        "path_type": "hardlink",
+        "sha256": "25b92657dc2db297d830aa6874b1e9b404d02a2fc787ad98365bfff40d82a5d6",
+        "sha256_in_prefix": "25b92657dc2db297d830aa6874b1e9b404d02a2fc787ad98365bfff40d82a5d6",
+        "size_in_bytes": 18336
+      },
+      {
+        "_path": "man/man3/XML::SAX::ParserFactory.3",
+        "path_type": "hardlink",
+        "sha256": "ea7df95d24909f02bcde47e65b0949035f627cef0d7b765ff45bc19d6915df69",
+        "sha256_in_prefix": "ea7df95d24909f02bcde47e65b0949035f627cef0d7b765ff45bc19d6915df69",
+        "size_in_bytes": 6035
+      },
+      {
+        "_path": "man/man3/XML::SAX::PurePerl.3",
+        "path_type": "hardlink",
+        "sha256": "fb51bd9e896f9fc89cbc4b4dd3b2a2b969c5e10647ac3601cc9c6144fde55bf9",
+        "sha256_in_prefix": "fb51bd9e896f9fc89cbc4b4dd3b2a2b969c5e10647ac3601cc9c6144fde55bf9",
+        "size_in_bytes": 4288
+      },
+      {
+        "_path": "man/man3/XML::SAX::PurePerl::Reader.3",
+        "path_type": "hardlink",
+        "sha256": "e251f290efd8a355518c3cc7c62ad5afd9a4c7b5b4b63704ca90fc14735be904",
+        "sha256_in_prefix": "e251f290efd8a355518c3cc7c62ad5afd9a4c7b5b4b63704ca90fc14735be904",
+        "size_in_bytes": 2219
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 36564,
+  "subdir": "noarch",
+  "timestamp": 1560894302117,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/perl-xml-sax-1.02-pl526_0.tar.bz2",
+  "version": "1.02"
+}

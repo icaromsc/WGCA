@@ -1,0 +1,7 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/bin/ccconfig relocate_as=../../../../../../../../bin/ccconfig
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Convert/Binary/C.pm relocate_as=../../../../Convert/Binary/C.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Convert/Binary/C/Cached.pm relocate_as=../../../../Convert/Binary/C/Cached.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Convert/Binary/C/C.so relocate_as=C.so
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man1/ccconfig.1 relocate_as=../../../../../../../../man/man1/ccconfig.1
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Convert::Binary::C.3 relocate_as=../../../../../../../../man/man3/Convert::Binary::C.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Convert::Binary::C::Cached.3 relocate_as=../../../../../../../../man/man3/Convert::Binary::C::Cached.3

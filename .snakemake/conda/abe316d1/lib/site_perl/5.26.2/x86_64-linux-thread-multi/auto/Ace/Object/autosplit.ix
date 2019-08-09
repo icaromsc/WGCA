@@ -1,0 +1,35 @@
+# Index created by AutoSplit for blib/lib/Ace/Object.pm
+#    (file acts as timestamp)
+package Ace::Object;
+sub asHTML  ;
+sub asDNA  ;
+sub asPeptide  ;
+sub _special_dump  ;
+sub asTable  ;
+sub asAce  ;
+sub asString  ;
+sub asGif  ;
+sub timestamp  ;
+sub comment  ;
+sub tags  ;
+sub kill  ;
+sub isComment  ;
+sub add_row  ;
+sub add_tree  ;
+sub delete  ;
+sub replace  ;
+sub commit  ;
+sub rollback  ;
+sub debug  ;
+sub date_style  ;
+sub _asHTML  ;
+sub _asTable  ;
+sub _default_makeHTML  ;
+sub _insert  ;
+sub _asAce  ;
+sub _to_ace_date  ;
+sub asXML  ;
+sub _asXML  ;
+sub escapeXML  ;
+sub _xmlNumber  ;
+1;

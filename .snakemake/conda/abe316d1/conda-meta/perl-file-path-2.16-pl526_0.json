@@ -1,0 +1,53 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-exporter"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-file-path-2.16-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/File/Path.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Path/.packlist"
+  ],
+  "fn": "perl-file-path-2.16-pl526_0.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-file-path-2.16-pl526_0",
+    "type": 1
+  },
+  "md5": "c58f86c77e01c9c62415ba917f7b651e",
+  "name": "perl-file-path",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-file-path-2.16-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/File/Path.pm",
+        "path_type": "hardlink",
+        "sha256": "68cec85b973454409e6cd7ef14666c8d8f90cf59da67587d12af45f15903fad1",
+        "sha256_in_prefix": "68cec85b973454409e6cd7ef14666c8d8f90cf59da67587d12af45f15903fad1",
+        "size_in_bytes": 43253
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Path/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "223ec2ca9cf32633030fd58dbee70fdbd5aafe416caa5056e0008cdfaa6f0948",
+        "sha256_in_prefix": "cc76554c886d7c772de0799c339d5f5994413ab03a3ee32a25aacd20802838b6",
+        "size_in_bytes": 214
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 17511,
+  "subdir": "linux-64",
+  "timestamp": 1556007349501,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-file-path-2.16-pl526_0.tar.bz2",
+  "version": "2.16"
+}

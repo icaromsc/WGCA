@@ -1,0 +1,12 @@
+prefix=/home/bioinfo/WGCA/.snakemake/conda/abe316d1
+exec_prefix=/home/bioinfo/WGCA/.snakemake/conda/abe316d1
+libdir=/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib
+includedir=/home/bioinfo/WGCA/.snakemake/conda/abe316d1/include
+
+Name: harfbuzz
+Description: HarfBuzz font subsetter
+Version: 2.4.0
+
+Requires: harfbuzz
+Libs: -L${libdir} -lharfbuzz-subset
+Cflags: -I${includedir}/harfbuzz

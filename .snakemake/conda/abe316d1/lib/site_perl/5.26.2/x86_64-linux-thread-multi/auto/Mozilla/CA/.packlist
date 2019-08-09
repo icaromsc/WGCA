@@ -1,0 +1,4 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Mozilla/CA.pm relocate_as=../../../../Mozilla/CA.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Mozilla/CA/cacert.pem relocate_as=../../../../Mozilla/CA/cacert.pem
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Mozilla/mk-ca-bundle.pl relocate_as=../../../../Mozilla/mk-ca-bundle.pl
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Mozilla::CA.3 relocate_as=../../../../../../../man/man3/Mozilla::CA.3

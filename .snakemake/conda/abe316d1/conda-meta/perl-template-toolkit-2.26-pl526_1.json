@@ -1,0 +1,1133 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0",
+    "perl-appconfig",
+    "perl-cgi",
+    "perl-image-info",
+    "perl-image-size",
+    "perl-test-leaktrace"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-template-toolkit-2.26-pl526_1",
+  "features": "",
+  "files": [
+    "bin/tpage",
+    "bin/ttree",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Base.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Config.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Constants.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Context.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Directive.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Document.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Exception.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/FAQ.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Filters.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Grammar.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Iterator.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Config.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Credits.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Directives.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Filters.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Internals.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Intro.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Plugins.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Syntax.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/VMethods.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Variables.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Views.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Modules.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Namespace/Constants.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Parser.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Assert.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/CGI.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Datafile.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Date.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Directory.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Dumper.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/File.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Filter.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Format.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/HTML.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Image.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Iterator.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Math.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Pod.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Procedural.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Scalar.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/String.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Table.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/URL.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/View.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Wrap.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugins.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Provider.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Service.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Stash.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Stash/Context.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Stash/XS.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Test.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Toolkit.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tools.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tools/tpage.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tools/ttree.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tutorial.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tutorial/Datafile.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tutorial/Web.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/VMethods.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/View.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Template/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Template/Stash/XS/XS.so",
+    "man/man1/tpage.1",
+    "man/man1/ttree.1",
+    "man/man3/Template.3",
+    "man/man3/Template::Base.3",
+    "man/man3/Template::Config.3",
+    "man/man3/Template::Constants.3",
+    "man/man3/Template::Context.3",
+    "man/man3/Template::Directive.3",
+    "man/man3/Template::Document.3",
+    "man/man3/Template::Exception.3",
+    "man/man3/Template::FAQ.3",
+    "man/man3/Template::Filters.3",
+    "man/man3/Template::Grammar.3",
+    "man/man3/Template::Iterator.3",
+    "man/man3/Template::Manual.3",
+    "man/man3/Template::Manual::Config.3",
+    "man/man3/Template::Manual::Credits.3",
+    "man/man3/Template::Manual::Directives.3",
+    "man/man3/Template::Manual::Filters.3",
+    "man/man3/Template::Manual::Internals.3",
+    "man/man3/Template::Manual::Intro.3",
+    "man/man3/Template::Manual::Plugins.3",
+    "man/man3/Template::Manual::Syntax.3",
+    "man/man3/Template::Manual::VMethods.3",
+    "man/man3/Template::Manual::Variables.3",
+    "man/man3/Template::Manual::Views.3",
+    "man/man3/Template::Modules.3",
+    "man/man3/Template::Namespace::Constants.3",
+    "man/man3/Template::Parser.3",
+    "man/man3/Template::Plugin.3",
+    "man/man3/Template::Plugin::Assert.3",
+    "man/man3/Template::Plugin::CGI.3",
+    "man/man3/Template::Plugin::Datafile.3",
+    "man/man3/Template::Plugin::Date.3",
+    "man/man3/Template::Plugin::Directory.3",
+    "man/man3/Template::Plugin::Dumper.3",
+    "man/man3/Template::Plugin::File.3",
+    "man/man3/Template::Plugin::Filter.3",
+    "man/man3/Template::Plugin::Format.3",
+    "man/man3/Template::Plugin::HTML.3",
+    "man/man3/Template::Plugin::Image.3",
+    "man/man3/Template::Plugin::Iterator.3",
+    "man/man3/Template::Plugin::Math.3",
+    "man/man3/Template::Plugin::Pod.3",
+    "man/man3/Template::Plugin::Procedural.3",
+    "man/man3/Template::Plugin::Scalar.3",
+    "man/man3/Template::Plugin::String.3",
+    "man/man3/Template::Plugin::Table.3",
+    "man/man3/Template::Plugin::URL.3",
+    "man/man3/Template::Plugin::View.3",
+    "man/man3/Template::Plugin::Wrap.3",
+    "man/man3/Template::Plugins.3",
+    "man/man3/Template::Provider.3",
+    "man/man3/Template::Service.3",
+    "man/man3/Template::Stash.3",
+    "man/man3/Template::Stash::Context.3",
+    "man/man3/Template::Stash::XS.3",
+    "man/man3/Template::Test.3",
+    "man/man3/Template::Toolkit.3",
+    "man/man3/Template::Tools.3",
+    "man/man3/Template::Tools::tpage.3",
+    "man/man3/Template::Tools::ttree.3",
+    "man/man3/Template::Tutorial.3",
+    "man/man3/Template::Tutorial::Datafile.3",
+    "man/man3/Template::Tutorial::Web.3",
+    "man/man3/Template::VMethods.3",
+    "man/man3/Template::View.3"
+  ],
+  "fn": "perl-template-toolkit-2.26-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-template-toolkit-2.26-pl526_1",
+    "type": 1
+  },
+  "md5": "fa89ace236f54f558e7569b276338968",
+  "name": "perl-template-toolkit",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-template-toolkit-2.26-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/tpage",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "e4938434c865a1ce9943ae5bb08e25fc7aebcd2ccdc98a8182f418b165a77c70",
+        "sha256_in_prefix": "09982d5770d82b8a469d933b44440e6c66c06c1743612e5735b38df0330caf23",
+        "size_in_bytes": 8864
+      },
+      {
+        "_path": "bin/ttree",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "232df4ac3105143617bc3bf396aae279e6db9e2d6d707e49328edebf92173560",
+        "sha256_in_prefix": "1dcf6bbe064e8c9462cbd1d9c1f938abb41593baf5b44271ff1c358b221b13bc",
+        "size_in_bytes": 39175
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template.pm",
+        "path_type": "hardlink",
+        "sha256": "1acd68307f5ea7ebfbeea6bcf76f2310964144454e6390d8dfc8a01e3a02e9b7",
+        "sha256_in_prefix": "1acd68307f5ea7ebfbeea6bcf76f2310964144454e6390d8dfc8a01e3a02e9b7",
+        "size_in_bytes": 25037
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Base.pm",
+        "path_type": "hardlink",
+        "sha256": "ba4a1ad026dc21ac9d31a76612537c8b4493a363664c867820019e915df897be",
+        "sha256_in_prefix": "ba4a1ad026dc21ac9d31a76612537c8b4493a363664c867820019e915df897be",
+        "size_in_bytes": 7569
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Config.pm",
+        "path_type": "hardlink",
+        "sha256": "d3b7dd8ea4e9d3b33b78e7dabe3f2e608fd56cbd9ad8b84013d1c50ab764de93",
+        "sha256_in_prefix": "d3b7dd8ea4e9d3b33b78e7dabe3f2e608fd56cbd9ad8b84013d1c50ab764de93",
+        "size_in_bytes": 13625
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Constants.pm",
+        "path_type": "hardlink",
+        "sha256": "1d4f002b82632734c94ac2d3a65380ae0f9b817f0302c7a94aad17abdf0679b9",
+        "sha256_in_prefix": "1d4f002b82632734c94ac2d3a65380ae0f9b817f0302c7a94aad17abdf0679b9",
+        "size_in_bytes": 9747
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Context.pm",
+        "path_type": "hardlink",
+        "sha256": "d50a4d948afd6d5f6fc64eea48c128676d6551e5367b6313238a789a6b36409e",
+        "sha256_in_prefix": "d50a4d948afd6d5f6fc64eea48c128676d6551e5367b6313238a789a6b36409e",
+        "size_in_bytes": 53719
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Directive.pm",
+        "path_type": "hardlink",
+        "sha256": "fdf3ec4576df1706c1b5e920ba2e020b8ca2e59cdf4d8f5deb30aa5b6c3b80f7",
+        "sha256_in_prefix": "fdf3ec4576df1706c1b5e920ba2e020b8ca2e59cdf4d8f5deb30aa5b6c3b80f7",
+        "size_in_bytes": 29192
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Document.pm",
+        "path_type": "hardlink",
+        "sha256": "1100c2fec3736b33552ce3e07bfc811a4f0784bd8c373bd5377bdeedd7edeccc",
+        "sha256_in_prefix": "1100c2fec3736b33552ce3e07bfc811a4f0784bd8c373bd5377bdeedd7edeccc",
+        "size_in_bytes": 16569
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Exception.pm",
+        "path_type": "hardlink",
+        "sha256": "e259173f79fb88e504416768cab5b4e212b80c0f42e19f3e73b0ab7bdd7d1fd7",
+        "sha256_in_prefix": "e259173f79fb88e504416768cab5b4e212b80c0f42e19f3e73b0ab7bdd7d1fd7",
+        "size_in_bytes": 6402
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/FAQ.pod",
+        "path_type": "hardlink",
+        "sha256": "8cb08755e0fcb539819b7e2fba38eb62b9e8c3bd7140c29c4f0c8f3a335b6cd4",
+        "sha256_in_prefix": "8cb08755e0fcb539819b7e2fba38eb62b9e8c3bd7140c29c4f0c8f3a335b6cd4",
+        "size_in_bytes": 8809
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Filters.pm",
+        "path_type": "hardlink",
+        "sha256": "32aad591b9df1633bfbbc9df0c1159e46a70e0d4631d2a3156d396cf7c2a4a00",
+        "sha256_in_prefix": "32aad591b9df1633bfbbc9df0c1159e46a70e0d4631d2a3156d396cf7c2a4a00",
+        "size_in_bytes": 26252
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Grammar.pm",
+        "path_type": "hardlink",
+        "sha256": "fa322ec464cdfe00f6b7684963b80942e8efe9bc66aa3082789f70bdfa3b6956",
+        "sha256_in_prefix": "fa322ec464cdfe00f6b7684963b80942e8efe9bc66aa3082789f70bdfa3b6956",
+        "size_in_bytes": 98680
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Iterator.pm",
+        "path_type": "hardlink",
+        "sha256": "2826769959059d628db65dd35bf313decbef26b8866d0a5b4fd959ab1d2e59da",
+        "sha256_in_prefix": "2826769959059d628db65dd35bf313decbef26b8866d0a5b4fd959ab1d2e59da",
+        "size_in_bytes": 13751
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual.pod",
+        "path_type": "hardlink",
+        "sha256": "3acc34aeaa4bfc4b808c7fd068f53923d4070bb598e5dac3186b7708c4661c1a",
+        "sha256_in_prefix": "3acc34aeaa4bfc4b808c7fd068f53923d4070bb598e5dac3186b7708c4661c1a",
+        "size_in_bytes": 2433
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Config.pod",
+        "path_type": "hardlink",
+        "sha256": "56754f76aa42ad339c00162738dab475da9b6ee7fe9c2a1b1feaa18543a40c5f",
+        "sha256_in_prefix": "56754f76aa42ad339c00162738dab475da9b6ee7fe9c2a1b1feaa18543a40c5f",
+        "size_in_bytes": 64128
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Credits.pod",
+        "path_type": "hardlink",
+        "sha256": "46a6a4abb6c9becc02bc4e525a58efc228dac4cfa9108129a9692e14c6f9f243",
+        "sha256_in_prefix": "46a6a4abb6c9becc02bc4e525a58efc228dac4cfa9108129a9692e14c6f9f243",
+        "size_in_bytes": 4624
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Directives.pod",
+        "path_type": "hardlink",
+        "sha256": "48f27987bde125ddff8161c75277ebf0d957f94a87618ff1578225ad8bf0d437",
+        "sha256_in_prefix": "48f27987bde125ddff8161c75277ebf0d957f94a87618ff1578225ad8bf0d437",
+        "size_in_bytes": 61980
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Filters.pod",
+        "path_type": "hardlink",
+        "sha256": "3959e2687541444bedc14b6d4e7ca0147fc5211e9d1d197b4979a742547edee5",
+        "sha256_in_prefix": "3959e2687541444bedc14b6d4e7ca0147fc5211e9d1d197b4979a742547edee5",
+        "size_in_bytes": 14060
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Internals.pod",
+        "path_type": "hardlink",
+        "sha256": "f2dc53fec237e056d92f7e1a2e4319fb0b9325ebb7091b9d69a840df632920c9",
+        "sha256_in_prefix": "f2dc53fec237e056d92f7e1a2e4319fb0b9325ebb7091b9d69a840df632920c9",
+        "size_in_bytes": 18353
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Intro.pod",
+        "path_type": "hardlink",
+        "sha256": "4b7a2d18add13b0b7056e2ad07da43dd91e73b90ce67075152dd48ae12177643",
+        "sha256_in_prefix": "4b7a2d18add13b0b7056e2ad07da43dd91e73b90ce67075152dd48ae12177643",
+        "size_in_bytes": 9692
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Plugins.pod",
+        "path_type": "hardlink",
+        "sha256": "9f68076163c0fd938ceb830b710bb99594566c154d5ba55caf08da034e8643da",
+        "sha256_in_prefix": "9f68076163c0fd938ceb830b710bb99594566c154d5ba55caf08da034e8643da",
+        "size_in_bytes": 9110
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Syntax.pod",
+        "path_type": "hardlink",
+        "sha256": "f7f8c1b578c0b0ba611d660089ffdf990bc2144c6f75fcf0618d69fee4727a35",
+        "sha256_in_prefix": "f7f8c1b578c0b0ba611d660089ffdf990bc2144c6f75fcf0618d69fee4727a35",
+        "size_in_bytes": 9181
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/VMethods.pod",
+        "path_type": "hardlink",
+        "sha256": "b2e44da6cdb76555f5a274d3823cbde4fbd229641c176a3b3d05e8f89ecccf93",
+        "sha256_in_prefix": "b2e44da6cdb76555f5a274d3823cbde4fbd229641c176a3b3d05e8f89ecccf93",
+        "size_in_bytes": 20212
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Variables.pod",
+        "path_type": "hardlink",
+        "sha256": "0516b73fe5a062ceaad6c4777d222af0da86cb3fba5b4f1f719b0c1b2e5396d2",
+        "sha256_in_prefix": "0516b73fe5a062ceaad6c4777d222af0da86cb3fba5b4f1f719b0c1b2e5396d2",
+        "size_in_bytes": 25025
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Manual/Views.pod",
+        "path_type": "hardlink",
+        "sha256": "a3af07073410127f0d319714d5470460cbbefec87b9ae99e8c88402f6f0e31c8",
+        "sha256_in_prefix": "a3af07073410127f0d319714d5470460cbbefec87b9ae99e8c88402f6f0e31c8",
+        "size_in_bytes": 19264
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Modules.pod",
+        "path_type": "hardlink",
+        "sha256": "6e08427b0ccb9c9d218a82129170bfd2f36925597328be784baf0cccf1eaf2cc",
+        "sha256_in_prefix": "6e08427b0ccb9c9d218a82129170bfd2f36925597328be784baf0cccf1eaf2cc",
+        "size_in_bytes": 5503
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Namespace/Constants.pm",
+        "path_type": "hardlink",
+        "sha256": "96d8f8ca02c53a51f792f2632ebc8facdfa8ec746174ebc851022862390badeb",
+        "sha256_in_prefix": "96d8f8ca02c53a51f792f2632ebc8facdfa8ec746174ebc851022862390badeb",
+        "size_in_bytes": 4460
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Parser.pm",
+        "path_type": "hardlink",
+        "sha256": "8394b5c589d569e175cc29ea7c2dcf75b7b113ee4c655c11b1924111bdfd8b8a",
+        "sha256_in_prefix": "8394b5c589d569e175cc29ea7c2dcf75b7b113ee4c655c11b1924111bdfd8b8a",
+        "size_in_bytes": 41042
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin.pm",
+        "path_type": "hardlink",
+        "sha256": "6a7ff313add3009f38e7ceb0f49926c74bebabad42475945b7d2090dc39df1c4",
+        "sha256_in_prefix": "6a7ff313add3009f38e7ceb0f49926c74bebabad42475945b7d2090dc39df1c4",
+        "size_in_bytes": 10700
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Assert.pm",
+        "path_type": "hardlink",
+        "sha256": "178aa02c705b7e484a406dc30a8eda3d8ca794f847a75066ee3cdef6447e1725",
+        "sha256_in_prefix": "178aa02c705b7e484a406dc30a8eda3d8ca794f847a75066ee3cdef6447e1725",
+        "size_in_bytes": 3504
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/CGI.pm",
+        "path_type": "hardlink",
+        "sha256": "71bd57b168eee2f754fd52e2e8f4bc9162cfd0b8cc4aa2522de25682bf3ddaea",
+        "sha256_in_prefix": "71bd57b168eee2f754fd52e2e8f4bc9162cfd0b8cc4aa2522de25682bf3ddaea",
+        "size_in_bytes": 3087
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Datafile.pm",
+        "path_type": "hardlink",
+        "sha256": "02940d75ecb22dacbf7cc56c51c843e09cb4a7ba8ab119c5afbc9735aa03831d",
+        "sha256_in_prefix": "02940d75ecb22dacbf7cc56c51c843e09cb4a7ba8ab119c5afbc9735aa03831d",
+        "size_in_bytes": 4243
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Date.pm",
+        "path_type": "hardlink",
+        "sha256": "651d5a3aab97244ce3a7e275806e7c84fdaf478fd56275493051cb4316d47b7c",
+        "sha256_in_prefix": "651d5a3aab97244ce3a7e275806e7c84fdaf478fd56275493051cb4316d47b7c",
+        "size_in_bytes": 10698
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Directory.pm",
+        "path_type": "hardlink",
+        "sha256": "8362ce95cfda9ca5db8a7cd78dc33e01fa91314fe9f9ea4370fdc406a070bf0e",
+        "sha256_in_prefix": "8362ce95cfda9ca5db8a7cd78dc33e01fa91314fe9f9ea4370fdc406a070bf0e",
+        "size_in_bytes": 11220
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Dumper.pm",
+        "path_type": "hardlink",
+        "sha256": "014fecb9841bc4b8472f66cc7be615772d149b931a29c07bbbf94d8d9d95ad12",
+        "sha256_in_prefix": "014fecb9841bc4b8472f66cc7be615772d149b931a29c07bbbf94d8d9d95ad12",
+        "size_in_bytes": 3598
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/File.pm",
+        "path_type": "hardlink",
+        "sha256": "2c2963d0f37ac610620a369053eb46e7d9972dd5871d4c092648a9cd2eb65978",
+        "sha256_in_prefix": "2c2963d0f37ac610620a369053eb46e7d9972dd5871d4c092648a9cd2eb65978",
+        "size_in_bytes": 11259
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Filter.pm",
+        "path_type": "hardlink",
+        "sha256": "9f50ad5d5f9a9b8db59d12a20209eb6f0cbbb720f209cad7570fdd8bea07990e",
+        "sha256_in_prefix": "9f50ad5d5f9a9b8db59d12a20209eb6f0cbbb720f209cad7570fdd8bea07990e",
+        "size_in_bytes": 10408
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Format.pm",
+        "path_type": "hardlink",
+        "sha256": "2b2fb91488e95a771ad8ad0239171a3db14153b41ee6d204732b562700799660",
+        "sha256_in_prefix": "2b2fb91488e95a771ad8ad0239171a3db14153b41ee6d204732b562700799660",
+        "size_in_bytes": 1835
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/HTML.pm",
+        "path_type": "hardlink",
+        "sha256": "69104a3646221df554177f2a3c2011617a0109b954f3787cdef5ee25493f5914",
+        "sha256_in_prefix": "69104a3646221df554177f2a3c2011617a0109b954f3787cdef5ee25493f5914",
+        "size_in_bytes": 6024
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Image.pm",
+        "path_type": "hardlink",
+        "sha256": "2bb608e25ede0cdb1193bf2c330a6c5a39951594ba39a5a31bd9646ae7452541",
+        "sha256_in_prefix": "2bb608e25ede0cdb1193bf2c330a6c5a39951594ba39a5a31bd9646ae7452541",
+        "size_in_bytes": 11730
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Iterator.pm",
+        "path_type": "hardlink",
+        "sha256": "b5ad4956a723753bacb30e7c23ad42bc15073e942b36940f097587cfdb1dfe32",
+        "sha256_in_prefix": "b5ad4956a723753bacb30e7c23ad42bc15073e942b36940f097587cfdb1dfe32",
+        "size_in_bytes": 2003
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Math.pm",
+        "path_type": "hardlink",
+        "sha256": "790c2bd997e8b8efaf8b3cb1a8c67fdf18c1f700d2e8695df56f189e114ed9ae",
+        "sha256_in_prefix": "790c2bd997e8b8efaf8b3cb1a8c67fdf18c1f700d2e8695df56f189e114ed9ae",
+        "size_in_bytes": 4063
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Pod.pm",
+        "path_type": "hardlink",
+        "sha256": "1e9bd9c140a592020906de3e7561590fc0ab2a123edbad3d99d14063a6787c40",
+        "sha256_in_prefix": "1e9bd9c140a592020906de3e7561590fc0ab2a123edbad3d99d14063a6787c40",
+        "size_in_bytes": 1652
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Procedural.pm",
+        "path_type": "hardlink",
+        "sha256": "3a58b3e70b211e0cb0f6c47009a0792a235b578a9cebc59817a3682341f5facf",
+        "sha256_in_prefix": "3a58b3e70b211e0cb0f6c47009a0792a235b578a9cebc59817a3682341f5facf",
+        "size_in_bytes": 3678
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Scalar.pm",
+        "path_type": "hardlink",
+        "sha256": "43bc272e7bbf40e55804b0a8c57ae0c1d151ce6327d3729f323839fec5649775",
+        "sha256_in_prefix": "43bc272e7bbf40e55804b0a8c57ae0c1d151ce6327d3729f323839fec5649775",
+        "size_in_bytes": 3769
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/String.pm",
+        "path_type": "hardlink",
+        "sha256": "c184c213e71aa48c7e868ce7285f1dc0053f4715a9b2234c090abe09a317401f",
+        "sha256_in_prefix": "c184c213e71aa48c7e868ce7285f1dc0053f4715a9b2234c090abe09a317401f",
+        "size_in_bytes": 18167
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Table.pm",
+        "path_type": "hardlink",
+        "sha256": "a48273ec001ae7a0ae436b172bccf63255f3252c92e0e091cd66737a46662ccc",
+        "sha256_in_prefix": "a48273ec001ae7a0ae436b172bccf63255f3252c92e0e091cd66737a46662ccc",
+        "size_in_bytes": 12705
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/URL.pm",
+        "path_type": "hardlink",
+        "sha256": "cf318abb0e7211b995df73f2050257d860a76fae28507d6237c7ec926c2b785c",
+        "sha256_in_prefix": "cf318abb0e7211b995df73f2050257d860a76fae28507d6237c7ec926c2b785c",
+        "size_in_bytes": 5841
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/View.pm",
+        "path_type": "hardlink",
+        "sha256": "87ae668b23becb04be105ea2367b3a49a779e316885d4027e8cd0821cff2694e",
+        "sha256_in_prefix": "87ae668b23becb04be105ea2367b3a49a779e316885d4027e8cd0821cff2694e",
+        "size_in_bytes": 2476
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugin/Wrap.pm",
+        "path_type": "hardlink",
+        "sha256": "2895e217735fdbea4faa00e969a04504e2f230801f0f1ae8144f652b20efda34",
+        "sha256_in_prefix": "2895e217735fdbea4faa00e969a04504e2f230801f0f1ae8144f652b20efda34",
+        "size_in_bytes": 3271
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Plugins.pm",
+        "path_type": "hardlink",
+        "sha256": "87227c6700073dd0e4edac15a9293ff45e64033ce64d38e10d90b0e2c345833c",
+        "sha256_in_prefix": "87227c6700073dd0e4edac15a9293ff45e64033ce64d38e10d90b0e2c345833c",
+        "size_in_bytes": 15187
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Provider.pm",
+        "path_type": "hardlink",
+        "sha256": "cc51e83bd7e63dd75bd066da643adbc18f275cfb468955f3f5bf02a0cea59b39",
+        "sha256_in_prefix": "cc51e83bd7e63dd75bd066da643adbc18f275cfb468955f3f5bf02a0cea59b39",
+        "size_in_bytes": 47516
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Service.pm",
+        "path_type": "hardlink",
+        "sha256": "9967da713172bc6388b7af9ee3f69eda5c1beaa36672c575cba77cc72e74a69d",
+        "sha256_in_prefix": "9967da713172bc6388b7af9ee3f69eda5c1beaa36672c575cba77cc72e74a69d",
+        "size_in_bytes": 18567
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Stash.pm",
+        "path_type": "hardlink",
+        "sha256": "c97def2700b0c3b66ac2b037da22dba955ed24626ac360e513092c19dfef2ffc",
+        "sha256_in_prefix": "c97def2700b0c3b66ac2b037da22dba955ed24626ac360e513092c19dfef2ffc",
+        "size_in_bytes": 30224
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Stash/Context.pm",
+        "path_type": "hardlink",
+        "sha256": "46c3c860f509369c30a1d060f0da0ee197d8bf1ee54ffa7f0a70b163b980b8cd",
+        "sha256_in_prefix": "46c3c860f509369c30a1d060f0da0ee197d8bf1ee54ffa7f0a70b163b980b8cd",
+        "size_in_bytes": 27389
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Stash/XS.pm",
+        "path_type": "hardlink",
+        "sha256": "2843fd07369741024ae079cde159ca5010443ff409a32b87270a238f8a5178f3",
+        "sha256_in_prefix": "2843fd07369741024ae079cde159ca5010443ff409a32b87270a238f8a5178f3",
+        "size_in_bytes": 3351
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Test.pm",
+        "path_type": "hardlink",
+        "sha256": "186bb92fa695a38d76e6d65aff7e1b4ee91e9764f2e65ed4decb249473392951",
+        "sha256_in_prefix": "186bb92fa695a38d76e6d65aff7e1b4ee91e9764f2e65ed4decb249473392951",
+        "size_in_bytes": 22242
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Toolkit.pod",
+        "path_type": "hardlink",
+        "sha256": "be39a1acd184ba3a10aa8617c1617bdfe4171b82767401a637262ecd9a3f172a",
+        "sha256_in_prefix": "be39a1acd184ba3a10aa8617c1617bdfe4171b82767401a637262ecd9a3f172a",
+        "size_in_bytes": 5670
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tools.pod",
+        "path_type": "hardlink",
+        "sha256": "0bb391487b7388266d5a20044278d5a08e75de0edfa31ea577d8433178d9acce",
+        "sha256_in_prefix": "0bb391487b7388266d5a20044278d5a08e75de0edfa31ea577d8433178d9acce",
+        "size_in_bytes": 1527
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tools/tpage.pod",
+        "path_type": "hardlink",
+        "sha256": "3d61b58b92cc4cef3bea13964dcbba61bc7b4300aa2402f875daacf6c0099060",
+        "sha256_in_prefix": "3d61b58b92cc4cef3bea13964dcbba61bc7b4300aa2402f875daacf6c0099060",
+        "size_in_bytes": 1640
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tools/ttree.pod",
+        "path_type": "hardlink",
+        "sha256": "35b49bd8ac8297ffced8db9e57a390b8988a8901f8279177bae714b359881ef7",
+        "sha256_in_prefix": "35b49bd8ac8297ffced8db9e57a390b8988a8901f8279177bae714b359881ef7",
+        "size_in_bytes": 10567
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tutorial.pod",
+        "path_type": "hardlink",
+        "sha256": "1380982f45fa55757690dc8230a78fb9abb3aeca715a60f750c301ffd53a9ba1",
+        "sha256_in_prefix": "1380982f45fa55757690dc8230a78fb9abb3aeca715a60f750c301ffd53a9ba1",
+        "size_in_bytes": 1043
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tutorial/Datafile.pod",
+        "path_type": "hardlink",
+        "sha256": "1b324882cd95a997aed68feb8724a200d5d8f4cfd6b09cb920a4fc0a3d21121e",
+        "sha256_in_prefix": "1b324882cd95a997aed68feb8724a200d5d8f4cfd6b09cb920a4fc0a3d21121e",
+        "size_in_bytes": 14388
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/Tutorial/Web.pod",
+        "path_type": "hardlink",
+        "sha256": "6567cc7f0ebd26c0f1e10b30f7fcc417e38aca8b86d634b39e8bb32f2f8d9d74",
+        "sha256_in_prefix": "6567cc7f0ebd26c0f1e10b30f7fcc417e38aca8b86d634b39e8bb32f2f8d9d74",
+        "size_in_bytes": 26939
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/VMethods.pm",
+        "path_type": "hardlink",
+        "sha256": "f87014768e9c66f213f86defbe6f78c9a8d9cb307678bdab55ae236b2d42d88c",
+        "sha256_in_prefix": "f87014768e9c66f213f86defbe6f78c9a8d9cb307678bdab55ae236b2d42d88c",
+        "size_in_bytes": 15070
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Template/View.pm",
+        "path_type": "hardlink",
+        "sha256": "b9cf95edcdc963ededec1fa9d81fa754091301effaeffd429319831acd748a15",
+        "sha256_in_prefix": "b9cf95edcdc963ededec1fa9d81fa754091301effaeffd429319831acd748a15",
+        "size_in_bytes": 24090
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Template/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "ec4676cd5428c621aeb78a259e5ed0d048ff994a5a58b3a34f51f468d75415e1",
+        "sha256_in_prefix": "560386d7907ce884cb0e31c84d5be798ee0ba85fcbc7f5b52b7c93e9da2bb390",
+        "size_in_bytes": 18317
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Template/Stash/XS/XS.so",
+        "path_type": "hardlink",
+        "sha256": "205dcd5cd77793ca070c67c21517121cf901e0c4f7d2c1e2d2f9f6827ef84e5e",
+        "sha256_in_prefix": "205dcd5cd77793ca070c67c21517121cf901e0c4f7d2c1e2d2f9f6827ef84e5e",
+        "size_in_bytes": 33970
+      },
+      {
+        "_path": "man/man1/tpage.1",
+        "path_type": "hardlink",
+        "sha256": "33dd55873f90a8bcbd44b167faba5aecbfc44920492477d1eb34bb47c4546e7b",
+        "sha256_in_prefix": "33dd55873f90a8bcbd44b167faba5aecbfc44920492477d1eb34bb47c4546e7b",
+        "size_in_bytes": 4040
+      },
+      {
+        "_path": "man/man1/ttree.1",
+        "path_type": "hardlink",
+        "sha256": "1e64912866588cd1d6ac979a4dd968b15b5f794e053323fc8066d507241d32b4",
+        "sha256_in_prefix": "1e64912866588cd1d6ac979a4dd968b15b5f794e053323fc8066d507241d32b4",
+        "size_in_bytes": 15040
+      },
+      {
+        "_path": "man/man3/Template.3",
+        "path_type": "hardlink",
+        "sha256": "fb3cfb2bfff160614dc3411045c523765924b164db770c4fc963c7f085e20926",
+        "sha256_in_prefix": "fb3cfb2bfff160614dc3411045c523765924b164db770c4fc963c7f085e20926",
+        "size_in_bytes": 26015
+      },
+      {
+        "_path": "man/man3/Template::Base.3",
+        "path_type": "hardlink",
+        "sha256": "3174f8fd2f5fc3036f10b37ab10e68ea5191e8222c3e7ea5c9d176b074b40b96",
+        "sha256_in_prefix": "3174f8fd2f5fc3036f10b37ab10e68ea5191e8222c3e7ea5c9d176b074b40b96",
+        "size_in_bytes": 6255
+      },
+      {
+        "_path": "man/man3/Template::Config.3",
+        "path_type": "hardlink",
+        "sha256": "9396a5bbafe889183cd03a5fddcdf02d02eec9d22f0a7f1b6efdfdfc0ef28d47",
+        "sha256_in_prefix": "9396a5bbafe889183cd03a5fddcdf02d02eec9d22f0a7f1b6efdfdfc0ef28d47",
+        "size_in_bytes": 6793
+      },
+      {
+        "_path": "man/man3/Template::Constants.3",
+        "path_type": "hardlink",
+        "sha256": "4cded400be63b556de6b015c0b61e6862711d3c0b8e163b2829dcbb9b463c46d",
+        "sha256_in_prefix": "4cded400be63b556de6b015c0b61e6862711d3c0b8e163b2829dcbb9b463c46d",
+        "size_in_bytes": 5921
+      },
+      {
+        "_path": "man/man3/Template::Context.3",
+        "path_type": "hardlink",
+        "sha256": "520f7908781d7d87bda0b675a46ea37e34551180dea84c726ac06b32c5c3be93",
+        "sha256_in_prefix": "520f7908781d7d87bda0b675a46ea37e34551180dea84c726ac06b32c5c3be93",
+        "size_in_bytes": 24743
+      },
+      {
+        "_path": "man/man3/Template::Directive.3",
+        "path_type": "hardlink",
+        "sha256": "f17ad3aefc982b10cf12ff0cc1a8e0998cf5f822bdb971433bb7e6dd057915e7",
+        "sha256_in_prefix": "f17ad3aefc982b10cf12ff0cc1a8e0998cf5f822bdb971433bb7e6dd057915e7",
+        "size_in_bytes": 2927
+      },
+      {
+        "_path": "man/man3/Template::Document.3",
+        "path_type": "hardlink",
+        "sha256": "8bf1202ccfd4c685cab1c736da76c5967e7137f92827f23ea1001f0caaaabe56",
+        "sha256_in_prefix": "8bf1202ccfd4c685cab1c736da76c5967e7137f92827f23ea1001f0caaaabe56",
+        "size_in_bytes": 9935
+      },
+      {
+        "_path": "man/man3/Template::Exception.3",
+        "path_type": "hardlink",
+        "sha256": "8cd909b99827d334fb4b00990a462dc45156167bec6b8ca5a5829b9f4b34fd84",
+        "sha256_in_prefix": "8cd909b99827d334fb4b00990a462dc45156167bec6b8ca5a5829b9f4b34fd84",
+        "size_in_bytes": 4869
+      },
+      {
+        "_path": "man/man3/Template::FAQ.3",
+        "path_type": "hardlink",
+        "sha256": "d0b12f808c80000640e1ba359004981c3a30f59169bcb7b35e327b7b57000449",
+        "sha256_in_prefix": "d0b12f808c80000640e1ba359004981c3a30f59169bcb7b35e327b7b57000449",
+        "size_in_bytes": 12670
+      },
+      {
+        "_path": "man/man3/Template::Filters.3",
+        "path_type": "hardlink",
+        "sha256": "26cc5f294df6f9c88f7b30bbedbf58ed0537771e10e53cdf553d2897d111a9fa",
+        "sha256_in_prefix": "26cc5f294df6f9c88f7b30bbedbf58ed0537771e10e53cdf553d2897d111a9fa",
+        "size_in_bytes": 7923
+      },
+      {
+        "_path": "man/man3/Template::Grammar.3",
+        "path_type": "hardlink",
+        "sha256": "cd4c61e0e1d2a81f26d531552aaf0fc138b71bcd256196aeab1460c6f5fc41e4",
+        "sha256_in_prefix": "cd4c61e0e1d2a81f26d531552aaf0fc138b71bcd256196aeab1460c6f5fc41e4",
+        "size_in_bytes": 3145
+      },
+      {
+        "_path": "man/man3/Template::Iterator.3",
+        "path_type": "hardlink",
+        "sha256": "0aef65e252c1ba718ca7a4a7ac53b6917d8d8e4bf8513f11f5dc8ab7cfe1c508",
+        "sha256_in_prefix": "0aef65e252c1ba718ca7a4a7ac53b6917d8d8e4bf8513f11f5dc8ab7cfe1c508",
+        "size_in_bytes": 9519
+      },
+      {
+        "_path": "man/man3/Template::Manual.3",
+        "path_type": "hardlink",
+        "sha256": "d0623d0fc3044d8b90a7c2908434d92dc51aa7c7377b5da74fa9300c43e1bfe1",
+        "sha256_in_prefix": "d0623d0fc3044d8b90a7c2908434d92dc51aa7c7377b5da74fa9300c43e1bfe1",
+        "size_in_bytes": 4423
+      },
+      {
+        "_path": "man/man3/Template::Manual::Config.3",
+        "path_type": "hardlink",
+        "sha256": "5f4837011c567b9bca319daf38971c5b023cd61d81b4d1d5f6612dee22f474a0",
+        "sha256_in_prefix": "5f4837011c567b9bca319daf38971c5b023cd61d81b4d1d5f6612dee22f474a0",
+        "size_in_bytes": 77610
+      },
+      {
+        "_path": "man/man3/Template::Manual::Credits.3",
+        "path_type": "hardlink",
+        "sha256": "9ffa2a4bcb630671506cb6cc971284583d23798b7263a2da4c0a3a58619192be",
+        "sha256_in_prefix": "9ffa2a4bcb630671506cb6cc971284583d23798b7263a2da4c0a3a58619192be",
+        "size_in_bytes": 6346
+      },
+      {
+        "_path": "man/man3/Template::Manual::Directives.3",
+        "path_type": "hardlink",
+        "sha256": "66b15bf9593b6aed6aa52ff1d83c1252e0f3ecc31b5d442c6f6079478f060840",
+        "sha256_in_prefix": "66b15bf9593b6aed6aa52ff1d83c1252e0f3ecc31b5d442c6f6079478f060840",
+        "size_in_bytes": 75399
+      },
+      {
+        "_path": "man/man3/Template::Manual::Filters.3",
+        "path_type": "hardlink",
+        "sha256": "6abd7d420d3e8f8956112c17ef01aafa2805d54e3f1601332e720a4c25fb8343",
+        "sha256_in_prefix": "6abd7d420d3e8f8956112c17ef01aafa2805d54e3f1601332e720a4c25fb8343",
+        "size_in_bytes": 18914
+      },
+      {
+        "_path": "man/man3/Template::Manual::Internals.3",
+        "path_type": "hardlink",
+        "sha256": "15521a16c06235a9184208f526d0ad1dacc1c7ba76c5702fa36cc92bd5993981",
+        "sha256_in_prefix": "15521a16c06235a9184208f526d0ad1dacc1c7ba76c5702fa36cc92bd5993981",
+        "size_in_bytes": 21539
+      },
+      {
+        "_path": "man/man3/Template::Manual::Intro.3",
+        "path_type": "hardlink",
+        "sha256": "30beb01736b67c363d9294976aa3f017c193beb3013a8a542de3772ec414c001",
+        "sha256_in_prefix": "30beb01736b67c363d9294976aa3f017c193beb3013a8a542de3772ec414c001",
+        "size_in_bytes": 12198
+      },
+      {
+        "_path": "man/man3/Template::Manual::Plugins.3",
+        "path_type": "hardlink",
+        "sha256": "ac59db723e00579e2449cbdfd81789df7a8f020ea03370dca7959f8dbd43a75f",
+        "sha256_in_prefix": "ac59db723e00579e2449cbdfd81789df7a8f020ea03370dca7959f8dbd43a75f",
+        "size_in_bytes": 11886
+      },
+      {
+        "_path": "man/man3/Template::Manual::Syntax.3",
+        "path_type": "hardlink",
+        "sha256": "e3817d87576f6ad3ae5b53a47e62bdb7f94087747b99646e51b97991c2511f12",
+        "sha256_in_prefix": "e3817d87576f6ad3ae5b53a47e62bdb7f94087747b99646e51b97991c2511f12",
+        "size_in_bytes": 12655
+      },
+      {
+        "_path": "man/man3/Template::Manual::VMethods.3",
+        "path_type": "hardlink",
+        "sha256": "4448e2fceb8ac5bb045d5f41b781d5c12593efa0f8df4d261c1a3983155ce401",
+        "sha256_in_prefix": "4448e2fceb8ac5bb045d5f41b781d5c12593efa0f8df4d261c1a3983155ce401",
+        "size_in_bytes": 26301
+      },
+      {
+        "_path": "man/man3/Template::Manual::Variables.3",
+        "path_type": "hardlink",
+        "sha256": "eda255c980affa757dc29205d6d13237ffa9ebe7675ae178bf94d9d094cc760e",
+        "sha256_in_prefix": "eda255c980affa757dc29205d6d13237ffa9ebe7675ae178bf94d9d094cc760e",
+        "size_in_bytes": 31216
+      },
+      {
+        "_path": "man/man3/Template::Manual::Views.3",
+        "path_type": "hardlink",
+        "sha256": "13d4e79f2732eeee89960873c4920f9c21ed893dfe89d8e9c5cf88c0758d5519",
+        "sha256_in_prefix": "13d4e79f2732eeee89960873c4920f9c21ed893dfe89d8e9c5cf88c0758d5519",
+        "size_in_bytes": 24059
+      },
+      {
+        "_path": "man/man3/Template::Modules.3",
+        "path_type": "hardlink",
+        "sha256": "3ecd18c3e09dde93122a13b503eb13d9a8071c8006b59028fd4fcaac7874a247",
+        "sha256_in_prefix": "3ecd18c3e09dde93122a13b503eb13d9a8071c8006b59028fd4fcaac7874a247",
+        "size_in_bytes": 7933
+      },
+      {
+        "_path": "man/man3/Template::Namespace::Constants.3",
+        "path_type": "hardlink",
+        "sha256": "50b84d56ddfb5c0e00f5e8964912780a238e2b1d0397d698735d3098c1047a9b",
+        "sha256_in_prefix": "50b84d56ddfb5c0e00f5e8964912780a238e2b1d0397d698735d3098c1047a9b",
+        "size_in_bytes": 4108
+      },
+      {
+        "_path": "man/man3/Template::Parser.3",
+        "path_type": "hardlink",
+        "sha256": "f2eda76fb155152d38edded6bf987c6e7f320df4f669623da6a830f83909b69a",
+        "sha256_in_prefix": "f2eda76fb155152d38edded6bf987c6e7f320df4f669623da6a830f83909b69a",
+        "size_in_bytes": 8023
+      },
+      {
+        "_path": "man/man3/Template::Plugin.3",
+        "path_type": "hardlink",
+        "sha256": "94bef9e1afc7ac39ed489957e51293373081a9ac034571f10ef96ff9a95c121f",
+        "sha256_in_prefix": "94bef9e1afc7ac39ed489957e51293373081a9ac034571f10ef96ff9a95c121f",
+        "size_in_bytes": 9043
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Assert.3",
+        "path_type": "hardlink",
+        "sha256": "05f703b070639e0cecc36c68fe7dd4d5273e283762cf2a14342a068b8d19095e",
+        "sha256_in_prefix": "05f703b070639e0cecc36c68fe7dd4d5273e283762cf2a14342a068b8d19095e",
+        "size_in_bytes": 3552
+      },
+      {
+        "_path": "man/man3/Template::Plugin::CGI.3",
+        "path_type": "hardlink",
+        "sha256": "36f728cb658d530216487e4b23c3a3ef244ae35cb40ba76dc948245e40609992",
+        "sha256_in_prefix": "36f728cb658d530216487e4b23c3a3ef244ae35cb40ba76dc948245e40609992",
+        "size_in_bytes": 4294
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Datafile.3",
+        "path_type": "hardlink",
+        "sha256": "0ba0b631ad609950f825da5eb7af38f7a02542bcdd5f9d0317181bf019875c30",
+        "sha256_in_prefix": "0ba0b631ad609950f825da5eb7af38f7a02542bcdd5f9d0317181bf019875c30",
+        "size_in_bytes": 4707
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Date.3",
+        "path_type": "hardlink",
+        "sha256": "2c505459be31369900a0f9829fe05b0115bbe6d90c30009b3cc3712938496ece",
+        "sha256_in_prefix": "2c505459be31369900a0f9829fe05b0115bbe6d90c30009b3cc3712938496ece",
+        "size_in_bytes": 7644
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Directory.3",
+        "path_type": "hardlink",
+        "sha256": "bb86a3d9fc860eb00d89e40ff56085a013ec7567ee95819dbc52d3ee6ca8c254",
+        "sha256_in_prefix": "bb86a3d9fc860eb00d89e40ff56085a013ec7567ee95819dbc52d3ee6ca8c254",
+        "size_in_bytes": 10085
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Dumper.3",
+        "path_type": "hardlink",
+        "sha256": "54a7acc316d64c07ff2060c1c1b8c928a80ad257093740c2cd2dfdeb2b889624",
+        "sha256_in_prefix": "54a7acc316d64c07ff2060c1c1b8c928a80ad257093740c2cd2dfdeb2b889624",
+        "size_in_bytes": 4184
+      },
+      {
+        "_path": "man/man3/Template::Plugin::File.3",
+        "path_type": "hardlink",
+        "sha256": "e4956874f49576d93c989cd42c5a57ab11abdd7a94f8b6c4b84680cbc3f93352",
+        "sha256_in_prefix": "e4956874f49576d93c989cd42c5a57ab11abdd7a94f8b6c4b84680cbc3f93352",
+        "size_in_bytes": 11115
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Filter.3",
+        "path_type": "hardlink",
+        "sha256": "9c12d1ecfeae594870b6e6d9fc336b107b18cad81fac6b9674f90b1902efc23a",
+        "sha256_in_prefix": "9c12d1ecfeae594870b6e6d9fc336b107b18cad81fac6b9674f90b1902efc23a",
+        "size_in_bytes": 11042
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Format.3",
+        "path_type": "hardlink",
+        "sha256": "b66ffd4280941d81a13521f8c9477f4a4eaae9e006cdd84f4b02f45f30102467",
+        "sha256_in_prefix": "b66ffd4280941d81a13521f8c9477f4a4eaae9e006cdd84f4b02f45f30102467",
+        "size_in_bytes": 3001
+      },
+      {
+        "_path": "man/man3/Template::Plugin::HTML.3",
+        "path_type": "hardlink",
+        "sha256": "3c2d9b28ee66222988f5be3e89f3a0ea7f9ce1ac168e4451ce55045aa61d0e13",
+        "sha256_in_prefix": "3c2d9b28ee66222988f5be3e89f3a0ea7f9ce1ac168e4451ce55045aa61d0e13",
+        "size_in_bytes": 5927
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Image.3",
+        "path_type": "hardlink",
+        "sha256": "9151ec1eb9116fcdf88036f462696c5dcc7062f22be230447712ff3b195fdc32",
+        "sha256_in_prefix": "9151ec1eb9116fcdf88036f462696c5dcc7062f22be230447712ff3b195fdc32",
+        "size_in_bytes": 10056
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Iterator.3",
+        "path_type": "hardlink",
+        "sha256": "e04c3d21b90f7642edf283ee7a48bacc048a7e8782a43a447ed0d7e66d09f447",
+        "sha256_in_prefix": "e04c3d21b90f7642edf283ee7a48bacc048a7e8782a43a447ed0d7e66d09f447",
+        "size_in_bytes": 3167
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Math.3",
+        "path_type": "hardlink",
+        "sha256": "ee8194eade70be1ce3ce57c767060327b70a18f8c729df75139a82565ae70696",
+        "sha256_in_prefix": "ee8194eade70be1ce3ce57c767060327b70a18f8c729df75139a82565ae70696",
+        "size_in_bytes": 4729
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Pod.3",
+        "path_type": "hardlink",
+        "sha256": "6b7d1323a1fbf1b8c02a840cd579605bcc3f027a0e526562bd900f879bcac0ee",
+        "sha256_in_prefix": "6b7d1323a1fbf1b8c02a840cd579605bcc3f027a0e526562bd900f879bcac0ee",
+        "size_in_bytes": 2890
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Procedural.3",
+        "path_type": "hardlink",
+        "sha256": "65dda976b005ede25605c2521c484dbceb534b02a478867808419c9e35572066",
+        "sha256_in_prefix": "65dda976b005ede25605c2521c484dbceb534b02a478867808419c9e35572066",
+        "size_in_bytes": 3737
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Scalar.3",
+        "path_type": "hardlink",
+        "sha256": "800e6a08b0e3e3689cbf36eda001e5fd352b380d8087056ac89afd3d350d794c",
+        "sha256_in_prefix": "800e6a08b0e3e3689cbf36eda001e5fd352b380d8087056ac89afd3d350d794c",
+        "size_in_bytes": 3138
+      },
+      {
+        "_path": "man/man3/Template::Plugin::String.3",
+        "path_type": "hardlink",
+        "sha256": "e497a5e2c943962c1c72fea82e35bfaf0b46af0fdf42c6ca608b8e761fde6e31",
+        "sha256_in_prefix": "e497a5e2c943962c1c72fea82e35bfaf0b46af0fdf42c6ca608b8e761fde6e31",
+        "size_in_bytes": 15369
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Table.3",
+        "path_type": "hardlink",
+        "sha256": "6413b9a5b49a7ed1fc74437d562ca436d627652e3d8b49e03cb5632be71b5528",
+        "sha256_in_prefix": "6413b9a5b49a7ed1fc74437d562ca436d627652e3d8b49e03cb5632be71b5528",
+        "size_in_bytes": 9251
+      },
+      {
+        "_path": "man/man3/Template::Plugin::URL.3",
+        "path_type": "hardlink",
+        "sha256": "f5ef3265772fed0845e0819c5f41ab8cdcc5e0c8770318b223e49a812e1c7b28",
+        "sha256_in_prefix": "f5ef3265772fed0845e0819c5f41ab8cdcc5e0c8770318b223e49a812e1c7b28",
+        "size_in_bytes": 6186
+      },
+      {
+        "_path": "man/man3/Template::Plugin::View.3",
+        "path_type": "hardlink",
+        "sha256": "8c524bd423c9830309a2afe8622c69c50c6efce087c0c3eed992a887e063ae53",
+        "sha256_in_prefix": "8c524bd423c9830309a2afe8622c69c50c6efce087c0c3eed992a887e063ae53",
+        "size_in_bytes": 3585
+      },
+      {
+        "_path": "man/man3/Template::Plugin::Wrap.3",
+        "path_type": "hardlink",
+        "sha256": "4f7edf64dde602c0acd7d041d6f5680daccdccab3161e652ebc10674f1f19082",
+        "sha256_in_prefix": "4f7edf64dde602c0acd7d041d6f5680daccdccab3161e652ebc10674f1f19082",
+        "size_in_bytes": 4539
+      },
+      {
+        "_path": "man/man3/Template::Plugins.3",
+        "path_type": "hardlink",
+        "sha256": "b8faff7f4d66911444b101b909e86129975f2d8955290729c6ccab15d3973b59",
+        "sha256_in_prefix": "b8faff7f4d66911444b101b909e86129975f2d8955290729c6ccab15d3973b59",
+        "size_in_bytes": 7839
+      },
+      {
+        "_path": "man/man3/Template::Provider.3",
+        "path_type": "hardlink",
+        "sha256": "0bcf12a31ad10e59ead0e940f1eb1957e9ef682dab07036b5954b41345157d7a",
+        "sha256_in_prefix": "0bcf12a31ad10e59ead0e940f1eb1957e9ef682dab07036b5954b41345157d7a",
+        "size_in_bytes": 12784
+      },
+      {
+        "_path": "man/man3/Template::Service.3",
+        "path_type": "hardlink",
+        "sha256": "50dc388bed9127a1ba2eedff281c46543d71a7f346bed0553f9ea2b4b1fe5ec1",
+        "sha256_in_prefix": "50dc388bed9127a1ba2eedff281c46543d71a7f346bed0553f9ea2b4b1fe5ec1",
+        "size_in_bytes": 12919
+      },
+      {
+        "_path": "man/man3/Template::Stash.3",
+        "path_type": "hardlink",
+        "sha256": "235af240cfe7b8fde6297a84dd42e136bdd5e047db682471c1df2dd0a80c3fec",
+        "sha256_in_prefix": "235af240cfe7b8fde6297a84dd42e136bdd5e047db682471c1df2dd0a80c3fec",
+        "size_in_bytes": 10089
+      },
+      {
+        "_path": "man/man3/Template::Stash::Context.3",
+        "path_type": "hardlink",
+        "sha256": "74f073d1d665f82382ac80712e6bc945c5a669a56d46f4b97f74ecd65dac9675",
+        "sha256_in_prefix": "74f073d1d665f82382ac80712e6bc945c5a669a56d46f4b97f74ecd65dac9675",
+        "size_in_bytes": 5236
+      },
+      {
+        "_path": "man/man3/Template::Stash::XS.3",
+        "path_type": "hardlink",
+        "sha256": "81d546c05d08d56925da029d0583c94f4768632c8ad4870faed9ca775d457127",
+        "sha256_in_prefix": "81d546c05d08d56925da029d0583c94f4768632c8ad4870faed9ca775d457127",
+        "size_in_bytes": 4750
+      },
+      {
+        "_path": "man/man3/Template::Test.3",
+        "path_type": "hardlink",
+        "sha256": "87cf84845bb8d7116fd4e96fc780ee6aabdb327bed00ae5d980480134899da5b",
+        "sha256_in_prefix": "87cf84845bb8d7116fd4e96fc780ee6aabdb327bed00ae5d980480134899da5b",
+        "size_in_bytes": 13630
+      },
+      {
+        "_path": "man/man3/Template::Toolkit.3",
+        "path_type": "hardlink",
+        "sha256": "ffe673ac810690cb523b7614bc8619f39351b3cde2f26e82d455769922066e7a",
+        "sha256_in_prefix": "ffe673ac810690cb523b7614bc8619f39351b3cde2f26e82d455769922066e7a",
+        "size_in_bytes": 7333
+      },
+      {
+        "_path": "man/man3/Template::Tools.3",
+        "path_type": "hardlink",
+        "sha256": "300b343f0680b2d1e6d8f52efe997fc326c39af774a89827197bcf71f40e5235",
+        "sha256_in_prefix": "300b343f0680b2d1e6d8f52efe997fc326c39af774a89827197bcf71f40e5235",
+        "size_in_bytes": 3107
+      },
+      {
+        "_path": "man/man3/Template::Tools::tpage.3",
+        "path_type": "hardlink",
+        "sha256": "a187501548fc01a7ae83039293b001a83844aa331e883651f650eb77ef0900c0",
+        "sha256_in_prefix": "a187501548fc01a7ae83039293b001a83844aa331e883651f650eb77ef0900c0",
+        "size_in_bytes": 3912
+      },
+      {
+        "_path": "man/man3/Template::Tools::ttree.3",
+        "path_type": "hardlink",
+        "sha256": "4c8443ae2764f2ec931a24d61c3de4e5cb0107c2ab92939cff248fc8118dddaf",
+        "sha256_in_prefix": "4c8443ae2764f2ec931a24d61c3de4e5cb0107c2ab92939cff248fc8118dddaf",
+        "size_in_bytes": 14673
+      },
+      {
+        "_path": "man/man3/Template::Tutorial.3",
+        "path_type": "hardlink",
+        "sha256": "193a4bef622bf78f083940232c6f4c1f2ba05c5de82f012b7493c2ff4994e9ce",
+        "sha256_in_prefix": "193a4bef622bf78f083940232c6f4c1f2ba05c5de82f012b7493c2ff4994e9ce",
+        "size_in_bytes": 2672
+      },
+      {
+        "_path": "man/man3/Template::Tutorial::Datafile.3",
+        "path_type": "hardlink",
+        "sha256": "5ab74ff6853b8d79c5d34fce9240d37c397feaad68d2af96f59185ffa1fe21e2",
+        "sha256_in_prefix": "5ab74ff6853b8d79c5d34fce9240d37c397feaad68d2af96f59185ffa1fe21e2",
+        "size_in_bytes": 17645
+      },
+      {
+        "_path": "man/man3/Template::Tutorial::Web.3",
+        "path_type": "hardlink",
+        "sha256": "7996d21cd9bcde1d4476af890b3cc1881593b3f4ffd2a8992867a49b4fe5c886",
+        "sha256_in_prefix": "7996d21cd9bcde1d4476af890b3cc1881593b3f4ffd2a8992867a49b4fe5c886",
+        "size_in_bytes": 32224
+      },
+      {
+        "_path": "man/man3/Template::VMethods.3",
+        "path_type": "hardlink",
+        "sha256": "cd901ee6883629dcb9115faf83d3e3221e64440cfd9e517fce0526a20a02009a",
+        "sha256_in_prefix": "cd901ee6883629dcb9115faf83d3e3221e64440cfd9e517fce0526a20a02009a",
+        "size_in_bytes": 2794
+      },
+      {
+        "_path": "man/man3/Template::View.3",
+        "path_type": "hardlink",
+        "sha256": "a5bf6e6bb365489ea2f3d48df0799aea96d3eb2f54c791fc42d64505dccffa6f",
+        "sha256_in_prefix": "a5bf6e6bb365489ea2f3d48df0799aea96d3eb2f54c791fc42d64505dccffa6f",
+        "size_in_bytes": 10724
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 326226,
+  "subdir": "linux-64",
+  "timestamp": 1531089407816,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-template-toolkit-2.26-pl526_1.tar.bz2",
+  "version": "2.26"
+}

@@ -1,0 +1,14 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/AFM.pm relocate_as=../../../../Font/AFM.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/Courier.pm relocate_as=../../../../Font/Metrics/Courier.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/CourierBold.pm relocate_as=../../../../Font/Metrics/CourierBold.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/CourierBoldOblique.pm relocate_as=../../../../Font/Metrics/CourierBoldOblique.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/CourierOblique.pm relocate_as=../../../../Font/Metrics/CourierOblique.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/Helvetica.pm relocate_as=../../../../Font/Metrics/Helvetica.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/HelveticaBold.pm relocate_as=../../../../Font/Metrics/HelveticaBold.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/HelveticaBoldOblique.pm relocate_as=../../../../Font/Metrics/HelveticaBoldOblique.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/HelveticaOblique.pm relocate_as=../../../../Font/Metrics/HelveticaOblique.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/TimesBold.pm relocate_as=../../../../Font/Metrics/TimesBold.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/TimesBoldItalic.pm relocate_as=../../../../Font/Metrics/TimesBoldItalic.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/TimesItalic.pm relocate_as=../../../../Font/Metrics/TimesItalic.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Font/Metrics/TimesRoman.pm relocate_as=../../../../Font/Metrics/TimesRoman.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Font::AFM.3 relocate_as=../../../../../../../man/man3/Font::AFM.3

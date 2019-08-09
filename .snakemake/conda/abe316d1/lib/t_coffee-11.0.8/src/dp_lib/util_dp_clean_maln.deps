@@ -1,0 +1,56 @@
+dp_lib/util_dp_clean_maln.o: dp_lib/util_dp_clean_maln.c \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/xlocale.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/math.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/bits/mathinline.h /usr/include/string.h io_lib_header.h \
+ io_lib/io_structures.h define_header.h coffee_defines.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/float.h \
+ programmes_define.h io_lib/io_func.h /usr/include/ctype.h \
+ io_lib/pb_util_read_sequence.h io_lib/tree_util.h \
+ io_lib/pb_util_read_sequence2.h util_lib_header.h util_lib/util.h \
+ /usr/include/signal.h /usr/include/bits/signum.h \
+ /usr/include/bits/siginfo.h /usr/include/bits/sigaction.h \
+ /usr/include/bits/sigcontext.h /usr/include/bits/sigstack.h \
+ /usr/include/sys/ucontext.h /usr/include/bits/sigthread.h \
+ /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/sys/times.h /usr/include/sys/wait.h \
+ /usr/include/sys/resource.h /usr/include/bits/resource.h \
+ /usr/include/sys/stat.h /usr/include/bits/stat.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h util_lib/random.h \
+ util_lib/util_job_handling.h util_lib/util_dps.h \
+ util_lib/util_constraints_list.h util_lib/aln_convertion_util.h \
+ util_lib/util_aln_analyze.h util_lib/util_domain_constraints_list.h \
+ util_lib/util_analyse_constraints_list.h util_lib/util_make_tree.h \
+ util_lib/util_declare.h util_lib/hsearch.h util_lib/reformat_struc.h \
+ util_lib/aln_compare.h util_lib/reformat.h dp_lib_header.h \
+ dp_lib/util_graph_maln.h dp_lib/util_dp_gotoh_sw.h \
+ dp_lib/util_dp_generic_fasta_nw.h dp_lib/util_dp_fasta_nw.h \
+ dp_lib/util_dp_fasta_sw.h dp_lib/util_dp_gotoh_nw.h \
+ dp_lib/util_dp_suboptimal_nw.h dp_lib/util_dp_cdna_fasta_nw.h \
+ dp_lib/util_dp_clean_maln.h dp_lib/util_dp_ssec_pwaln.h \
+ dp_lib/util_dp_sim.h dp_lib/util_dp_mm_nw.h dp_lib/util_dp_est.h \
+ dp_lib/util_domain_dp_drivers.h dp_lib/util_dp_drivers.h \
+ dp_lib/util_domain_dp.h dp_lib/CUSTOM_evaluate_for_struc.h \
+ dp_lib/evaluate_for_struc.h dp_lib/evaluate_for_domain.h \
+ dp_lib/evaluate_dirichlet.h dp_lib/evaluate.h dp_lib/showpair.h \
+ dp_lib/fsa_dp.h dp_lib/pavie_dp.h

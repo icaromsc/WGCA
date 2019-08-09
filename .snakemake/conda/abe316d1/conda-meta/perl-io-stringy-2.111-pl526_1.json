@@ -1,0 +1,182 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-io-stringy-2.111-pl526_1",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/IO/AtomicFile.pm",
+    "lib/site_perl/5.26.2/IO/InnerFile.pm",
+    "lib/site_perl/5.26.2/IO/Lines.pm",
+    "lib/site_perl/5.26.2/IO/Scalar.pm",
+    "lib/site_perl/5.26.2/IO/ScalarArray.pm",
+    "lib/site_perl/5.26.2/IO/Stringy.pm",
+    "lib/site_perl/5.26.2/IO/Wrap.pm",
+    "lib/site_perl/5.26.2/IO/WrapTie.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/Stringy/.packlist",
+    "man/man3/IO::AtomicFile.3",
+    "man/man3/IO::InnerFile.3",
+    "man/man3/IO::Lines.3",
+    "man/man3/IO::Scalar.3",
+    "man/man3/IO::ScalarArray.3",
+    "man/man3/IO::Stringy.3",
+    "man/man3/IO::Wrap.3",
+    "man/man3/IO::WrapTie.3"
+  ],
+  "fn": "perl-io-stringy-2.111-pl526_1.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-io-stringy-2.111-pl526_1",
+    "type": 1
+  },
+  "md5": "33ef4f37303997cd575f99337d50bf29",
+  "name": "perl-io-stringy",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-io-stringy-2.111-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f1db129c74b1c64d3fc60103644d89fa5ba8db0853b509bb762ef1d7584c0121",
+        "sha256_in_prefix": "9819b679fcdc78980a2860437c356aebbb1cfeac2543eddddb339f5b90ff481d",
+        "size_in_bytes": 254
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/AtomicFile.pm",
+        "path_type": "hardlink",
+        "sha256": "262145bc2369c1857549a40efcb3d32b3bf047a6f0a149f45115fa7d826b1fea",
+        "sha256_in_prefix": "262145bc2369c1857549a40efcb3d32b3bf047a6f0a149f45115fa7d826b1fea",
+        "size_in_bytes": 4908
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/InnerFile.pm",
+        "path_type": "hardlink",
+        "sha256": "797763b8baed7e3c497aa55ee05e791eac5d0f3c8901ab5ca1490f161da844ee",
+        "sha256_in_prefix": "797763b8baed7e3c497aa55ee05e791eac5d0f3c8901ab5ca1490f161da844ee",
+        "size_in_bytes": 5942
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/Lines.pm",
+        "path_type": "hardlink",
+        "sha256": "3c1c6b830565e7d6f67378e1d0f271243c28738cdbec230e2b6a0d0de5c220cd",
+        "sha256_in_prefix": "3c1c6b830565e7d6f67378e1d0f271243c28738cdbec230e2b6a0d0de5c220cd",
+        "size_in_bytes": 4314
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/Scalar.pm",
+        "path_type": "hardlink",
+        "sha256": "e88162a563f1436f83148c4b9d9c701a853e01a373821bcfbed5a91bf81d1bc6",
+        "sha256_in_prefix": "e88162a563f1436f83148c4b9d9c701a853e01a373821bcfbed5a91bf81d1bc6",
+        "size_in_bytes": 16863
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/ScalarArray.pm",
+        "path_type": "hardlink",
+        "sha256": "38aadaf4d0879ae2532dc91556dab59a43ce77e8a736645fb716ad198e05b4b5",
+        "sha256_in_prefix": "38aadaf4d0879ae2532dc91556dab59a43ce77e8a736645fb716ad198e05b4b5",
+        "size_in_bytes": 17713
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/Stringy.pm",
+        "path_type": "hardlink",
+        "sha256": "bb9c45fd01cf750afaaecbbce2723550db1c0171be3c50365a6dbdd944b6a0ff",
+        "sha256_in_prefix": "bb9c45fd01cf750afaaecbbce2723550db1c0171be3c50365a6dbdd944b6a0ff",
+        "size_in_bytes": 12103
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/Wrap.pm",
+        "path_type": "hardlink",
+        "sha256": "c354b9b50566e633e24589bb2f464b61ca94ff46e3cbe44913c13163fddccb3a",
+        "sha256_in_prefix": "c354b9b50566e633e24589bb2f464b61ca94ff46e3cbe44913c13163fddccb3a",
+        "size_in_bytes": 5092
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/WrapTie.pm",
+        "path_type": "hardlink",
+        "sha256": "57cec9a46e8b11b6ec584437d5ee039f1de7ba37dff335229b50fd94098a7451",
+        "sha256_in_prefix": "57cec9a46e8b11b6ec584437d5ee039f1de7ba37dff335229b50fd94098a7451",
+        "size_in_bytes": 14755
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/Stringy/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "4b12998141dfa79abcadff105d619d6a42b53ed011027eadec7e9d0c9ba29c53",
+        "sha256_in_prefix": "9e5687134a31847e836c1948f48d4ad847711ca98d80ddd2168689b06091631d",
+        "size_in_bytes": 1756
+      },
+      {
+        "_path": "man/man3/IO::AtomicFile.3",
+        "path_type": "hardlink",
+        "sha256": "9b20affe270475ace87fe5170b51b3e27effb7c16fe5dce7c5c179bb808e1446",
+        "sha256_in_prefix": "9b20affe270475ace87fe5170b51b3e27effb7c16fe5dce7c5c179bb808e1446",
+        "size_in_bytes": 4348
+      },
+      {
+        "_path": "man/man3/IO::InnerFile.3",
+        "path_type": "hardlink",
+        "sha256": "4f861128856794bdac30a991fb378f40496409bfff5a068ae8239d7d434ae5fe",
+        "sha256_in_prefix": "4f861128856794bdac30a991fb378f40496409bfff5a068ae8239d7d434ae5fe",
+        "size_in_bytes": 4465
+      },
+      {
+        "_path": "man/man3/IO::Lines.3",
+        "path_type": "hardlink",
+        "sha256": "641790065a32507b598ba722ac699fec2b807f197bc6ab68ecc277618576b1e8",
+        "sha256_in_prefix": "641790065a32507b598ba722ac699fec2b807f197bc6ab68ecc277618576b1e8",
+        "size_in_bytes": 3865
+      },
+      {
+        "_path": "man/man3/IO::Scalar.3",
+        "path_type": "hardlink",
+        "sha256": "d87425d49961917ecb2b1423e0dd902f5d08e98f68aab6f04b3d3bfd8c0fe15e",
+        "sha256_in_prefix": "d87425d49961917ecb2b1423e0dd902f5d08e98f68aab6f04b3d3bfd8c0fe15e",
+        "size_in_bytes": 12788
+      },
+      {
+        "_path": "man/man3/IO::ScalarArray.3",
+        "path_type": "hardlink",
+        "sha256": "8a57ed88c3413ab2d2e8064f656efd76fb1e18a0a31c0c40c42bbdacc320c55c",
+        "sha256_in_prefix": "8a57ed88c3413ab2d2e8064f656efd76fb1e18a0a31c0c40c42bbdacc320c55c",
+        "size_in_bytes": 11799
+      },
+      {
+        "_path": "man/man3/IO::Stringy.3",
+        "path_type": "hardlink",
+        "sha256": "b4aa6f545fb7f6acf976060b0d27ec534f6bac890a65c1b5a5fe7692ad16f18f",
+        "sha256_in_prefix": "b4aa6f545fb7f6acf976060b0d27ec534f6bac890a65c1b5a5fe7692ad16f18f",
+        "size_in_bytes": 16901
+      },
+      {
+        "_path": "man/man3/IO::Wrap.3",
+        "path_type": "hardlink",
+        "sha256": "aa9f82c3dea863a5c971bf19d2ab7623be9e0d1816f475c18730e768e60a6414",
+        "sha256_in_prefix": "aa9f82c3dea863a5c971bf19d2ab7623be9e0d1816f475c18730e768e60a6414",
+        "size_in_bytes": 6246
+      },
+      {
+        "_path": "man/man3/IO::WrapTie.3",
+        "path_type": "hardlink",
+        "sha256": "1ae14a83ad171415e10d1bf942106fec65e0c8dc14b2b723274aa145d259ea7a",
+        "sha256_in_prefix": "1ae14a83ad171415e10d1bf942106fec65e0c8dc14b2b723274aa145d259ea7a",
+        "size_in_bytes": 14524
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 36088,
+  "subdir": "linux-64",
+  "timestamp": 1530921795624,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-io-stringy-2.111-pl526_1.tar.bz2",
+  "version": "2.111"
+}

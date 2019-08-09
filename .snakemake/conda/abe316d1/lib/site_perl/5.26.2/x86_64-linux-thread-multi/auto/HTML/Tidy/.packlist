@@ -1,0 +1,6 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/bin/webtidy relocate_as=../../../../../../../bin/webtidy
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Tidy.pm relocate_as=../../../HTML/Tidy.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Tidy/Message.pm relocate_as=../../../HTML/Tidy/Message.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Tidy/Tidy.so relocate_as=Tidy.so
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/HTML::Tidy.3 relocate_as=../../../../../../../man/man3/HTML::Tidy.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/HTML::Tidy::Message.3 relocate_as=../../../../../../../man/man3/HTML::Tidy::Message.3

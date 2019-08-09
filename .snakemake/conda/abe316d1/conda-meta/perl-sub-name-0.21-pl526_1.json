@@ -1,0 +1,68 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-sub-name-0.21-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Sub/Name.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Name/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Name/Name.so",
+    "man/man3/Sub::Name.3"
+  ],
+  "fn": "perl-sub-name-0.21-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-sub-name-0.21-pl526_1",
+    "type": 1
+  },
+  "md5": "21286d90bd5855726fdbf1c92c35ca8b",
+  "name": "perl-sub-name",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-sub-name-0.21-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Sub/Name.pm",
+        "path_type": "hardlink",
+        "sha256": "bcea4cc753adbac0bfb348690618c0ce795a5b66dc59126ee1dcfaeaf91aaeb8",
+        "sha256_in_prefix": "bcea4cc753adbac0bfb348690618c0ce795a5b66dc59126ee1dcfaeaf91aaeb8",
+        "size_in_bytes": 4260
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Name/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "13647c0029cef98a8e4b7f9e933867dda0b37fc0d5b755787c2fc30912aec1b2",
+        "sha256_in_prefix": "cb0a0800207f61608b13d951b4d96480d760101214ee27dd9ac61ce5c33ae14f",
+        "size_in_bytes": 355
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Name/Name.so",
+        "path_type": "hardlink",
+        "sha256": "8e19d19c83945c28ce771856608d4fcb4fcac9e1803a2d0db1c8c0f1985d4d81",
+        "sha256_in_prefix": "8e19d19c83945c28ce771856608d4fcb4fcac9e1803a2d0db1c8c0f1985d4d81",
+        "size_in_bytes": 13997
+      },
+      {
+        "_path": "man/man3/Sub::Name.3",
+        "path_type": "hardlink",
+        "sha256": "58a8118182f91e5659c92d27e948e8baf516a787427721df0a0c15379f311490",
+        "sha256_in_prefix": "58a8118182f91e5659c92d27e948e8baf516a787427721df0a0c15379f311490",
+        "size_in_bytes": 4588
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 13191,
+  "subdir": "linux-64",
+  "timestamp": 1531065548579,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-sub-name-0.21-pl526_1.tar.bz2",
+  "version": "0.21"
+}

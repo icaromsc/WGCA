@@ -1,0 +1,4 @@
+Building DAG of jobs...
+WorkflowError:
+Report file does not end with .html
+  File "/home/bioinfo/miniconda3/envs/snakemake_tutorial/lib/python3.6/site-packages/snakemake/report/__init__.py", line 290, in auto_report

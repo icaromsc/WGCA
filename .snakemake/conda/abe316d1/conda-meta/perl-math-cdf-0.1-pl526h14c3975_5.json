@@ -1,0 +1,87 @@
+{
+  "build": "pl526h14c3975_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-math-cdf-0.1-pl526h14c3975_5",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/CDF.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/CDF.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/autosplit.ix",
+    "man/man3/Math::CDF.3"
+  ],
+  "fn": "perl-math-cdf-0.1-pl526h14c3975_5.tar.bz2",
+  "license": "Public Domain",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-math-cdf-0.1-pl526h14c3975_5",
+    "type": 1
+  },
+  "md5": "0f96fd4f8528a673b2b7acf152745f39",
+  "name": "perl-math-cdf",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-math-cdf-0.1-pl526h14c3975_5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "d002891cdac280c426c51c443df2079a917f8369934932c0824da91a78a881f4",
+        "sha256_in_prefix": "5d1183ed56250da1208132d7613853caaaf22edb61a5566b7ee8ed556f50cc8b",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/CDF.pm",
+        "path_type": "hardlink",
+        "sha256": "334afd5c623f8fc86ff1106e88f044d52e69ebec82df89f02dfb4688764577bf",
+        "sha256_in_prefix": "334afd5c623f8fc86ff1106e88f044d52e69ebec82df89f02dfb4688764577bf",
+        "size_in_bytes": 8273
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "cc830b10ca08b877968fe2ca2feacdc8b7d7a9ebfbc25a141cb3cc932d8924fe",
+        "sha256_in_prefix": "2002d4dd78827c15e5108901d5d611fcd626bdd60a3538bcc07929a9b8a9ad5f",
+        "size_in_bytes": 485
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/CDF.so",
+        "path_type": "hardlink",
+        "sha256": "f6caa7169b2453e223f6a9edca0a843c8f751c0bec4fd65f9fcd2733e5e309ac",
+        "sha256_in_prefix": "f6caa7169b2453e223f6a9edca0a843c8f751c0bec4fd65f9fcd2733e5e309ac",
+        "size_in_bytes": 151728
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/autosplit.ix",
+        "path_type": "hardlink",
+        "sha256": "6a2957d2a5eb07a4ef105dce74cd819b07972209aa644f40ffbe25351a00b915",
+        "sha256_in_prefix": "6a2957d2a5eb07a4ef105dce74cd819b07972209aa644f40ffbe25351a00b915",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "man/man3/Math::CDF.3",
+        "path_type": "hardlink",
+        "sha256": "2b7c8db072ecc423600fc509b693d85edda2124ba1e2a6b1c1ce2bd30bdea351",
+        "sha256_in_prefix": "2b7c8db072ecc423600fc509b693d85edda2124ba1e2a6b1c1ce2bd30bdea351",
+        "size_in_bytes": 10974
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 70545,
+  "subdir": "linux-64",
+  "timestamp": 1555970615400,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-math-cdf-0.1-pl526h14c3975_5.tar.bz2",
+  "version": "0.1"
+}

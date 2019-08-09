@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Bio/Tools/Run/Alignment/TCoffee.pm relocate_as=../../../../../../../Bio/Tools/Run/Alignment/TCoffee.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Bio::Tools::Run::Alignment::TCoffee.3 relocate_as=../../../../../../../../../../man/man3/Bio::Tools::Run::Alignment::TCoffee.3

@@ -1,0 +1,3 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Digest/MD5.pm relocate_as=../../../Digest/MD5.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Digest/MD5/MD5.so relocate_as=MD5.so
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Digest::MD5.3 relocate_as=../../../../../../../man/man3/Digest::MD5.3

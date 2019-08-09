@@ -1,0 +1,61 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-file-slurp-tiny"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-tree-dag_node-1.31-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Tree/DAG_Node.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Tree/DAG_Node/.packlist",
+    "man/man3/Tree::DAG_Node.3"
+  ],
+  "fn": "perl-tree-dag_node-1.31-pl526_0.tar.bz2",
+  "license": "artistic_2",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-tree-dag_node-1.31-pl526_0",
+    "type": 1
+  },
+  "md5": "de7717434961887f9c2cc16e7bd4e113",
+  "name": "perl-tree-dag_node",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-tree-dag_node-1.31-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Tree/DAG_Node.pm",
+        "path_type": "hardlink",
+        "sha256": "ec674d3e7abbd1b6a24bbb0d63d70da6ea5a13d8498f4375d59b7a2d8ab46c70",
+        "sha256_in_prefix": "ec674d3e7abbd1b6a24bbb0d63d70da6ea5a13d8498f4375d59b7a2d8ab46c70",
+        "size_in_bytes": 98093
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Tree/DAG_Node/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "0b8741dc626888b84c41dcf7cfebf7a335da92564045226b0a0f22a554665ae2",
+        "sha256_in_prefix": "453626fd96032180e58386b28de0840c54e8317265b45a7fdd3b42da5da544fc",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "man/man3/Tree::DAG_Node.3",
+        "path_type": "hardlink",
+        "sha256": "1eb052d346dc353ba51180d3e2394eb2a6e72d882a8814478f533ed3fa7fd345",
+        "sha256_in_prefix": "1eb052d346dc353ba51180d3e2394eb2a6e72d882a8814478f533ed3fa7fd345",
+        "size_in_bytes": 70549
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 41333,
+  "subdir": "linux-64",
+  "timestamp": 1541915096413,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-tree-dag_node-1.31-pl526_0.tar.bz2",
+  "version": "1.31"
+}

@@ -1,0 +1,8 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/PostScript/Document.pm relocate_as=../../../../PostScript/Document.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/PostScript/Elements.pm relocate_as=../../../../PostScript/Elements.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/PostScript/Metrics.pm relocate_as=../../../../PostScript/Metrics.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/PostScript/TextBlock.pm relocate_as=../../../../PostScript/TextBlock.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/PostScript/example.pl relocate_as=../../../../PostScript/example.pl
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/PostScript::Elements.3 relocate_as=../../../../../../../man/man3/PostScript::Elements.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/PostScript::Metrics.3 relocate_as=../../../../../../../man/man3/PostScript::Metrics.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/PostScript::TextBlock.3 relocate_as=../../../../../../../man/man3/PostScript::TextBlock.3

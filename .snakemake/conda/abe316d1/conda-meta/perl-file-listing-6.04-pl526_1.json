@@ -1,0 +1,61 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0",
+    "perl-http-date"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-file-listing-6.04-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/File/Listing.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Listing/.packlist",
+    "man/man3/File::Listing.3"
+  ],
+  "fn": "perl-file-listing-6.04-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-file-listing-6.04-pl526_1",
+    "type": 1
+  },
+  "md5": "2a2f44c2b29a326f46abb72aea331845",
+  "name": "perl-file-listing",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-file-listing-6.04-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/File/Listing.pm",
+        "path_type": "hardlink",
+        "sha256": "b1c40f7a6c2d44400019850249710513bf55d10d8961e74e4075b77729f66350",
+        "sha256_in_prefix": "b1c40f7a6c2d44400019850249710513bf55d10d8961e74e4075b77729f66350",
+        "size_in_bytes": 10630
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Listing/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "6585ffdd623c86142daba36348536d33e845dda17461f9f0b1f6c008b56b1a79",
+        "sha256_in_prefix": "17715069372d3df9b1da34b304aa48d6c19d6891f52f3c233ede239f541514cb",
+        "size_in_bytes": 226
+      },
+      {
+        "_path": "man/man3/File::Listing.3",
+        "path_type": "hardlink",
+        "sha256": "9879720950fb47d3ccf027b5c7a49df9769fc7a9093e40948383fdaeb055bbaa",
+        "sha256_in_prefix": "9879720950fb47d3ccf027b5c7a49df9769fc7a9093e40948383fdaeb055bbaa",
+        "size_in_bytes": 4563
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 9544,
+  "subdir": "linux-64",
+  "timestamp": 1530980716060,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-file-listing-6.04-pl526_1.tar.bz2",
+  "version": "6.04"
+}

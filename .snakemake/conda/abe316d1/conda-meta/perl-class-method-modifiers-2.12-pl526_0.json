@@ -1,0 +1,60 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-class-method-modifiers-2.12-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Class/Method/Modifiers.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Class/Method/Modifiers/.packlist",
+    "man/man3/Class::Method::Modifiers.3"
+  ],
+  "fn": "perl-class-method-modifiers-2.12-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-class-method-modifiers-2.12-pl526_0",
+    "type": 1
+  },
+  "md5": "e395ece7e67b0f5e7ea2b2c0c628f2d5",
+  "name": "perl-class-method-modifiers",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-class-method-modifiers-2.12-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Class/Method/Modifiers.pm",
+        "path_type": "hardlink",
+        "sha256": "385cf7073bdd255831a577aaa235543e9facb414d54106e8a93863696c00514c",
+        "sha256_in_prefix": "385cf7073bdd255831a577aaa235543e9facb414d54106e8a93863696c00514c",
+        "size_in_bytes": 16820
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Class/Method/Modifiers/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "69a775cc278dc31850f562a06647bf10f67ea0205c69bfef9d40bcab876f98b3",
+        "sha256_in_prefix": "7ac59e4aede71fb838ef5e9c637cfa289081e9d1bd4120d3c492bc1bca5aa077",
+        "size_in_bytes": 274
+      },
+      {
+        "_path": "man/man3/Class::Method::Modifiers.3",
+        "path_type": "hardlink",
+        "sha256": "577b792aeec14e4c374dd64669836067e6aa936efe91e12db4b338889c46d7f8",
+        "sha256_in_prefix": "577b792aeec14e4c374dd64669836067e6aa936efe91e12db4b338889c46d7f8",
+        "size_in_bytes": 14227
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 13649,
+  "subdir": "linux-64",
+  "timestamp": 1541914694024,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-class-method-modifiers-2.12-pl526_0.tar.bz2",
+  "version": "2.12"
+}

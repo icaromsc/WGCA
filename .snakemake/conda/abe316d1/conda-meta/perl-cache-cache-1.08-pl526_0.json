@@ -1,0 +1,368 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-digest-sha1",
+    "perl-error",
+    "perl-ipc-sharelite",
+    "perl-storable"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-cache-cache-1.08-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Cache/BaseCache.pm",
+    "lib/site_perl/5.26.2/Cache/BaseCacheTester.pm",
+    "lib/site_perl/5.26.2/Cache/Cache.pm",
+    "lib/site_perl/5.26.2/Cache/CacheMetaData.pm",
+    "lib/site_perl/5.26.2/Cache/CacheSizer.pm",
+    "lib/site_perl/5.26.2/Cache/CacheTester.pm",
+    "lib/site_perl/5.26.2/Cache/CacheUtils.pm",
+    "lib/site_perl/5.26.2/Cache/FileBackend.pm",
+    "lib/site_perl/5.26.2/Cache/FileCache.pm",
+    "lib/site_perl/5.26.2/Cache/MemoryBackend.pm",
+    "lib/site_perl/5.26.2/Cache/MemoryCache.pm",
+    "lib/site_perl/5.26.2/Cache/NullCache.pm",
+    "lib/site_perl/5.26.2/Cache/Object.pm",
+    "lib/site_perl/5.26.2/Cache/SharedMemoryBackend.pm",
+    "lib/site_perl/5.26.2/Cache/SharedMemoryCache.pm",
+    "lib/site_perl/5.26.2/Cache/SizeAwareCache.pm",
+    "lib/site_perl/5.26.2/Cache/SizeAwareCacheTester.pm",
+    "lib/site_perl/5.26.2/Cache/SizeAwareFileCache.pm",
+    "lib/site_perl/5.26.2/Cache/SizeAwareMemoryCache.pm",
+    "lib/site_perl/5.26.2/Cache/SizeAwareSharedMemoryCache.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Cache/Cache/.packlist",
+    "man/man3/Cache::BaseCache.3",
+    "man/man3/Cache::BaseCacheTester.3",
+    "man/man3/Cache::Cache.3",
+    "man/man3/Cache::CacheMetaData.3",
+    "man/man3/Cache::CacheSizer.3",
+    "man/man3/Cache::CacheTester.3",
+    "man/man3/Cache::CacheUtils.3",
+    "man/man3/Cache::FileBackend.3",
+    "man/man3/Cache::FileCache.3",
+    "man/man3/Cache::MemoryBackend.3",
+    "man/man3/Cache::MemoryCache.3",
+    "man/man3/Cache::NullCache.3",
+    "man/man3/Cache::Object.3",
+    "man/man3/Cache::SharedMemoryBackend.3",
+    "man/man3/Cache::SharedMemoryCache.3",
+    "man/man3/Cache::SizeAwareCache.3",
+    "man/man3/Cache::SizeAwareCacheTester.3",
+    "man/man3/Cache::SizeAwareFileCache.3",
+    "man/man3/Cache::SizeAwareMemoryCache.3",
+    "man/man3/Cache::SizeAwareSharedMemoryCache.3"
+  ],
+  "fn": "perl-cache-cache-1.08-pl526_0.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-cache-cache-1.08-pl526_0",
+    "type": 1
+  },
+  "md5": "595971547a722e805a9bc0f9f1979995",
+  "name": "perl-cache-cache",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-cache-cache-1.08-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/BaseCache.pm",
+        "path_type": "hardlink",
+        "sha256": "c4847a2ebe63acc9aede746f4837d74e483b14f3946d3fd087fa63875a0eb9ed",
+        "sha256_in_prefix": "c4847a2ebe63acc9aede746f4837d74e483b14f3946d3fd087fa63875a0eb9ed",
+        "size_in_bytes": 15081
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/BaseCacheTester.pm",
+        "path_type": "hardlink",
+        "sha256": "bcc7c0dd03f100ea25c24f478b01137da01adb064a91a886b0656e31d45694d3",
+        "sha256_in_prefix": "bcc7c0dd03f100ea25c24f478b01137da01adb064a91a886b0656e31d45694d3",
+        "size_in_bytes": 2826
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/Cache.pm",
+        "path_type": "hardlink",
+        "sha256": "3d15782ef51c9583452058cbfcb710c332c4c6d6ec32866e9bca900d3a0336a3",
+        "sha256_in_prefix": "3d15782ef51c9583452058cbfcb710c332c4c6d6ec32866e9bca900d3a0336a3",
+        "size_in_bytes": 8419
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/CacheMetaData.pm",
+        "path_type": "hardlink",
+        "sha256": "bf4151f83d3e69e4ddbfb6c99bb6398ebb1640397f880b798900065f61e7c92a",
+        "sha256_in_prefix": "bf4151f83d3e69e4ddbfb6c99bb6398ebb1640397f880b798900065f61e7c92a",
+        "size_in_bytes": 5865
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/CacheSizer.pm",
+        "path_type": "hardlink",
+        "sha256": "4c27d61bb309ed281e9cb576ba8415d30374af72ccdb0c66724aeec4ef334cfe",
+        "sha256_in_prefix": "4c27d61bb309ed281e9cb576ba8415d30374af72ccdb0c66724aeec4ef334cfe",
+        "size_in_bytes": 4039
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/CacheTester.pm",
+        "path_type": "hardlink",
+        "sha256": "181981b61e3565291dfbb1641e4353e2622e9a209b2dfdab5411dcd216158593",
+        "sha256_in_prefix": "181981b61e3565291dfbb1641e4353e2622e9a209b2dfdab5411dcd216158593",
+        "size_in_bytes": 13367
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/CacheUtils.pm",
+        "path_type": "hardlink",
+        "sha256": "ad04ed595262c6a288760e770593bb2d2b7466b1fb59dda4a8ca900474480e8d",
+        "sha256_in_prefix": "ad04ed595262c6a288760e770593bb2d2b7466b1fb59dda4a8ca900474480e8d",
+        "size_in_bytes": 2921
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/FileBackend.pm",
+        "path_type": "hardlink",
+        "sha256": "e17de0b34c04ec69e93a09dc2f323a53b9ced809d58cc7db7b913533d2fb6553",
+        "sha256_in_prefix": "e17de0b34c04ec69e93a09dc2f323a53b9ced809d58cc7db7b913533d2fb6553",
+        "size_in_bytes": 14400
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/FileCache.pm",
+        "path_type": "hardlink",
+        "sha256": "b4b6b1d4f0e7651506496c3a204e4fb6fa8900af51184c234f2b6d2d128f4046",
+        "sha256_in_prefix": "b4b6b1d4f0e7651506496c3a204e4fb6fa8900af51184c234f2b6d2d128f4046",
+        "size_in_bytes": 7346
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/MemoryBackend.pm",
+        "path_type": "hardlink",
+        "sha256": "043f04a34aa29fdafad51c95fb92f8d294efdca56a248a863432caaadbcc8602",
+        "sha256_in_prefix": "043f04a34aa29fdafad51c95fb92f8d294efdca56a248a863432caaadbcc8602",
+        "size_in_bytes": 2628
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/MemoryCache.pm",
+        "path_type": "hardlink",
+        "sha256": "b6f2ef40695cfd7cf8bb78dd8e9bee89f09ab01b6dc770de559a7d9503acd90b",
+        "sha256_in_prefix": "b6f2ef40695cfd7cf8bb78dd8e9bee89f09ab01b6dc770de559a7d9503acd90b",
+        "size_in_bytes": 2829
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/NullCache.pm",
+        "path_type": "hardlink",
+        "sha256": "2c0b04b9184285a2ab10c333ac6b52c0a8b273e676d89c88b6a52e6a8aeae902",
+        "sha256_in_prefix": "2c0b04b9184285a2ab10c333ac6b52c0a8b273e676d89c88b6a52e6a8aeae902",
+        "size_in_bytes": 2258
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/Object.pm",
+        "path_type": "hardlink",
+        "sha256": "d1a1b1895db18b1919b5ea58ddbb1534dae3fe7d159ca02d213f3e8c97f60d70",
+        "sha256_in_prefix": "d1a1b1895db18b1919b5ea58ddbb1534dae3fe7d159ca02d213f3e8c97f60d70",
+        "size_in_bytes": 3478
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/SharedMemoryBackend.pm",
+        "path_type": "hardlink",
+        "sha256": "ac22931f04ce4ef7afc9fa901020fc716c8b91de563385ac77d7151dedc9cd84",
+        "sha256_in_prefix": "ac22931f04ce4ef7afc9fa901020fc716c8b91de563385ac77d7151dedc9cd84",
+        "size_in_bytes": 4829
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/SharedMemoryCache.pm",
+        "path_type": "hardlink",
+        "sha256": "2361f395acd1f84dd86d2d654c8d7733989b4e242fab0411ebad088e5b7220b7",
+        "sha256_in_prefix": "2361f395acd1f84dd86d2d654c8d7733989b4e242fab0411ebad088e5b7220b7",
+        "size_in_bytes": 3481
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/SizeAwareCache.pm",
+        "path_type": "hardlink",
+        "sha256": "e847ce825f2721b24f541176224cef674bee89556f074835df334f71dc667382",
+        "sha256_in_prefix": "e847ce825f2721b24f541176224cef674bee89556f074835df334f71dc667382",
+        "size_in_bytes": 3118
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/SizeAwareCacheTester.pm",
+        "path_type": "hardlink",
+        "sha256": "55d1a0341288f8752b3acd025eb89a13af6bdc7d8930d03a82be697bb5a056d7",
+        "sha256_in_prefix": "55d1a0341288f8752b3acd025eb89a13af6bdc7d8930d03a82be697bb5a056d7",
+        "size_in_bytes": 5793
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/SizeAwareFileCache.pm",
+        "path_type": "hardlink",
+        "sha256": "2a00083db983e122582921ec10b9bee46e85a1dc3ba37e3a30b6e27738d5f37d",
+        "sha256_in_prefix": "2a00083db983e122582921ec10b9bee46e85a1dc3ba37e3a30b6e27738d5f37d",
+        "size_in_bytes": 3765
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/SizeAwareMemoryCache.pm",
+        "path_type": "hardlink",
+        "sha256": "cdc9cf6f0c86419a6052f12d864eec7d3255ec6bd54207eb527e3768be30b0ec",
+        "sha256_in_prefix": "cdc9cf6f0c86419a6052f12d864eec7d3255ec6bd54207eb527e3768be30b0ec",
+        "size_in_bytes": 3431
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Cache/SizeAwareSharedMemoryCache.pm",
+        "path_type": "hardlink",
+        "sha256": "bbd523681f8f3f7a5bd19091159ac0e85cc3038a4a014d1b1d4a593e6b25a727",
+        "sha256_in_prefix": "bbd523681f8f3f7a5bd19091159ac0e85cc3038a4a014d1b1d4a593e6b25a727",
+        "size_in_bytes": 2608
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Cache/Cache/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "7515b43cce4fad8852bf212e2a790d49b52bfdf53da02bf3116d43c7494c2cdb",
+        "sha256_in_prefix": "8dd47e615f18e86708651cc055510ca1717a4dc64d81b82c743016dd6302c392",
+        "size_in_bytes": 5104
+      },
+      {
+        "_path": "man/man3/Cache::BaseCache.3",
+        "path_type": "hardlink",
+        "sha256": "840d6adcaff364fdc12072910e12b829d861d1e12c7c090277d9bad2875d912e",
+        "sha256_in_prefix": "840d6adcaff364fdc12072910e12b829d861d1e12c7c090277d9bad2875d912e",
+        "size_in_bytes": 4307
+      },
+      {
+        "_path": "man/man3/Cache::BaseCacheTester.3",
+        "path_type": "hardlink",
+        "sha256": "35d47bafdf174b2802d854ca165a8083a145e89d381dbec67fe105b7c7a74caf",
+        "sha256_in_prefix": "35d47bafdf174b2802d854ca165a8083a145e89d381dbec67fe105b7c7a74caf",
+        "size_in_bytes": 3670
+      },
+      {
+        "_path": "man/man3/Cache::Cache.3",
+        "path_type": "hardlink",
+        "sha256": "c1dab5264347d2c38c47f27ca76ab4afce02f426afa6a46637ac2d917da3fbbd",
+        "sha256_in_prefix": "c1dab5264347d2c38c47f27ca76ab4afce02f426afa6a46637ac2d917da3fbbd",
+        "size_in_bytes": 10730
+      },
+      {
+        "_path": "man/man3/Cache::CacheMetaData.3",
+        "path_type": "hardlink",
+        "sha256": "6f7563d63c56a15de5b8500d35b99548eef9ad758151c1f94b0258e3eda17b09",
+        "sha256_in_prefix": "6f7563d63c56a15de5b8500d35b99548eef9ad758151c1f94b0258e3eda17b09",
+        "size_in_bytes": 4492
+      },
+      {
+        "_path": "man/man3/Cache::CacheSizer.3",
+        "path_type": "hardlink",
+        "sha256": "af279f3ed492509b2e25c0f62b359a937765b5e79ac748cf70e0c34aae23a03e",
+        "sha256_in_prefix": "af279f3ed492509b2e25c0f62b359a937765b5e79ac748cf70e0c34aae23a03e",
+        "size_in_bytes": 3575
+      },
+      {
+        "_path": "man/man3/Cache::CacheTester.3",
+        "path_type": "hardlink",
+        "sha256": "c50df98c6d796c5dc3915ca160c4c3968444b11ccc6835dfc09e3c833a3ae790",
+        "sha256_in_prefix": "c50df98c6d796c5dc3915ca160c4c3968444b11ccc6835dfc09e3c833a3ae790",
+        "size_in_bytes": 3086
+      },
+      {
+        "_path": "man/man3/Cache::CacheUtils.3",
+        "path_type": "hardlink",
+        "sha256": "d774de92cc04af52eb708a3934e6b05520c589bec2e7d7eefe725d72c0674d3d",
+        "sha256_in_prefix": "d774de92cc04af52eb708a3934e6b05520c589bec2e7d7eefe725d72c0674d3d",
+        "size_in_bytes": 2529
+      },
+      {
+        "_path": "man/man3/Cache::FileBackend.3",
+        "path_type": "hardlink",
+        "sha256": "c1f8cd01e5794f6f233f0f1379d716a14199e299e9480cb85c2357e021faa1db",
+        "sha256_in_prefix": "c1f8cd01e5794f6f233f0f1379d716a14199e299e9480cb85c2357e021faa1db",
+        "size_in_bytes": 4126
+      },
+      {
+        "_path": "man/man3/Cache::FileCache.3",
+        "path_type": "hardlink",
+        "sha256": "36c92f95fc86430d30e41bf9d21a612247f97cef30fbc27be65eedbfa467bde3",
+        "sha256_in_prefix": "36c92f95fc86430d30e41bf9d21a612247f97cef30fbc27be65eedbfa467bde3",
+        "size_in_bytes": 4974
+      },
+      {
+        "_path": "man/man3/Cache::MemoryBackend.3",
+        "path_type": "hardlink",
+        "sha256": "585dcb74195bcfee071a46dce0769a6fec0affbef1060c8e3c31c60a1e1632d7",
+        "sha256_in_prefix": "585dcb74195bcfee071a46dce0769a6fec0affbef1060c8e3c31c60a1e1632d7",
+        "size_in_bytes": 2815
+      },
+      {
+        "_path": "man/man3/Cache::MemoryCache.3",
+        "path_type": "hardlink",
+        "sha256": "8be51ee249b05827909d0cf53eb6b2af211cc0d9d9219f8a0fcdd158295c79bf",
+        "sha256_in_prefix": "8be51ee249b05827909d0cf53eb6b2af211cc0d9d9219f8a0fcdd158295c79bf",
+        "size_in_bytes": 3387
+      },
+      {
+        "_path": "man/man3/Cache::NullCache.3",
+        "path_type": "hardlink",
+        "sha256": "e12141eb3aadaabc7eca80560a6038b20f39e6f3ae4cf07f2b7a2d7426da78c1",
+        "sha256_in_prefix": "e12141eb3aadaabc7eca80560a6038b20f39e6f3ae4cf07f2b7a2d7426da78c1",
+        "size_in_bytes": 3109
+      },
+      {
+        "_path": "man/man3/Cache::Object.3",
+        "path_type": "hardlink",
+        "sha256": "f225522ad742d4661109a9276c3dbcdb433768eef36e3dca7b7b8e1e9982f0f9",
+        "sha256_in_prefix": "f225522ad742d4661109a9276c3dbcdb433768eef36e3dca7b7b8e1e9982f0f9",
+        "size_in_bytes": 3952
+      },
+      {
+        "_path": "man/man3/Cache::SharedMemoryBackend.3",
+        "path_type": "hardlink",
+        "sha256": "7b22aac5cac9c0caf151639dbf1b385aa526e8efcc87347e369abf646fb0be3b",
+        "sha256_in_prefix": "7b22aac5cac9c0caf151639dbf1b385aa526e8efcc87347e369abf646fb0be3b",
+        "size_in_bytes": 2859
+      },
+      {
+        "_path": "man/man3/Cache::SharedMemoryCache.3",
+        "path_type": "hardlink",
+        "sha256": "45a8e90782d2f8f7684081e05e5097a17cdf63568ae61600d4a26ffe3e165d4f",
+        "sha256_in_prefix": "45a8e90782d2f8f7684081e05e5097a17cdf63568ae61600d4a26ffe3e165d4f",
+        "size_in_bytes": 4085
+      },
+      {
+        "_path": "man/man3/Cache::SizeAwareCache.3",
+        "path_type": "hardlink",
+        "sha256": "7d23664934c6a4ed16a3ec645ce71a21652ef7c65794315ffb9f5febc96a7bf7",
+        "sha256_in_prefix": "7d23664934c6a4ed16a3ec645ce71a21652ef7c65794315ffb9f5febc96a7bf7",
+        "size_in_bytes": 4652
+      },
+      {
+        "_path": "man/man3/Cache::SizeAwareCacheTester.3",
+        "path_type": "hardlink",
+        "sha256": "23803d8242fd4c5e09fc6142d9bc7790e5338b855497a96917faa1c534df74c7",
+        "sha256_in_prefix": "23803d8242fd4c5e09fc6142d9bc7790e5338b855497a96917faa1c534df74c7",
+        "size_in_bytes": 3228
+      },
+      {
+        "_path": "man/man3/Cache::SizeAwareFileCache.3",
+        "path_type": "hardlink",
+        "sha256": "bf3f258d5b286e4a627d4170b5815117cf4b2097319e5bd4cfa1a169608f3404",
+        "sha256_in_prefix": "bf3f258d5b286e4a627d4170b5815117cf4b2097319e5bd4cfa1a169608f3404",
+        "size_in_bytes": 3548
+      },
+      {
+        "_path": "man/man3/Cache::SizeAwareMemoryCache.3",
+        "path_type": "hardlink",
+        "sha256": "e7ac2bfbc67ef48f4e55ce27484b03507e052686e3787744d9cf9140c353d79d",
+        "sha256_in_prefix": "e7ac2bfbc67ef48f4e55ce27484b03507e052686e3787744d9cf9140c353d79d",
+        "size_in_bytes": 3451
+      },
+      {
+        "_path": "man/man3/Cache::SizeAwareSharedMemoryCache.3",
+        "path_type": "hardlink",
+        "sha256": "8c4c6d5125fce84f160b2c0f3a859a2ff11a763bab9d249ff4af241da0acf4b7",
+        "sha256_in_prefix": "8c4c6d5125fce84f160b2c0f3a859a2ff11a763bab9d249ff4af241da0acf4b7",
+        "size_in_bytes": 3521
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 31673,
+  "subdir": "linux-64",
+  "timestamp": 1532902560419,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-cache-cache-1.08-pl526_0.tar.bz2",
+  "version": "1.08"
+}

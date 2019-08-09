@@ -1,0 +1,61 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-carp"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-sub-install-0.928-pl526_2",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Sub/Install.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Install/.packlist",
+    "man/man3/Sub::Install.3"
+  ],
+  "fn": "perl-sub-install-0.928-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-sub-install-0.928-pl526_2",
+    "type": 1
+  },
+  "md5": "90f883f49150f297aa62f231e989ef45",
+  "name": "perl-sub-install",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-sub-install-0.928-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Sub/Install.pm",
+        "path_type": "hardlink",
+        "sha256": "920fcceac8f67d0b631845619347583563ac18511d577300e41a8a8a387b4432",
+        "sha256_in_prefix": "920fcceac8f67d0b631845619347583563ac18511d577300e41a8a8a387b4432",
+        "size_in_bytes": 12527
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Install/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f19598fd1c8224377ceb95448249ca63410c52df78fb0b16b81f05c2699b11fd",
+        "sha256_in_prefix": "1e87ad043e7b735045809ed5cf16f6bc204c533b3d08de31e376a6e7677eb3fd",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "man/man3/Sub::Install.3",
+        "path_type": "hardlink",
+        "sha256": "5a27baa3e9667ef03ef827cb30cfe70e28124a8a38ed4ee8910ee649f27337bb",
+        "sha256_in_prefix": "5a27baa3e9667ef03ef827cb30cfe70e28124a8a38ed4ee8910ee649f27337bb",
+        "size_in_bytes": 7155
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 9946,
+  "subdir": "linux-64",
+  "timestamp": 1534539771440,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-sub-install-0.928-pl526_2.tar.bz2",
+  "version": "0.928"
+}

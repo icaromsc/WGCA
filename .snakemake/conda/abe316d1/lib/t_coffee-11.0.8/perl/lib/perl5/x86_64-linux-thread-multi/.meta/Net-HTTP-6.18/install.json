@@ -1,0 +1,1 @@
+{"version":"6.18","pathname":"O/OA/OALDERS/Net-HTTP-6.18.tar.gz","target":"Net::HTTPS","name":"Net::HTTP","provides":{"Net::HTTP::Methods":{"file":"Net/HTTP/Methods.pm","version":"6.18"},"Net::HTTP":{"file":"Net/HTTP.pm","version":"6.18"},"Net::HTTPS":{"file":"Net/HTTPS.pm","version":"6.18"},"Net::HTTP::NB":{"version":"6.18","file":"Net/HTTP/NB.pm"}},"dist":"Net-HTTP-6.18"}

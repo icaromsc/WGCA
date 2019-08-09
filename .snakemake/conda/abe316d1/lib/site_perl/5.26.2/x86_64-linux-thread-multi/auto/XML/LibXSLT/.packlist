@@ -1,0 +1,3 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/XML/LibXSLT.pm relocate_as=../../../XML/LibXSLT.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/XML/LibXSLT/LibXSLT.so relocate_as=LibXSLT.so
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/XML::LibXSLT.3 relocate_as=../../../../../../../man/man3/XML::LibXSLT.3

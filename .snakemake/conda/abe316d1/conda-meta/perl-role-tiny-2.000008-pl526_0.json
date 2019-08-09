@@ -1,0 +1,87 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-exporter"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-role-tiny-2.000008-pl526_0",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Role/Tiny.pm",
+    "lib/site_perl/5.26.2/Role/Tiny/With.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Role/Tiny/.packlist",
+    "man/man3/Role::Tiny.3",
+    "man/man3/Role::Tiny::With.3"
+  ],
+  "fn": "perl-role-tiny-2.000008-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-role-tiny-2.000008-pl526_0",
+    "type": 1
+  },
+  "md5": "ac07880e4a117a8c96b3eaf0dd545d40",
+  "name": "perl-role-tiny",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-role-tiny-2.000008-pl526_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "744e1cf314f7baa6a625f353e379963774db737a24b6e22cc9c7ec369b4f3737",
+        "sha256_in_prefix": "d46af4a53dcbc3c4c1c5889b4f75025b2f09fe60f70c6505b439cec1b2136673",
+        "size_in_bytes": 255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Role/Tiny.pm",
+        "path_type": "hardlink",
+        "sha256": "c232126f272d35b18ced66d4baaf668ec035c4152c6c282564024b636f8be894",
+        "sha256_in_prefix": "c232126f272d35b18ced66d4baaf668ec035c4152c6c282564024b636f8be894",
+        "size_in_bytes": 20609
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Role/Tiny/With.pm",
+        "path_type": "hardlink",
+        "sha256": "a0dea0c4d850342462b7e2932e454fb4a5b38aa544709c18ae2ffda6c56d81ee",
+        "sha256_in_prefix": "a0dea0c4d850342462b7e2932e454fb4a5b38aa544709c18ae2ffda6c56d81ee",
+        "size_in_bytes": 745
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Role/Tiny/.packlist",
+        "path_type": "hardlink",
+        "sha256": "c64fa6aa2a6d4b1f9912e62c23a49928ae370fc8c949dfdb403ae2aba6b88afc",
+        "sha256_in_prefix": "c64fa6aa2a6d4b1f9912e62c23a49928ae370fc8c949dfdb403ae2aba6b88afc",
+        "size_in_bytes": 1342
+      },
+      {
+        "_path": "man/man3/Role::Tiny.3",
+        "path_type": "hardlink",
+        "sha256": "35c7491f7b20e4e403cfe51d075d9c649f4290fe9414ea0eeda4bdc3b8cee77f",
+        "sha256_in_prefix": "35c7491f7b20e4e403cfe51d075d9c649f4290fe9414ea0eeda4bdc3b8cee77f",
+        "size_in_bytes": 9621
+      },
+      {
+        "_path": "man/man3/Role::Tiny::With.3",
+        "path_type": "hardlink",
+        "sha256": "7bb833390bac98e9defc5d25dc4ad6378a4b14e31a2082441913074df813503e",
+        "sha256_in_prefix": "7bb833390bac98e9defc5d25dc4ad6378a4b14e31a2082441913074df813503e",
+        "size_in_bytes": 2757
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 15802,
+  "subdir": "noarch",
+  "timestamp": 1565182192257,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/perl-role-tiny-2.000008-pl526_0.tar.bz2",
+  "version": "2.000008"
+}

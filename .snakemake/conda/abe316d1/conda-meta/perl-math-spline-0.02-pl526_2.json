@@ -1,0 +1,71 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-math-derivative"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-math-spline-0.02-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Math/Spline.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Spline/.packlist",
+    "man/man3/Math::Spline.3"
+  ],
+  "fn": "perl-math-spline-0.02-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-math-spline-0.02-pl526_2",
+    "type": 1
+  },
+  "md5": "0981985687a311d7d2a0ad8551ae48fd",
+  "name": "perl-math-spline",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-math-spline-0.02-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "251772eaf6994d5f7c2fc7e585fa48d4f637654133a279a20f7e5d29626e8755",
+        "sha256_in_prefix": "fd92faefa9463c43a8668ba822e6f997e9b3d850240cb700e5e83090bc14dafa",
+        "size_in_bytes": 255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Math/Spline.pm",
+        "path_type": "hardlink",
+        "sha256": "8dc3ffe2b26a4f6c8ddc0a2681486f9581b07b073aeed2c50daa0cc567877fc1",
+        "sha256_in_prefix": "8dc3ffe2b26a4f6c8ddc0a2681486f9581b07b073aeed2c50daa0cc567877fc1",
+        "size_in_bytes": 3800
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Spline/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "67de5c13027488afe794d7449e311b7741d0851083b2a2cc68b60d4b4fd13227",
+        "sha256_in_prefix": "8d00d1c5533e8bef1ad54386ad727bec1a937d4e85816a176ff86c0ee3c5ae6c",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "man/man3/Math::Spline.3",
+        "path_type": "hardlink",
+        "sha256": "4835b5c2cbc2979d5cf5d53ffa0db5de06749d882c9dddd75e84014baa8a1dfe",
+        "sha256_in_prefix": "4835b5c2cbc2979d5cf5d53ffa0db5de06749d882c9dddd75e84014baa8a1dfe",
+        "size_in_bytes": 4890
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 7872,
+  "subdir": "linux-64",
+  "timestamp": 1533798243669,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-math-spline-0.02-pl526_2.tar.bz2",
+  "version": "0.02"
+}

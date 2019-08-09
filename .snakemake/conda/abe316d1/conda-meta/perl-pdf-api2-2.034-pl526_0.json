@@ -1,0 +1,1271 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-font-ttf"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-pdf-api2-2.034-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/PDF/API2.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Annotation.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Array.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Bool.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Dict.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/File.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/ASCII85Decode.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/ASCIIHexDecode.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/FlateDecode.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/LZWDecode.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/RunLengthDecode.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Literal.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Name.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Null.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Number.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Objind.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Page.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Pages.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/String.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Utils.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Content.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Content/Text.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Lite.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Matrix.pm",
+    "lib/site_perl/5.26.2/PDF/API2/NamedDestination.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Outline.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Outlines.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Page.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/BaseFont.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/adobemingstdlightacro.data",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/adobemyungjostdmediumacro.data",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/adobesongstdlightacro.data",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/kozgopromediumacro.data",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/kozminproregularacro.data",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/japanese.cmap",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/korean.cmap",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/simplified.cmap",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/traditional.cmap",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/TrueType.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/TrueType/FontFile.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/DeviceN.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed/ACTFile.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed/Hue.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed/WebColor.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Separation.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Colors.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/ExtGState.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/BdFont.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/bankgothic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courier.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courierbold.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courierboldoblique.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courieroblique.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgia.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgiabold.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgiabolditalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgiaitalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helvetica.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helveticabold.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helveticaboldoblique.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helveticaoblique.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/symbol.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesbold.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesbolditalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesitalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesroman.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchet.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchetbold.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchetbolditalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchetitalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdana.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdanabold.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdanabolditalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdanaitalic.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/webdings.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/wingdings.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/zapfdingbats.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/Postscript.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Font/SynFont.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Glyphs.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/PaperSizes.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Pattern.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/Shading.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/UniFont.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/codabar.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/code128.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/code3of9.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/ean13.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/int2of5.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/Hybrid.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/GD.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/GIF.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/JPEG.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/PNG.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/PNM.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/TIFF.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/TIFF/File.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Resource/uniglyph.txt",
+    "lib/site_perl/5.26.2/PDF/API2/UniWrap.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Util.pm",
+    "lib/site_perl/5.26.2/PDF/API2/Win32.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/PDF/API2/.packlist",
+    "man/man3/PDF::API2.3",
+    "man/man3/PDF::API2::Annotation.3",
+    "man/man3/PDF::API2::Basic::PDF::Array.3",
+    "man/man3/PDF::API2::Basic::PDF::Bool.3",
+    "man/man3/PDF::API2::Basic::PDF::Dict.3",
+    "man/man3/PDF::API2::Basic::PDF::File.3",
+    "man/man3/PDF::API2::Basic::PDF::Filter.3",
+    "man/man3/PDF::API2::Basic::PDF::Name.3",
+    "man/man3/PDF::API2::Basic::PDF::Null.3",
+    "man/man3/PDF::API2::Basic::PDF::Number.3",
+    "man/man3/PDF::API2::Basic::PDF::Objind.3",
+    "man/man3/PDF::API2::Basic::PDF::Page.3",
+    "man/man3/PDF::API2::Basic::PDF::Pages.3",
+    "man/man3/PDF::API2::Basic::PDF::String.3",
+    "man/man3/PDF::API2::Basic::PDF::Utils.3",
+    "man/man3/PDF::API2::Content.3",
+    "man/man3/PDF::API2::Lite.3",
+    "man/man3/PDF::API2::NamedDestination.3",
+    "man/man3/PDF::API2::Outline.3",
+    "man/man3/PDF::API2::Page.3",
+    "man/man3/PDF::API2::Resource.3",
+    "man/man3/PDF::API2::Resource::BaseFont.3",
+    "man/man3/PDF::API2::Resource::CIDFont.3",
+    "man/man3/PDF::API2::Resource::CIDFont::CJKFont.3",
+    "man/man3/PDF::API2::Resource::CIDFont::TrueType.3",
+    "man/man3/PDF::API2::Resource::ColorSpace.3",
+    "man/man3/PDF::API2::Resource::ColorSpace::Indexed::ACTFile.3",
+    "man/man3/PDF::API2::Resource::ColorSpace::Separation.3",
+    "man/man3/PDF::API2::Resource::ExtGState.3",
+    "man/man3/PDF::API2::Resource::Font::BdFont.3",
+    "man/man3/PDF::API2::Resource::Font::CoreFont.3",
+    "man/man3/PDF::API2::Resource::Font::SynFont.3",
+    "man/man3/PDF::API2::Resource::UniFont.3",
+    "man/man3/PDF::API2::Resource::XObject.3",
+    "man/man3/PDF::API2::Resource::XObject::Form.3",
+    "man/man3/PDF::API2::Resource::XObject::Form::BarCode.3",
+    "man/man3/PDF::API2::Resource::XObject::Form::BarCode::code128.3",
+    "man/man3/PDF::API2::Resource::XObject::Image.3",
+    "man/man3/PDF::API2::Resource::XObject::Image::TIFF.3",
+    "man/man3/PDF::API2::Util.3"
+  ],
+  "fn": "perl-pdf-api2-2.034-pl526_0.tar.bz2",
+  "license": "lgpl_2_1",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-pdf-api2-2.034-pl526_0",
+    "type": 1
+  },
+  "md5": "8da91f02188f9a716ab40501703d8c72",
+  "name": "perl-pdf-api2",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-pdf-api2-2.034-pl526_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2.pm",
+        "path_type": "hardlink",
+        "sha256": "1f91ba57c15f89c3a27ad3d4c356724a48169897ef2ec332417c3f7c79ab2736",
+        "sha256_in_prefix": "1f91ba57c15f89c3a27ad3d4c356724a48169897ef2ec332417c3f7c79ab2736",
+        "size_in_bytes": 65539
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Annotation.pm",
+        "path_type": "hardlink",
+        "sha256": "3f2da6ec3de5b28702dd79c0fd49ce48c34c734bfe5f888f9c6d1314ed627176",
+        "sha256_in_prefix": "3f2da6ec3de5b28702dd79c0fd49ce48c34c734bfe5f888f9c6d1314ed627176",
+        "size_in_bytes": 10238
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Array.pm",
+        "path_type": "hardlink",
+        "sha256": "2acfea42d90907280bb53a31c8c07893ceb1c8df31574b9982d4f4fc0112a8fb",
+        "sha256_in_prefix": "2acfea42d90907280bb53a31c8c07893ceb1c8df31574b9982d4f4fc0112a8fb",
+        "size_in_bytes": 2779
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Bool.pm",
+        "path_type": "hardlink",
+        "sha256": "51080ab43ef0c2e662690721e76e13dfa78f724da519c6164725c5de6564a482",
+        "sha256_in_prefix": "51080ab43ef0c2e662690721e76e13dfa78f724da519c6164725c5de6564a482",
+        "size_in_bytes": 1015
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Dict.pm",
+        "path_type": "hardlink",
+        "sha256": "d9eca8f1b8d93f3c21b90e62916edf8e13cc4c17b4c7aba7b440046f85581a53",
+        "sha256_in_prefix": "d9eca8f1b8d93f3c21b90e62916edf8e13cc4c17b4c7aba7b440046f85581a53",
+        "size_in_bytes": 10128
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/File.pm",
+        "path_type": "hardlink",
+        "sha256": "4a6d10106eecd5f190f534acdb7d524d43a5f25ede39dabc38ee915963a48542",
+        "sha256_in_prefix": "4a6d10106eecd5f190f534acdb7d524d43a5f25ede39dabc38ee915963a48542",
+        "size_in_bytes": 43946
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter.pm",
+        "path_type": "hardlink",
+        "sha256": "2d13b0944e24f4ce0f3ff70db93b017bc3b3dbd0922aa86cdffd618d73f74340",
+        "sha256_in_prefix": "2d13b0944e24f4ce0f3ff70db93b017bc3b3dbd0922aa86cdffd618d73f74340",
+        "size_in_bytes": 3378
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/ASCII85Decode.pm",
+        "path_type": "hardlink",
+        "sha256": "bb147c576cab02d5b50b6662561360ff0fe8a7ec2ac85cfbec89677dac00f560",
+        "sha256_in_prefix": "bb147c576cab02d5b50b6662561360ff0fe8a7ec2ac85cfbec89677dac00f560",
+        "size_in_bytes": 2399
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/ASCIIHexDecode.pm",
+        "path_type": "hardlink",
+        "sha256": "d7e29ef4dc10fb280f243454dd4ec2ff692b0a7e432f13ca36ab1f6ee2c0e7d3",
+        "sha256_in_prefix": "d7e29ef4dc10fb280f243454dd4ec2ff692b0a7e432f13ca36ab1f6ee2c0e7d3",
+        "size_in_bytes": 1513
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/FlateDecode.pm",
+        "path_type": "hardlink",
+        "sha256": "8c6691a47132da3fdd0acb42f38d2a98131878608baaafbad6698a5ec66ddb3a",
+        "sha256_in_prefix": "8c6691a47132da3fdd0acb42f38d2a98131878608baaafbad6698a5ec66ddb3a",
+        "size_in_bytes": 4250
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/LZWDecode.pm",
+        "path_type": "hardlink",
+        "sha256": "351209996025926b81ff063d7d83059bb8236f10a1f7e07f4c7914f752deb472",
+        "sha256_in_prefix": "351209996025926b81ff063d7d83059bb8236f10a1f7e07f4c7914f752deb472",
+        "size_in_bytes": 3122
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Filter/RunLengthDecode.pm",
+        "path_type": "hardlink",
+        "sha256": "d84e4d463b59c1df6c09ccdadbd40fd95bd0630a94579a97fcffd2ac1df20280",
+        "sha256_in_prefix": "d84e4d463b59c1df6c09ccdadbd40fd95bd0630a94579a97fcffd2ac1df20280",
+        "size_in_bytes": 3315
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Literal.pm",
+        "path_type": "hardlink",
+        "sha256": "ff140a273c7dc842399cde0d3d895ab7928c6b83c68e429482955617e47175fa",
+        "sha256_in_prefix": "ff140a273c7dc842399cde0d3d895ab7928c6b83c68e429482955617e47175fa",
+        "size_in_bytes": 2187
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Name.pm",
+        "path_type": "hardlink",
+        "sha256": "962b27c43075b0746e82cfd37c62de2add53e05876b575fd2cc660b0ebcb63bd",
+        "sha256_in_prefix": "962b27c43075b0746e82cfd37c62de2add53e05876b575fd2cc660b0ebcb63bd",
+        "size_in_bytes": 3001
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Null.pm",
+        "path_type": "hardlink",
+        "sha256": "199246016b642845ec349b8f044203060a312c233967cccd413014b03dcbc214",
+        "sha256_in_prefix": "199246016b642845ec349b8f044203060a312c233967cccd413014b03dcbc214",
+        "size_in_bytes": 1562
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Number.pm",
+        "path_type": "hardlink",
+        "sha256": "6ff911a7275cbff06c0d671e3c441915e18cb79dda25627719145204e44b6d65",
+        "sha256_in_prefix": "6ff911a7275cbff06c0d671e3c441915e18cb79dda25627719145204e44b6d65",
+        "size_in_bytes": 973
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Objind.pm",
+        "path_type": "hardlink",
+        "sha256": "54ae79ec54c41dd07058db4c337b4579e94643a130a2a64f6e3feb35f70f017a",
+        "sha256_in_prefix": "54ae79ec54c41dd07058db4c337b4579e94643a130a2a64f6e3feb35f70f017a",
+        "size_in_bytes": 7508
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Page.pm",
+        "path_type": "hardlink",
+        "sha256": "47cce45609ffe727e6c8f195ad2daf9e8930039cd0b8299b2afffc07e51b9624",
+        "sha256_in_prefix": "47cce45609ffe727e6c8f195ad2daf9e8930039cd0b8299b2afffc07e51b9624",
+        "size_in_bytes": 2385
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Pages.pm",
+        "path_type": "hardlink",
+        "sha256": "40b8b19f6a88dd67686de74058a7ac313c250c40a469dd5802dd3531fafdb1bf",
+        "sha256_in_prefix": "40b8b19f6a88dd67686de74058a7ac313c250c40a469dd5802dd3531fafdb1bf",
+        "size_in_bytes": 10719
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/String.pm",
+        "path_type": "hardlink",
+        "sha256": "d11fc7c4f49e392b882730089beaf01897bb9455deed0a5076916c595d5722bb",
+        "sha256_in_prefix": "d11fc7c4f49e392b882730089beaf01897bb9455deed0a5076916c595d5722bb",
+        "size_in_bytes": 5392
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Basic/PDF/Utils.pm",
+        "path_type": "hardlink",
+        "sha256": "1974d7c42a3ededd2bcbb4eb7da208c993fc4055712835105925d763f52dd0d0",
+        "sha256_in_prefix": "1974d7c42a3ededd2bcbb4eb7da208c993fc4055712835105925d763f52dd0d0",
+        "size_in_bytes": 2469
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Content.pm",
+        "path_type": "hardlink",
+        "sha256": "cd9156d68ef51dbd2f084cba7f5c21d8f05448752522fd25eee2756c4a9cf926",
+        "sha256_in_prefix": "cd9156d68ef51dbd2f084cba7f5c21d8f05448752522fd25eee2756c4a9cf926",
+        "size_in_bytes": 53431
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Content/Text.pm",
+        "path_type": "hardlink",
+        "sha256": "bbc0a7c4a1fce51973d6b30aa406dfc67afc359577827a565735f93be25e6ee9",
+        "sha256_in_prefix": "bbc0a7c4a1fce51973d6b30aa406dfc67afc359577827a565735f93be25e6ee9",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Lite.pm",
+        "path_type": "hardlink",
+        "sha256": "73400021f0fe785043ee50e665ae2baed2681a287c91142b79a4fdd8b607bdce",
+        "sha256_in_prefix": "73400021f0fe785043ee50e665ae2baed2681a287c91142b79a4fdd8b607bdce",
+        "size_in_bytes": 11649
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Matrix.pm",
+        "path_type": "hardlink",
+        "sha256": "e5cdcf7bc5218aeb85da2da0303d784aa973a652d8b5369688b3b3f3925a30e4",
+        "sha256_in_prefix": "e5cdcf7bc5218aeb85da2da0303d784aa973a652d8b5369688b3b3f3925a30e4",
+        "size_in_bytes": 1541
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/NamedDestination.pm",
+        "path_type": "hardlink",
+        "sha256": "c832bc91d7d7c44f2689e186555c925279646d94f937e34498364a6f0e8665e4",
+        "sha256_in_prefix": "c832bc91d7d7c44f2689e186555c925279646d94f937e34498364a6f0e8665e4",
+        "size_in_bytes": 7159
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Outline.pm",
+        "path_type": "hardlink",
+        "sha256": "ff1dcdb0c69ee88660962ee6a4c13994f4ca954ba60dcc16a6ec725785740536",
+        "sha256_in_prefix": "ff1dcdb0c69ee88660962ee6a4c13994f4ca954ba60dcc16a6ec725785740536",
+        "size_in_bytes": 8562
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Outlines.pm",
+        "path_type": "hardlink",
+        "sha256": "7e2ca742685037eb7016969c12cfdc81431aefde7ee64fc7c8a4a754b98e78d1",
+        "sha256_in_prefix": "7e2ca742685037eb7016969c12cfdc81431aefde7ee64fc7c8a4a754b98e78d1",
+        "size_in_bytes": 306
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Page.pm",
+        "path_type": "hardlink",
+        "sha256": "58adc63036665f039d182b05c31a6c0bc998fe0b5978c10a6ac4fe68d54b74ee",
+        "sha256_in_prefix": "58adc63036665f039d182b05c31a6c0bc998fe0b5978c10a6ac4fe68d54b74ee",
+        "size_in_bytes": 8897
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource.pm",
+        "path_type": "hardlink",
+        "sha256": "0333aea40963cf3b03cc80114b77a5848c9a3862dbfaf9824b3553267363cd45",
+        "sha256_in_prefix": "0333aea40963cf3b03cc80114b77a5848c9a3862dbfaf9824b3553267363cd45",
+        "size_in_bytes": 1308
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/BaseFont.pm",
+        "path_type": "hardlink",
+        "sha256": "6c9a7b2875e9a83cfed11340e2a96ad98bc33cb5ba4b2ad7584053d1fa01596c",
+        "sha256_in_prefix": "6c9a7b2875e9a83cfed11340e2a96ad98bc33cb5ba4b2ad7584053d1fa01596c",
+        "size_in_bytes": 17510
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont.pm",
+        "path_type": "hardlink",
+        "sha256": "89e8c65e66404258455b33310bf87619d27a3fbd006b9adfd4364ad7408f172d",
+        "sha256_in_prefix": "89e8c65e66404258455b33310bf87619d27a3fbd006b9adfd4364ad7408f172d",
+        "size_in_bytes": 7419
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont.pm",
+        "path_type": "hardlink",
+        "sha256": "0cd98d952c44d14f4b3488dfe11cbf490adeebbfbe406ba6043a16bb3871e8a3",
+        "sha256_in_prefix": "0cd98d952c44d14f4b3488dfe11cbf490adeebbfbe406ba6043a16bb3871e8a3",
+        "size_in_bytes": 9692
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/adobemingstdlightacro.data",
+        "path_type": "hardlink",
+        "sha256": "921181a7cc6edf2a72ae489f6b9a94c0e5c934b71115434fd552008132de9318",
+        "sha256_in_prefix": "921181a7cc6edf2a72ae489f6b9a94c0e5c934b71115434fd552008132de9318",
+        "size_in_bytes": 247405
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/adobemyungjostdmediumacro.data",
+        "path_type": "hardlink",
+        "sha256": "581697595c795addaf9c118e0379a8876928d89339d8bf56ae51cbe2d144a421",
+        "sha256_in_prefix": "581697595c795addaf9c118e0379a8876928d89339d8bf56ae51cbe2d144a421",
+        "size_in_bytes": 278186
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/adobesongstdlightacro.data",
+        "path_type": "hardlink",
+        "sha256": "fc1ffefdac6813846e65b04307d70007dd6c7f53cd4251817a73520921899aca",
+        "sha256_in_prefix": "fc1ffefdac6813846e65b04307d70007dd6c7f53cd4251817a73520921899aca",
+        "size_in_bytes": 772180
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/kozgopromediumacro.data",
+        "path_type": "hardlink",
+        "sha256": "0c9fb08f89b3742912157478542c05623c692f6ced495c36b3ba905e06d7f216",
+        "sha256_in_prefix": "0c9fb08f89b3742912157478542c05623c692f6ced495c36b3ba905e06d7f216",
+        "size_in_bytes": 21508
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CJKFont/kozminproregularacro.data",
+        "path_type": "hardlink",
+        "sha256": "e27713534852eed0385eab5d2eff783c80c4136058472f2ee3271175a95d2a30",
+        "sha256_in_prefix": "e27713534852eed0385eab5d2eff783c80c4136058472f2ee3271175a95d2a30",
+        "size_in_bytes": 21556
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/japanese.cmap",
+        "path_type": "hardlink",
+        "sha256": "13cb3cd16c9ef81dfa4ede94d025e14b4aa757b9943518f666af10abb961c910",
+        "sha256_in_prefix": "13cb3cd16c9ef81dfa4ede94d025e14b4aa757b9943518f666af10abb961c910",
+        "size_in_bytes": 4629356
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/korean.cmap",
+        "path_type": "hardlink",
+        "sha256": "45ac1fe90a94dd675e5ad2a26dbde9da0b65bed0c2469ef05150ee7d3ef7ae63",
+        "sha256_in_prefix": "45ac1fe90a94dd675e5ad2a26dbde9da0b65bed0c2469ef05150ee7d3ef7ae63",
+        "size_in_bytes": 2817142
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/simplified.cmap",
+        "path_type": "hardlink",
+        "sha256": "b05d9f6d22fcfb805afb9d8b96a6934738a8f2599640be428ed71e9d147146f9",
+        "sha256_in_prefix": "b05d9f6d22fcfb805afb9d8b96a6934738a8f2599640be428ed71e9d147146f9",
+        "size_in_bytes": 4845677
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/CMap/traditional.cmap",
+        "path_type": "hardlink",
+        "sha256": "fbd6c425b993e90b43403b873731c04ad65da98b34d5b9acb54ff5df58b0485c",
+        "sha256_in_prefix": "fbd6c425b993e90b43403b873731c04ad65da98b34d5b9acb54ff5df58b0485c",
+        "size_in_bytes": 3431298
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/TrueType.pm",
+        "path_type": "hardlink",
+        "sha256": "223c1df1ce4c019aef329f79d9bfd1c69af3662f4aa55f30e3878ed70b271d18",
+        "sha256_in_prefix": "223c1df1ce4c019aef329f79d9bfd1c69af3662f4aa55f30e3878ed70b271d18",
+        "size_in_bytes": 4251
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/CIDFont/TrueType/FontFile.pm",
+        "path_type": "hardlink",
+        "sha256": "2d09f373e5a2dbdd1f0933c361c08d6ce95c7d3d4f3569c9452e971f8014c94b",
+        "sha256_in_prefix": "2d09f373e5a2dbdd1f0933c361c08d6ce95c7d3d4f3569c9452e971f8014c94b",
+        "size_in_bytes": 19527
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace.pm",
+        "path_type": "hardlink",
+        "sha256": "0bc2c724b52023c91dd6e374026157615e34ba031569518fb017756d9ac5d98e",
+        "sha256_in_prefix": "0bc2c724b52023c91dd6e374026157615e34ba031569518fb017756d9ac5d98e",
+        "size_in_bytes": 1365
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/DeviceN.pm",
+        "path_type": "hardlink",
+        "sha256": "9386b038b9bfcbd659efced7044c5707bbfe769709e2f6647104b3cefeafad6e",
+        "sha256_in_prefix": "9386b038b9bfcbd659efced7044c5707bbfe769709e2f6647104b3cefeafad6e",
+        "size_in_bytes": 2650
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed.pm",
+        "path_type": "hardlink",
+        "sha256": "fcef71b467a88244d49d19bca799d8e684383eddc6944c7dd9d8378888ace4ac",
+        "sha256_in_prefix": "fcef71b467a88244d49d19bca799d8e684383eddc6944c7dd9d8378888ace4ac",
+        "size_in_bytes": 2916
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed/ACTFile.pm",
+        "path_type": "hardlink",
+        "sha256": "d5db6dc196a779dd84e354731bc3e23cf62cac29a704f64c6eb777dcf8ab1f2e",
+        "sha256_in_prefix": "d5db6dc196a779dd84e354731bc3e23cf62cac29a704f64c6eb777dcf8ab1f2e",
+        "size_in_bytes": 1669
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed/Hue.pm",
+        "path_type": "hardlink",
+        "sha256": "4ef8a92cc90cd1aac094e4160762f94e6d4fad6fb24028b559334c31f61a1cdd",
+        "sha256_in_prefix": "4ef8a92cc90cd1aac094e4160762f94e6d4fad6fb24028b559334c31f61a1cdd",
+        "size_in_bytes": 1393
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Indexed/WebColor.pm",
+        "path_type": "hardlink",
+        "sha256": "5301185467388bcf5a26a94d5b375cfa5489a7d1a552132bc22e33e3e138daaa",
+        "sha256_in_prefix": "5301185467388bcf5a26a94d5b375cfa5489a7d1a552132bc22e33e3e138daaa",
+        "size_in_bytes": 1891
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ColorSpace/Separation.pm",
+        "path_type": "hardlink",
+        "sha256": "703c2d6c3c63fab07d013c25f127bdf05b2335464d84fef092ace68653efa8c5",
+        "sha256_in_prefix": "703c2d6c3c63fab07d013c25f127bdf05b2335464d84fef092ace68653efa8c5",
+        "size_in_bytes": 4036
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Colors.pm",
+        "path_type": "hardlink",
+        "sha256": "1fdc80dbdb65ad2bccc08a0f1ee52531e2981db467e7edc8a63f7ec3b1c56805",
+        "sha256_in_prefix": "1fdc80dbdb65ad2bccc08a0f1ee52531e2981db467e7edc8a63f7ec3b1c56805",
+        "size_in_bytes": 29469
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/ExtGState.pm",
+        "path_type": "hardlink",
+        "sha256": "ba091de25cba2a85c5f64f00dee7d85b4c47d13fb26a2158863c565f51eebcb3",
+        "sha256_in_prefix": "ba091de25cba2a85c5f64f00dee7d85b4c47d13fb26a2158863c565f51eebcb3",
+        "size_in_bytes": 5650
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font.pm",
+        "path_type": "hardlink",
+        "sha256": "b92c3cb73905e4cd7eeca0d6bfa09ccffd5b91d076e1c087c07a6e912733bf98",
+        "sha256_in_prefix": "b92c3cb73905e4cd7eeca0d6bfa09ccffd5b91d076e1c087c07a6e912733bf98",
+        "size_in_bytes": 5623
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/BdFont.pm",
+        "path_type": "hardlink",
+        "sha256": "f7dd515e39d17154d54eaeaf909811a8526375afb3f2c69d079668616b889ea4",
+        "sha256_in_prefix": "f7dd515e39d17154d54eaeaf909811a8526375afb3f2c69d079668616b889ea4",
+        "size_in_bytes": 8220
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont.pm",
+        "path_type": "hardlink",
+        "sha256": "75c81830838ccc53f38a5efae35e78abacf20e7adfc3a3f42eb07d926623128a",
+        "sha256_in_prefix": "75c81830838ccc53f38a5efae35e78abacf20e7adfc3a3f42eb07d926623128a",
+        "size_in_bytes": 9713
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/bankgothic.pm",
+        "path_type": "hardlink",
+        "sha256": "a53e7ed55b9d0d53779db67d45b610bd7c90c1ef2e18186138ac733df3fe8d7d",
+        "sha256_in_prefix": "a53e7ed55b9d0d53779db67d45b610bd7c90c1ef2e18186138ac733df3fe8d7d",
+        "size_in_bytes": 34011
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courier.pm",
+        "path_type": "hardlink",
+        "sha256": "6f04802e9baabd36c6a372a8a1a62829306e374dd1436beb74f5dae370906ba7",
+        "sha256_in_prefix": "6f04802e9baabd36c6a372a8a1a62829306e374dd1436beb74f5dae370906ba7",
+        "size_in_bytes": 44056
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courierbold.pm",
+        "path_type": "hardlink",
+        "sha256": "10721996825b70d8b0700be9259fe87bea738ee180b41d8c06fd14e3e0200f05",
+        "sha256_in_prefix": "10721996825b70d8b0700be9259fe87bea738ee180b41d8c06fd14e3e0200f05",
+        "size_in_bytes": 34133
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courierboldoblique.pm",
+        "path_type": "hardlink",
+        "sha256": "fc1d5313352bb916fff4af98a3ee3fe06ea936249de96895fc10712c3adcccbf",
+        "sha256_in_prefix": "fc1d5313352bb916fff4af98a3ee3fe06ea936249de96895fc10712c3adcccbf",
+        "size_in_bytes": 34150
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/courieroblique.pm",
+        "path_type": "hardlink",
+        "sha256": "15bb0e3ea9af31139406de698d01e40654a0fc28415754b72b2773acf7087b77",
+        "sha256_in_prefix": "15bb0e3ea9af31139406de698d01e40654a0fc28415754b72b2773acf7087b77",
+        "size_in_bytes": 34139
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgia.pm",
+        "path_type": "hardlink",
+        "sha256": "765391f326004735e1c7a6130c7eb6d56500e9b287c0cf801ce48ca405b6c45f",
+        "sha256_in_prefix": "765391f326004735e1c7a6130c7eb6d56500e9b287c0cf801ce48ca405b6c45f",
+        "size_in_bytes": 54780
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgiabold.pm",
+        "path_type": "hardlink",
+        "sha256": "edfdaa28d8d2c35b6601e9e324d894406edba49101440384aaefa433aa92b239",
+        "sha256_in_prefix": "edfdaa28d8d2c35b6601e9e324d894406edba49101440384aaefa433aa92b239",
+        "size_in_bytes": 54793
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgiabolditalic.pm",
+        "path_type": "hardlink",
+        "sha256": "2906d39176614efcd607b3d4306b117d1022e159460de4cea1df207bd6c20c54",
+        "sha256_in_prefix": "2906d39176614efcd607b3d4306b117d1022e159460de4cea1df207bd6c20c54",
+        "size_in_bytes": 54809
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/georgiaitalic.pm",
+        "path_type": "hardlink",
+        "sha256": "7617df11ed75cfe2627eb1387a0c87e5f658d570bb2e03c4c9fa0dba4447b672",
+        "sha256_in_prefix": "7617df11ed75cfe2627eb1387a0c87e5f658d570bb2e03c4c9fa0dba4447b672",
+        "size_in_bytes": 54794
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helvetica.pm",
+        "path_type": "hardlink",
+        "sha256": "783aa1ca3739a4297417cffb5036bc028645da250a1a1cbf982e24a3de823aac",
+        "sha256_in_prefix": "783aa1ca3739a4297417cffb5036bc028645da250a1a1cbf982e24a3de823aac",
+        "size_in_bytes": 34128
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helveticabold.pm",
+        "path_type": "hardlink",
+        "sha256": "099006f60aba949b3ffc616c3a6dd26ebd6cf5c18db6f3f2b8cab14c7f12a612",
+        "sha256_in_prefix": "099006f60aba949b3ffc616c3a6dd26ebd6cf5c18db6f3f2b8cab14c7f12a612",
+        "size_in_bytes": 34139
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helveticaboldoblique.pm",
+        "path_type": "hardlink",
+        "sha256": "f378c6d0fe3e60097d95f41802b1e618f5d1ccc817fc9773860404eca5ef41ff",
+        "sha256_in_prefix": "f378c6d0fe3e60097d95f41802b1e618f5d1ccc817fc9773860404eca5ef41ff",
+        "size_in_bytes": 34126
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/helveticaoblique.pm",
+        "path_type": "hardlink",
+        "sha256": "2371623def982982ef948b2235446dda5df8a46163ec74b60ce7b7bda16a40d6",
+        "sha256_in_prefix": "2371623def982982ef948b2235446dda5df8a46163ec74b60ce7b7bda16a40d6",
+        "size_in_bytes": 34116
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/symbol.pm",
+        "path_type": "hardlink",
+        "sha256": "9eff5dd8eac0d54807bd86fbc9065c55e08be2d2f2b2c4b9e5ab2cf1583d1d6b",
+        "sha256_in_prefix": "9eff5dd8eac0d54807bd86fbc9065c55e08be2d2f2b2c4b9e5ab2cf1583d1d6b",
+        "size_in_bytes": 31542
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesbold.pm",
+        "path_type": "hardlink",
+        "sha256": "385ccc772dfe1c398fa74ad1d4b7bdcaf8c554f8b78e1e6fd222295df395e0fd",
+        "sha256_in_prefix": "385ccc772dfe1c398fa74ad1d4b7bdcaf8c554f8b78e1e6fd222295df395e0fd",
+        "size_in_bytes": 34130
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesbolditalic.pm",
+        "path_type": "hardlink",
+        "sha256": "3714da9e3b2e905835df9a4aae9b5f7d3c2853aca8ac3fc15db1cbbe6523f329",
+        "sha256_in_prefix": "3714da9e3b2e905835df9a4aae9b5f7d3c2853aca8ac3fc15db1cbbe6523f329",
+        "size_in_bytes": 34116
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesitalic.pm",
+        "path_type": "hardlink",
+        "sha256": "da444912987326154ed26f2e1db7d7c1993654d2f8296fcb284a9c93b367bf5f",
+        "sha256_in_prefix": "da444912987326154ed26f2e1db7d7c1993654d2f8296fcb284a9c93b367bf5f",
+        "size_in_bytes": 34153
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/timesroman.pm",
+        "path_type": "hardlink",
+        "sha256": "84810bfdcf15677cb7baecd230dbdf57641a9ab4a7ce7eb4ceaef737502aa578",
+        "sha256_in_prefix": "84810bfdcf15677cb7baecd230dbdf57641a9ab4a7ce7eb4ceaef737502aa578",
+        "size_in_bytes": 30061
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchet.pm",
+        "path_type": "hardlink",
+        "sha256": "149528639a99c88334d24d7e54cd0d6008b1434b0f372f93df47e1a0706a94fa",
+        "sha256_in_prefix": "149528639a99c88334d24d7e54cd0d6008b1434b0f372f93df47e1a0706a94fa",
+        "size_in_bytes": 37625
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchetbold.pm",
+        "path_type": "hardlink",
+        "sha256": "d35d74d9ced079c907e93a0381eda1e27740594043c11652219f6610caa6386f",
+        "sha256_in_prefix": "d35d74d9ced079c907e93a0381eda1e27740594043c11652219f6610caa6386f",
+        "size_in_bytes": 37639
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchetbolditalic.pm",
+        "path_type": "hardlink",
+        "sha256": "0e8eafd106a6d0e4d56f25d465d76be93b091714c703e232f5db9e598eb82acf",
+        "sha256_in_prefix": "0e8eafd106a6d0e4d56f25d465d76be93b091714c703e232f5db9e598eb82acf",
+        "size_in_bytes": 41135
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/trebuchetitalic.pm",
+        "path_type": "hardlink",
+        "sha256": "f5fd1746b48d346c068d1497f73f4b5d9d78240f818abdb47c5e9d08b701ee49",
+        "sha256_in_prefix": "f5fd1746b48d346c068d1497f73f4b5d9d78240f818abdb47c5e9d08b701ee49",
+        "size_in_bytes": 41122
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdana.pm",
+        "path_type": "hardlink",
+        "sha256": "d61a277e840af16c5ebc8a7ac762665d75a4aa5d52eeb03aed72cc3535a1e4b4",
+        "sha256_in_prefix": "d61a277e840af16c5ebc8a7ac762665d75a4aa5d52eeb03aed72cc3535a1e4b4",
+        "size_in_bytes": 53641
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdanabold.pm",
+        "path_type": "hardlink",
+        "sha256": "de63509daaa03948fa00639b2b2cb81f029c1fbf64bac5e48d2fb6023a4a233f",
+        "sha256_in_prefix": "de63509daaa03948fa00639b2b2cb81f029c1fbf64bac5e48d2fb6023a4a233f",
+        "size_in_bytes": 53894
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdanabolditalic.pm",
+        "path_type": "hardlink",
+        "sha256": "d527f58ae712dbd9eed62ab8a03814cfc1c5f934d6fb6661dacff6b2488a434d",
+        "sha256_in_prefix": "d527f58ae712dbd9eed62ab8a03814cfc1c5f934d6fb6661dacff6b2488a434d",
+        "size_in_bytes": 53911
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/verdanaitalic.pm",
+        "path_type": "hardlink",
+        "sha256": "e9643e886382e6467c7abad3e6d5ba86182406895bd5e9f5857d925d4cb1e754",
+        "sha256_in_prefix": "e9643e886382e6467c7abad3e6d5ba86182406895bd5e9f5857d925d4cb1e754",
+        "size_in_bytes": 53837
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/webdings.pm",
+        "path_type": "hardlink",
+        "sha256": "01d655d6cc8d31e6f48ba37629f86dc9a290eee7573b2e2b31da477ef05bdda2",
+        "sha256_in_prefix": "01d655d6cc8d31e6f48ba37629f86dc9a290eee7573b2e2b31da477ef05bdda2",
+        "size_in_bytes": 37901
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/wingdings.pm",
+        "path_type": "hardlink",
+        "sha256": "5963d50bcd24bccfa0c6042d094f63e5332b6d2a92cdda3050ff1ef2d77b3f9f",
+        "sha256_in_prefix": "5963d50bcd24bccfa0c6042d094f63e5332b6d2a92cdda3050ff1ef2d77b3f9f",
+        "size_in_bytes": 33783
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/CoreFont/zapfdingbats.pm",
+        "path_type": "hardlink",
+        "sha256": "b1cf8d4930408dc9521668a3b4e42de859f1fb46d92a3410c628c5a15dc67640",
+        "sha256_in_prefix": "b1cf8d4930408dc9521668a3b4e42de859f1fb46d92a3410c628c5a15dc67640",
+        "size_in_bytes": 25945
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/Postscript.pm",
+        "path_type": "hardlink",
+        "sha256": "937ba681388d4d87e0c331fb5b48df4ef66825bd3a1835cc24fb0c3c26029402",
+        "sha256_in_prefix": "937ba681388d4d87e0c331fb5b48df4ef66825bd3a1835cc24fb0c3c26029402",
+        "size_in_bytes": 14378
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Font/SynFont.pm",
+        "path_type": "hardlink",
+        "sha256": "560d9d1d69af8651613f3b79e5c492033db76bc992032e6d61fbd8e6af35b9ee",
+        "sha256_in_prefix": "560d9d1d69af8651613f3b79e5c492033db76bc992032e6d61fbd8e6af35b9ee",
+        "size_in_bytes": 7683
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Glyphs.pm",
+        "path_type": "hardlink",
+        "sha256": "1a88dc6707aed0efd79fe1937719d3b351e802962a55560b0323be20005b8642",
+        "sha256_in_prefix": "1a88dc6707aed0efd79fe1937719d3b351e802962a55560b0323be20005b8642",
+        "size_in_bytes": 280116
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/PaperSizes.pm",
+        "path_type": "hardlink",
+        "sha256": "955026253e7d488fd8545cf30f80f90d1f0c8ebac6be3071f46fe50a98a98e5d",
+        "sha256_in_prefix": "955026253e7d488fd8545cf30f80f90d1f0c8ebac6be3071f46fe50a98a98e5d",
+        "size_in_bytes": 1500
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Pattern.pm",
+        "path_type": "hardlink",
+        "sha256": "645600bbf8d654cfa399bdb99b319a74686130465073e59ef283ec8798b9f110",
+        "sha256_in_prefix": "645600bbf8d654cfa399bdb99b319a74686130465073e59ef283ec8798b9f110",
+        "size_in_bytes": 281
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/Shading.pm",
+        "path_type": "hardlink",
+        "sha256": "1f81b5d0778f7cd5171f03077d4f6dfd53112c32d3829b7132d79aeaaf4c485c",
+        "sha256_in_prefix": "1f81b5d0778f7cd5171f03077d4f6dfd53112c32d3829b7132d79aeaaf4c485c",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/UniFont.pm",
+        "path_type": "hardlink",
+        "sha256": "8eb7a6502e7baf310fe9550c30c080e1b81e52c470929c7daa194317d137cc21",
+        "sha256_in_prefix": "8eb7a6502e7baf310fe9550c30c080e1b81e52c470929c7daa194317d137cc21",
+        "size_in_bytes": 5803
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject.pm",
+        "path_type": "hardlink",
+        "sha256": "f9f26f554a83cb0d566b873e0082562b04fb45769665c6120887b8823a91b7c9",
+        "sha256_in_prefix": "f9f26f554a83cb0d566b873e0082562b04fb45769665c6120887b8823a91b7c9",
+        "size_in_bytes": 778
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form.pm",
+        "path_type": "hardlink",
+        "sha256": "58310821d85c044c87fc42ea12ed9a299ff32a2d71c51b67574d3ce4982e0f26",
+        "sha256_in_prefix": "58310821d85c044c87fc42ea12ed9a299ff32a2d71c51b67574d3ce4982e0f26",
+        "size_in_bytes": 1790
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode.pm",
+        "path_type": "hardlink",
+        "sha256": "686c3a247065cdab8bc85830864b0d3348e0a575694244e62cbb96a8ed4d8bd0",
+        "sha256_in_prefix": "686c3a247065cdab8bc85830864b0d3348e0a575694244e62cbb96a8ed4d8bd0",
+        "size_in_bytes": 5650
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/codabar.pm",
+        "path_type": "hardlink",
+        "sha256": "fe2a9a9caf51aea6fbb774207c0797bf461eb1078ae9bef8540be0dfad8bccc4",
+        "sha256_in_prefix": "fe2a9a9caf51aea6fbb774207c0797bf461eb1078ae9bef8540be0dfad8bccc4",
+        "size_in_bytes": 788
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/code128.pm",
+        "path_type": "hardlink",
+        "sha256": "0a6844e9c03abed5e583a08fab6dd5491fb55c57b16a9b4a5f50166579e1bece",
+        "sha256_in_prefix": "0a6844e9c03abed5e583a08fab6dd5491fb55c57b16a9b4a5f50166579e1bece",
+        "size_in_bytes": 7479
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/code3of9.pm",
+        "path_type": "hardlink",
+        "sha256": "375dce3f94dc30f2f359282babaa9aa445e4c75683133ccdbf41e6d38a89dce9",
+        "sha256_in_prefix": "375dce3f94dc30f2f359282babaa9aa445e4c75683133ccdbf41e6d38a89dce9",
+        "size_in_bytes": 3537
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/ean13.pm",
+        "path_type": "hardlink",
+        "sha256": "379a07b65274f3d86ab2bb181e4471a5ec6744949915276da44996de8959c7d2",
+        "sha256_in_prefix": "379a07b65274f3d86ab2bb181e4471a5ec6744949915276da44996de8959c7d2",
+        "size_in_bytes": 1834
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/BarCode/int2of5.pm",
+        "path_type": "hardlink",
+        "sha256": "b21853bdc8708380f11e725b5e860b8d0061acb0f1f9dbd1023eb1409e9c5813",
+        "sha256_in_prefix": "b21853bdc8708380f11e725b5e860b8d0061acb0f1f9dbd1023eb1409e9c5813",
+        "size_in_bytes": 1434
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Form/Hybrid.pm",
+        "path_type": "hardlink",
+        "sha256": "b39809eaddc377f111904fd956603f5e59568dad1ed24ec796176edd7b10686c",
+        "sha256_in_prefix": "b39809eaddc377f111904fd956603f5e59568dad1ed24ec796176edd7b10686c",
+        "size_in_bytes": 1283
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image.pm",
+        "path_type": "hardlink",
+        "sha256": "ee6bbae126b22cd4addc08901c7900cf625c3f5f07639c3fa47b63f647c82f2d",
+        "sha256_in_prefix": "ee6bbae126b22cd4addc08901c7900cf625c3f5f07639c3fa47b63f647c82f2d",
+        "size_in_bytes": 2691
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/GD.pm",
+        "path_type": "hardlink",
+        "sha256": "97a279e683abb6793ea256a3a9baaa74a76f0315d1613d554b5870f6b653df2a",
+        "sha256_in_prefix": "97a279e683abb6793ea256a3a9baaa74a76f0315d1613d554b5870f6b653df2a",
+        "size_in_bytes": 1484
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/GIF.pm",
+        "path_type": "hardlink",
+        "sha256": "9f7e6fc13b7dfd81ee295e3c4fd76bc9680f2c8189a7b0bad713cd6957db6c7a",
+        "sha256_in_prefix": "9f7e6fc13b7dfd81ee295e3c4fd76bc9680f2c8189a7b0bad713cd6957db6c7a",
+        "size_in_bytes": 6387
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/JPEG.pm",
+        "path_type": "hardlink",
+        "sha256": "650511f80c0c8caf7d530fab6e94feb0be0cada963f68d72be88a2e6762eb438",
+        "sha256_in_prefix": "650511f80c0c8caf7d530fab6e94feb0be0cada963f68d72be88a2e6762eb438",
+        "size_in_bytes": 2189
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/PNG.pm",
+        "path_type": "hardlink",
+        "sha256": "ab4495a84e41e0270c7125e865ba676ea9154be729648efdd439daf32de544ee",
+        "sha256_in_prefix": "ab4495a84e41e0270c7125e865ba676ea9154be729648efdd439daf32de544ee",
+        "size_in_bytes": 26450
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/PNM.pm",
+        "path_type": "hardlink",
+        "sha256": "8e509daab682e571594dcfec562c69fa7507b89d206f1494035ed2fa61a8eb83",
+        "sha256_in_prefix": "8e509daab682e571594dcfec562c69fa7507b89d206f1494035ed2fa61a8eb83",
+        "size_in_bytes": 4398
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/TIFF.pm",
+        "path_type": "hardlink",
+        "sha256": "968dd13297dca11059816953523c0e4e2c7c85d9990d6101813f87743fafb0b0",
+        "sha256_in_prefix": "968dd13297dca11059816953523c0e4e2c7c85d9990d6101813f87743fafb0b0",
+        "size_in_bytes": 8903
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/XObject/Image/TIFF/File.pm",
+        "path_type": "hardlink",
+        "sha256": "2142988a59e00f761e357d4afece47aac673f053e820730d650858b55456d20c",
+        "sha256_in_prefix": "2142988a59e00f761e357d4afece47aac673f053e820730d650858b55456d20c",
+        "size_in_bytes": 9874
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Resource/uniglyph.txt",
+        "path_type": "hardlink",
+        "sha256": "d21183bbfe1cd6e1755d7e19711d53169e0fa14320011bae6a90084cdfbbc527",
+        "sha256_in_prefix": "d21183bbfe1cd6e1755d7e19711d53169e0fa14320011bae6a90084cdfbbc527",
+        "size_in_bytes": 550967
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/UniWrap.pm",
+        "path_type": "hardlink",
+        "sha256": "92424f2f660a18b33118a23592c2c5e125f04074c5a129688606cfa3c221ef8f",
+        "sha256_in_prefix": "92424f2f660a18b33118a23592c2c5e125f04074c5a129688606cfa3c221ef8f",
+        "size_in_bytes": 9341
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Util.pm",
+        "path_type": "hardlink",
+        "sha256": "5441455c4405e633da5f7a9593e6ad7dd4c3376caabc9a9cac350cc38a22d050",
+        "sha256_in_prefix": "5441455c4405e633da5f7a9593e6ad7dd4c3376caabc9a9cac350cc38a22d050",
+        "size_in_bytes": 17010
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/PDF/API2/Win32.pm",
+        "path_type": "hardlink",
+        "sha256": "bebddaba11e8b16d333d15fb384f65b7c6fd18b9911fca6cf5b2aad4e6624def",
+        "sha256_in_prefix": "bebddaba11e8b16d333d15fb384f65b7c6fd18b9911fca6cf5b2aad4e6624def",
+        "size_in_bytes": 2104
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/PDF/API2/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "ed819638f8f1764618886d19f3e216994cf11dd8fd9f882620d3811886c7afc5",
+        "sha256_in_prefix": "684e8ff2b687c1bb28513575d30d91f71f42cd8d56717e22f0bed3011d8ba707",
+        "size_in_bytes": 23456
+      },
+      {
+        "_path": "man/man3/PDF::API2.3",
+        "path_type": "hardlink",
+        "sha256": "8320a13f934eb216a1c2f463293b7a88b3c04c9f283306981b82e660d10da2d3",
+        "sha256_in_prefix": "8320a13f934eb216a1c2f463293b7a88b3c04c9f283306981b82e660d10da2d3",
+        "size_in_bytes": 38218
+      },
+      {
+        "_path": "man/man3/PDF::API2::Annotation.3",
+        "path_type": "hardlink",
+        "sha256": "8ab78ff12cd6797bc535618964d46e9aea6e551257c366f96b259ba7e7079905",
+        "sha256_in_prefix": "8ab78ff12cd6797bc535618964d46e9aea6e551257c366f96b259ba7e7079905",
+        "size_in_bytes": 9527
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Array.3",
+        "path_type": "hardlink",
+        "sha256": "c113f266fc24f3d17ed6d1329f89be503002489fe2a9ad5b1b23fa8df74a0456",
+        "sha256_in_prefix": "c113f266fc24f3d17ed6d1329f89be503002489fe2a9ad5b1b23fa8df74a0456",
+        "size_in_bytes": 3660
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Bool.3",
+        "path_type": "hardlink",
+        "sha256": "8f866ecf5aff79a6ef8d1d860d29216c032af9a1b86de673f0e5c5b7d3de7bc4",
+        "sha256_in_prefix": "8f866ecf5aff79a6ef8d1d860d29216c032af9a1b86de673f0e5c5b7d3de7bc4",
+        "size_in_bytes": 2535
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Dict.3",
+        "path_type": "hardlink",
+        "sha256": "d8f0eeb8d15bd1254380ca62d0153b97adf8934c4649c8b68e304fbed0ab802e",
+        "sha256_in_prefix": "d8f0eeb8d15bd1254380ca62d0153b97adf8934c4649c8b68e304fbed0ab802e",
+        "size_in_bytes": 4390
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::File.3",
+        "path_type": "hardlink",
+        "sha256": "43d20d124bc1944df0c4ad500623b08f7a30d28163b379a0323353ef3b9ef87d",
+        "sha256_in_prefix": "43d20d124bc1944df0c4ad500623b08f7a30d28163b379a0323353ef3b9ef87d",
+        "size_in_bytes": 15130
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Filter.3",
+        "path_type": "hardlink",
+        "sha256": "bc481b0f87821174a00266635d31f38905b56e6001f32243d6b5eb3572a49fa6",
+        "sha256_in_prefix": "bc481b0f87821174a00266635d31f38905b56e6001f32243d6b5eb3572a49fa6",
+        "size_in_bytes": 4230
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Name.3",
+        "path_type": "hardlink",
+        "sha256": "d79310f0687f28f17040e270d93a7be9957c5d6ec57d233e2b0f72642d4b3196",
+        "sha256_in_prefix": "d79310f0687f28f17040e270d93a7be9957c5d6ec57d233e2b0f72642d4b3196",
+        "size_in_bytes": 3899
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Null.3",
+        "path_type": "hardlink",
+        "sha256": "ab43c35e0875a5024bd813c594ae976733162ad2339a6b959384560122058964",
+        "sha256_in_prefix": "ab43c35e0875a5024bd813c594ae976733162ad2339a6b959384560122058964",
+        "size_in_bytes": 3039
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Number.3",
+        "path_type": "hardlink",
+        "sha256": "9b954b85c7fdfd6043b0cbe72f7cc89e5ac2bd7bb42b95fd002dd7dda7a0f3ec",
+        "sha256_in_prefix": "9b954b85c7fdfd6043b0cbe72f7cc89e5ac2bd7bb42b95fd002dd7dda7a0f3ec",
+        "size_in_bytes": 2578
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Objind.3",
+        "path_type": "hardlink",
+        "sha256": "0a5baa0b79bca06d552abf03b5430d5f6f12916bfcb76251f16a19b24f8f3481",
+        "sha256_in_prefix": "0a5baa0b79bca06d552abf03b5430d5f6f12916bfcb76251f16a19b24f8f3481",
+        "size_in_bytes": 7116
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Page.3",
+        "path_type": "hardlink",
+        "sha256": "2301ef56bf655d423c33660e1b96b3befb6aba3a9056b64caeca241fffaf2929",
+        "sha256_in_prefix": "2301ef56bf655d423c33660e1b96b3befb6aba3a9056b64caeca241fffaf2929",
+        "size_in_bytes": 3640
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Pages.3",
+        "path_type": "hardlink",
+        "sha256": "e5632d5a2476dee7d88da442931acfb07701e7b01aa482205d0397ee85111c41",
+        "sha256_in_prefix": "e5632d5a2476dee7d88da442931acfb07701e7b01aa482205d0397ee85111c41",
+        "size_in_bytes": 5233
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::String.3",
+        "path_type": "hardlink",
+        "sha256": "f7695292fc0090fe79842f8125c0133c1309f858bf0c119eec17afb447edc0dc",
+        "sha256_in_prefix": "f7695292fc0090fe79842f8125c0133c1309f858bf0c119eec17afb447edc0dc",
+        "size_in_bytes": 3483
+      },
+      {
+        "_path": "man/man3/PDF::API2::Basic::PDF::Utils.3",
+        "path_type": "hardlink",
+        "sha256": "98c139a0b3222c4afa8da5a7ee84339e020cb1d5de9b0a70f8ed94d61c29b13d",
+        "sha256_in_prefix": "98c139a0b3222c4afa8da5a7ee84339e020cb1d5de9b0a70f8ed94d61c29b13d",
+        "size_in_bytes": 3145
+      },
+      {
+        "_path": "man/man3/PDF::API2::Content.3",
+        "path_type": "hardlink",
+        "sha256": "3a8bcd2e689d302c93b09cb70dc181adc950b16fd8804419aded36b0b4fb723f",
+        "sha256_in_prefix": "3a8bcd2e689d302c93b09cb70dc181adc950b16fd8804419aded36b0b4fb723f",
+        "size_in_bytes": 27425
+      },
+      {
+        "_path": "man/man3/PDF::API2::Lite.3",
+        "path_type": "hardlink",
+        "sha256": "cf511524fcfd3ce41f5c30c5011f9f846675df01c2583b2df56ff882c4b44384",
+        "sha256_in_prefix": "cf511524fcfd3ce41f5c30c5011f9f846675df01c2583b2df56ff882c4b44384",
+        "size_in_bytes": 13209
+      },
+      {
+        "_path": "man/man3/PDF::API2::NamedDestination.3",
+        "path_type": "hardlink",
+        "sha256": "904eec2d091bc236c3b8cdf0ff9d086a109b7d0d1c2bb19be278a5a2e9bbb4be",
+        "sha256_in_prefix": "904eec2d091bc236c3b8cdf0ff9d086a109b7d0d1c2bb19be278a5a2e9bbb4be",
+        "size_in_bytes": 7389
+      },
+      {
+        "_path": "man/man3/PDF::API2::Outline.3",
+        "path_type": "hardlink",
+        "sha256": "d4b01677e513e4499fd15acb37dfd6036fa3d25f98b90007097c08dc33d72463",
+        "sha256_in_prefix": "d4b01677e513e4499fd15acb37dfd6036fa3d25f98b90007097c08dc33d72463",
+        "size_in_bytes": 7689
+      },
+      {
+        "_path": "man/man3/PDF::API2::Page.3",
+        "path_type": "hardlink",
+        "sha256": "0c95dc330e149bc6ffe1419c84349c005ce6abcb050bce75fe9e572060cd0083",
+        "sha256_in_prefix": "0c95dc330e149bc6ffe1419c84349c005ce6abcb050bce75fe9e572060cd0083",
+        "size_in_bytes": 8617
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource.3",
+        "path_type": "hardlink",
+        "sha256": "e5634cf5e086975eff056d363cb9655ac3a818be38b6938fde8678ad13c07d8d",
+        "sha256_in_prefix": "e5634cf5e086975eff056d363cb9655ac3a818be38b6938fde8678ad13c07d8d",
+        "size_in_bytes": 2769
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::BaseFont.3",
+        "path_type": "hardlink",
+        "sha256": "0ffc01f6f5eb2d2086e2da1a6e09ada2f9a49a129d4397f157ba9e027701fc4e",
+        "sha256_in_prefix": "0ffc01f6f5eb2d2086e2da1a6e09ada2f9a49a129d4397f157ba9e027701fc4e",
+        "size_in_bytes": 11856
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::CIDFont.3",
+        "path_type": "hardlink",
+        "sha256": "bbe33547f8e541a341338dc0a574aa0a383d7b48d03007a4f0b2252a39a76976",
+        "sha256_in_prefix": "bbe33547f8e541a341338dc0a574aa0a383d7b48d03007a4f0b2252a39a76976",
+        "size_in_bytes": 3032
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::CIDFont::CJKFont.3",
+        "path_type": "hardlink",
+        "sha256": "043821073f2a5d6343ad7f7b7ee2fc532db27ced15dd2657cbf2ce3f0645a98e",
+        "sha256_in_prefix": "043821073f2a5d6343ad7f7b7ee2fc532db27ced15dd2657cbf2ce3f0645a98e",
+        "size_in_bytes": 3048
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::CIDFont::TrueType.3",
+        "path_type": "hardlink",
+        "sha256": "9e66310063e8d3674f4e48f203f603c853ef325c9508718fafd766f2666aa787",
+        "sha256_in_prefix": "9e66310063e8d3674f4e48f203f603c853ef325c9508718fafd766f2666aa787",
+        "size_in_bytes": 2737
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::ColorSpace.3",
+        "path_type": "hardlink",
+        "sha256": "cf41e8597b63ee4c1c31abda096a43c624781e32e14ba20f7a234d0a89d77f68",
+        "sha256_in_prefix": "cf41e8597b63ee4c1c31abda096a43c624781e32e14ba20f7a234d0a89d77f68",
+        "size_in_bytes": 2998
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::ColorSpace::Indexed::ACTFile.3",
+        "path_type": "hardlink",
+        "sha256": "aa54728136582e769412b47036c1cc9dc17b16f3e6e7f0b396d7480dda6fddf2",
+        "sha256_in_prefix": "aa54728136582e769412b47036c1cc9dc17b16f3e6e7f0b396d7480dda6fddf2",
+        "size_in_bytes": 2807
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::ColorSpace::Separation.3",
+        "path_type": "hardlink",
+        "sha256": "d6e3b17d5a0618b12740d812902e4f927de2381519d30b92cb628f31f000ac00",
+        "sha256_in_prefix": "d6e3b17d5a0618b12740d812902e4f927de2381519d30b92cb628f31f000ac00",
+        "size_in_bytes": 3046
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::ExtGState.3",
+        "path_type": "hardlink",
+        "sha256": "1533747837ab085afcbe5b0daa0195be27c8974082581a8fabc398456619f0a2",
+        "sha256_in_prefix": "1533747837ab085afcbe5b0daa0195be27c8974082581a8fabc398456619f0a2",
+        "size_in_bytes": 7259
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::Font::BdFont.3",
+        "path_type": "hardlink",
+        "sha256": "c2daa562361c4bc8fd8b1142b6f86f5905a0e7db715c6fa47637c8291faefdb5",
+        "sha256_in_prefix": "c2daa562361c4bc8fd8b1142b6f86f5905a0e7db715c6fa47637c8291faefdb5",
+        "size_in_bytes": 3143
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::Font::CoreFont.3",
+        "path_type": "hardlink",
+        "sha256": "60067efd058f7a7f29478bad4db5314af2cef441ca29d42b9553a87b12848c00",
+        "sha256_in_prefix": "60067efd058f7a7f29478bad4db5314af2cef441ca29d42b9553a87b12848c00",
+        "size_in_bytes": 4173
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::Font::SynFont.3",
+        "path_type": "hardlink",
+        "sha256": "d278983bb9c66d236dbb9817ea28ca74e38270f2236a9aa49932365e587b3c51",
+        "sha256_in_prefix": "d278983bb9c66d236dbb9817ea28ca74e38270f2236a9aa49932365e587b3c51",
+        "size_in_bytes": 3435
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::UniFont.3",
+        "path_type": "hardlink",
+        "sha256": "ffacd6b00a8c22e063d8a7f21912d163ab8a96b5ef3a2330e2dfef051b6a2e80",
+        "sha256_in_prefix": "ffacd6b00a8c22e063d8a7f21912d163ab8a96b5ef3a2330e2dfef051b6a2e80",
+        "size_in_bytes": 3568
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::XObject.3",
+        "path_type": "hardlink",
+        "sha256": "9c6988d4d412da6e8ef802f2f9cd058df40daefd734750fbef86030d46c55e42",
+        "sha256_in_prefix": "9c6988d4d412da6e8ef802f2f9cd058df40daefd734750fbef86030d46c55e42",
+        "size_in_bytes": 2719
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::XObject::Form.3",
+        "path_type": "hardlink",
+        "sha256": "dd13ec8be3ab49399b9f4af81fbed5aa3ca2072669ab1939e296efb2b6f63be7",
+        "sha256_in_prefix": "dd13ec8be3ab49399b9f4af81fbed5aa3ca2072669ab1939e296efb2b6f63be7",
+        "size_in_bytes": 3476
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::XObject::Form::BarCode.3",
+        "path_type": "hardlink",
+        "sha256": "a8584dacd6e7bff004060b5a9b19073ee1084ac7782456c2abe4459393b27b21",
+        "sha256_in_prefix": "a8584dacd6e7bff004060b5a9b19073ee1084ac7782456c2abe4459393b27b21",
+        "size_in_bytes": 2937
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::XObject::Form::BarCode::code128.3",
+        "path_type": "hardlink",
+        "sha256": "0e4c9e90cf31482d164d77edc342daff896c5cca889a6e3afa3c34d89b3e7a5a",
+        "sha256_in_prefix": "0e4c9e90cf31482d164d77edc342daff896c5cca889a6e3afa3c34d89b3e7a5a",
+        "size_in_bytes": 2709
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::XObject::Image.3",
+        "path_type": "hardlink",
+        "sha256": "b6fb4247de815214e2de2abfa1020db94a8bb38711f437af609b08f09acf7617",
+        "sha256_in_prefix": "b6fb4247de815214e2de2abfa1020db94a8bb38711f437af609b08f09acf7617",
+        "size_in_bytes": 4345
+      },
+      {
+        "_path": "man/man3/PDF::API2::Resource::XObject::Image::TIFF.3",
+        "path_type": "hardlink",
+        "sha256": "eef9a1a26fb278cc14d4aaec1f56802791ea4db0eb8dbb7e10b2c19925d258ec",
+        "sha256_in_prefix": "eef9a1a26fb278cc14d4aaec1f56802791ea4db0eb8dbb7e10b2c19925d258ec",
+        "size_in_bytes": 2946
+      },
+      {
+        "_path": "man/man3/PDF::API2::Util.3",
+        "path_type": "hardlink",
+        "sha256": "f7a5ecf24e3ea46ac7b8d672d3f8f0cc50931b5eeab3dd3601f2c479a4dbf25a",
+        "sha256_in_prefix": "f7a5ecf24e3ea46ac7b8d672d3f8f0cc50931b5eeab3dd3601f2c479a4dbf25a",
+        "size_in_bytes": 3103
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 2390468,
+  "subdir": "noarch",
+  "timestamp": 1561919645009,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/perl-pdf-api2-2.034-pl526_0.tar.bz2",
+  "version": "2.034"
+}

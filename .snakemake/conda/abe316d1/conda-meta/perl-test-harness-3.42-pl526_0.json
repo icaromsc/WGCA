@@ -1,0 +1,452 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-test-harness-3.42-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/App/Prove.pm",
+    "lib/site_perl/5.26.2/App/Prove/State.pm",
+    "lib/site_perl/5.26.2/App/Prove/State/Result.pm",
+    "lib/site_perl/5.26.2/App/Prove/State/Result/Test.pm",
+    "lib/site_perl/5.26.2/TAP/Base.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/Base.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/Color.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/Console.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/Console/ParallelSession.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/Console/Session.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/File.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/File/Session.pm",
+    "lib/site_perl/5.26.2/TAP/Formatter/Session.pm",
+    "lib/site_perl/5.26.2/TAP/Harness.pm",
+    "lib/site_perl/5.26.2/TAP/Harness/Beyond.pod",
+    "lib/site_perl/5.26.2/TAP/Harness/Env.pm",
+    "lib/site_perl/5.26.2/TAP/Object.pm",
+    "lib/site_perl/5.26.2/TAP/Parser.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Aggregator.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Grammar.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Iterator.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Iterator/Array.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Iterator/Process.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Iterator/Stream.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/IteratorFactory.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Multiplexer.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/Bailout.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/Comment.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/Plan.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/Pragma.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/Test.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/Unknown.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/Version.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Result/YAML.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/ResultFactory.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Scheduler.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Scheduler/Job.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Scheduler/Spinner.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/Source.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/SourceHandler.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/Executable.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/File.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/Handle.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/Perl.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/RawTAP.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/YAMLish/Reader.pm",
+    "lib/site_perl/5.26.2/TAP/Parser/YAMLish/Writer.pm",
+    "lib/site_perl/5.26.2/Test/HACKING.pod",
+    "lib/site_perl/5.26.2/Test/Harness.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Harness/.packlist",
+    "man/man3/Test::HACKING.3"
+  ],
+  "fn": "perl-test-harness-3.42-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-test-harness-3.42-pl526_0",
+    "type": 1
+  },
+  "md5": "5a82f26d026ea1dec91ceb9d0ab55b21",
+  "name": "perl-test-harness",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-test-harness-3.42-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/App/Prove.pm",
+        "path_type": "hardlink",
+        "sha256": "b094606850835aeb4e2c8d8a905a34c0b80002255669295591e0741fee28ef7c",
+        "sha256_in_prefix": "b094606850835aeb4e2c8d8a905a34c0b80002255669295591e0741fee28ef7c",
+        "size_in_bytes": 18991
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/App/Prove/State.pm",
+        "path_type": "hardlink",
+        "sha256": "1597f2f4506c996fc9233f498e7d0a345a5dcd5dcc403ec8ebed85cca65ee045",
+        "sha256_in_prefix": "1597f2f4506c996fc9233f498e7d0a345a5dcd5dcc403ec8ebed85cca65ee045",
+        "size_in_bytes": 11689
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/App/Prove/State/Result.pm",
+        "path_type": "hardlink",
+        "sha256": "323a0005437ef1ce9380bf5b0ad066381afac522e4c487e98e261a5ac090b326",
+        "sha256_in_prefix": "323a0005437ef1ce9380bf5b0ad066381afac522e4c487e98e261a5ac090b326",
+        "size_in_bytes": 4945
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/App/Prove/State/Result/Test.pm",
+        "path_type": "hardlink",
+        "sha256": "0cd443d6518a0847990c68bdbad3721a6851f6a9f5df9030276d9aa50a4c9476",
+        "sha256_in_prefix": "0cd443d6518a0847990c68bdbad3721a6851f6a9f5df9030276d9aa50a4c9476",
+        "size_in_bytes": 3418
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Base.pm",
+        "path_type": "hardlink",
+        "sha256": "6c7a868589f2547c68e1542606729eb510b2a5091663ae3a2c00a486b062673a",
+        "sha256_in_prefix": "6c7a868589f2547c68e1542606729eb510b2a5091663ae3a2c00a486b062673a",
+        "size_in_bytes": 2301
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/Base.pm",
+        "path_type": "hardlink",
+        "sha256": "2f3a2306725283f3fb3eb299565a8534b29d52fe9495870c0fc98ad3e2b1ad76",
+        "sha256_in_prefix": "2f3a2306725283f3fb3eb299565a8534b29d52fe9495870c0fc98ad3e2b1ad76",
+        "size_in_bytes": 11870
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/Color.pm",
+        "path_type": "hardlink",
+        "sha256": "6528e3b11f157fb8803ab9499894e368224174ebbbf3abc02c3d5494e4479bcf",
+        "sha256_in_prefix": "6528e3b11f157fb8803ab9499894e368224174ebbbf3abc02c3d5494e4479bcf",
+        "size_in_bytes": 2321
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/Console.pm",
+        "path_type": "hardlink",
+        "sha256": "a4ae4ddf50298c9e00115f0ecbe7977c34171941226f8e28b35e5500d341ad30",
+        "sha256_in_prefix": "a4ae4ddf50298c9e00115f0ecbe7977c34171941226f8e28b35e5500d341ad30",
+        "size_in_bytes": 1995
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/Console/ParallelSession.pm",
+        "path_type": "hardlink",
+        "sha256": "2ad00543a66e4ba0eeb2cb8deb8cd0af5080c9a37e43d28f3a7df43fa56edc0c",
+        "sha256_in_prefix": "2ad00543a66e4ba0eeb2cb8deb8cd0af5080c9a37e43d28f3a7df43fa56edc0c",
+        "size_in_bytes": 4183
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/Console/Session.pm",
+        "path_type": "hardlink",
+        "sha256": "2fb36a942462f0d7e4e01f8dcd457e560a88f1c61b678d654c945cc7ff03733a",
+        "sha256_in_prefix": "2fb36a942462f0d7e4e01f8dcd457e560a88f1c61b678d654c945cc7ff03733a",
+        "size_in_bytes": 5527
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/File.pm",
+        "path_type": "hardlink",
+        "sha256": "8624178af78141eb4c10dc465f4574188223dd0fcd70c2ada1e1fff2cb0754d1",
+        "sha256_in_prefix": "8624178af78141eb4c10dc465f4574188223dd0fcd70c2ada1e1fff2cb0754d1",
+        "size_in_bytes": 850
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/File/Session.pm",
+        "path_type": "hardlink",
+        "sha256": "64b6348dd3f5c24710694eb79d022cf1d95e599dd60e048a6157461661e6fec2",
+        "sha256_in_prefix": "64b6348dd3f5c24710694eb79d022cf1d95e599dd60e048a6157461661e6fec2",
+        "size_in_bytes": 2217
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Formatter/Session.pm",
+        "path_type": "hardlink",
+        "sha256": "af5a8b29350bddc35c187b0529804468a048bd3db6a478104e619a21a116d6ef",
+        "sha256_in_prefix": "af5a8b29350bddc35c187b0529804468a048bd3db6a478104e619a21a116d6ef",
+        "size_in_bytes": 4988
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Harness.pm",
+        "path_type": "hardlink",
+        "sha256": "4097e5f4cfa71e7a7860ca830895a5d4963bcf92362fcb89ecc67a7f2dc56b88",
+        "sha256_in_prefix": "4097e5f4cfa71e7a7860ca830895a5d4963bcf92362fcb89ecc67a7f2dc56b88",
+        "size_in_bytes": 29006
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Harness/Beyond.pod",
+        "path_type": "hardlink",
+        "sha256": "da2dedd348b7747c5ca2cf106b0eb87390324ceab00df7948e98d7ff18bc17f0",
+        "sha256_in_prefix": "da2dedd348b7747c5ca2cf106b0eb87390324ceab00df7948e98d7ff18bc17f0",
+        "size_in_bytes": 15581
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Harness/Env.pm",
+        "path_type": "hardlink",
+        "sha256": "16c31b12a380ef5b83d85723f0795ca13142dd25bbb96eb2841de2722e9afe62",
+        "sha256_in_prefix": "16c31b12a380ef5b83d85723f0795ca13142dd25bbb96eb2841de2722e9afe62",
+        "size_in_bytes": 5416
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Object.pm",
+        "path_type": "hardlink",
+        "sha256": "121dddea3c7df21a51303c793bd919d1f1a8706c281256ff8218d60a2a93546b",
+        "sha256_in_prefix": "121dddea3c7df21a51303c793bd919d1f1a8706c281256ff8218d60a2a93546b",
+        "size_in_bytes": 2696
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser.pm",
+        "path_type": "hardlink",
+        "sha256": "bc5da1b719684d0aa54ab974b27a08465b9251038c544113095429c7d7aebbe6",
+        "sha256_in_prefix": "bc5da1b719684d0aa54ab974b27a08465b9251038c544113095429c7d7aebbe6",
+        "size_in_bytes": 52145
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Aggregator.pm",
+        "path_type": "hardlink",
+        "sha256": "7af8c5bfe2b275bdb71e3d6706cf419ba06c1dfc14055422db2505c97867acdc",
+        "sha256_in_prefix": "7af8c5bfe2b275bdb71e3d6706cf419ba06c1dfc14055422db2505c97867acdc",
+        "size_in_bytes": 9243
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Grammar.pm",
+        "path_type": "hardlink",
+        "sha256": "a4cfb237b2ba5985ba350c069738989c4c4f8d0887dcde9bc401faa1e8f9b79a",
+        "sha256_in_prefix": "a4cfb237b2ba5985ba350c069738989c4c4f8d0887dcde9bc401faa1e8f9b79a",
+        "size_in_bytes": 15666
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Iterator.pm",
+        "path_type": "hardlink",
+        "sha256": "ab47673c49170fce89e4a4527ada166a1c6041633da252afcb60cda75823e64c",
+        "sha256_in_prefix": "ab47673c49170fce89e4a4527ada166a1c6041633da252afcb60cda75823e64c",
+        "size_in_bytes": 2998
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Iterator/Array.pm",
+        "path_type": "hardlink",
+        "sha256": "193aaa5c0da3202614a6148919ba333b7262a4e00854752da9859acaca3b9098",
+        "sha256_in_prefix": "193aaa5c0da3202614a6148919ba333b7262a4e00854752da9859acaca3b9098",
+        "size_in_bytes": 1696
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Iterator/Process.pm",
+        "path_type": "hardlink",
+        "sha256": "898391be1b2c994d4980894f07476f03d414b9f4c39d38d3dda47aeb7375a00b",
+        "sha256_in_prefix": "898391be1b2c994d4980894f07476f03d414b9f4c39d38d3dda47aeb7375a00b",
+        "size_in_bytes": 9116
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Iterator/Stream.pm",
+        "path_type": "hardlink",
+        "sha256": "32a3bdbd55340c2ba65d7a0caaa2b4a817209949cefe54955a91392699775fac",
+        "sha256_in_prefix": "32a3bdbd55340c2ba65d7a0caaa2b4a817209949cefe54955a91392699775fac",
+        "size_in_bytes": 1925
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/IteratorFactory.pm",
+        "path_type": "hardlink",
+        "sha256": "1c5901a52e8bbe245e9992f5cf0be234c1f2ab618149e40d3bd5a34b9336e6af",
+        "sha256_in_prefix": "1c5901a52e8bbe245e9992f5cf0be234c1f2ab618149e40d3bd5a34b9336e6af",
+        "size_in_bytes": 8307
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Multiplexer.pm",
+        "path_type": "hardlink",
+        "sha256": "7bf4129bd7ba393e001ef9b4ef60563f30bfdf8256681ce819a16d98c89dd034",
+        "sha256_in_prefix": "7bf4129bd7ba393e001ef9b4ef60563f30bfdf8256681ce819a16d98c89dd034",
+        "size_in_bytes": 4265
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result.pm",
+        "path_type": "hardlink",
+        "sha256": "3d4739c3e504851cff6ee1fefb1db4aaca99ee9063d1bce20cb1fbbabe6bf613",
+        "sha256_in_prefix": "3d4739c3e504851cff6ee1fefb1db4aaca99ee9063d1bce20cb1fbbabe6bf613",
+        "size_in_bytes": 6145
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/Bailout.pm",
+        "path_type": "hardlink",
+        "sha256": "6d28cbe3a94fdff329567d89cce52a0e1b30ca3f59245903c20d64c910c20831",
+        "sha256_in_prefix": "6d28cbe3a94fdff329567d89cce52a0e1b30ca3f59245903c20d64c910c20831",
+        "size_in_bytes": 1148
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/Comment.pm",
+        "path_type": "hardlink",
+        "sha256": "fe043357510e64550cc72b7a6618a43e4e74ee33d980dc332660105ec4ef91a2",
+        "sha256_in_prefix": "fe043357510e64550cc72b7a6618a43e4e74ee33d980dc332660105ec4ef91a2",
+        "size_in_bytes": 986
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/Plan.pm",
+        "path_type": "hardlink",
+        "sha256": "1fb1f58610b8d71b4735f95d9748936b0f52e85d014517d3a6425c84a25d9296",
+        "sha256_in_prefix": "1fb1f58610b8d71b4735f95d9748936b0f52e85d014517d3a6425c84a25d9296",
+        "size_in_bytes": 2048
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/Pragma.pm",
+        "path_type": "hardlink",
+        "sha256": "14609bc970407dae154098439bf44e1d102b66afd4b8a5a0ced7f3199656699a",
+        "sha256_in_prefix": "14609bc970407dae154098439bf44e1d102b66afd4b8a5a0ced7f3199656699a",
+        "size_in_bytes": 946
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/Test.pm",
+        "path_type": "hardlink",
+        "sha256": "7f5629a4d514c2f52a901ad45d8c828d68689bda55e455e2091be51b1263c729",
+        "sha256_in_prefix": "7f5629a4d514c2f52a901ad45d8c828d68689bda55e455e2091be51b1263c729",
+        "size_in_bytes": 6078
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/Unknown.pm",
+        "path_type": "hardlink",
+        "sha256": "a65b97e1499df488828b62547154b0eff53d8c6549b72b3df80145a3493e7f61",
+        "sha256_in_prefix": "a65b97e1499df488828b62547154b0eff53d8c6549b72b3df80145a3493e7f61",
+        "size_in_bytes": 734
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/Version.pm",
+        "path_type": "hardlink",
+        "sha256": "21ec38f085d83a9a583672e46a0d9c74050dd6e7ac8ef0aaad25baa96d0cb54b",
+        "sha256_in_prefix": "21ec38f085d83a9a583672e46a0d9c74050dd6e7ac8ef0aaad25baa96d0cb54b",
+        "size_in_bytes": 946
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Result/YAML.pm",
+        "path_type": "hardlink",
+        "sha256": "96e7dae598bf749642c1faf675e1009649bd3f5bd0d85d8f46797f44866f0ca1",
+        "sha256_in_prefix": "96e7dae598bf749642c1faf675e1009649bd3f5bd0d85d8f46797f44866f0ca1",
+        "size_in_bytes": 880
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/ResultFactory.pm",
+        "path_type": "hardlink",
+        "sha256": "9ab0de32fec9429b0ad2bbc6181d1cd8bb9fec3ff851a8987843b98e53c8c880",
+        "sha256_in_prefix": "9ab0de32fec9429b0ad2bbc6181d1cd8bb9fec3ff851a8987843b98e53c8c880",
+        "size_in_bytes": 4065
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Scheduler.pm",
+        "path_type": "hardlink",
+        "sha256": "6e9dce1b4aee701e6182117273f9b850d617483e32ae6f9ef5ed548ba646c612",
+        "sha256_in_prefix": "6e9dce1b4aee701e6182117273f9b850d617483e32ae6f9ef5ed548ba646c612",
+        "size_in_bytes": 11543
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Scheduler/Job.pm",
+        "path_type": "hardlink",
+        "sha256": "15fd7e093c58e199c602f45a3a82be7189094070c31ac298a8bfa8f916d6547b",
+        "sha256_in_prefix": "15fd7e093c58e199c602f45a3a82be7189094070c31ac298a8bfa8f916d6547b",
+        "size_in_bytes": 2201
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Scheduler/Spinner.pm",
+        "path_type": "hardlink",
+        "sha256": "fb072da532ebb5df2eadb188058f9f3aea7235609a674ae9c6093150127dc19f",
+        "sha256_in_prefix": "fb072da532ebb5df2eadb188058f9f3aea7235609a674ae9c6093150127dc19f",
+        "size_in_bytes": 990
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/Source.pm",
+        "path_type": "hardlink",
+        "sha256": "bb897086e55d3c5b7abc36660a0465fd7d3305dc086d4b771d7d8f1af8c65925",
+        "sha256_in_prefix": "bb897086e55d3c5b7abc36660a0465fd7d3305dc086d4b771d7d8f1af8c65925",
+        "size_in_bytes": 9551
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/SourceHandler.pm",
+        "path_type": "hardlink",
+        "sha256": "5039d0b877ad31acd17fbce2afacd4e87315325738e2d39f2a5f5d4931b182ca",
+        "sha256_in_prefix": "5039d0b877ad31acd17fbce2afacd4e87315325738e2d39f2a5f5d4931b182ca",
+        "size_in_bytes": 5154
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/Executable.pm",
+        "path_type": "hardlink",
+        "sha256": "4ddee089d5d9172fb43de35e4574eeae02d5818a4711a56caf8f3c9babb8e6a2",
+        "sha256_in_prefix": "4ddee089d5d9172fb43de35e4574eeae02d5818a4711a56caf8f3c9babb8e6a2",
+        "size_in_bytes": 4045
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/File.pm",
+        "path_type": "hardlink",
+        "sha256": "6287b80e6e9263a744e0954f3bbde7498267723aa630d23a0d39082265813ff0",
+        "sha256_in_prefix": "6287b80e6e9263a744e0954f3bbde7498267723aa630d23a0d39082265813ff0",
+        "size_in_bytes": 2993
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/Handle.pm",
+        "path_type": "hardlink",
+        "sha256": "30ec25cf2b5878dd8cbe44e1212a606e1d8b94ceabafbe4dfd58847870c1a353",
+        "sha256_in_prefix": "30ec25cf2b5878dd8cbe44e1212a606e1d8b94ceabafbe4dfd58847870c1a353",
+        "size_in_bytes": 2651
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/Perl.pm",
+        "path_type": "hardlink",
+        "sha256": "09e8afc6fc8e07cd1ff2c6242d5db495520dfdd1b35c49172156eb6ca3dc5df0",
+        "sha256_in_prefix": "09e8afc6fc8e07cd1ff2c6242d5db495520dfdd1b35c49172156eb6ca3dc5df0",
+        "size_in_bytes": 9447
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/SourceHandler/RawTAP.pm",
+        "path_type": "hardlink",
+        "sha256": "019eee578f770da6b503247954390580e47ff4eee772ad9d933e703389ec91da",
+        "sha256_in_prefix": "019eee578f770da6b503247954390580e47ff4eee772ad9d933e703389ec91da",
+        "size_in_bytes": 2842
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/YAMLish/Reader.pm",
+        "path_type": "hardlink",
+        "sha256": "43f6fa1ee45644044d546bd8163b0be1353cedd3b84ba51475c7f1ff25285d44",
+        "sha256_in_prefix": "43f6fa1ee45644044d546bd8163b0be1353cedd3b84ba51475c7f1ff25285d44",
+        "size_in_bytes": 7603
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/TAP/Parser/YAMLish/Writer.pm",
+        "path_type": "hardlink",
+        "sha256": "c5ba1f0fa70212262c2ddbce739fcb22086cf055f6a7ea29b4e63e3c0f553a7f",
+        "sha256_in_prefix": "c5ba1f0fa70212262c2ddbce739fcb22086cf055f6a7ea29b4e63e3c0f553a7f",
+        "size_in_bytes": 5235
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Test/HACKING.pod",
+        "path_type": "hardlink",
+        "sha256": "6d5d182c45a6ea51ef984d62d4ed673fa0ebef875f456f7182d4a2602da24121",
+        "sha256_in_prefix": "6d5d182c45a6ea51ef984d62d4ed673fa0ebef875f456f7182d4a2602da24121",
+        "size_in_bytes": 6347
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Test/Harness.pm",
+        "path_type": "hardlink",
+        "sha256": "a1e5aff43ff7571d06e00ae751fc0e8115a12d250fb08fcee64ced04f9bfc1bc",
+        "sha256_in_prefix": "a1e5aff43ff7571d06e00ae751fc0e8115a12d250fb08fcee64ced04f9bfc1bc",
+        "size_in_bytes": 16649
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Harness/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "debbaf3bc58acc8a7593771e9c5ff59178086632260cdd7b5c8e37739edf7f06",
+        "sha256_in_prefix": "448c94f5ba8a4e04072c9e3a329e7d3308eab18cb85b1f23a79f18cda06401e3",
+        "size_in_bytes": 13592
+      },
+      {
+        "_path": "man/man3/Test::HACKING.3",
+        "path_type": "hardlink",
+        "sha256": "a589aa36e44808cb653418260715f49c4b8524fde9cf44a5cbe052297b5eff0d",
+        "sha256_in_prefix": "a589aa36e44808cb653418260715f49c4b8524fde9cf44a5cbe052297b5eff0d",
+        "size_in_bytes": 9163
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 83954,
+  "subdir": "linux-64",
+  "timestamp": 1534883820338,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-test-harness-3.42-pl526_0.tar.bz2",
+  "version": "3.42"
+}

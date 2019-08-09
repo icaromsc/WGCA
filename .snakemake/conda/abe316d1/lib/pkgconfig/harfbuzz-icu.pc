@@ -1,0 +1,13 @@
+prefix=/home/bioinfo/WGCA/.snakemake/conda/abe316d1
+exec_prefix=/home/bioinfo/WGCA/.snakemake/conda/abe316d1
+libdir=/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib
+includedir=/home/bioinfo/WGCA/.snakemake/conda/abe316d1/include
+
+Name: harfbuzz
+Description: HarfBuzz text shaping library ICU integration
+Version: 2.4.0
+
+Requires: harfbuzz
+Requires.private: icu-uc
+Libs: -L${libdir} -lharfbuzz-icu
+Cflags: -I${includedir}/harfbuzz

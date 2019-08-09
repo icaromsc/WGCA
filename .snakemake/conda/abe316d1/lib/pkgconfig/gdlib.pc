@@ -1,0 +1,11 @@
+prefix=/home/bioinfo/WGCA/.snakemake/conda/abe316d1
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: gd
+Description: GD graphics library
+Version: 2.2.5
+Cflags: -I${includedir}
+Libs.private: -lm   -L/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib -lz  -L/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib -lpng16 -lz  -L/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib -lfreetype  -L/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib -lfontconfig -lfreetype   -ljpeg  -L/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib -ltiff   -lwebp /home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/libiconv.so -Wl,-rpath -Wl,/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib
+Libs: -L${libdir} -lgd

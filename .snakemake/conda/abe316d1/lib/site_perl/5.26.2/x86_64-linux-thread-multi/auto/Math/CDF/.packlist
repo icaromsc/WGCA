@@ -1,0 +1,4 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/CDF.pm relocate_as=../../../Math/CDF.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/CDF.so relocate_as=CDF.so
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/CDF/autosplit.ix relocate_as=autosplit.ix
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Math::CDF.3 relocate_as=../../../../../../../man/man3/Math::CDF.3

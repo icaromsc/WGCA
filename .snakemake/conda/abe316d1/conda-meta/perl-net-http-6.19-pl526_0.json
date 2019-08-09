@@ -1,0 +1,115 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-base",
+    "perl-carp",
+    "perl-compress-raw-zlib",
+    "perl-io-socket-ssl",
+    "perl-uri"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-net-http-6.19-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Net/HTTP.pm",
+    "lib/site_perl/5.26.2/Net/HTTP/Methods.pm",
+    "lib/site_perl/5.26.2/Net/HTTP/NB.pm",
+    "lib/site_perl/5.26.2/Net/HTTPS.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Net/HTTP/.packlist",
+    "man/man3/Net::HTTP.3",
+    "man/man3/Net::HTTP::Methods.3",
+    "man/man3/Net::HTTP::NB.3",
+    "man/man3/Net::HTTPS.3"
+  ],
+  "fn": "perl-net-http-6.19-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-net-http-6.19-pl526_0",
+    "type": 1
+  },
+  "md5": "160f8e846ea37406d973acbf83b5a26b",
+  "name": "perl-net-http",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-net-http-6.19-pl526_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Net/HTTP.pm",
+        "path_type": "hardlink",
+        "sha256": "b7efb545f6e0e9d096c5f71b9c568c00ccdd1e73a7db820518ae9d94b08da38d",
+        "sha256_in_prefix": "b7efb545f6e0e9d096c5f71b9c568c00ccdd1e73a7db820518ae9d94b08da38d",
+        "size_in_bytes": 10142
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Net/HTTP/Methods.pm",
+        "path_type": "hardlink",
+        "sha256": "a5ad8e604ea8f31336267c901f784e898a5ca2fe10a1d9bcc5419359b3bab0bc",
+        "sha256_in_prefix": "a5ad8e604ea8f31336267c901f784e898a5ca2fe10a1d9bcc5419359b3bab0bc",
+        "size_in_bytes": 17333
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Net/HTTP/NB.pm",
+        "path_type": "hardlink",
+        "sha256": "235f28c664894e026f4569250604a9653d01c7c62b229bef7b30af959075ff8a",
+        "sha256_in_prefix": "235f28c664894e026f4569250604a9653d01c7c62b229bef7b30af959075ff8a",
+        "size_in_bytes": 2521
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Net/HTTPS.pm",
+        "path_type": "hardlink",
+        "sha256": "68935a2243c4300a23f8dd235706f44330ed680635615a7dee961dd2ab796841",
+        "sha256_in_prefix": "68935a2243c4300a23f8dd235706f44330ed680635615a7dee961dd2ab796841",
+        "size_in_bytes": 3543
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Net/HTTP/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "ce933370483dfbabb9ea9ed7c7cbb12e98189b0be4c0e5158c6e419d23b79334",
+        "sha256_in_prefix": "4cc1d67c231fbd5ad655084e6c9c5125fd6ef7359a8ca34198ae56957b8f7054",
+        "size_in_bytes": 892
+      },
+      {
+        "_path": "man/man3/Net::HTTP.3",
+        "path_type": "hardlink",
+        "sha256": "8330a6648032c6b87280ef77451fb9d0a6598f06cc8bf5a21c67b0cb5167b2c5",
+        "sha256_in_prefix": "8330a6648032c6b87280ef77451fb9d0a6598f06cc8bf5a21c67b0cb5167b2c5",
+        "size_in_bytes": 14670
+      },
+      {
+        "_path": "man/man3/Net::HTTP::Methods.3",
+        "path_type": "hardlink",
+        "sha256": "c2cf34a7ed58cb585e2e25c6c1d7e80f6fbad80bc39e269fd59b2ece06a608f1",
+        "sha256_in_prefix": "c2cf34a7ed58cb585e2e25c6c1d7e80f6fbad80bc39e269fd59b2ece06a608f1",
+        "size_in_bytes": 2578
+      },
+      {
+        "_path": "man/man3/Net::HTTP::NB.3",
+        "path_type": "hardlink",
+        "sha256": "476a3fc0a282462df999a782dbcde314119deeaadd8345fee0c0a6cb0baae372",
+        "sha256_in_prefix": "476a3fc0a282462df999a782dbcde314119deeaadd8345fee0c0a6cb0baae372",
+        "size_in_bytes": 3695
+      },
+      {
+        "_path": "man/man3/Net::HTTPS.3",
+        "path_type": "hardlink",
+        "sha256": "27f4f1d16f4daef9554850b71fe5d4d510e2a5965cd0fa7a07136bb9ff11edcd",
+        "sha256_in_prefix": "27f4f1d16f4daef9554850b71fe5d4d510e2a5965cd0fa7a07136bb9ff11edcd",
+        "size_in_bytes": 3914
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 19769,
+  "subdir": "noarch",
+  "timestamp": 1558436748565,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/perl-net-http-6.19-pl526_0.tar.bz2",
+  "version": "6.19"
+}

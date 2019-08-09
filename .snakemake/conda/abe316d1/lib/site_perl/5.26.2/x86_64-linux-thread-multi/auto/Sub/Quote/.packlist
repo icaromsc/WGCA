@@ -1,0 +1,4 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Sub/Defer.pm relocate_as=../../../../Sub/Defer.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Sub/Quote.pm relocate_as=../../../../Sub/Quote.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Sub::Defer.3 relocate_as=../../../../../../../man/man3/Sub::Defer.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Sub::Quote.3 relocate_as=../../../../../../../man/man3/Sub::Quote.3

@@ -1,0 +1,111 @@
+{
+  "build": "pl526h14c3975_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-math-random-0.72-pl526h14c3975_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/Random.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/example.pl",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/test1.pl",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/test2.pl",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/Random.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/autosplit.ix",
+    "man/man3/Math::Random.3"
+  ],
+  "fn": "perl-math-random-0.72-pl526h14c3975_2.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-math-random-0.72-pl526h14c3975_2",
+    "type": 1
+  },
+  "md5": "f243daa84687810c0d966295691f9a33",
+  "name": "perl-math-random",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-math-random-0.72-pl526h14c3975_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "ac708a2d48650b41f8a8b55c18928cf037618194ea28af9c8ccc9dcba213b2d8",
+        "sha256_in_prefix": "113b70f80491800cc4ccc43b29a49044424df5c606c20c0c00aa0e2caa4aae90",
+        "size_in_bytes": 255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/Random.pm",
+        "path_type": "hardlink",
+        "sha256": "f198285f2de408fb2cae134b4c7a3bf96921b246375c0ba6a7f80afb8b7061e7",
+        "sha256_in_prefix": "f198285f2de408fb2cae134b4c7a3bf96921b246375c0ba6a7f80afb8b7061e7",
+        "size_in_bytes": 37188
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/example.pl",
+        "path_type": "hardlink",
+        "sha256": "d8232748e179f11554a384af2ef2e39c4b887fe33ed19103069f20574e960489",
+        "sha256_in_prefix": "d8232748e179f11554a384af2ef2e39c4b887fe33ed19103069f20574e960489",
+        "size_in_bytes": 13467
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/test1.pl",
+        "path_type": "hardlink",
+        "sha256": "f8e529a7f439e36ebe205e06870914afbcd18d475edfa3705776fc79c1cb7153",
+        "sha256_in_prefix": "f8e529a7f439e36ebe205e06870914afbcd18d475edfa3705776fc79c1cb7153",
+        "size_in_bytes": 3482
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/test2.pl",
+        "path_type": "hardlink",
+        "sha256": "abdebfd84d020001391721ba4aefe5bda8b1ae88687b4ccd2b9a37b5934433a7",
+        "sha256_in_prefix": "abdebfd84d020001391721ba4aefe5bda8b1ae88687b4ccd2b9a37b5934433a7",
+        "size_in_bytes": 3483
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "2d1e16ef6c6f3c5011759612ee5f140e422c17292df98a97c3b22362766e5605",
+        "sha256_in_prefix": "87633fd203f6b310fbfc583b42dba482e2e887940f9a5667252890dd846bd0b4",
+        "size_in_bytes": 900
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/Random.so",
+        "path_type": "hardlink",
+        "sha256": "568683892fe7f0b05cbde994746468854638fc9a1db2186dbef98a31f9a3902e",
+        "sha256_in_prefix": "568683892fe7f0b05cbde994746468854638fc9a1db2186dbef98a31f9a3902e",
+        "size_in_bytes": 73288
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/autosplit.ix",
+        "path_type": "hardlink",
+        "sha256": "ae429d4400b632f2e6a5e07fa6c7b92d166561dfb658338c81590fc36515f4ee",
+        "sha256_in_prefix": "ae429d4400b632f2e6a5e07fa6c7b92d166561dfb658338c81590fc36515f4ee",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "man/man3/Math::Random.3",
+        "path_type": "hardlink",
+        "sha256": "ac37266c32436802cf7e876a844f1bc87a77a83b993a57adbe0a28cf555482e1",
+        "sha256_in_prefix": "ac37266c32436802cf7e876a844f1bc87a77a83b993a57adbe0a28cf555482e1",
+        "size_in_bytes": 32114
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 55815,
+  "subdir": "linux-64",
+  "timestamp": 1555694146045,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-math-random-0.72-pl526h14c3975_2.tar.bz2",
+  "version": "0.72"
+}

@@ -1,0 +1,8 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Algorithm/Diff.pm relocate_as=../../../../Algorithm/Diff.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Algorithm/DiffOld.pm relocate_as=../../../../Algorithm/DiffOld.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Algorithm/cdiff.pl relocate_as=../../../../Algorithm/cdiff.pl
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Algorithm/diff.pl relocate_as=../../../../Algorithm/diff.pl
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Algorithm/diffnew.pl relocate_as=../../../../Algorithm/diffnew.pl
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Algorithm/htmldiff.pl relocate_as=../../../../Algorithm/htmldiff.pl
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Algorithm::Diff.3 relocate_as=../../../../../../../man/man3/Algorithm::Diff.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Algorithm::DiffOld.3 relocate_as=../../../../../../../man/man3/Algorithm::DiffOld.3

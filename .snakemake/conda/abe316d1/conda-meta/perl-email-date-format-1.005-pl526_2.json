@@ -1,0 +1,70 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-email-date-format-1.005-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Email/Date/Format.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Email/Date/Format/.packlist",
+    "man/man3/Email::Date::Format.3"
+  ],
+  "fn": "perl-email-date-format-1.005-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-email-date-format-1.005-pl526_2",
+    "type": 1
+  },
+  "md5": "7c2c2c488712dd3ae36a829a9db2e3cf",
+  "name": "perl-email-date-format",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-email-date-format-1.005-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "41755670207755e64a63dd456ba630a401a145eb7be3a5020f6a2d21c702ad65",
+        "sha256_in_prefix": "f50830b6551dd1e1f6b29121583392e0e58c6a60a93cb9f9dded3512a66974ef",
+        "size_in_bytes": 270
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Email/Date/Format.pm",
+        "path_type": "hardlink",
+        "sha256": "42c5c95d922f4d3696e02ceafa76d05d001a521f6e14416eb214fc707e725c41",
+        "sha256_in_prefix": "42c5c95d922f4d3696e02ceafa76d05d001a521f6e14416eb214fc707e725c41",
+        "size_in_bytes": 4032
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Email/Date/Format/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "0697d52e2fa2ed0f787ba76a73f5e716fc283b87614358f2b8075560f0ab1a40",
+        "sha256_in_prefix": "429e83179d96db6be731194d95bd52f752a15fc226a3b526d6f8f88b10e69e91",
+        "size_in_bytes": 254
+      },
+      {
+        "_path": "man/man3/Email::Date::Format.3",
+        "path_type": "hardlink",
+        "sha256": "ce6ea04bb09a5d51f07dde8e9976f3b7951f937c911e36c2139dcb574bc9fd06",
+        "sha256_in_prefix": "ce6ea04bb09a5d51f07dde8e9976f3b7951f937c911e36c2139dcb574bc9fd06",
+        "size_in_bytes": 4019
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 8359,
+  "subdir": "linux-64",
+  "timestamp": 1552132027477,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-email-date-format-1.005-pl526_2.tar.bz2",
+  "version": "1.005"
+}

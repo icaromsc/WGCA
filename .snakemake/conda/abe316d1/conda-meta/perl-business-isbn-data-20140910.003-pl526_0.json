@@ -1,0 +1,77 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-carp"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-business-isbn-data-20140910.003-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Business/ISBN/Data.pm",
+    "lib/site_perl/5.26.2/Business/ISBN/RangeMessage.xml",
+    "lib/site_perl/5.26.2/Business/ISBN/make_data.pl",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Business/ISBN/Data/.packlist",
+    "man/man3/Business::ISBN::Data.3"
+  ],
+  "fn": "perl-business-isbn-data-20140910.003-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-business-isbn-data-20140910.003-pl526_0",
+    "type": 1
+  },
+  "md5": "a3388b8a93d46fd71c88675528c11570",
+  "name": "perl-business-isbn-data",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-business-isbn-data-20140910.003-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Business/ISBN/Data.pm",
+        "path_type": "hardlink",
+        "sha256": "6907cbde225b9c97a498460b8f42d9065e4355d50019ad6ddcd02a76e697e886",
+        "sha256_in_prefix": "6907cbde225b9c97a498460b8f42d9065e4355d50019ad6ddcd02a76e697e886",
+        "size_in_bytes": 28726
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Business/ISBN/RangeMessage.xml",
+        "path_type": "hardlink",
+        "sha256": "650c3889a09ecf8207a274895d6353148c4a258de83fca2a7ab0fa8875433658",
+        "sha256_in_prefix": "650c3889a09ecf8207a274895d6353148c4a258de83fca2a7ab0fa8875433658",
+        "size_in_bytes": 136726
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Business/ISBN/make_data.pl",
+        "path_type": "hardlink",
+        "sha256": "d5c5c41e45176b855a2a2ddee46f140da3a4678681b0714aede61e6f9e644912",
+        "sha256_in_prefix": "d5c5c41e45176b855a2a2ddee46f140da3a4678681b0714aede61e6f9e644912",
+        "size_in_bytes": 784
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Business/ISBN/Data/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "efea0f0a8db46c268e0eaa6a0d51c21951660e189b238bfd986fa5e2073668a4",
+        "sha256_in_prefix": "cf8ffdd84adab31f1d491a8b75a5d6077c28500c9df1965f0d05115ad28febd2",
+        "size_in_bytes": 536
+      },
+      {
+        "_path": "man/man3/Business::ISBN::Data.3",
+        "path_type": "hardlink",
+        "sha256": "74506feac1d95ef64e310cda642ca6473db82dc9cdeb04b9f8782a352b4126aa",
+        "sha256_in_prefix": "74506feac1d95ef64e310cda642ca6473db82dc9cdeb04b9f8782a352b4126aa",
+        "size_in_bytes": 4375
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 15481,
+  "subdir": "linux-64",
+  "timestamp": 1535080313468,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-business-isbn-data-20140910.003-pl526_0.tar.bz2",
+  "version": "20140910.003"
+}

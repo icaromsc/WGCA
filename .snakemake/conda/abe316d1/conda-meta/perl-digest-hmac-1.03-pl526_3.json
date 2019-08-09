@@ -1,0 +1,102 @@
+{
+  "build": "pl526_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-digest-hmac-1.03-pl526_3",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Digest/HMAC.pm",
+    "lib/site_perl/5.26.2/Digest/HMAC_MD5.pm",
+    "lib/site_perl/5.26.2/Digest/HMAC_SHA1.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Digest/HMAC/.packlist",
+    "man/man3/Digest::HMAC.3",
+    "man/man3/Digest::HMAC_MD5.3",
+    "man/man3/Digest::HMAC_SHA1.3"
+  ],
+  "fn": "perl-digest-hmac-1.03-pl526_3.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-digest-hmac-1.03-pl526_3",
+    "type": 1
+  },
+  "md5": "8034b317d96bf32090e66ab8c6db9671",
+  "name": "perl-digest-hmac",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-digest-hmac-1.03-pl526_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "d140d1ee252e2224037fa542963e32fc2fe4802fb1bcffde2e32f5ecc248d53c",
+        "sha256_in_prefix": "982f6fdc191f56ba40e8673e7b0c7e41a307bbb6034f9ffa90b99e635ec8ae34",
+        "size_in_bytes": 255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Digest/HMAC.pm",
+        "path_type": "hardlink",
+        "sha256": "aab5d1997b7bf39a6ddf08287cbb14a3c935d44b041bd0905604067c543b27db",
+        "sha256_in_prefix": "aab5d1997b7bf39a6ddf08287cbb14a3c935d44b041bd0905604067c543b27db",
+        "size_in_bytes": 2889
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Digest/HMAC_MD5.pm",
+        "path_type": "hardlink",
+        "sha256": "b311fcb3d47546829182f5c39a1e7567ebbfd5b1c1edeac605a04ed5d37908b1",
+        "sha256_in_prefix": "b311fcb3d47546829182f5c39a1e7567ebbfd5b1c1edeac605a04ed5d37908b1",
+        "size_in_bytes": 1114
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Digest/HMAC_SHA1.pm",
+        "path_type": "hardlink",
+        "sha256": "8eb45b1af55ea77a06fef3dd9ad59b4a7a6e7e3f61c3fe190e67518d2c90e3c7",
+        "sha256_in_prefix": "8eb45b1af55ea77a06fef3dd9ad59b4a7a6e7e3f61c3fe190e67518d2c90e3c7",
+        "size_in_bytes": 1163
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Digest/HMAC/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "b7a3fdc94af0cd767aca964c4a351ab992ea67c7709076a74148d4bd16bf6265",
+        "sha256_in_prefix": "b8c6478658803f0c81c6b8795a44478972b1c36efa97da8adb22aa9f5995a5b1",
+        "size_in_bytes": 702
+      },
+      {
+        "_path": "man/man3/Digest::HMAC.3",
+        "path_type": "hardlink",
+        "sha256": "75da91942dfaa1603c10398aa185d1f5eb6f76b962c4238f3ee7977ebdf23ebd",
+        "sha256_in_prefix": "75da91942dfaa1603c10398aa185d1f5eb6f76b962c4238f3ee7977ebdf23ebd",
+        "size_in_bytes": 3818
+      },
+      {
+        "_path": "man/man3/Digest::HMAC_MD5.3",
+        "path_type": "hardlink",
+        "sha256": "fba0a5436325b8b7fb656e36db9c55fb36be4527667daa48a801bc77cb4a9f71",
+        "sha256_in_prefix": "fba0a5436325b8b7fb656e36db9c55fb36be4527667daa48a801bc77cb4a9f71",
+        "size_in_bytes": 2851
+      },
+      {
+        "_path": "man/man3/Digest::HMAC_SHA1.3",
+        "path_type": "hardlink",
+        "sha256": "fc90daea536e32125759c40ceb22487352b2941decf2c1ceb0b9a7f8f10e319e",
+        "sha256_in_prefix": "fc90daea536e32125759c40ceb22487352b2941decf2c1ceb0b9a7f8f10e319e",
+        "size_in_bytes": 2863
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 9321,
+  "subdir": "linux-64",
+  "timestamp": 1552132231628,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-digest-hmac-1.03-pl526_3.tar.bz2",
+  "version": "1.03"
+}

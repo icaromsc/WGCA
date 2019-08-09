@@ -1,0 +1,14 @@
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/AppConfig.pm relocate_as=../../../AppConfig.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/AppConfig/Args.pm relocate_as=../../../AppConfig/Args.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/AppConfig/CGI.pm relocate_as=../../../AppConfig/CGI.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/AppConfig/File.pm relocate_as=../../../AppConfig/File.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/AppConfig/Getopt.pm relocate_as=../../../AppConfig/Getopt.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/AppConfig/State.pm relocate_as=../../../AppConfig/State.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/AppConfig/Sys.pm relocate_as=../../../AppConfig/Sys.pm
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/AppConfig.3 relocate_as=../../../../../../man/man3/AppConfig.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/AppConfig::Args.3 relocate_as=../../../../../../man/man3/AppConfig::Args.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/AppConfig::CGI.3 relocate_as=../../../../../../man/man3/AppConfig::CGI.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/AppConfig::File.3 relocate_as=../../../../../../man/man3/AppConfig::File.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/AppConfig::Getopt.3 relocate_as=../../../../../../man/man3/AppConfig::Getopt.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/AppConfig::State.3 relocate_as=../../../../../../man/man3/AppConfig::State.3
+/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/AppConfig::Sys.3 relocate_as=../../../../../../man/man3/AppConfig::Sys.3

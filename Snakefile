@@ -35,8 +35,11 @@ rule resistance_identification:
         "data/samples/{sample}.fasta"
     output:
         "resistance_genes/{sample}.tsv"
+    conda:
+        "envs/abricate.yaml"
     shell:
         "abricate --minid=90 --db=card {input} > {output}"
+
 
 rule summarize_resistance:
     input:

@@ -1,0 +1,70 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-xml-writer-0.625-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/XML/Writer.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/XML/Writer/.packlist",
+    "man/man3/XML::Writer.3"
+  ],
+  "fn": "perl-xml-writer-0.625-pl526_2.tar.bz2",
+  "license": "unrestricted",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-xml-writer-0.625-pl526_2",
+    "type": 1
+  },
+  "md5": "b1d6525412fa858a778c6d72b8c62fb8",
+  "name": "perl-xml-writer",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-xml-writer-0.625-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f7e4259edb0bd09e2ccb9ebeac2a518ae6a4023bb184bf38a82b88888d5e9333",
+        "sha256_in_prefix": "ec752ea7398ba38274264c88919ccead366cec62c24686110b0a489a832339e2",
+        "size_in_bytes": 254
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/XML/Writer.pm",
+        "path_type": "hardlink",
+        "sha256": "bf5810b924252b080a3b6dac1d7709ddb4a76da88aa4ee20e3aca72a41cdf30c",
+        "sha256_in_prefix": "bf5810b924252b080a3b6dac1d7709ddb4a76da88aa4ee20e3aca72a41cdf30c",
+        "size_in_bytes": 42635
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/XML/Writer/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "64427dba636af5f34ca085a008fdf938222a948b4149d9140e349ffee10cf896",
+        "sha256_in_prefix": "f3baed971856154143278a263c44ed19cd9d1c8fc49ba13383c764c4e7a3c121",
+        "size_in_bytes": 218
+      },
+      {
+        "_path": "man/man3/XML::Writer.3",
+        "path_type": "hardlink",
+        "sha256": "ac4ae5cffdc13c88532dbf0a2c0ce6ce640dec4eab6749f2544e00e2ff464b6c",
+        "sha256_in_prefix": "ac4ae5cffdc13c88532dbf0a2c0ce6ce640dec4eab6749f2544e00e2ff464b6c",
+        "size_in_bytes": 20073
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 18853,
+  "subdir": "linux-64",
+  "timestamp": 1533799347334,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-xml-writer-0.625-pl526_2.tar.bz2",
+  "version": "0.625"
+}

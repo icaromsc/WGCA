@@ -1,0 +1,166 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-font-afm-1.20-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Font/AFM.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/Courier.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/CourierBold.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/CourierBoldOblique.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/CourierOblique.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/Helvetica.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/HelveticaBold.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/HelveticaBoldOblique.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/HelveticaOblique.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/TimesBold.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/TimesBoldItalic.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/TimesItalic.pm",
+    "lib/site_perl/5.26.2/Font/Metrics/TimesRoman.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Font/AFM/.packlist",
+    "man/man3/Font::AFM.3"
+  ],
+  "fn": "perl-font-afm-1.20-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-font-afm-1.20-pl526_2",
+    "type": 1
+  },
+  "md5": "abb160a30f5f6fd49ab1f5c9fcc6491e",
+  "name": "perl-font-afm",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-font-afm-1.20-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "1ac4ae4f5b9e05586957e6ee0d6eb907988fea6d6aa694f1f46e8e8caf3c2827",
+        "sha256_in_prefix": "8da13374d0e3f8d48086a7169d2275254c39e0cbf6211af6c39bdbba4f6b5956",
+        "size_in_bytes": 249
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/AFM.pm",
+        "path_type": "hardlink",
+        "sha256": "82fdeaa5e8b6b3d38160aa7270f24d8d5019064d2f46f0985f6a6ff740bdc6bd",
+        "sha256_in_prefix": "82fdeaa5e8b6b3d38160aa7270f24d8d5019064d2f46f0985f6a6ff740bdc6bd",
+        "size_in_bytes": 10696
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/Courier.pm",
+        "path_type": "hardlink",
+        "sha256": "ad10304f8baefd283c45a9b08ee5fb76022a8fbca3bb605b403a110624e80851",
+        "sha256_in_prefix": "ad10304f8baefd283c45a9b08ee5fb76022a8fbca3bb605b403a110624e80851",
+        "size_in_bytes": 2170
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/CourierBold.pm",
+        "path_type": "hardlink",
+        "sha256": "6edb2851380a6b098e2b46157a2c66a32bc5204ebd3c61689b035e73f6efb6d6",
+        "sha256_in_prefix": "6edb2851380a6b098e2b46157a2c66a32bc5204ebd3c61689b035e73f6efb6d6",
+        "size_in_bytes": 2179
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/CourierBoldOblique.pm",
+        "path_type": "hardlink",
+        "sha256": "c619423d272114e68a1b28787a74052de1bea487d2e20716c2b9702c06f3ecd0",
+        "sha256_in_prefix": "c619423d272114e68a1b28787a74052de1bea487d2e20716c2b9702c06f3ecd0",
+        "size_in_bytes": 2193
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/CourierOblique.pm",
+        "path_type": "hardlink",
+        "sha256": "b69cf54c3b4155b02f879f090d2c4fdf7ff45c5c4a7bce84fbaed63ce6a320b0",
+        "sha256_in_prefix": "b69cf54c3b4155b02f879f090d2c4fdf7ff45c5c4a7bce84fbaed63ce6a320b0",
+        "size_in_bytes": 2185
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/Helvetica.pm",
+        "path_type": "hardlink",
+        "sha256": "34bfcdfc9b9bb6e424f54ba5be427a02ace26f8329c1340c7d71ea3b8a2665a1",
+        "sha256_in_prefix": "34bfcdfc9b9bb6e424f54ba5be427a02ace26f8329c1340c7d71ea3b8a2665a1",
+        "size_in_bytes": 2257
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/HelveticaBold.pm",
+        "path_type": "hardlink",
+        "sha256": "5bab26d746e7a76788d281737303f2a81bc6baa2772959a23f1923be0203d892",
+        "sha256_in_prefix": "5bab26d746e7a76788d281737303f2a81bc6baa2772959a23f1923be0203d892",
+        "size_in_bytes": 2266
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/HelveticaBoldOblique.pm",
+        "path_type": "hardlink",
+        "sha256": "c3b82e7546aa10156de40f2f8bc4fb40304a014d1012e4c7a322d602ed9540b8",
+        "sha256_in_prefix": "c3b82e7546aa10156de40f2f8bc4fb40304a014d1012e4c7a322d602ed9540b8",
+        "size_in_bytes": 2280
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/HelveticaOblique.pm",
+        "path_type": "hardlink",
+        "sha256": "e80f8c90710016b4060d848c12e367926d5b390f46e735af9e51d658df526390",
+        "sha256_in_prefix": "e80f8c90710016b4060d848c12e367926d5b390f46e735af9e51d658df526390",
+        "size_in_bytes": 2272
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/TimesBold.pm",
+        "path_type": "hardlink",
+        "sha256": "ab59c14ac3d1edfb98df2d24db1b9296036f3ede90fcf38b8d34a3a4b5023872",
+        "sha256_in_prefix": "ab59c14ac3d1edfb98df2d24db1b9296036f3ede90fcf38b8d34a3a4b5023872",
+        "size_in_bytes": 2254
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/TimesBoldItalic.pm",
+        "path_type": "hardlink",
+        "sha256": "8bd6c1c87b52343786d4daa4fa34acf9b17624af86b7a66e24e78de9a695d5da",
+        "sha256_in_prefix": "8bd6c1c87b52343786d4daa4fa34acf9b17624af86b7a66e24e78de9a695d5da",
+        "size_in_bytes": 2266
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/TimesItalic.pm",
+        "path_type": "hardlink",
+        "sha256": "3f9c119bccf4946ec8ae899f896bd4e394245243c6b1e3042673bcac5cf3efa7",
+        "sha256_in_prefix": "3f9c119bccf4946ec8ae899f896bd4e394245243c6b1e3042673bcac5cf3efa7",
+        "size_in_bytes": 2258
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Font/Metrics/TimesRoman.pm",
+        "path_type": "hardlink",
+        "sha256": "00205863f32e459090ecf5337a9655b861659ecf5fa67e54a1d4cd6018a99ffc",
+        "sha256_in_prefix": "00205863f32e459090ecf5337a9655b861659ecf5fa67e54a1d4cd6018a99ffc",
+        "size_in_bytes": 2256
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Font/AFM/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "7004daace6a9e9f6cf4bbcc3346f845f1dcddc39f08c54837868c23a851069de",
+        "sha256_in_prefix": "4640f3be11c0bea22ee7cde96f831e772511088d95779b6e4190778077373894",
+        "size_in_bytes": 1860
+      },
+      {
+        "_path": "man/man3/Font::AFM.3",
+        "path_type": "hardlink",
+        "sha256": "58e8036f31aa84177333ca3884362204335afe2f0b53f1318ba66aef4e62fee9",
+        "sha256_in_prefix": "58e8036f31aa84177333ca3884362204335afe2f0b53f1318ba66aef4e62fee9",
+        "size_in_bytes": 8565
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 13882,
+  "subdir": "linux-64",
+  "timestamp": 1532127802317,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-font-afm-1.20-pl526_2.tar.bz2",
+  "version": "1.20"
+}

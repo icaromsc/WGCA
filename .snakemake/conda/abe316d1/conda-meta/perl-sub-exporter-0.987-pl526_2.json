@@ -1,0 +1,112 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-carp",
+    "perl-data-optlist",
+    "perl-params-util",
+    "perl-sub-install"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-sub-exporter-0.987-pl526_2",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Sub/Exporter.pm",
+    "lib/site_perl/5.26.2/Sub/Exporter/Cookbook.pod",
+    "lib/site_perl/5.26.2/Sub/Exporter/Tutorial.pod",
+    "lib/site_perl/5.26.2/Sub/Exporter/Util.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Exporter/.packlist",
+    "man/man3/Sub::Exporter.3",
+    "man/man3/Sub::Exporter::Cookbook.3",
+    "man/man3/Sub::Exporter::Tutorial.3",
+    "man/man3/Sub::Exporter::Util.3"
+  ],
+  "fn": "perl-sub-exporter-0.987-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-sub-exporter-0.987-pl526_2",
+    "type": 1
+  },
+  "md5": "5c47be06a5776fa6f3b6fb4e799bc5a1",
+  "name": "perl-sub-exporter",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-sub-exporter-0.987-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Sub/Exporter.pm",
+        "path_type": "hardlink",
+        "sha256": "fcec64485a6208a1cb497a657c4da44fc7c614b8541a079e33ea2481a603f327",
+        "sha256_in_prefix": "fcec64485a6208a1cb497a657c4da44fc7c614b8541a079e33ea2481a603f327",
+        "size_in_bytes": 36405
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Sub/Exporter/Cookbook.pod",
+        "path_type": "hardlink",
+        "sha256": "353d0eb04ca530229b641136a9c582fac3f496671c1030b358567e130e9caf1b",
+        "sha256_in_prefix": "353d0eb04ca530229b641136a9c582fac3f496671c1030b358567e130e9caf1b",
+        "size_in_bytes": 8600
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Sub/Exporter/Tutorial.pod",
+        "path_type": "hardlink",
+        "sha256": "c5edee9d88e13f379e4541b78bd103f628c6e423e1d5a42a9eefef9063e25c82",
+        "sha256_in_prefix": "c5edee9d88e13f379e4541b78bd103f628c6e423e1d5a42a9eefef9063e25c82",
+        "size_in_bytes": 9142
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Sub/Exporter/Util.pm",
+        "path_type": "hardlink",
+        "sha256": "7a5f5f4f811398b9fe95690b5571b3c722cedcc45a95c681860992841675dd43",
+        "sha256_in_prefix": "7a5f5f4f811398b9fe95690b5571b3c722cedcc45a95c681860992841675dd43",
+        "size_in_bytes": 8933
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Exporter/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "b72661a6f7cf833e5eeead13905a95c0226ec859b67e37c03227da8263bb12a9",
+        "sha256_in_prefix": "dc818bd0256025764d9fd27b16720c376cbc790db86c7c5d38b9de2f06eaf482",
+        "size_in_bytes": 1006
+      },
+      {
+        "_path": "man/man3/Sub::Exporter.3",
+        "path_type": "hardlink",
+        "sha256": "2d1a19c469f60475ca2741e5b36e4ba724fdef45d275492e156a5360c1dc5e9f",
+        "sha256_in_prefix": "2d1a19c469f60475ca2741e5b36e4ba724fdef45d275492e156a5360c1dc5e9f",
+        "size_in_bytes": 27508
+      },
+      {
+        "_path": "man/man3/Sub::Exporter::Cookbook.3",
+        "path_type": "hardlink",
+        "sha256": "8daa645c23122840b3ebb760c65fe88a3a2a18b5bc40aff89ce6b67774a52828",
+        "sha256_in_prefix": "8daa645c23122840b3ebb760c65fe88a3a2a18b5bc40aff89ce6b67774a52828",
+        "size_in_bytes": 12114
+      },
+      {
+        "_path": "man/man3/Sub::Exporter::Tutorial.3",
+        "path_type": "hardlink",
+        "sha256": "c5db4ed8dae92713d9bbbadf723ae4dada97641ee737f5cbc81a1b93afc12690",
+        "sha256_in_prefix": "c5db4ed8dae92713d9bbbadf723ae4dada97641ee737f5cbc81a1b93afc12690",
+        "size_in_bytes": 12445
+      },
+      {
+        "_path": "man/man3/Sub::Exporter::Util.3",
+        "path_type": "hardlink",
+        "sha256": "b2dbb29dbd8a7ca9d48e20fe4e7ab8d2bd08734eafe84c9719c0475d3644fde4",
+        "sha256_in_prefix": "b2dbb29dbd8a7ca9d48e20fe4e7ab8d2bd08734eafe84c9719c0475d3644fde4",
+        "size_in_bytes": 6925
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 31045,
+  "subdir": "linux-64",
+  "timestamp": 1534771320898,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-sub-exporter-0.987-pl526_2.tar.bz2",
+  "version": "0.987"
+}
