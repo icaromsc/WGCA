@@ -1,0 +1,84 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-mldbm-2.05-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/MLDBM.pm",
+    "lib/site_perl/5.26.2/MLDBM/Serializer/Data/Dumper.pm",
+    "lib/site_perl/5.26.2/MLDBM/Serializer/FreezeThaw.pm",
+    "lib/site_perl/5.26.2/MLDBM/Serializer/Storable.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MLDBM/.packlist",
+    "man/man3/MLDBM.3"
+  ],
+  "fn": "perl-mldbm-2.05-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-mldbm-2.05-pl526_1",
+    "type": 1
+  },
+  "md5": "57b7a95f18db31d9a14be8821d78fb1c",
+  "name": "perl-mldbm",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-mldbm-2.05-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/MLDBM.pm",
+        "path_type": "hardlink",
+        "sha256": "b249c0e4dea882a529f8a9a9ff643e00804602e2baa113534c1542c2620d6c9f",
+        "sha256_in_prefix": "b249c0e4dea882a529f8a9a9ff643e00804602e2baa113534c1542c2620d6c9f",
+        "size_in_bytes": 16594
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/MLDBM/Serializer/Data/Dumper.pm",
+        "path_type": "hardlink",
+        "sha256": "5c6368584480a6d60750ce2343cb6bb97d660e737fcf99b1c085eaf3cf99caa1",
+        "sha256_in_prefix": "5c6368584480a6d60750ce2343cb6bb97d660e737fcf99b1c085eaf3cf99caa1",
+        "size_in_bytes": 2043
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/MLDBM/Serializer/FreezeThaw.pm",
+        "path_type": "hardlink",
+        "sha256": "c5119b97924dce62e4216d1b2b57e635a4d36f1647469cc81882a43cd305af95",
+        "sha256_in_prefix": "c5119b97924dce62e4216d1b2b57e635a4d36f1647469cc81882a43cd305af95",
+        "size_in_bytes": 351
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/MLDBM/Serializer/Storable.pm",
+        "path_type": "hardlink",
+        "sha256": "5b996be9e44eb9fb872bc9b88a052de4ac7146f2847d131b22632f4ccf7ed579",
+        "sha256_in_prefix": "5b996be9e44eb9fb872bc9b88a052de4ac7146f2847d131b22632f4ccf7ed579",
+        "size_in_bytes": 922
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MLDBM/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "4cd8b71326c91c43aa2017a0e5c98822f503e254b842d724668d3d1dbafec326",
+        "sha256_in_prefix": "ae5f9db6addeaf20bde12d6807e3c25e0402d23da2161c6e4e1953871be33944",
+        "size_in_bytes": 599
+      },
+      {
+        "_path": "man/man3/MLDBM.3",
+        "path_type": "hardlink",
+        "sha256": "7a43878fec57dca91b337cd095787363e782c3ac3c72c034b76faacca57e1abb",
+        "sha256_in_prefix": "7a43878fec57dca91b337cd095787363e782c3ac3c72c034b76faacca57e1abb",
+        "size_in_bytes": 16305
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 15312,
+  "subdir": "linux-64",
+  "timestamp": 1531971403135,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-mldbm-2.05-pl526_1.tar.bz2",
+  "version": "2.05"
+}

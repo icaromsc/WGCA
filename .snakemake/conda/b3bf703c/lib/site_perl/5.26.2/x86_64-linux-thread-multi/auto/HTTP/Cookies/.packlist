@@ -1,0 +1,6 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTTP/Cookies.pm relocate_as=../../../../HTTP/Cookies.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTTP/Cookies/Microsoft.pm relocate_as=../../../../HTTP/Cookies/Microsoft.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTTP/Cookies/Netscape.pm relocate_as=../../../../HTTP/Cookies/Netscape.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTTP::Cookies.3 relocate_as=../../../../../../../man/man3/HTTP::Cookies.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTTP::Cookies::Microsoft.3 relocate_as=../../../../../../../man/man3/HTTP::Cookies::Microsoft.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTTP::Cookies::Netscape.3 relocate_as=../../../../../../../man/man3/HTTP::Cookies::Netscape.3

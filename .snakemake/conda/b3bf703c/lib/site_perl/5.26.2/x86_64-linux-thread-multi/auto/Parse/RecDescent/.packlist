@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Parse/RecDescent.pm relocate_as=../../../../Parse/RecDescent.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Parse::RecDescent.3 relocate_as=../../../../../../../man/man3/Parse::RecDescent.3

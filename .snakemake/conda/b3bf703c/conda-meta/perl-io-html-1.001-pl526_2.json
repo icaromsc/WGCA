@@ -1,0 +1,70 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-io-html-1.001-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/IO/HTML.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/HTML/.packlist",
+    "man/man3/IO::HTML.3"
+  ],
+  "fn": "perl-io-html-1.001-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-io-html-1.001-pl526_2",
+    "type": 1
+  },
+  "md5": "64455bdee28a81f80825a314a4044061",
+  "name": "perl-io-html",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-io-html-1.001-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "418e14e1b393e5b61bc72d43753d15a828ecce336a9e9e4e3020831f4322b874",
+        "sha256_in_prefix": "c8c0db0d06d9c109069c4372a69d029cdd9bb15624904652fa17b3f734f97e62",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/HTML.pm",
+        "path_type": "hardlink",
+        "sha256": "ae7c62f51a07fa06cf1dbd05c90ec308c1dd64535dbcea2f954b6abcce816f1f",
+        "sha256_in_prefix": "ae7c62f51a07fa06cf1dbd05c90ec308c1dd64535dbcea2f954b6abcce816f1f",
+        "size_in_bytes": 17773
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/HTML/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "a6bb3097c494887442a78da0d6f21b269a74ec94d2cd16d09bd54be6cd81f352",
+        "sha256_in_prefix": "e298be05122eb1de1b722d8bf2017cf0d520eb26365afaadf7b5a0633b7370f2",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "man/man3/IO::HTML.3",
+        "path_type": "hardlink",
+        "sha256": "0763a2aa95b8878385e02996e0e1a24efc95ad68d48c6c33a1bb56116db5790f",
+        "sha256_in_prefix": "0763a2aa95b8878385e02996e0e1a24efc95ad68d48c6c33a1bb56116db5790f",
+        "size_in_bytes": 14051
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 13355,
+  "subdir": "linux-64",
+  "timestamp": 1530922366272,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-io-html-1.001-pl526_2.tar.bz2",
+  "version": "1.001"
+}

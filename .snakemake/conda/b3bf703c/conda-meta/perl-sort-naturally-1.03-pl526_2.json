@@ -1,0 +1,70 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-sort-naturally-1.03-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Sort/Naturally.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sort/Naturally/.packlist",
+    "man/man3/Sort::Naturally.3"
+  ],
+  "fn": "perl-sort-naturally-1.03-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-sort-naturally-1.03-pl526_2",
+    "type": 1
+  },
+  "md5": "fba3b30a0be6d23e9ba4ecb78545656d",
+  "name": "perl-sort-naturally",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-sort-naturally-1.03-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "fa7c64e964c21c0443d487561049eddebd8f5865604cba3d30083a402e6cc424",
+        "sha256_in_prefix": "5cf2212cad6a667ea69be3fd171dd020e9802aca7a1b0b4796fe12e50e84933e",
+        "size_in_bytes": 261
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Sort/Naturally.pm",
+        "path_type": "hardlink",
+        "sha256": "cc091cfaa238d72b1603758aef0afd0f1389f4b421b584b9f0c0a211044f1442",
+        "sha256_in_prefix": "cc091cfaa238d72b1603758aef0afd0f1389f4b421b584b9f0c0a211044f1442",
+        "size_in_bytes": 23360
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sort/Naturally/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "72363558bf0ff52effa567d6bac1f18a2b5d585dba701bb4f13ad81773cbf74f",
+        "sha256_in_prefix": "b3dc71b6d794e8651fd06c5199111e920b1ef85d4ec3c95f16af1879f24fcb6b",
+        "size_in_bytes": 234
+      },
+      {
+        "_path": "man/man3/Sort::Naturally.3",
+        "path_type": "hardlink",
+        "sha256": "120690879e392c6d84cb4d9308127f35728404acecbbf9591ceaee5e96c27c0f",
+        "sha256_in_prefix": "120690879e392c6d84cb4d9308127f35728404acecbbf9591ceaee5e96c27c0f",
+        "size_in_bytes": 9977
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 14686,
+  "subdir": "linux-64",
+  "timestamp": 1550775167069,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-sort-naturally-1.03-pl526_2.tar.bz2",
+  "version": "1.03"
+}

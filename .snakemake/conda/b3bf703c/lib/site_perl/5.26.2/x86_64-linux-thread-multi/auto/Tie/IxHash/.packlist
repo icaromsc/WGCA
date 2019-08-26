@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Tie/IxHash.pm relocate_as=../../../../Tie/IxHash.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Tie::IxHash.3 relocate_as=../../../../../../../man/man3/Tie::IxHash.3

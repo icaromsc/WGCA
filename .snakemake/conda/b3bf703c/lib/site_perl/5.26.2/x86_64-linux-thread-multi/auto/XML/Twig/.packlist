@@ -1,0 +1,13 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/xml_grep relocate_as=../../../../../../../bin/xml_grep
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/xml_merge relocate_as=../../../../../../../bin/xml_merge
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/xml_pp relocate_as=../../../../../../../bin/xml_pp
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/xml_spellcheck relocate_as=../../../../../../../bin/xml_spellcheck
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/xml_split relocate_as=../../../../../../../bin/xml_split
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/XML/Twig.pm relocate_as=../../../../XML/Twig.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/XML/Twig/XPath.pm relocate_as=../../../../XML/Twig/XPath.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/xml_grep.1 relocate_as=../../../../../../../man/man1/xml_grep.1
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/xml_merge.1 relocate_as=../../../../../../../man/man1/xml_merge.1
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/xml_pp.1 relocate_as=../../../../../../../man/man1/xml_pp.1
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/xml_spellcheck.1 relocate_as=../../../../../../../man/man1/xml_spellcheck.1
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/xml_split.1 relocate_as=../../../../../../../man/man1/xml_split.1
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/XML::Twig.3 relocate_as=../../../../../../../man/man3/XML::Twig.3

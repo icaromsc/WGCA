@@ -1,0 +1,60 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-mro-compat-0.13-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/MRO/Compat.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MRO/Compat/.packlist",
+    "man/man3/MRO::Compat.3"
+  ],
+  "fn": "perl-mro-compat-0.13-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-mro-compat-0.13-pl526_0",
+    "type": 1
+  },
+  "md5": "1a374860fe4735444128341b386b0661",
+  "name": "perl-mro-compat",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-mro-compat-0.13-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/MRO/Compat.pm",
+        "path_type": "hardlink",
+        "sha256": "33ee7935cbc127bacc4bb84569bf50bd795594b2763a9096436b1a7afd9cca57",
+        "sha256_in_prefix": "33ee7935cbc127bacc4bb84569bf50bd795594b2763a9096436b1a7afd9cca57",
+        "size_in_bytes": 10974
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MRO/Compat/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "678094f294e98599e88a172654965d177b1d546c7aec18b7e1581de640d41400",
+        "sha256_in_prefix": "f95053bebb37ca4e19e75b6a20b566ad8c3582b2b63d3097660b3f966745e208",
+        "size_in_bytes": 218
+      },
+      {
+        "_path": "man/man3/MRO::Compat.3",
+        "path_type": "hardlink",
+        "sha256": "a6b3068a979a5aa2344491926779c778272b42d3bb97113548adae3442a872f9",
+        "sha256_in_prefix": "a6b3068a979a5aa2344491926779c778272b42d3bb97113548adae3442a872f9",
+        "size_in_bytes": 8781
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 10308,
+  "subdir": "linux-64",
+  "timestamp": 1534541300389,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-mro-compat-0.13-pl526_0.tar.bz2",
+  "version": "0.13"
+}

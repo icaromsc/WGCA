@@ -1,0 +1,13 @@
+prefix=/home/bioinfo/WGCA/.snakemake/conda/b3bf703c
+exec_prefix=/home/bioinfo/WGCA/.snakemake/conda/b3bf703c
+libdir=/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib
+includedir=/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/include
+
+Name: harfbuzz
+Description: HarfBuzz text shaping library
+Version: 2.4.0
+
+Libs: -L${libdir} -lharfbuzz
+Libs.private: -lm    
+Requires.private: glib-2.0 >= 2.19.1 graphite2 >= 1.2.0
+Cflags: -I${includedir}/harfbuzz

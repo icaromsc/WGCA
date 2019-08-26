@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	summarize_virulence
+	1
+
+[Mon Aug 26 16:59:22 2019]
+rule summarize_virulence:
+    input: virulence_genes/DMW1-1.tsv, virulence_genes/V583.tsv, virulence_genes/OG1RF.tsv, virulence_genes/HT1-12.tsv, virulence_genes/HT2-4.tsv, virulence_genes/GT6-1.tsv, virulence_genes/MP2-6.tsv, virulence_genes/RD1-1.tsv, virulence_genes/C7.tsv, virulence_genes/WS1-5.tsv, virulence_genes/MP1-4.tsv, virulence_genes/HT1-3.tsv, virulence_genes/MP7-18.tsv, virulence_genes/MP9-10.tsv, virulence_genes/J4.tsv, virulence_genes/ST1-20.tsv, virulence_genes/MP10-1.tsv, virulence_genes/L8.tsv, virulence_genes/J2.tsv, virulence_genes/MP8-17.tsv, virulence_genes/GT4-4.tsv, virulence_genes/GT3-2.tsv, virulence_genes/MP5-1.tsv, virulence_genes/MP1-5.tsv, virulence_genes/GT5-1.tsv, virulence_genes/MP1-1.tsv, virulence_genes/MP8-1.tsv, virulence_genes/D2.tsv, virulence_genes/B9.tsv, virulence_genes/MP1-2.tsv, virulence_genes/HW1-1.tsv
+    output: virulence_genes/summary.tsv
+    jobid: 0
+
+[Mon Aug 26 16:59:22 2019]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /home/bioinfo/WGCA/.snakemake/log/2019-08-26T165922.631388.snakemake.log

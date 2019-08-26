@@ -1,0 +1,829 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-exporter-tiny >=0.040"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-type-tiny-1.004004-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Devel/TypeTiny/Perl56Compat.pm",
+    "lib/site_perl/5.26.2/Devel/TypeTiny/Perl58Compat.pm",
+    "lib/site_perl/5.26.2/Error/TypeTiny.pm",
+    "lib/site_perl/5.26.2/Error/TypeTiny/Assertion.pm",
+    "lib/site_perl/5.26.2/Error/TypeTiny/Compilation.pm",
+    "lib/site_perl/5.26.2/Error/TypeTiny/WrongNumberOfParameters.pm",
+    "lib/site_perl/5.26.2/Eval/TypeTiny.pm",
+    "lib/site_perl/5.26.2/Reply/Plugin/TypeTiny.pm",
+    "lib/site_perl/5.26.2/Test/TypeTiny.pm",
+    "lib/site_perl/5.26.2/Type/CONTRIBUTING.pod",
+    "lib/site_perl/5.26.2/Type/Coercion.pm",
+    "lib/site_perl/5.26.2/Type/Coercion/FromMoose.pm",
+    "lib/site_perl/5.26.2/Type/Coercion/Union.pm",
+    "lib/site_perl/5.26.2/Type/Library.pm",
+    "lib/site_perl/5.26.2/Type/Params.pm",
+    "lib/site_perl/5.26.2/Type/Parser.pm",
+    "lib/site_perl/5.26.2/Type/Registry.pm",
+    "lib/site_perl/5.26.2/Type/Tiny.pm",
+    "lib/site_perl/5.26.2/Type/Tiny/Class.pm",
+    "lib/site_perl/5.26.2/Type/Tiny/Duck.pm",
+    "lib/site_perl/5.26.2/Type/Tiny/Enum.pm",
+    "lib/site_perl/5.26.2/Type/Tiny/Intersection.pm",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/Coercions.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/Libraries.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/Optimization.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/Params.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/Policies.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithMoo.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithMoose.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithMouse.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithOther.pod",
+    "lib/site_perl/5.26.2/Type/Tiny/Role.pm",
+    "lib/site_perl/5.26.2/Type/Tiny/Union.pm",
+    "lib/site_perl/5.26.2/Type/Tiny/_HalfOp.pm",
+    "lib/site_perl/5.26.2/Type/Utils.pm",
+    "lib/site_perl/5.26.2/Types/Common/Numeric.pm",
+    "lib/site_perl/5.26.2/Types/Common/String.pm",
+    "lib/site_perl/5.26.2/Types/Standard.pm",
+    "lib/site_perl/5.26.2/Types/Standard/ArrayRef.pm",
+    "lib/site_perl/5.26.2/Types/Standard/CycleTuple.pm",
+    "lib/site_perl/5.26.2/Types/Standard/Dict.pm",
+    "lib/site_perl/5.26.2/Types/Standard/HashRef.pm",
+    "lib/site_perl/5.26.2/Types/Standard/Map.pm",
+    "lib/site_perl/5.26.2/Types/Standard/ScalarRef.pm",
+    "lib/site_perl/5.26.2/Types/Standard/StrMatch.pm",
+    "lib/site_perl/5.26.2/Types/Standard/Tied.pm",
+    "lib/site_perl/5.26.2/Types/Standard/Tuple.pm",
+    "lib/site_perl/5.26.2/Types/TypeTiny.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Type/Tiny/.packlist",
+    "man/man3/Devel::TypeTiny::Perl56Compat.3",
+    "man/man3/Devel::TypeTiny::Perl58Compat.3",
+    "man/man3/Error::TypeTiny.3",
+    "man/man3/Error::TypeTiny::Assertion.3",
+    "man/man3/Error::TypeTiny::Compilation.3",
+    "man/man3/Error::TypeTiny::WrongNumberOfParameters.3",
+    "man/man3/Eval::TypeTiny.3",
+    "man/man3/Reply::Plugin::TypeTiny.3",
+    "man/man3/Test::TypeTiny.3",
+    "man/man3/Type::CONTRIBUTING.3",
+    "man/man3/Type::Coercion.3",
+    "man/man3/Type::Coercion::FromMoose.3",
+    "man/man3/Type::Coercion::Union.3",
+    "man/man3/Type::Library.3",
+    "man/man3/Type::Params.3",
+    "man/man3/Type::Parser.3",
+    "man/man3/Type::Registry.3",
+    "man/man3/Type::Tiny.3",
+    "man/man3/Type::Tiny::Class.3",
+    "man/man3/Type::Tiny::Duck.3",
+    "man/man3/Type::Tiny::Enum.3",
+    "man/man3/Type::Tiny::Intersection.3",
+    "man/man3/Type::Tiny::Manual.3",
+    "man/man3/Type::Tiny::Manual::Coercions.3",
+    "man/man3/Type::Tiny::Manual::Libraries.3",
+    "man/man3/Type::Tiny::Manual::Optimization.3",
+    "man/man3/Type::Tiny::Manual::Params.3",
+    "man/man3/Type::Tiny::Manual::Policies.3",
+    "man/man3/Type::Tiny::Manual::UsingWithMoo.3",
+    "man/man3/Type::Tiny::Manual::UsingWithMoose.3",
+    "man/man3/Type::Tiny::Manual::UsingWithMouse.3",
+    "man/man3/Type::Tiny::Manual::UsingWithOther.3",
+    "man/man3/Type::Tiny::Role.3",
+    "man/man3/Type::Tiny::Union.3",
+    "man/man3/Type::Tiny::_HalfOp.3",
+    "man/man3/Type::Utils.3",
+    "man/man3/Types::Common::Numeric.3",
+    "man/man3/Types::Common::String.3",
+    "man/man3/Types::Standard.3",
+    "man/man3/Types::Standard::ArrayRef.3",
+    "man/man3/Types::Standard::CycleTuple.3",
+    "man/man3/Types::Standard::Dict.3",
+    "man/man3/Types::Standard::HashRef.3",
+    "man/man3/Types::Standard::Map.3",
+    "man/man3/Types::Standard::ScalarRef.3",
+    "man/man3/Types::Standard::StrMatch.3",
+    "man/man3/Types::Standard::Tied.3",
+    "man/man3/Types::Standard::Tuple.3",
+    "man/man3/Types::TypeTiny.3"
+  ],
+  "fn": "perl-type-tiny-1.004004-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-type-tiny-1.004004-pl526_0",
+    "type": 1
+  },
+  "md5": "5964382cfe9204ad562899023b7d559e",
+  "name": "perl-type-tiny",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-type-tiny-1.004004-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Devel/TypeTiny/Perl56Compat.pm",
+        "path_type": "hardlink",
+        "sha256": "b2aed3e96ce7df19551b4b8ed14fd6854f364575b1ea03524e0ffb13d9e76945",
+        "sha256_in_prefix": "b2aed3e96ce7df19551b4b8ed14fd6854f364575b1ea03524e0ffb13d9e76945",
+        "size_in_bytes": 1832
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Devel/TypeTiny/Perl58Compat.pm",
+        "path_type": "hardlink",
+        "sha256": "be661bc430670fc30381a0534fcb19ff48d84a1c7e59d6f575f4e4b00f91ecd5",
+        "sha256_in_prefix": "be661bc430670fc30381a0534fcb19ff48d84a1c7e59d6f575f4e4b00f91ecd5",
+        "size_in_bytes": 1504
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Error/TypeTiny.pm",
+        "path_type": "hardlink",
+        "sha256": "209f238f6c8a85cefb46bb17043ba90bb395575996a826a7b2eb5d46dea7cd76",
+        "sha256_in_prefix": "209f238f6c8a85cefb46bb17043ba90bb395575996a826a7b2eb5d46dea7cd76",
+        "size_in_bytes": 6153
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Error/TypeTiny/Assertion.pm",
+        "path_type": "hardlink",
+        "sha256": "2f1596e94c4f6f3385db7a0b5fe56573eb5807c8d6349045b522d21e841a98cf",
+        "sha256_in_prefix": "2f1596e94c4f6f3385db7a0b5fe56573eb5807c8d6349045b522d21e841a98cf",
+        "size_in_bytes": 4485
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Error/TypeTiny/Compilation.pm",
+        "path_type": "hardlink",
+        "sha256": "f025f72bce784a8b816795f2ba29da7fb592d54e530674a7ba1af0351ae90c26",
+        "sha256_in_prefix": "f025f72bce784a8b816795f2ba29da7fb592d54e530674a7ba1af0351ae90c26",
+        "size_in_bytes": 1872
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Error/TypeTiny/WrongNumberOfParameters.pm",
+        "path_type": "hardlink",
+        "sha256": "d6954099edd404da7e8deb50f719f2022f48ea85aaaca9775961de45ebf42086",
+        "sha256_in_prefix": "d6954099edd404da7e8deb50f719f2022f48ea85aaaca9775961de45ebf42086",
+        "size_in_bytes": 2595
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Eval/TypeTiny.pm",
+        "path_type": "hardlink",
+        "sha256": "394b5d3f90b3c66fc4d69ae776d1a7e58735033b8d1b1a13c83b5428c9f4a6dd",
+        "sha256_in_prefix": "394b5d3f90b3c66fc4d69ae776d1a7e58735033b8d1b1a13c83b5428c9f4a6dd",
+        "size_in_bytes": 11516
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Reply/Plugin/TypeTiny.pm",
+        "path_type": "hardlink",
+        "sha256": "d8a15ba87548ea6b4f5cc1dfe4e9fb010d981582ead65edee95ff812357264c0",
+        "sha256_in_prefix": "d8a15ba87548ea6b4f5cc1dfe4e9fb010d981582ead65edee95ff812357264c0",
+        "size_in_bytes": 1980
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Test/TypeTiny.pm",
+        "path_type": "hardlink",
+        "sha256": "b9ebf6c8577c0370e3c9dd22510166b6fdc0435c8eff2cc1d224147fc2311d0b",
+        "sha256_in_prefix": "b9ebf6c8577c0370e3c9dd22510166b6fdc0435c8eff2cc1d224147fc2311d0b",
+        "size_in_bytes": 5522
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/CONTRIBUTING.pod",
+        "path_type": "hardlink",
+        "sha256": "0a543bca128373914bc3fd2ec616dbd48d039a3ef720404108591b8f4d57890c",
+        "sha256_in_prefix": "0a543bca128373914bc3fd2ec616dbd48d039a3ef720404108591b8f4d57890c",
+        "size_in_bytes": 1679
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Coercion.pm",
+        "path_type": "hardlink",
+        "sha256": "4ec3b780ff9aea1b1b511220d5410dec3e092b6549fe8a5646b0887318d59aea",
+        "sha256_in_prefix": "4ec3b780ff9aea1b1b511220d5410dec3e092b6549fe8a5646b0887318d59aea",
+        "size_in_bytes": 22376
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Coercion/FromMoose.pm",
+        "path_type": "hardlink",
+        "sha256": "9e6a19bcbbeb1c642104adbb3d6f613eec35c96cc77238c9260f440f781a8bf1",
+        "sha256_in_prefix": "9e6a19bcbbeb1c642104adbb3d6f613eec35c96cc77238c9260f440f781a8bf1",
+        "size_in_bytes": 2636
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Coercion/Union.pm",
+        "path_type": "hardlink",
+        "sha256": "e37a358a479e2423e34769137ea050af60216c00338bf29b2c2261136e326d2d",
+        "sha256_in_prefix": "e37a358a479e2423e34769137ea050af60216c00338bf29b2c2261136e326d2d",
+        "size_in_bytes": 2967
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Library.pm",
+        "path_type": "hardlink",
+        "sha256": "a277de0bcc2d995b4f78e97d91385b0a5cec779e579539a602d6245c8169c07c",
+        "sha256_in_prefix": "a277de0bcc2d995b4f78e97d91385b0a5cec779e579539a602d6245c8169c07c",
+        "size_in_bytes": 14407
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Params.pm",
+        "path_type": "hardlink",
+        "sha256": "edb8bedbbf7c0b2d2aeb79facfb8f0cc4d7caecb4819d7d3f9ebe1b82a495334",
+        "sha256_in_prefix": "edb8bedbbf7c0b2d2aeb79facfb8f0cc4d7caecb4819d7d3f9ebe1b82a495334",
+        "size_in_bytes": 40482
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Parser.pm",
+        "path_type": "hardlink",
+        "sha256": "193241c774f9b0ea1e6a4b6f6e3acb4b6fa36bb8ff006d29016e667d8bb7ddcf",
+        "sha256_in_prefix": "193241c774f9b0ea1e6a4b6f6e3acb4b6fa36bb8ff006d29016e667d8bb7ddcf",
+        "size_in_bytes": 13509
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Registry.pm",
+        "path_type": "hardlink",
+        "sha256": "f0d9e89adcce6d1003a8e95c33cd541b1d221523a6e12286691adecb441bfe8e",
+        "sha256_in_prefix": "f0d9e89adcce6d1003a8e95c33cd541b1d221523a6e12286691adecb441bfe8e",
+        "size_in_bytes": 11115
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny.pm",
+        "path_type": "hardlink",
+        "sha256": "00f08969462459c0f2142890782255928dda37b30c693142d82506d37c13c18e",
+        "sha256_in_prefix": "00f08969462459c0f2142890782255928dda37b30c693142d82506d37c13c18e",
+        "size_in_bytes": 50730
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Class.pm",
+        "path_type": "hardlink",
+        "sha256": "ebd737c3719e93f771522676cf5845b371e802c042bee5490929d8a67befc3ed",
+        "sha256_in_prefix": "ebd737c3719e93f771522676cf5845b371e802c042bee5490929d8a67befc3ed",
+        "size_in_bytes": 8196
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Duck.pm",
+        "path_type": "hardlink",
+        "sha256": "8e420f22b7da073c8c179ab096ca2cde51f6cf690308fdf3e7cca6abd3867fcb",
+        "sha256_in_prefix": "8e420f22b7da073c8c179ab096ca2cde51f6cf690308fdf3e7cca6abd3867fcb",
+        "size_in_bytes": 4806
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Enum.pm",
+        "path_type": "hardlink",
+        "sha256": "72979f4f2fceb7ba741e7bbd43200a2cf078f0cbf62821a12aa3b0892e195b40",
+        "sha256_in_prefix": "72979f4f2fceb7ba741e7bbd43200a2cf078f0cbf62821a12aa3b0892e195b40",
+        "size_in_bytes": 4595
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Intersection.pm",
+        "path_type": "hardlink",
+        "sha256": "063dfd8b66238d9fae9c0a7bf7d6aee1b2daa7a9fb23b2103efb68a95071fcfe",
+        "sha256_in_prefix": "063dfd8b66238d9fae9c0a7bf7d6aee1b2daa7a9fb23b2103efb68a95071fcfe",
+        "size_in_bytes": 5235
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual.pod",
+        "path_type": "hardlink",
+        "sha256": "40469bced592648b330f68e615e206f459e13a7dfcbce069ac1645bfaf946143",
+        "sha256_in_prefix": "40469bced592648b330f68e615e206f459e13a7dfcbce069ac1645bfaf946143",
+        "size_in_bytes": 6331
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/Coercions.pod",
+        "path_type": "hardlink",
+        "sha256": "3bdecc20db7711b990c5d68e3b0d726e054994da4d2221c882497782bc01db43",
+        "sha256_in_prefix": "3bdecc20db7711b990c5d68e3b0d726e054994da4d2221c882497782bc01db43",
+        "size_in_bytes": 11614
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/Libraries.pod",
+        "path_type": "hardlink",
+        "sha256": "997898727dd2c5a8db3d18517b7d979298ef9ce3a7e7f3ab245ef0637dc4d1e5",
+        "sha256_in_prefix": "997898727dd2c5a8db3d18517b7d979298ef9ce3a7e7f3ab245ef0637dc4d1e5",
+        "size_in_bytes": 9202
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/Optimization.pod",
+        "path_type": "hardlink",
+        "sha256": "9fe98e7b1b76b4872d985ac4c73525a95c6d7d051a8b5ecf76ee02f26a5f0f33",
+        "sha256_in_prefix": "9fe98e7b1b76b4872d985ac4c73525a95c6d7d051a8b5ecf76ee02f26a5f0f33",
+        "size_in_bytes": 7895
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/Params.pod",
+        "path_type": "hardlink",
+        "sha256": "5bdde831a3a03a80222f5eb68593497015af6f5c3c58bb62f67b37c61faa74ca",
+        "sha256_in_prefix": "5bdde831a3a03a80222f5eb68593497015af6f5c3c58bb62f67b37c61faa74ca",
+        "size_in_bytes": 5119
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/Policies.pod",
+        "path_type": "hardlink",
+        "sha256": "1ede7cbf7f19cdc66867abec5365bd9b6747ceff5c07268b156e8ac3bc28dc12",
+        "sha256_in_prefix": "1ede7cbf7f19cdc66867abec5365bd9b6747ceff5c07268b156e8ac3bc28dc12",
+        "size_in_bytes": 3460
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithMoo.pod",
+        "path_type": "hardlink",
+        "sha256": "b1612cb5fa75e83b107669a3b82e8f243528a61e65565e7899be209ee6fb4f6f",
+        "sha256_in_prefix": "b1612cb5fa75e83b107669a3b82e8f243528a61e65565e7899be209ee6fb4f6f",
+        "size_in_bytes": 3075
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithMoose.pod",
+        "path_type": "hardlink",
+        "sha256": "e67dc47bb9df1b63d0e2170b25af5518a79b6d1f3fab42f6f471eff1ef5700a1",
+        "sha256_in_prefix": "e67dc47bb9df1b63d0e2170b25af5518a79b6d1f3fab42f6f471eff1ef5700a1",
+        "size_in_bytes": 3794
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithMouse.pod",
+        "path_type": "hardlink",
+        "sha256": "5a820b178ff3097ae3bdfa120572c3254ecb953e8e55e485c8eed0f72713d3d9",
+        "sha256_in_prefix": "5a820b178ff3097ae3bdfa120572c3254ecb953e8e55e485c8eed0f72713d3d9",
+        "size_in_bytes": 3533
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Manual/UsingWithOther.pod",
+        "path_type": "hardlink",
+        "sha256": "ba98289b5c26282beda6fb283243193bd8bbe65ba746442d71b76dc238785c06",
+        "sha256_in_prefix": "ba98289b5c26282beda6fb283243193bd8bbe65ba746442d71b76dc238785c06",
+        "size_in_bytes": 5064
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Role.pm",
+        "path_type": "hardlink",
+        "sha256": "79841a302c9c296b21b96a2367107853db1c1588cfca9b7c277ab1a8f351b4c8",
+        "sha256_in_prefix": "79841a302c9c296b21b96a2367107853db1c1588cfca9b7c277ab1a8f351b4c8",
+        "size_in_bytes": 4138
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/Union.pm",
+        "path_type": "hardlink",
+        "sha256": "4c6b3ff98c792866a737de3394f026e8fd4b33abe9f94d19b9bdbad89fb6b676",
+        "sha256_in_prefix": "4c6b3ff98c792866a737de3394f026e8fd4b33abe9f94d19b9bdbad89fb6b676",
+        "size_in_bytes": 8055
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Tiny/_HalfOp.pm",
+        "path_type": "hardlink",
+        "sha256": "f6351f40ddfdb2044dfe680b7c8c2bd1ab2d72a37e34da5c660675ca46e44f28",
+        "sha256_in_prefix": "f6351f40ddfdb2044dfe680b7c8c2bd1ab2d72a37e34da5c660675ca46e44f28",
+        "size_in_bytes": 1720
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Type/Utils.pm",
+        "path_type": "hardlink",
+        "sha256": "afbc754b53cffe9c89e135b384118ed469c8d7869f056dc09e8f84a9f6291f77",
+        "sha256_in_prefix": "afbc754b53cffe9c89e135b384118ed469c8d7869f056dc09e8f84a9f6291f77",
+        "size_in_bytes": 26568
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Common/Numeric.pm",
+        "path_type": "hardlink",
+        "sha256": "5be24c8b5823ed93c40ef07e89ff814087e3481a52c3f00e60d1ac8167cc3f0f",
+        "sha256_in_prefix": "5be24c8b5823ed93c40ef07e89ff814087e3481a52c3f00e60d1ac8167cc3f0f",
+        "size_in_bytes": 7795
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Common/String.pm",
+        "path_type": "hardlink",
+        "sha256": "66699d616b860bed64c9b6afda0bc83be3cfdfd01b21e500dc59abfbaa6e9cfa",
+        "sha256_in_prefix": "66699d616b860bed64c9b6afda0bc83be3cfdfd01b21e500dc59abfbaa6e9cfa",
+        "size_in_bytes": 7084
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard.pm",
+        "path_type": "hardlink",
+        "sha256": "befbc16669a5d887c706ba9dc73d203881f4bd22a9d30a25bf20822b513711ad",
+        "sha256_in_prefix": "befbc16669a5d887c706ba9dc73d203881f4bd22a9d30a25bf20822b513711ad",
+        "size_in_bytes": 37141
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/ArrayRef.pm",
+        "path_type": "hardlink",
+        "sha256": "832742a136ff280f3bba8444c1dd64e55c6d001381f186b53bc45f69964f4693",
+        "sha256_in_prefix": "832742a136ff280f3bba8444c1dd64e55c6d001381f186b53bc45f69964f4693",
+        "size_in_bytes": 4540
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/CycleTuple.pm",
+        "path_type": "hardlink",
+        "sha256": "20a74b6123efdbe0d51b0f73ef87c76147b76c819e2b178d5021a3e538078df3",
+        "sha256_in_prefix": "20a74b6123efdbe0d51b0f73ef87c76147b76c819e2b178d5021a3e538078df3",
+        "size_in_bytes": 6238
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/Dict.pm",
+        "path_type": "hardlink",
+        "sha256": "b21cc4b2385f661cbbf0c66cced8009da9d11a34cbb424e9851618fd2b2e8434",
+        "sha256_in_prefix": "b21cc4b2385f661cbbf0c66cced8009da9d11a34cbb424e9851618fd2b2e8434",
+        "size_in_bytes": 12088
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/HashRef.pm",
+        "path_type": "hardlink",
+        "sha256": "cb12f42398c7bb11b7ff036af3eff960f71645372e95fe803200027276ccacb3",
+        "sha256_in_prefix": "cb12f42398c7bb11b7ff036af3eff960f71645372e95fe803200027276ccacb3",
+        "size_in_bytes": 4944
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/Map.pm",
+        "path_type": "hardlink",
+        "sha256": "2b1bea20c410abb3aef13299aff520ed44c107061a2bae12f2f15c84d7a6b8ca",
+        "sha256_in_prefix": "2b1bea20c410abb3aef13299aff520ed44c107061a2bae12f2f15c84d7a6b8ca",
+        "size_in_bytes": 6417
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/ScalarRef.pm",
+        "path_type": "hardlink",
+        "sha256": "8d16afc6cc19ceda84fcfc49955fd104a7a3e6a11838e440d903642ff3398b20",
+        "sha256_in_prefix": "8d16afc6cc19ceda84fcfc49955fd104a7a3e6a11838e440d903642ff3398b20",
+        "size_in_bytes": 3457
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/StrMatch.pm",
+        "path_type": "hardlink",
+        "sha256": "3a64ae953f9dcab79b288c052a53cf61e7d0cc9e4fdec6690492544e6e227b32",
+        "sha256_in_prefix": "3a64ae953f9dcab79b288c052a53cf61e7d0cc9e4fdec6690492544e6e227b32",
+        "size_in_bytes": 3489
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/Tied.pm",
+        "path_type": "hardlink",
+        "sha256": "1d35633143415950f3941d58a1b337f6d299c2cee83325eccb591a3f920fddbe",
+        "sha256_in_prefix": "1d35633143415950f3941d58a1b337f6d299c2cee83325eccb591a3f920fddbe",
+        "size_in_bytes": 2693
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/Standard/Tuple.pm",
+        "path_type": "hardlink",
+        "sha256": "a064e4c492d3980523ded96d225eb98d3f1e7d0a9b1b0e876972954f74b725a9",
+        "sha256_in_prefix": "a064e4c492d3980523ded96d225eb98d3f1e7d0a9b1b0e876972954f74b725a9",
+        "size_in_bytes": 9803
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Types/TypeTiny.pm",
+        "path_type": "hardlink",
+        "sha256": "21f5e5402e94c227952a9b327d9a5a6a730850c01557472d1364353df56e0d5b",
+        "sha256_in_prefix": "21f5e5402e94c227952a9b327d9a5a6a730850c01557472d1364353df56e0d5b",
+        "size_in_bytes": 11437
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Type/Tiny/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f3e2b8e04ac39ba8f2e5483050068352b2353358a2e45425b62910df9c121018",
+        "sha256_in_prefix": "edc3d96a858840f620e47bbbc3eb66d13eb490cf3476035f200046a2f7f8a316",
+        "size_in_bytes": 12750
+      },
+      {
+        "_path": "man/man3/Devel::TypeTiny::Perl56Compat.3",
+        "path_type": "hardlink",
+        "sha256": "047dafd2993fbb16ce58038c39c4d495781c603f0b3217a2c38111ffc08b3638",
+        "sha256_in_prefix": "047dafd2993fbb16ce58038c39c4d495781c603f0b3217a2c38111ffc08b3638",
+        "size_in_bytes": 3367
+      },
+      {
+        "_path": "man/man3/Devel::TypeTiny::Perl58Compat.3",
+        "path_type": "hardlink",
+        "sha256": "f62bf4560fb6ace42cd4a87445c476b070b0eeec27998ba1b3f45a0cdcf6495c",
+        "sha256_in_prefix": "f62bf4560fb6ace42cd4a87445c476b070b0eeec27998ba1b3f45a0cdcf6495c",
+        "size_in_bytes": 3368
+      },
+      {
+        "_path": "man/man3/Error::TypeTiny.3",
+        "path_type": "hardlink",
+        "sha256": "8094eea7d36fe4927863a07823a6a92a02e60e71151dc8a566bf72233fdbce74",
+        "sha256_in_prefix": "8094eea7d36fe4927863a07823a6a92a02e60e71151dc8a566bf72233fdbce74",
+        "size_in_bytes": 6599
+      },
+      {
+        "_path": "man/man3/Error::TypeTiny::Assertion.3",
+        "path_type": "hardlink",
+        "sha256": "c221c1d5e03a763248c8c9f84ddc8d9408defab5753933f3feb786f8e2cc85f2",
+        "sha256_in_prefix": "c221c1d5e03a763248c8c9f84ddc8d9408defab5753933f3feb786f8e2cc85f2",
+        "size_in_bytes": 5232
+      },
+      {
+        "_path": "man/man3/Error::TypeTiny::Compilation.3",
+        "path_type": "hardlink",
+        "sha256": "c991f21b330bccaeb9b24be30469de47088fff7be62da447796c06f0829bf75c",
+        "sha256_in_prefix": "c991f21b330bccaeb9b24be30469de47088fff7be62da447796c06f0829bf75c",
+        "size_in_bytes": 3794
+      },
+      {
+        "_path": "man/man3/Error::TypeTiny::WrongNumberOfParameters.3",
+        "path_type": "hardlink",
+        "sha256": "ff2bd286cf7ae1fc308489b6c857f1c1e7a8f5a803efb564d066c8ed2a69b084",
+        "sha256_in_prefix": "ff2bd286cf7ae1fc308489b6c857f1c1e7a8f5a803efb564d066c8ed2a69b084",
+        "size_in_bytes": 3973
+      },
+      {
+        "_path": "man/man3/Eval::TypeTiny.3",
+        "path_type": "hardlink",
+        "sha256": "dfd310adedb47e669d4b07cb163f47416b5d5a3f41453ef2d5b17ee643fbb0c3",
+        "sha256_in_prefix": "dfd310adedb47e669d4b07cb163f47416b5d5a3f41453ef2d5b17ee643fbb0c3",
+        "size_in_bytes": 6690
+      },
+      {
+        "_path": "man/man3/Reply::Plugin::TypeTiny.3",
+        "path_type": "hardlink",
+        "sha256": "5679c4953d2aabfae893c7f4a1c44db35fdf6bfac7a13f1139c0cfbc6dd2bb62",
+        "sha256_in_prefix": "5679c4953d2aabfae893c7f4a1c44db35fdf6bfac7a13f1139c0cfbc6dd2bb62",
+        "size_in_bytes": 3241
+      },
+      {
+        "_path": "man/man3/Test::TypeTiny.3",
+        "path_type": "hardlink",
+        "sha256": "7f2c8527628abc446e85724841faa7f72a45a1a0c74527e3e995eb88d777d076",
+        "sha256_in_prefix": "7f2c8527628abc446e85724841faa7f72a45a1a0c74527e3e995eb88d777d076",
+        "size_in_bytes": 5471
+      },
+      {
+        "_path": "man/man3/Type::CONTRIBUTING.3",
+        "path_type": "hardlink",
+        "sha256": "35d50ab53a0f143ed023e3ef93866d86e4808694eb544448c6ca48bb01890d67",
+        "sha256_in_prefix": "35d50ab53a0f143ed023e3ef93866d86e4808694eb544448c6ca48bb01890d67",
+        "size_in_bytes": 4046
+      },
+      {
+        "_path": "man/man3/Type::Coercion.3",
+        "path_type": "hardlink",
+        "sha256": "42ac874264469c051f22e2a65416c778ddf7ee4f0f7c5465d71aa469b6169124",
+        "sha256_in_prefix": "42ac874264469c051f22e2a65416c778ddf7ee4f0f7c5465d71aa469b6169124",
+        "size_in_bytes": 15033
+      },
+      {
+        "_path": "man/man3/Type::Coercion::FromMoose.3",
+        "path_type": "hardlink",
+        "sha256": "4b2e98f6aa71fcd98c31a5756ffcfcd7c7f50db2f57191eb4678613afe87fe02",
+        "sha256_in_prefix": "4b2e98f6aa71fcd98c31a5756ffcfcd7c7f50db2f57191eb4678613afe87fe02",
+        "size_in_bytes": 3517
+      },
+      {
+        "_path": "man/man3/Type::Coercion::Union.3",
+        "path_type": "hardlink",
+        "sha256": "4debcfdece5f0bab8be777baeb8ec098ddc065a5a0ae25c1f13701ee6b696a96",
+        "sha256_in_prefix": "4debcfdece5f0bab8be777baeb8ec098ddc065a5a0ae25c1f13701ee6b696a96",
+        "size_in_bytes": 3470
+      },
+      {
+        "_path": "man/man3/Type::Library.3",
+        "path_type": "hardlink",
+        "sha256": "ba38700f807177d9ea94e4fe0ffa454f8f9e358433abfb98d0b8371afadef37c",
+        "sha256_in_prefix": "ba38700f807177d9ea94e4fe0ffa454f8f9e358433abfb98d0b8371afadef37c",
+        "size_in_bytes": 9964
+      },
+      {
+        "_path": "man/man3/Type::Params.3",
+        "path_type": "hardlink",
+        "sha256": "05b5dc956438cb4974868812265804f94809ea1619b5db5e335b180d6489e0ae",
+        "sha256_in_prefix": "05b5dc956438cb4974868812265804f94809ea1619b5db5e335b180d6489e0ae",
+        "size_in_bytes": 28430
+      },
+      {
+        "_path": "man/man3/Type::Parser.3",
+        "path_type": "hardlink",
+        "sha256": "97af8dca94f47726a2b8faed6e7d36a23df20793afdf44dd310013effa81c6d3",
+        "sha256_in_prefix": "97af8dca94f47726a2b8faed6e7d36a23df20793afdf44dd310013effa81c6d3",
+        "size_in_bytes": 5682
+      },
+      {
+        "_path": "man/man3/Type::Registry.3",
+        "path_type": "hardlink",
+        "sha256": "8bdd351ebb759b0b504cc6c672eee26600877b1e458551588a838d9a22d4528a",
+        "sha256_in_prefix": "8bdd351ebb759b0b504cc6c672eee26600877b1e458551588a838d9a22d4528a",
+        "size_in_bytes": 8941
+      },
+      {
+        "_path": "man/man3/Type::Tiny.3",
+        "path_type": "hardlink",
+        "sha256": "7f99084d0e582986cbbc82a8e849d618279137a240721d2fb74c4f6559290f10",
+        "sha256_in_prefix": "7f99084d0e582986cbbc82a8e849d618279137a240721d2fb74c4f6559290f10",
+        "size_in_bytes": 29947
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Class.3",
+        "path_type": "hardlink",
+        "sha256": "ce2b8ba2ee3990b1e3583228a43a64143f57c03e5b7f4f25a55e18eb761f3f9e",
+        "sha256_in_prefix": "ce2b8ba2ee3990b1e3583228a43a64143f57c03e5b7f4f25a55e18eb761f3f9e",
+        "size_in_bytes": 6094
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Duck.3",
+        "path_type": "hardlink",
+        "sha256": "00d9f1cf5e0cf074adc45d4378d1d766c48300529cabd88e5777f13cc03d3817",
+        "sha256_in_prefix": "00d9f1cf5e0cf074adc45d4378d1d766c48300529cabd88e5777f13cc03d3817",
+        "size_in_bytes": 4044
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Enum.3",
+        "path_type": "hardlink",
+        "sha256": "1580198e44b89d0975c381cebb77a796df0baa76da560048b092dda6568956a4",
+        "sha256_in_prefix": "1580198e44b89d0975c381cebb77a796df0baa76da560048b092dda6568956a4",
+        "size_in_bytes": 4172
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Intersection.3",
+        "path_type": "hardlink",
+        "sha256": "5e60ec67fce41e14818d4709b9104cf00dc16453632207298d9ce313806fc051",
+        "sha256_in_prefix": "5e60ec67fce41e14818d4709b9104cf00dc16453632207298d9ce313806fc051",
+        "size_in_bytes": 4516
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual.3",
+        "path_type": "hardlink",
+        "sha256": "b387c7cf68bd95361a147355e7b5d367689a7495144a235819d689882c0a5503",
+        "sha256_in_prefix": "b387c7cf68bd95361a147355e7b5d367689a7495144a235819d689882c0a5503",
+        "size_in_bytes": 8546
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::Coercions.3",
+        "path_type": "hardlink",
+        "sha256": "941363e2f6d0d9e96fc803531b0f193fa099a8c3e280981cd9a8a60bdf402e12",
+        "sha256_in_prefix": "941363e2f6d0d9e96fc803531b0f193fa099a8c3e280981cd9a8a60bdf402e12",
+        "size_in_bytes": 15650
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::Libraries.3",
+        "path_type": "hardlink",
+        "sha256": "db362d8ab7c48c5d2d009eb9abb83bfcfc6ea2974498039a31edc9c141cf707a",
+        "sha256_in_prefix": "db362d8ab7c48c5d2d009eb9abb83bfcfc6ea2974498039a31edc9c141cf707a",
+        "size_in_bytes": 12465
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::Optimization.3",
+        "path_type": "hardlink",
+        "sha256": "faf3e89d9e2dc867cfa5d0606d2e50d81f22fa68422e2dfb39947b7a0c627e26",
+        "sha256_in_prefix": "faf3e89d9e2dc867cfa5d0606d2e50d81f22fa68422e2dfb39947b7a0c627e26",
+        "size_in_bytes": 11760
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::Params.3",
+        "path_type": "hardlink",
+        "sha256": "19f2737ba89853cd5c84eccc50d6f3dd951c00a439276ff1c40d1b71596a2fe3",
+        "sha256_in_prefix": "19f2737ba89853cd5c84eccc50d6f3dd951c00a439276ff1c40d1b71596a2fe3",
+        "size_in_bytes": 7939
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::Policies.3",
+        "path_type": "hardlink",
+        "sha256": "cac9dfbde6ae2d039b3266ae1dbb6876fb110f29253d00693c4eb464cedee9a5",
+        "sha256_in_prefix": "cac9dfbde6ae2d039b3266ae1dbb6876fb110f29253d00693c4eb464cedee9a5",
+        "size_in_bytes": 5865
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::UsingWithMoo.3",
+        "path_type": "hardlink",
+        "sha256": "e0b4f35dddcc3fa047f423b42e5f9b6b807b1cee0d3553556d4b5aea8cb92bc2",
+        "sha256_in_prefix": "e0b4f35dddcc3fa047f423b42e5f9b6b807b1cee0d3553556d4b5aea8cb92bc2",
+        "size_in_bytes": 5601
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::UsingWithMoose.3",
+        "path_type": "hardlink",
+        "sha256": "47c1b3b8fd25f4b5998a01bb62c82709394f7ea1d08633a6051afbe7e482bac2",
+        "sha256_in_prefix": "47c1b3b8fd25f4b5998a01bb62c82709394f7ea1d08633a6051afbe7e482bac2",
+        "size_in_bytes": 6463
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::UsingWithMouse.3",
+        "path_type": "hardlink",
+        "sha256": "3d1add2302cb0e02622bcfc876decf4a47216c7c4ebbf1248f856d90362ec137",
+        "sha256_in_prefix": "3d1add2302cb0e02622bcfc876decf4a47216c7c4ebbf1248f856d90362ec137",
+        "size_in_bytes": 6209
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Manual::UsingWithOther.3",
+        "path_type": "hardlink",
+        "sha256": "396036090b87ade41a98489bd416f4678a2e714761c81ed5249ec401558971ac",
+        "sha256_in_prefix": "396036090b87ade41a98489bd416f4678a2e714761c81ed5249ec401558971ac",
+        "size_in_bytes": 7809
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Role.3",
+        "path_type": "hardlink",
+        "sha256": "ffeb96f1e92f7a770b2af963e15e5bd275fcda83fba18d7899c0231281be859a",
+        "sha256_in_prefix": "ffeb96f1e92f7a770b2af963e15e5bd275fcda83fba18d7899c0231281be859a",
+        "size_in_bytes": 4257
+      },
+      {
+        "_path": "man/man3/Type::Tiny::Union.3",
+        "path_type": "hardlink",
+        "sha256": "7942ce3cdb58369b345a359b9b39e28b64fb9df9664ca40bd1c7d3b93de5aede",
+        "sha256_in_prefix": "7942ce3cdb58369b345a359b9b39e28b64fb9df9664ca40bd1c7d3b93de5aede",
+        "size_in_bytes": 4817
+      },
+      {
+        "_path": "man/man3/Type::Tiny::_HalfOp.3",
+        "path_type": "hardlink",
+        "sha256": "9ae59fa462543fa5bad84fc04734d25df29c16ac7ca0b55ca9d75d0be33218cf",
+        "sha256_in_prefix": "9ae59fa462543fa5bad84fc04734d25df29c16ac7ca0b55ca9d75d0be33218cf",
+        "size_in_bytes": 3572
+      },
+      {
+        "_path": "man/man3/Type::Utils.3",
+        "path_type": "hardlink",
+        "sha256": "5ccc1611d9d3c85f81703145bda64f042eabc2b9dbbb84c14d475f7e81b5cced",
+        "sha256_in_prefix": "5ccc1611d9d3c85f81703145bda64f042eabc2b9dbbb84c14d475f7e81b5cced",
+        "size_in_bytes": 22026
+      },
+      {
+        "_path": "man/man3/Types::Common::Numeric.3",
+        "path_type": "hardlink",
+        "sha256": "84801c2ff6083748731ab5a77099afc91ae5263f867794a93fe19261d15e2de5",
+        "sha256_in_prefix": "84801c2ff6083748731ab5a77099afc91ae5263f867794a93fe19261d15e2de5",
+        "size_in_bytes": 5716
+      },
+      {
+        "_path": "man/man3/Types::Common::String.3",
+        "path_type": "hardlink",
+        "sha256": "cd764d6ce829eb8e6812f004552e9380c6034c2f66a0d9ff86f5e97cd014cbb3",
+        "sha256_in_prefix": "cd764d6ce829eb8e6812f004552e9380c6034c2f66a0d9ff86f5e97cd014cbb3",
+        "size_in_bytes": 4949
+      },
+      {
+        "_path": "man/man3/Types::Standard.3",
+        "path_type": "hardlink",
+        "sha256": "7e6e7847204f06594eee4511535143325545cead2d0136c0878cf96d57f70893",
+        "sha256_in_prefix": "7e6e7847204f06594eee4511535143325545cead2d0136c0878cf96d57f70893",
+        "size_in_bytes": 20937
+      },
+      {
+        "_path": "man/man3/Types::Standard::ArrayRef.3",
+        "path_type": "hardlink",
+        "sha256": "1f16ba487d4c0ca0516d38f51482c29287a07129c57d4d08d1017646685af676",
+        "sha256_in_prefix": "1f16ba487d4c0ca0516d38f51482c29287a07129c57d4d08d1017646685af676",
+        "size_in_bytes": 3325
+      },
+      {
+        "_path": "man/man3/Types::Standard::CycleTuple.3",
+        "path_type": "hardlink",
+        "sha256": "a02d8e101c695e52442b82bbf2b77f588c0511f0f8c681f320e1e4e2d2a5f1bc",
+        "sha256_in_prefix": "a02d8e101c695e52442b82bbf2b77f588c0511f0f8c681f320e1e4e2d2a5f1bc",
+        "size_in_bytes": 3321
+      },
+      {
+        "_path": "man/man3/Types::Standard::Dict.3",
+        "path_type": "hardlink",
+        "sha256": "299680faf61bea05f92c3eeeab8cc7226ec3130f69b97bad8151c3e5c0a024fc",
+        "sha256_in_prefix": "299680faf61bea05f92c3eeeab8cc7226ec3130f69b97bad8151c3e5c0a024fc",
+        "size_in_bytes": 3309
+      },
+      {
+        "_path": "man/man3/Types::Standard::HashRef.3",
+        "path_type": "hardlink",
+        "sha256": "109b624b2b2abb586aa91cc6d7fbdb60767c49bd71fa759c2bff59c1512191a1",
+        "sha256_in_prefix": "109b624b2b2abb586aa91cc6d7fbdb60767c49bd71fa759c2bff59c1512191a1",
+        "size_in_bytes": 3321
+      },
+      {
+        "_path": "man/man3/Types::Standard::Map.3",
+        "path_type": "hardlink",
+        "sha256": "1384489fbf1c6ee2de5e082f586144e2f8171dda07b4a0e679eb7daf6e7f391a",
+        "sha256_in_prefix": "1384489fbf1c6ee2de5e082f586144e2f8171dda07b4a0e679eb7daf6e7f391a",
+        "size_in_bytes": 3305
+      },
+      {
+        "_path": "man/man3/Types::Standard::ScalarRef.3",
+        "path_type": "hardlink",
+        "sha256": "cec2ce2287e38b3b5d30200f9eca00f3b03a2363fc8c4a25821b75d3128f1e1d",
+        "sha256_in_prefix": "cec2ce2287e38b3b5d30200f9eca00f3b03a2363fc8c4a25821b75d3128f1e1d",
+        "size_in_bytes": 3329
+      },
+      {
+        "_path": "man/man3/Types::Standard::StrMatch.3",
+        "path_type": "hardlink",
+        "sha256": "9ac36d5f88275707c9fee9cf064f5699b265ea651e210c8552eac2ce48a94ede",
+        "sha256_in_prefix": "9ac36d5f88275707c9fee9cf064f5699b265ea651e210c8552eac2ce48a94ede",
+        "size_in_bytes": 3325
+      },
+      {
+        "_path": "man/man3/Types::Standard::Tied.3",
+        "path_type": "hardlink",
+        "sha256": "c0d21d1bda7263b644663161a1cb4d57490bc30116ca85899d9d136091bae78a",
+        "sha256_in_prefix": "c0d21d1bda7263b644663161a1cb4d57490bc30116ca85899d9d136091bae78a",
+        "size_in_bytes": 3309
+      },
+      {
+        "_path": "man/man3/Types::Standard::Tuple.3",
+        "path_type": "hardlink",
+        "sha256": "584c6b3f3be7dec4971a58e1121b4ddcff4204b0dba2c3722d0b4dbf02269718",
+        "sha256_in_prefix": "584c6b3f3be7dec4971a58e1121b4ddcff4204b0dba2c3722d0b4dbf02269718",
+        "size_in_bytes": 3313
+      },
+      {
+        "_path": "man/man3/Types::TypeTiny.3",
+        "path_type": "hardlink",
+        "sha256": "bd46517514b5ee39fb7d764b2447a0f8179afe392cbd15b3b435ac0309e67e10",
+        "sha256_in_prefix": "bd46517514b5ee39fb7d764b2447a0f8179afe392cbd15b3b435ac0309e67e10",
+        "size_in_bytes": 6070
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 121354,
+  "subdir": "linux-64",
+  "timestamp": 1547160907053,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-type-tiny-1.004004-pl526_0.tar.bz2",
+  "version": "1.004004"
+}

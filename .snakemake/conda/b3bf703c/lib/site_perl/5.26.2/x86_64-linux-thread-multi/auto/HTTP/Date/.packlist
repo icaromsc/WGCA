@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTTP/Date.pm relocate_as=../../../../HTTP/Date.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTTP::Date.3 relocate_as=../../../../../../../man/man3/HTTP::Date.3

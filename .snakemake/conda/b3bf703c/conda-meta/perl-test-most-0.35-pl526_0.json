@@ -1,0 +1,81 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-exception-class",
+    "perl-test-deep",
+    "perl-test-differences",
+    "perl-test-exception",
+    "perl-test-warn"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-test-most-0.35-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Test/Most.pm",
+    "lib/site_perl/5.26.2/Test/Most/Exception.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Most/.packlist",
+    "man/man3/Test::Most.3",
+    "man/man3/Test::Most::Exception.3"
+  ],
+  "fn": "perl-test-most-0.35-pl526_0.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-test-most-0.35-pl526_0",
+    "type": 1
+  },
+  "md5": "19ec7be21e08029005c2ff33b67c483f",
+  "name": "perl-test-most",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-test-most-0.35-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Test/Most.pm",
+        "path_type": "hardlink",
+        "sha256": "bf27a111e9a43d7142c6d591ceedf0d756288ec547df316b8c4879d3397e75f5",
+        "sha256_in_prefix": "bf27a111e9a43d7142c6d591ceedf0d756288ec547df316b8c4879d3397e75f5",
+        "size_in_bytes": 24066
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Test/Most/Exception.pm",
+        "path_type": "hardlink",
+        "sha256": "57ed894e05f043a716fe5e9b5f47a1967920b06df2583833ef68fc2e3d6d4905",
+        "sha256_in_prefix": "57ed894e05f043a716fe5e9b5f47a1967920b06df2583833ef68fc2e3d6d4905",
+        "size_in_bytes": 2107
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Most/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f785ea8ac7c89704efd90b0501e9b77f34a4610829e01f01fa92c5ef47f36b43",
+        "sha256_in_prefix": "34bcf0064bea6d697dfb7046689ee298a1270924855220126f7a877b5be9befb",
+        "size_in_bytes": 470
+      },
+      {
+        "_path": "man/man3/Test::Most.3",
+        "path_type": "hardlink",
+        "sha256": "15b8b1b410231ca5bd1465843fa26dfa4beb25ac49ca2265c12bbd69fbc380b7",
+        "sha256_in_prefix": "15b8b1b410231ca5bd1465843fa26dfa4beb25ac49ca2265c12bbd69fbc380b7",
+        "size_in_bytes": 21350
+      },
+      {
+        "_path": "man/man3/Test::Most::Exception.3",
+        "path_type": "hardlink",
+        "sha256": "aa76bf7b7e7e6c78f1edf16bad6b58ceff7b5822bf720b87ecf26ef2376e84d2",
+        "sha256_in_prefix": "aa76bf7b7e7e6c78f1edf16bad6b58ceff7b5822bf720b87ecf26ef2376e84d2",
+        "size_in_bytes": 4330
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 18007,
+  "subdir": "linux-64",
+  "timestamp": 1541906459476,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-test-most-0.35-pl526_0.tar.bz2",
+  "version": "0.35"
+}

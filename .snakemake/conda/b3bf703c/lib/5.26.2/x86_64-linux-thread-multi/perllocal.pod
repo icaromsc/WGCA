@@ -1,0 +1,22 @@
+=head2 Sat May 11 05:29:47 2019: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

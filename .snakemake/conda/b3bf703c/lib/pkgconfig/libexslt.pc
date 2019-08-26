@@ -1,0 +1,12 @@
+prefix=/home/bioinfo/WGCA/.snakemake/conda/b3bf703c
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: libexslt
+Version: 0.8.20
+Description: EXSLT Extension library
+Requires: libxml-2.0
+Libs: -L${libdir} -lexslt -lxslt -L/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib -lxml2 -L/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib -lz -L/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib -llzma -lpthread -L/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib -liconv -L/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib -licui18n -licuuc -licudata -lm -ldl -lm 
+Cflags: -I${includedir}

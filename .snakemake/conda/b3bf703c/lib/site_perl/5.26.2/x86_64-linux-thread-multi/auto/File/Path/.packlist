@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/File/Path.pm relocate_as=../../../../File/Path.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/File::Path.3 relocate_as=../../../../../../../man/man3/File::Path.3

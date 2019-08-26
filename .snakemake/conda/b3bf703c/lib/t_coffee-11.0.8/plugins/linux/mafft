@@ -1,0 +1,1445 @@
+#! /bin/sh
+
+
+er=0;
+myself=`dirname $0`/`basename $0`; export myself
+version="v6.603b (2008/07/02)"; export version
+LANG=C; export LANG
+os=`uname`
+progname=`basename $0`
+if [ `echo $os | grep -i cygwin` ]; then
+	os="cygwin"
+elif [ `echo $os | grep -i darwin` ]; then
+	os="darwin"
+elif [ `echo $os | grep -i sunos` ]; then
+	os="sunos"
+else
+	os="unix"
+fi
+export os
+
+if [ "$MAFFT_BINARIES" ]; then
+	prefix="$MAFFT_BINARIES"
+else
+	prefix=/usr/local/lib/mafft
+fi
+export prefix
+
+if [ $# -gt 0 ]; then
+	if [ "$1" = "--man" ]; then 
+		man "$prefix/mafft.1"
+		exit;
+	fi
+fi
+
+if [ ! -x "$prefix/tbfast" ]; then
+	echo "" 1>&2
+	echo "correctly installed?" 1>&2
+	echo "mafft binaries have to be installed in \$MAFFT_BINARIES" 1>&2
+	echo "or the $prefix directory". 1>&2
+	echo "" 1>&2
+	exit 1
+	er=1
+fi
+
+defaultiterate=0
+defaultcycle=2
+defaultgop="1.53"
+defaultaof="0.123"
+defaultlaof="0.100"
+defaultlgop="-2.00"
+defaultpgaof="-0.123"
+defaultpggop="-1.53"
+defaultfft=1
+defaultrough=0
+defaultdistance="sixtuples"
+#defaultdistance="local"
+defaultweighti="2.7"
+defaultweightr="0.0"
+defaultweightm="1.0"
+defaultmccaskill=0
+defaultcontrafold=0
+defaultalgopt=" -A "
+defaultalgoptit=" -A "
+defaultsbstmodel=" -b 62 "
+defaultfmodel=" "
+defaultkappa=" "
+if [ $progname = "xinsi" -o $progname = "mafft-xinsi" ]; then
+	defaultfft=1
+	defaultcycle=1
+	defaultiterate=1000
+	defaultdistance="scarna"
+	defaultweighti="3.2"
+	defaultweightr="8.0"
+	defaultweightm="2.0"
+	defaultmccaskill=1
+	defaultcontrafold=0
+	defaultalgopt=" -A "
+	defaultalgoptit=" -AB " ## chui
+	defaultaof="0.0"
+	defaultsbstmodel=" -b 62 "
+	defaultkappa=" "
+	defaultfmodel=" -a "
+elif [ $progname = "qinsi" -o $progname = "mafft-qinsi" ]; then
+	defaultfft=1
+	defaultcycle=1
+	defaultiterate=1000
+	defaultdistance="global"
+	defaultweighti="3.2"
+	defaultweightr="8.0"
+	defaultweightm="2.0"
+	defaultmccaskill=1
+	defaultcontrafold=0
+	defaultalgopt=" -A "
+	defaultalgoptit=" -AB " ## chui
+	defaultaof="0.0"
+	defaultsbstmodel=" -b 62 "
+	defaultkappa=" "
+	defaultfmodel=" -a "
+elif [ $progname = "linsi" -o $progname = "mafft-linsi" ]; then
+	defaultfft=0
+	defaultcycle=1
+	defaultiterate=1000
+	defaultdistance="local"
+elif [ $progname = "ginsi" -o $progname = "mafft-ginsi" ]; then
+	defaultfft=1
+	defaultcycle=1
+	defaultiterate=1000
+	defaultdistance="global"
+elif [ $progname = "einsi" -o $progname = "mafft-einsi" ]; then
+	defaultfft=0
+	defaultcycle=1
+	defaultiterate=1000
+	defaultdistance="localgenaf"
+elif [ $progname = "fftns" -o $progname = "mafft-fftns" ]; then
+	defaultfft=1
+	defaultcycle=2
+	defaultdistance="sixtuples"
+elif [ $progname = "fftnsi" -o $progname = "mafft-fftnsi" ]; then
+	defaultfft=1
+	defaultcycle=2
+	defaultiterate=2
+	defaultdistance="sixtuples"
+elif [ $progname = "nwns" -o $progname = "mafft-nwns" ]; then
+	defaultfft=0
+	defaultcycle=2
+	defaultdistance="sixtuples"
+elif [ $progname = "nwnsi" -o $progname = "mafft-nwnsi" ]; then
+	defaultfft=0
+	defaultcycle=2
+	defaultiterate=2
+	defaultdistance="sixtuples"
+fi
+kappa=$defaultkappa
+sbstmodel=$defaultsbstmodel
+fmodel=$defaultfmodel
+gop=$defaultgop
+aof=$defaultaof
+cycle=$defaultcycle
+iterate=$defaultiterate
+fft=$defaultfft
+rough=$defaultrough
+distance=$defaultdistance
+forcefft=0
+memopt="     "
+weightopt=" "
+GGOP="-6.00"
+LGOP="-6.00"
+LEXP="-0.000"
+GEXP="-0.000"
+lgop=$defaultlgop
+lexp="-0.100"
+laof=$defaultlaof
+pggop=$defaultpggop
+pgexp="0.000"
+pgaof=$defaultpgaof
+rgop="-1.530"
+rgep="-0.000"
+seqtype="  "
+weighti=$defaultweighti
+weightr=$defaultweightr
+weightm=$defaultweightm
+rnaalifold=0
+mccaskill=$defaultmccaskill
+contrafold=$defaultcontrafold
+quiet=0
+sw=0
+algopt=$defaultalgopt
+algoptit=$defaultalgoptit
+scorecalcopt=" "
+coreout=0
+corethr="0.5"
+corewin="100"
+coreext=" "
+outputformat="pir"
+outorder="input"
+seed="x"
+seedtable="x"
+auto=0
+groupsize=-1
+partsize=50
+partdist="sixtuples"
+partorderopt=" -x "
+treeout=0
+treein=0
+topin=0
+treeinopt="  "
+seedfiles="/dev/null"
+seedtablefile="/dev/null"
+aamatrix="/dev/null"
+treeinfile="/dev/null"
+rnascoremtx=" "
+laraparams="/dev/null"
+foldalignopt=" "
+treealg=" -X "
+if [ $# -gt 0 ]; then
+	while [ $# -gt 1 ];
+	do
+		if [ "$1" = "--auto" ]; then 
+			auto=1
+		elif [ "$1" = "--clustalout" ]; then 
+			outputformat="clustal"
+		elif [ "$1" = "--reorder" ]; then 
+			outorder="aligned"
+			partorderopt=" "
+		elif [ "$1" = "--inputorder" ]; then 
+			outorder="input"
+			partorderopt=" -x "
+		elif [ "$1" = "--unweight" ]; then 
+			weightopt=" -ux "
+		elif [ "$1" = "--algq" ]; then 
+			algopt=" -Q "
+			algoptit=" -QB "
+		elif [ "$1" = "--groupsize" ]; then 
+			shift   
+			groupsize=`expr "$1" - 0`
+		elif [ "$1" = "--partsize" ]; then 
+			shift   
+			partsize=`expr "$1" - 0`
+		elif [ "$1" = "--parttree" ]; then 
+			distance="parttree"
+			partdist="sixtuples"
+		elif [ "$1" = "--dpparttree" ]; then 
+			distance="parttree"
+			partdist="localalign"
+		elif [ "$1" = "--fastaparttree" ]; then 
+			distance="parttree"
+			partdist="fasta"
+		elif [ "$1" = "--treeout" ]; then 
+			treeout=1
+		elif [ "$1" = "--fastswpair" ]; then
+			distance="fasta"
+			sw=1
+		elif [ "$1" = "--fastapair" ]; then
+			distance="fasta"
+			sw=0
+		elif [ "$1" = "--averagelinkage" ]; then
+			treealg=" -E "
+		elif [ "$1" = "--minimumlinkage" ]; then
+			treealg=" -q "
+		elif [ "$1" = "--noscore" ]; then
+			scorecalcopt=" -Z "
+		elif [ "$1" = "--6merpair" ]; then
+			distance="sixtuples"
+		elif [ "$1" = "--blastpair" ]; then
+			distance="blast"
+		elif [ "$1" = "--globalpair" ]; then
+			distance="global"
+		elif [ "$1" = "--localpair" ]; then
+			distance="local"
+		elif [ "$1" = "--scarnapair" ]; then
+			distance="scarna"
+		elif [ "$1" = "--larapair" ]; then
+			distance="lara"
+		elif [ "$1" = "--slarapair" ]; then
+			distance="slara"
+		elif [ "$1" = "--foldalignpair" ]; then
+			distance="foldalignlocal"
+		elif [ "$1" = "--foldalignlocalpair" ]; then
+			distance="foldalignlocal"
+		elif [ "$1" = "--foldalignglobalpair" ]; then
+			distance="foldalignglobal"
+		elif [ "$1" = "--globalgenafpair" ]; then
+			distance="globalgenaf"
+		elif [ "$1" = "--localgenafpair" ]; then
+			distance="localgenaf"
+		elif [ "$1" = "--genafpair" ]; then
+			distance="localgenaf"
+		elif [ "$1" = "--memsave" ]; then
+			memopt=" -M -B "         # -B (bunkatsunashi no riyu ga omoidasenai)
+		elif [ "$1" = "--nuc" ]; then 
+			seqtype=" -D "
+		elif [ "$1" = "--amino" ]; then 
+			seqtype=" -P "
+		elif [ "$1" = "--fft" ]; then 
+			fft=1
+			forcefft=1
+		elif [ "$1" = "--nofft" ]; then 
+			fft=0
+		elif [ "$1" = "--quiet" ]; then 
+			quiet=1
+		elif [ "$1" = "--coreext" ]; then 
+			coreext=" -c "
+		elif [ "$1" = "--core" ]; then 
+			coreout=1
+		elif [ "$1" = "--maxiterate" ]; then 
+			shift   
+			iterate=`expr "$1" - 0` 
+		elif [ "$1" = "--retree" ]; then 
+			shift   
+			cycle=`expr "$1" - 0`
+		elif [ "$1" = "--aamatrix" ]; then 
+			shift   
+			sbstmodel=" -b -1 "
+			aamatrix="$1"
+		elif [ "$1" = "--treein" ]; then 
+			shift   
+			treeinopt=" -U "
+			treein=1
+			treeinfile="$1"
+		elif [ "$1" = "--topin" ]; then 
+			shift   
+			treeinopt=" -V "
+			treein=1
+			treeinfile="$1"
+			echo "The --topin option has been disabled." 1>&2
+			echo "There was a bug in version < 6.530."   1>&2
+			echo "This bug has not yet been fixed."      1>&2
+			exit
+		elif [ "$1" = "--kappa" ]; then 
+			shift   
+			kappa=" -k $1 "
+		elif [ "$1" = "--fmodel" ]; then 
+			fmodel=" -a "
+		elif [ "$1" = "--jtt" ]; then 
+			shift   
+			sbstmodel=" -j $1"
+		elif [ "$1" = "--kimura" ]; then 
+			shift   
+			sbstmodel=" -j $1"
+		elif [ "$1" = "--tm" ]; then 
+			shift   
+			sbstmodel=" -m $1"
+		elif [ "$1" = "--bl" ]; then 
+			shift   
+			sbstmodel=" -b $1"
+		elif [ "$1" = "--weighti" ]; then
+			shift   
+			weighti="$1"
+		elif [ "$1" = "--weightr" ]; then
+			shift   
+			weightr="$1"
+		elif [ "$1" = "--weightm" ]; then
+			shift   
+			weightm="$1"
+		elif [ "$1" = "--rnaalifold" ]; then
+			rnaalifold=1
+		elif [ "$1" = "--mccaskill" ]; then
+			mccaskill=1
+			contrafold=0
+		elif [ "$1" = "--contrafold" ]; then
+			mccaskill=0
+			contrafold=1
+		elif [ "$1" = "--ribosum" ]; then
+			rnascoremtx=" -s "
+		elif [ "$1" = "--op" ]; then 
+			shift   
+			gop="$1"
+		elif [ "$1" = "--ep" ]; then 
+			shift   
+			aof="$1"
+		elif [ "$1" = "--rop" ]; then 
+			shift   
+			rgop="$1"
+		elif [ "$1" = "--rep" ]; then 
+			shift   
+			rgep="$1"
+		elif [ "$1" = "--lop" ]; then 
+			shift   
+			lgop="$1"
+		elif [ "$1" = "--LOP" ]; then 
+			shift   
+			LGOP="$1"
+		elif [ "$1" = "--lep" ]; then 
+			shift   
+			laof="$1"
+		elif [ "$1" = "--lexp" ]; then 
+			shift   
+			lexp="$1"
+		elif [ "$1" = "--LEXP" ]; then 
+			shift   
+			LEXP="$1"
+		elif [ "$1" = "--GEXP" ]; then 
+			shift   
+			GEXP="$1"
+		elif [ "$1" = "--GOP" ]; then 
+			shift   
+			GGOP="$1"
+		elif [ "$1" = "--gop" ]; then 
+			shift   
+			pggop="$1"
+		elif [ "$1" = "--gep" ]; then 
+			shift   
+			pgaof="$1"
+		elif [ "$1" = "--gexp" ]; then 
+			shift   
+			pgexp="$1"
+		elif [ "$1" = "--laraparams" ]; then 
+			shift   
+			laraparams="$1"
+		elif [ "$1" = "--corethr" ]; then 
+			shift   
+			corethr="$1"
+		elif [ "$1" = "--corewin" ]; then 
+			shift   
+			corewin="$1"
+		elif [ "$1" = "--seedtable" ]; then
+			shift
+			seedtable="y"
+			seedtablefile="$1"
+		elif [ "$1" = "--seed" ]; then
+			shift
+			seed="m"
+			seedfiles="$seedfiles $1"
+		elif [ "$1" -gt 0 -a $progname = "fftns" -o "$1" -gt 0 -a $progname = "nwns" ]; then
+			cycle=`expr "$1" - 0`
+		else
+			echo "Unknown option:  $1" 1>&2
+			er=1;
+		fi
+		shift   
+	done;
+
+
+
+#	TMPFILE=/tmp/`basename $0`.`whoami`.$$.`date +%y%m%d%H%M%S`
+	TMPFILE=/tmp/$progname.$$
+	umask 077
+	mkdir  $TMPFILE  || er=1
+	trap "rm -r $TMPFILE " 0
+	if [ $# -eq 1 ]; then
+		if [ -r "$1" -o "$1" = - ]; then
+			cat "$1" | tr "\r" "\n" > $TMPFILE/infile 
+			cat "$aamatrix" | tr "\r" "\n" > $TMPFILE/_aamtx
+			cat "$treeinfile" | tr "\r" "\n" > $TMPFILE/_guidetree
+			cat "$seedtablefile" | tr "\r" "\n" > $TMPFILE/_seedtablefile
+			cat "$laraparams" | tr "\r" "\n" > $TMPFILE/_lara.params
+#			echo $seedfiles
+			infilename="$1"
+			seedfilesintmp="/dev/null"
+			seednseq="0"
+			set $seedfiles > /dev/null
+			while [ $# -gt 1 ];
+			do
+				shift
+				cat "$1" | tr "\r" "\n" >  $TMPFILE/seed$#
+				seednseq=$seednseq" "`grep -c '^[>|=]' $TMPFILE/seed$#`
+				seedfilesintmp=$seedfilesintmp" "seed$#
+			done
+#			ls $TMPFILE
+#			echo $seedfilesintmp
+#			echo $seednseq
+		else
+#			echo "Cannot open $1." 1>&2
+			er=1
+		fi
+	else
+		echo '$#'"=$#" 1>&2
+		er=1
+	fi
+
+
+	if [ $auto -eq 1 ]; then
+		"$prefix/countlen" < $TMPFILE/infile > $TMPFILE/size
+		nseq=`awk '{print $1}' $TMPFILE/size`
+		nlen=`awk '{print $3}' $TMPFILE/size`
+		if [ $nlen -lt 2000 -a $nseq -lt 100 ]; then
+			distance="local"
+			iterate=1000
+		elif [ $nlen -lt 20000 -a $nseq -lt 500 ]; then
+			distance="sixtuples"
+			iterate=2
+		else
+			distance="sixtuples"
+			iterate=0
+		fi
+		if [ $quiet -eq 0 ]; then
+			echo "nseq = " $nseq              1>&2
+			echo "nlen = " $nlen              1>&2
+			echo "distance = " $distance      1>&2
+			echo "iterate = " $iterate        1>&2
+		fi
+	fi
+
+	if [ $iterate -gt 16 ]; then    #??
+		iterate=16
+	fi
+
+	if [ $rnaalifold -eq 1 ]; then
+		rnaopt=" -e $rgep -o $rgop -c $weightm -r $weightr -R $rnascoremtx "
+#		rnaoptit=" -o $rgop -BT -c $weightm -r $weightr -R "
+		rnaoptit=" -o $rgop -F -c $weightm -r $weightr -R "
+	elif [ $mccaskill -eq 1 -o $contrafold -eq 1 ]; then
+		rnaopt=" -o $rgop -c $weightm -r $weightr "
+#		rnaoptit=" -e $rgep -o $rgop -BT -c $weightm -r $weightr $rnascoremtx "
+		rnaoptit=" -e $rgep -o $rgop -F -c $weightm -r $weightr $rnascoremtx "
+	else
+		rnaopt="  "
+		rnaoptit=" -F "
+	fi
+
+	model="$sbstmodel $kappa $fmodel"
+
+	if [ $er -eq 1 ]; then
+		echo "------------------------------------------------------------------------------" 1>&2
+		echo "  MAFFT" $version 1>&2
+#		echo "" 1>&2
+#		echo "  Input format: fasta" 1>&2
+#		echo ""  1>&2
+#		echo "  Usage: `basename $0` [options] inputfile > outputfile" 1>&2
+	    echo "  http://align.bmr.kyushu-u.ac.jp/mafft/software/" 1>&2
+		echo "  NAR 30:3059-3066 (2002), Briefings in Bioinformaitcs 9:286-298 (2008)"        1>&2
+#		echo "------------------------------------------------------------------------------" 1>&2
+#		echo "  % mafft in > out" 1>&2
+		echo "------------------------------------------------------------------------------" 1>&2
+#		echo ""  1>&2
+		echo "High speed:" 1>&2
+		echo "  % mafft in > out" 1>&2
+		echo "  % mafft --retree 1 in > out (fastest)" 1>&2
+		echo "" 1>&2
+		echo "High accuracy (for <~200 sequences x <~2,000 aa/nt):" 1>&2
+		echo "  % mafft --maxiterate 1000 --localpair  in > out (% linsi in > out is also ok)" 1>&2
+		echo "  % mafft --maxiterate 1000 --genafpair  in > out (% einsi in > out)" 1>&2
+		echo "  % mafft --maxiterate 1000 --globalpair in > out (% ginsi in > out)" 1>&2
+		echo "" 1>&2
+		echo "If unsure which option to use:" 1>&2
+		echo "  % mafft --auto in > out" 1>&2
+		echo "" 1>&2
+#		echo "Other options:" 1>&2
+		echo "--op # :         Gap opening penalty, default: 1.53" 1>&2
+		echo "--ep # :         Offset (works like gap extension penalty), default: 0.123" 1>&2
+		echo "--maxiterate # : Maximum number of iterative refinement, default: 0" 1>&2
+		echo "--clustalout :   Output: clustal format, default: fasta" 1>&2
+		echo "--reorder :      Outorder: aligned, default: input order" 1>&2
+		echo "--quiet :        Do not report progress" 1>&2
+#		echo "" 1>&2
+#		echo " % mafft --maxiterate 1000 --localpair in > out (L-INS-i)" 1>&2
+#		echo " most accurate in many cases, assumes only one alignable domain" 1>&2 
+#		echo "" 1>&2
+#		echo " % mafft --maxiterate 1000 --genafpair in > out (E-INS-i)" 1>&2
+#		echo " works well if many unalignable residues exist between alignable domains" 1>&2
+#		echo "" 1>&2
+#		echo " % mafft --maxiterate 1000 --globalpair in > out (G-INS-i)" 1>&2
+#		echo " suitable for globally alignable sequences            " 1>&2
+#		echo "" 1>&2
+#		echo " % mafft --maxiterate 1000 in > out (FFT-NS-i)" 1>&2
+#		echo " accurate and slow, iterative refinement method      " 1>&2
+#		echo "" 1>&2
+#		echo "If the input sequences are long (~1,000,000nt)," 1>&2
+#		echo " % mafft --retree 1 --memsave --fft in > out (FFT-NS-1-memsave, new in v5.8)" 1>&2
+#		echo "" 1>&2
+#		echo "If many (~5,000) sequences are to be aligned," 1>&2
+#		echo "" 1>&2
+#		echo " % mafft --retree 1 [--memsave] --nofft in > out (NW-NS-1, new in v5.8)" 1>&2
+#		echo "" 1>&2
+#		echo " --localpair :      All pairwise local alignment information is included"  1>&2
+#		echo "                    to the objective function, default: off"  1>&2
+#		echo " --globalpair :     All pairwise global alignment information is included"  1>&2
+#		echo "                    to the objective function, default: off"  1>&2
+#		echo " --op # :           Gap opening penalty, default: $defaultgop " 1>&2
+#		echo " --ep # :           Offset (works like gap extension penalty), default: $defaultaof " 1>&2
+#		echo " --bl #, --jtt # :  Scoring matrix, default: BLOSUM62" 1>&2
+#		echo "                    Alternatives are BLOSUM (--bl) 30, 45, 62, 80, " 1>&2
+#		echo "                    or JTT (--jtt) # PAM. " 1>&2
+#		echo " --nuc or --amino : Sequence type, default: auto" 1>&2
+#		echo " --retree # :       The number of tree building in progressive method " 1>&2
+#		echo "                    (see the paper for detail), default: $defaultcycle " 1>&2
+#		echo " --maxiterate # :   Maximum number of iterative refinement, default: $defaultiterate " 1>&2
+#		if [ $defaultfft -eq 1 ]; then
+#			echo " --fft or --nofft:  FFT is enabled or disabled, default: enabled" 1>&2
+#		else
+#			echo " --fft or --nofft:  FFT is enabled or disabled, default: disabled" 1>&2
+#		fi
+#		echo " --memsave:         Memory saving mode" 1>&2
+#		echo "                    (for long genomic sequences), default: off" 1>&2
+#		echo " --clustalout :     Output: clustal format, default: fasta" 1>&2
+#		echo " --reorder :        Outorder: aligned, default: input order" 1>&2
+#		echo " --quiet :          Do not report progress" 1>&2
+#		echo "-----------------------------------------------------------------------------" 1>&2
+		exit 1; 
+	fi
+	if [ $sw -eq 1 ]; then
+		swopt=" -A "
+	else
+		swopt=" "
+	fi
+
+	if [ $distance = "fasta" -o $partdist = "fasta" ]; then
+		if [ ! "$FASTA_4_MAFFT" ]; then
+			FASTA_4_MAFFT=`which fasta34`
+		fi
+
+		if [ ! -x "$FASTA_4_MAFFT" ]; then
+			echo ""       1>&2
+			echo "== Install FASTA ========================================================" 1>&2
+			echo "This option requires the fasta34 program (FASTA version x.xx or higher)"   1>&2
+			echo "installed in your PATH.  If you have the fasta34 program but have renamed" 1>&2
+			echo "(like /usr/local/bin/myfasta), set the FASTA_4_MAFFT environment variable" 1>&2
+			echo "to point your fasta34 (like setenv FASTA_4_MAFFT /usr/local/bin/myfasta)." 1>&2
+			echo "=========================================================================" 1>&2
+			echo "" 1>&2
+			exit 1
+		fi
+	fi
+	if [ $distance = "lara" -o $distance = "slara" ]; then
+		if [ ! -x "$prefix/mafft_lara" ]; then
+			echo ""       1>&2
+			echo "== Install LaRA =========================================================" 1>&2
+			echo "This option requires LaRA (Bauer et al. http://www.planet-lisa.net/)."     1>&2
+			echo "The executable have to be renamed to 'mafft_lara' and installed into "     1>&2
+			echo "the $prefix directory. "                                                   1>&2
+			echo "A configuration file of LaRA also have to be given"                        1>&2
+			echo "mafft-xinsi --larapair --laraparams parameter_file"                        1>&2
+			echo "mafft-xinsi --slarapair --laraparams parameter_file"                       1>&2
+			echo "=========================================================================" 1>&2
+			echo "" 1>&2
+			exit 1
+		fi
+		if [ ! -s "$laraparams" ]; then
+			echo ""       1>&2
+			echo "== Configure LaRA =======================================================" 1>&2
+			echo "A configuration file of LaRA have to be given"                             1>&2
+			echo "mafft-xinsi --larapair --laraparams parameter_file"                        1>&2
+			echo "mafft-xinsi --slarapair --laraparams parameter_file"                       1>&2
+			echo "=========================================================================" 1>&2
+			echo "" 1>&2
+			exit 1
+		fi
+	fi
+	if [ $distance = "foldalignlocal" -o $distance = "foldalignglobal" ]; then
+	if [ ! -x "$prefix/foldalign210" ]; then
+			echo ""       1>&2
+			echo "== Install FOLDALIGN ====================================================" 1>&2
+			echo "This option requires FOLDALIGN (Havgaard et al. http://foldalign.ku.dk/)." 1>&2
+			echo "The executable have to be renamed to 'foldalign210' and installed into "   1>&2
+			echo "the $prefix directory. "                                                   1>&2
+			echo "=========================================================================" 1>&2
+			echo "" 1>&2
+			exit 1
+		fi
+	fi
+	if [ $distance = "scarna" ]; then
+		if [ ! -x "$prefix/mxscarnamod" ]; then
+			echo ""       1>&2
+			echo "== Install MXSCARNA ======================================================" 1>&2
+			echo "MXSCARNA (Tabei et al. BMC Bioinformatics 2008 9:33) is required."          1>&2
+			echo "Please 'make' at the 'extensions' directory of the MAFFT source package,"   1>&2
+			echo "which contains the modified version of MXSCARNA."                           1>&2
+			echo "http://align.bmr.kyushu-u.ac.jp/mafft/software/source.html "                1>&2
+			echo "==========================================================================" 1>&2
+			echo "" 1>&2
+			exit 1
+		fi
+	fi
+	if [ $mccaskill -eq 1 ]; then
+		if [ ! -x "$prefix/mxscarnamod" ]; then
+			echo ""       1>&2
+			echo "== Install MXSCARNA ======================================================" 1>&2
+			echo "MXSCARNA (Tabei et al. BMC Bioinformatics 2008 9:33) is required."          1>&2
+			echo "Please 'make' at the 'extensions' directory of the MAFFT source package,"   1>&2
+			echo "which contains the modified version of MXSCARNA."                           1>&2
+			echo "http://align.bmr.kyushu-u.ac.jp/mafft/software/source.html "                1>&2
+			echo "==========================================================================" 1>&2
+			echo "" 1>&2
+			exit 1
+		fi
+	fi
+	if [ $contrafold -eq 1 ]; then
+		if [ ! -x "$prefix/contrafold" ]; then
+			echo ""       1>&2
+			echo "== Install CONTRAfold ===================================================" 1>&2
+			echo "This option requires CONTRAfold"                                           1>&2
+			echo "(Do et al. http://contra.stanford.edu/contrafold/)."                       1>&2
+			echo "The executable 'contrafold' have to be installed into "                    1>&2
+			echo "the $prefix directory. "                                                   1>&2
+			echo "=========================================================================" 1>&2
+			echo "" 1>&2
+			exit 1
+		fi
+	fi
+
+
+	if [ $treeout -eq 1 ]; then
+		parttreeoutopt="-t"
+		if [ $cycle -eq 0 ]; then
+			treeoutopt="-t -T"
+			groupsize=1
+		else
+			treeoutopt="-t"
+		fi
+	else
+		parttreeoutopt=" "
+		if [ $cycle -eq 0 ]; then
+			treeoutopt="-t -T"
+		else
+			treeoutopt=" "
+		fi
+	fi
+
+	nseq=`grep -c '^[>|=]' $TMPFILE/infile | head -1 ` 
+	if [ $nseq -eq 2 ]; then
+		cycle=1
+	fi
+	if [ $cycle -gt 3 ]; then
+		cycle=3
+	fi
+
+	if [ $nseq -gt 1000 -a $iterate -gt 1 ]; then
+		echo "Too many sequences to perform iterative refinement!" 1>&2
+		echo "Please use a progressive method." 1>&2
+		exit 1
+	fi
+
+
+	if [ $distance = "sixtuples" -a \( $seed = "x" -a $seedtable = "x" \) ]; then
+		localparam=" "
+	elif [ $distance = "sixtuples" -a \( $seed != "x" -o $seedtable != "x" \) ]; then
+		if [ $cycle -lt 2 ]; then
+			cycle=2                # nazeda
+		fi
+		localparam="-l "$weighti
+	elif [ $distance = "parttree" ]; then
+		localparam=" "
+		if [ $groupsize -gt -1 ]; then
+			cycle=1
+		fi
+	else
+		cycle=1
+		localparam=" -l "$weighti
+	fi
+	if [ $distance = "localgenaf" -o $distance = "globalgenaf" ]; then
+		aof="0.000"
+	fi
+
+	if [ $distance = "parttree" ]; then
+		if [ $seed != "x" -o $seedtable != "x" ]; then
+			echo "Impossible" 1>&2
+			exit 1
+		fi
+		if [ $iterate -gt 1 ]; then
+			echo "Impossible" 1>&2
+			exit 1
+		fi
+		if [ $outorder = "aligned" ]; then
+			outorder="input"
+		fi
+		outorder="input"   # partorder ga kiku
+		if [ $partdist = "localalign" ]; then
+			splitopt=" -L "    # -L -l -> fast 
+		elif [ $partdist = "fasta" ]; then
+			splitopt=" -S "
+		else
+			splitopt="  "
+		fi
+	fi
+
+
+	if [ $nseq -gt 5000 ]; then
+		fft=0
+	fi
+	if [ $forcefft -eq 1 ]; then
+		param_fft=" -G "
+		fft=1
+	elif [ $fft -eq 1 ]; then
+		param_fft=" -F "
+	else
+		param_fft=" "
+	fi
+
+	if [ $seed != "x" -a $seedtable != "x" ]; then
+			echo 'Use either one of seedtable and seed.  Not both.' 1>&2
+			exit
+	fi
+
+	if [ $treein -eq 1 ]; then
+#		if [ $iterate -gt 0 ]; then
+#			echo 'Not supported yet.' 1>&2
+#			exit
+#		fi
+		cycle=1
+	fi
+
+	if [ $mccaskill -eq 1 -o $rnaalifold -eq 1 -o $contrafold -eq 1 ]; then
+		if [ $distance = "sixtuples" ]; then
+			echo 'Not supported.' 1>&2
+			echo 'Please add --globalpair, --localpair, --scarnapair,' 1>&2
+			echo '--larapair, --slarapair, --foldalignlocalpair or --foldalignglobalpair' 1>&2
+			exit
+		fi
+	fi
+
+	if [ $mccaskill -eq 1 -o $rnaalifold -eq 1 -o $contrafold -eq 1 ]; then
+		if [ $distance = "scarna" -o $distance = "lara" -o $distance = "slara" -o $distance = "foldalignlocal" -o $distance = "foldalignglobal" ]; then
+			strategy="X-I"
+		elif [ $distance = "global" -o $distance = "local" -o $distance = "localgenaf" -o "globalgenaf" ]; then
+			strategy="Q-I"
+		fi
+	elif [ $distance = "fasta" -a $sw -eq 0 ]; then
+		strategy="F-I"
+	elif [ $distance = "fasta" -a $sw -eq 1 ]; then
+		strategy="H-I"
+	elif [ $distance = "blast" ]; then
+		strategy="B-I"
+	elif [ $distance = "global" ]; then
+		strategy="G-I"
+	elif [ $distance = "local" ]; then
+		strategy="L-I"
+	elif [ $distance = "localgenaf" ]; then
+		strategy="E-I"
+	elif [ $distance = "globalgenaf" ]; then
+		strategy="K-I"
+	elif [ $fft -eq 1 ]; then
+		strategy="FFT-"
+	else
+		strategy="NW-"
+	fi
+	strategy=$strategy"NS-"
+	if [ $iterate -gt 0 ]; then
+		strategy=$strategy"i"
+	elif [ $distance = "parttree" ]; then
+		if [ $partdist = "fasta" ]; then
+			strategy=$strategy"FastaPartTree-"$cycle
+		elif [ $partdist = "localalign" ]; then
+			strategy=$strategy"DPPartTree-"$cycle
+		else
+			strategy=$strategy"PartTree-"$cycle
+		fi
+	else
+		strategy=$strategy$cycle
+	fi
+
+	explanation='?'
+	performance='Not tested.'
+	if [ $strategy = "F-INS-i" ]; then
+		explanation='Iterative refinement method (<'$iterate') with LOCAL pairwise alignment information'
+		performance='Most accurate, but very slow'
+	elif [ $strategy = "L-INS-i" ]; then
+		explanation='Iterative refinement method (<'$iterate') with LOCAL pairwise alignment information'
+		performance='Probably most accurate, very slow'
+	elif [ $strategy = "E-INS-i" ]; then
+		explanation='Iterative refinement method (<'$iterate') with LOCAL pairwise alignment with generalized affine gap costs (Altschul 1998)'
+		performance='Suitable for sequences with long unalignable regions, very slow'
+	elif [ $strategy = "G-INS-i" ]; then
+		explanation='Iterative refinement method (<'$iterate') with GLOBAL pairwise alignment information'
+		performance='Suitable for sequences of similar lengths, very slow'
+	elif [ $strategy = "X-INS-i" ]; then
+		explanation='RNA secondary structure information is taken into account.'
+		performance='For short RNA sequences only, extremely slow'
+	elif [ $strategy = "F-INS-1" ]; then
+		explanation='Progressive method incorporating LOCAL pairwise alignment information'
+	elif [ $strategy = "L-INS-1" ]; then
+		explanation='Progressive method incorporating LOCAL pairwise alignment information'
+	elif [ $strategy = "G-INS-1" ]; then
+		explanation='Progressive method incorporating GLOBAL pairwise alignment information'
+	elif [ $strategy = "FFT-NS-i" -o $strategy = "NW-NS-i" ]; then
+		explanation='Iterative refinement method (max. '$iterate' iterations)'
+		if [ $iterate -gt 2 ]; then
+			performance='Accurate but slow'
+		else
+			performance='Standard'
+		fi
+	elif [ $strategy = "FFT-NS-2" -o $strategy = "NW-NS-2" ]; then
+		explanation='Progressive method (guide trees were built '$cycle' times.)'
+		performance='Fast but rough'
+	elif [ $strategy = "FFT-NS-1" -o $strategy = "NW-NS-1" ]; then
+		explanation='Progressive method (rough guide tree was used.)'
+		performance='Very fast but very rough'
+	fi
+
+	if [ $outputformat = "clustal" -a $outorder = "aligned" ]; then
+		outputopt=" -c $strategy -r order  "
+	elif [ $outputformat = "clustal" -a $outorder = "input" ]; then
+		outputopt=" -c $strategy  "
+	elif [ $outputformat = "pir" -a $outorder = "aligned" ]; then
+		outputopt=" -f -r order "
+	else
+		outputopt="null"
+	fi
+	
+	(
+		cd $TMPFILE;
+		if [ $quiet -gt 0 ]; then
+			if [ $seed != "x" ]; then
+				mv infile infile2
+				cat /dev/null > infile
+				cat /dev/null > hat3.seed
+				seedoffset=0
+#				echo "seednseq="$seednseq
+#				echo "seedoffset="$seedoffset
+				set $seednseq > /dev/null
+#				echo $#
+				while [ $# -gt 1 ]
+				do
+					shift
+#					echo "num="$#
+					"$prefix/multi2hat3s" -t $nseq  -o $seedoffset -i seed$# >> infile 2>/dev/null || exit 1
+					cat hat3 >> hat3.seed
+#					echo "$1"
+					seedoffset=`expr $seedoffset + $1`
+#					echo "$1"
+#					echo "seedoffset="$seedoffset
+				done;
+#				echo "seedoffset="$seedoffset
+				cat infile2 >> infile
+			elif [ $seedtable != "x" ]; then
+				cat _seedtablefile > hat3.seed
+			else
+				cat /dev/null > hat3.seed
+			fi
+#			cat hat3.seed
+			if [ $mccaskill -eq 1 ]; then
+				"$prefix/mccaskillwrap" -d "$prefix" -i infile > hat4 2>&1 || exit 1
+			elif [ $contrafold -eq 1 ]; then
+				"$prefix/contrafoldwrap" -d "$prefix" -i infile > hat4 2>&1 || exit 1
+			fi
+			if [ $distance = "fasta" ]; then
+				"$prefix/dndfast7" $swopt < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "blast" ]; then
+				"$prefix/dndblast" < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "foldalignlocal" ]; then
+				"$prefix/pairlocalalign" $seqtype $foldalignopt $model -g $lexp -f $lgop -h $laof -H -d "$prefix" < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "foldalignglobal" ]; then
+				"$prefix/pairlocalalign" $seqtype $foldalignopt $model -g $pgexp -f $pggop -h $pgaof -H -o -global -d "$prefix" < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "slara" ]; then
+				"$prefix/pairlocalalign" -p $laraparams  $seqtype $model  -f $lgop  -T -d "$prefix" < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "lara" ]; then
+				"$prefix/pairlocalalign" -p $laraparams  $seqtype $model  -f $lgop  -B -d "$prefix" < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "scarna" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model  -f $lgop  -s -d "$prefix" < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "global" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model -g $pgexp -f $pggop  -h $pgaof  -F < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "local" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model  -g $lexp -f $lgop  -h $laof -L < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "globalgenaf" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model  -g $pgexp -f $pggop  -h $pgaof -O $GGOP -E $GEXP -K  < infile > /dev/null 2>&1    || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "localgenaf" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model -g $lexp -f $lgop  -h $laof -O $LGOP -E $LEXP -N < infile > /dev/null  2>&1      || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "parttree" ]; then
+				"$prefix/splittbfast" -Q $splitopt $partorderopt $parttreeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft -p $partsize -s $groupsize $treealg -i infile   > pre 2>/dev/null || exit 1
+				mv hat3.seed hat3
+			else
+				"$prefix/disttbfast" $memopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $algopt $treealg < infile   > pre 2>/dev/null || exit 1
+				mv hat3.seed hat3
+			fi
+			while [ $cycle -gt 1 ]
+			do
+				if [ $distance = "parttree" ]; then
+					mv pre infile
+					"$prefix/splittbfast" -Z -Q $splitopt $partorderopt $parttreeoutopt $memopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft -p $partsize -s $groupsize $treealg -i infile   > pre 2>/dev/null || exit 1
+				else
+					"$prefix/tbfast" $rnaopt $weightopt $treeoutopt $memopt $seqtype $model  -f "-"$gop  -h "-"$aof $param_fft  $localparam $algopt -J $treealg < pre > /dev/null 2>&1 || exit 1
+				fi
+				cycle=`expr $cycle - 1`
+			done
+			if [ $iterate -gt 0 ]; then
+				if [ $distance = "sixtuples" ]; then
+				    "$prefix/dndpre"       < pre     > /dev/null 2>&1 || exit 1
+				fi
+				"$prefix/dvtditr" $rnaoptit $memopt $scorecalcopt $localparam -z 50 $seqtype $model -f "-"$gop -h "-"$aof  -I $iterate $weightopt $treeinopt $algoptit $treealg < pre     > /dev/null 2>&1 || exit 1
+			fi
+		else
+			if [ $seed != "x" ]; then
+				mv infile infile2
+				cat /dev/null > infile
+				cat /dev/null > hat3.seed
+				seedoffset=0
+#				echo "seednseq="$seednseq
+#				echo "seedoffset="$seedoffset
+				set $seednseq > /dev/null
+#				echo $#
+				while [ $# -gt 1 ]
+				do
+					shift
+#					echo "num="$#
+					"$prefix/multi2hat3s" -t $nseq  -o $seedoffset -i seed$# >> infile  || exit 1
+					cat hat3 >> hat3.seed
+#					echo "$1"
+					seedoffset=`expr $seedoffset + $1`
+#					echo "$1"
+#					echo "seedoffset="$seedoffset
+				done;
+#				echo "seedoffset="$seedoffset
+				cat infile2 >> infile
+			elif [ $seedtable != "x" ]; then
+				cat _seedtablefile > hat3.seed
+			else
+				cat /dev/null > hat3.seed
+			fi
+#			cat hat3.seed
+			if [ $mccaskill -eq 1 ]; then
+				"$prefix/mccaskillwrap" -d "$prefix" -i infile > hat4  || exit 1
+			elif [ $contrafold -eq 1 ]; then
+				"$prefix/contrafoldwrap" -d "$prefix" -i infile > hat4  || exit 1
+			fi
+			if [ $distance = "fasta" ]; then
+				"$prefix/dndfast7" $swopt < infile > /dev/null     || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam  $algopt $treealg < infile   > /dev/null || exit 1
+			elif [ $distance = "blast" ]; then
+				"$prefix/dndblast" < infile > /dev/null     || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam  $algopt $treealg < infile   > /dev/null || exit 1
+			elif [ $distance = "foldalignlocal" ]; then
+				"$prefix/pairlocalalign" $seqtype $foldalignopt $model -g $lexp -f $lgop -h $laof -H -d "$prefix" < infile > /dev/null || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "foldalignglobal" ]; then
+				"$prefix/pairlocalalign" $seqtype $foldalignopt $model -g $pgexp -f $pggop  -h $pgaof -H -o -global -d "$prefix" < infile > /dev/null || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "slara" ]; then
+				"$prefix/pairlocalalign" -p $laraparams  $seqtype $model  -f $lgop  -T -d "$prefix" < infile > /dev/null || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "lara" ]; then
+				"$prefix/pairlocalalign" -p $laraparams  $seqtype $model  -f $lgop  -B -d "$prefix" < infile > /dev/null || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "scarna" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model  -f $lgop  -s -d "$prefix" < infile > /dev/null   || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam   $algopt $treealg < infile   > /dev/null 2>&1 || exit 1
+			elif [ $distance = "global" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model -g $pgexp -f $pggop  -h $pgaof   -F  < infile > /dev/null     || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam  $algopt $treealg < infile   > /dev/null || exit 1
+			elif [ $distance = "local" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model  -g $lexp -f $lgop  -h $laof -L  < infile > /dev/null     || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam  $algopt $treealg < infile   > /dev/null || exit 1
+			elif [ $distance = "globalgenaf" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model  -g $pgexp -f $pggop  -h $pgaof -O $GGOP -E $GEXP -K  < infile > /dev/null     || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam  $algopt $treealg < infile   > /dev/null || exit 1
+			elif [ $distance = "localgenaf" ]; then
+				"$prefix/pairlocalalign"   $seqtype $model  -g $lexp -f $lgop  -h $laof -O $LGOP -E $LEXP -N  < infile > /dev/null     || exit 1
+				cat hat3.seed hat3 > hatx
+				mv hatx hat3
+				"$prefix/tbfast" $rnaopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft $localparam  $algopt $treealg < infile   > /dev/null || exit 1
+			elif [ $distance = "parttree" ]; then
+				"$prefix/splittbfast" -Q $splitopt $partorderopt $parttreeoutopt $memopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft -p $partsize -s $groupsize $treealg -i infile   > pre || exit 1
+				mv hat3.seed hat3
+			else
+				"$prefix/disttbfast" $memopt $weightopt $treeinopt $treeoutopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft  $algopt $treealg < infile   > pre || exit 1
+				mv hat3.seed hat3
+			fi
+
+			while [ $cycle -gt 1 ]
+			do
+				if [ $distance = "parttree" ]; then
+					mv pre infile
+					"$prefix/splittbfast" -Z -Q $splitopt $partorderopt $parttreeoutopt $memopt $seqtype $model -f "-"$gop  -h "-"$aof  $param_fft -p $partsize -s $groupsize $treealg -i infile  > pre || exit 1
+				else
+					"$prefix/tbfast" $rnaopt $weightopt $treeoutopt $memopt $seqtype $model  -f "-"$gop  -h "-"$aof $param_fft $localparam $algopt -J $treealg < pre > /dev/null || exit 1
+				fi
+				cycle=`expr $cycle - 1`
+			done
+			if [ $iterate -gt 0 ]; then
+				if [ $distance = "sixtuples" ]; then
+			    	"$prefix/dndpre"       < pre     > /dev/null 2>&1 || exit 1
+				fi
+				"$prefix/dvtditr" $rnaoptit $memopt $scorecalcopt $localparam -z 50 $seqtype $model -f "-"$gop -h "-"$aof -I $iterate $weightopt $treeinopt $algoptit $treealg < pre     > /dev/null || exit 1
+			fi
+		fi
+
+
+
+		if [ $coreout -eq 1 ]; then
+			"$prefix/setcore" -w $corewin -i $corethr $coreext < pre > pre2
+			mv pre2 pre
+		fi
+		if [ "$outputopt" = "null" ]; then
+			cat < pre || exit 1
+		else
+			"$prefix/f2cl" $outputopt < pre || exit 1
+		fi
+	)
+
+	if [ $treeout -eq 1 ]; then
+		cp $TMPFILE/infile.tree "$infilename.tree"
+	fi
+
+	if [ $quiet -eq 0 ]; then
+		echo '' 1>&2
+		if [ $mccaskill -eq 1 ]; then
+			echo "RNA base pairing probaility was calculated by the McCaskill algorithm (1)" 1>&2
+			echo "implemented in Vienna RNA package (2) and MXSCARNA (3), and then" 1>&2
+			echo "incorporated in the iterative alignment process (4)." 1>&2
+			echo "(1) McCaskill, 1990, Biopolymers 29:1105-1119" 1>&2
+			echo "(2) Hofacker et al., 2002, J. Mol. Biol. 319:3724-3732" 1>&2
+			echo "(3) Tabei et al., 2008, BMC Bioinformatics 9:33" 1>&2
+			echo "(4) Katoh and Toh, 2008, BMC Bioinformatics 9:212" 1>&2
+			echo "" 1>&2
+		elif [ $contrafold -eq 1 ]; then
+			echo "RNA base pairing probaility was calculated by the CONTRAfold algorithm (1)" 1>&2
+			echo "and then incorporated in the iterative alignment process (4)." 1>&2
+			echo "(1) Do et al., 2006, Bioinformatics 22:e90-98" 1>&2
+			echo "(2) Katoh and Toh, 2008, BMC Bioinformatics 9:212" 1>&2
+			echo "" 1>&2
+		fi
+		if [ $distance = "fasta" -o $partdist = "fasta" ]; then
+			echo "Pairwise alignments were computed by FASTA" 1>&2
+			echo "(Pearson & Lipman, 1988, PNAS 85:2444-2448)" 1>&2
+		fi
+		if [ $distance = "blast" ]; then
+			echo "Pairwise alignments were computed by BLAST" 1>&2
+			echo "(Altschul et al., 1997, NAR 25:3389-3402)" 1>&2
+		fi
+		if [ $distance = "scarna" ]; then
+			echo "Pairwise alignments were computed by MXSCARNA" 1>&2
+			echo "(Tabei et al., 2008, BMC Bioinformatics 9:33)." 1>&2
+		fi
+		if [ $distance = "lara" -o $distance = "slara" ]; then
+			echo "Pairwise alignments were computed by LaRA" 1>&2
+			echo "(Bauer et al., 2007, BMC Bioinformatics 8:271)." 1>&2
+		fi
+		if [ $distance = "foldalignlocal" ]; then
+			echo "Pairwise alignments were computed by FOLDALIGN (local)" 1>&2
+			echo "(Havgaard et al., 2007, PLoS Computational Biology 3:e193)." 1>&2
+		fi
+		if [ $distance = "foldalignglobal" ]; then
+			echo "Pairwise alignments were computed by FOLDALIGN (global)" 1>&2
+			echo "(Havgaard et al., 2007, PLoS Computational Biology 3:e193)." 1>&2
+		fi
+		printf "\n" 1>&2
+		echo 'Strategy:' 1>&2
+		printf ' '$strategy 1>&2
+		echo ' ('$performance')' 1>&2
+		echo ' '$explanation 1>&2
+		echo '' 1>&2
+		echo "If unsure which option to use, try 'mafft --auto input > output'." 1>&2
+		echo "If long gaps are expected, try 'mafft --ep 0.0 --auto input > output'." 1>&2
+		echo "For a list of arguments, type 'mafft --help', 'mafft --man' or visit the mafft page." 1>&2
+		echo '' 1>&2
+	fi
+	exit 0;
+fi
+
+prog="awk"
+
+tmpawk=`which nawk 2>/dev/null | awk '{print $1}'`
+if [ -x "$tmpawk" ]; then
+	prog="$tmpawk"
+fi
+
+tmpawk=`which gawk 2>/dev/null | awk '{print $1}'`
+if [ -x "$tmpawk" ]; then
+	prog="$tmpawk"
+fi
+
+echo "prog="$prog 1>&2
+
+umask 077
+export defaultaof
+export defaultgop
+export defaultfft
+export defaultcycle
+export defaultiterate
+(
+$prog '
+BEGIN {
+	prefix = ENVIRON["prefix"];
+	version = ENVIRON["version"];
+	myself = ENVIRON["myself"];
+	defaultgop = ENVIRON["defaultgop"]
+	defaultaof = ENVIRON["defaultaof"]
+	defaultfft = ENVIRON["defaultfft"]
+	defaultcycle = ENVIRON["defaultcycle"]
+	defaultiterate = ENVIRON["defaultiterate"]
+	while( 1 )
+	{
+		options = ""
+		printf( "\n" ) > "/dev/tty";
+		printf( "---------------------------------------------------------------------\n" )      > "/dev/tty";
+		printf( "\n" )                                                                           > "/dev/tty";
+		printf( "   MAFFT %s\n", version )                                                       > "/dev/tty";
+		printf( "\n" )                                                                           > "/dev/tty";
+		printf( "        Copyright (c) 2008 Kazutaka Katoh\n" )                                  > "/dev/tty";
+		printf( "        NAR 30:3059-3066, NAR 33:511-518\n" )                                   > "/dev/tty";
+		printf( "        http://align.bmr.kyushu-u.ac.jp/mafft/software/\n" )       > "/dev/tty";
+		printf( "---------------------------------------------------------------------\n" )      > "/dev/tty";
+		printf( "\n" ) > "/dev/tty";
+	
+		while( 1 )
+		{
+			printf( "\n" ) > "/dev/tty";
+			printf( "Input file? (fasta format)\n@ " ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" )
+			if( res == 0 || NF == 0 )
+				continue;
+			infile0 = sprintf( "%s", $1 );
+			infile = sprintf( "%s", $1 );
+	
+			res = getline < infile;
+			close( infile );
+			if( res == -1 )
+				printf( "%s: No such file.\n\n", infile ) > "/dev/tty";
+			else if( res == 0 )
+				printf( "%s: Empty.\n", infile ) > "/dev/tty";
+			else
+			{
+				printf( "OK. infile = %s\n\n", infile ) > "/dev/tty";
+				break;
+			}
+		}
+		nseq = 0;
+	
+		while( 1 )
+		{
+			printf( "\n" ) > "/dev/tty";
+			printf( "Output file?\n" ) > "/dev/tty";
+			printf( "@ " ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" );
+			if( res == 0 || NF == 0 )
+				continue;
+			else
+			{
+				outfile = sprintf( "%s", $1 );
+				printf( "OK. outfile = %s\n\n", outfile ) > "/dev/tty";
+				break;
+			}
+		}
+	
+	
+		while( 1 )
+		{
+			retree = defaultcycle
+			printf( "\n" ) > "/dev/tty";
+			printf( "Number of tree-rebuilding?\n" ) > "/dev/tty";
+			printf( "@ [%d] ", retree ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" );
+			if( res == 0 )
+				continue;
+			else if( NF == 0 )
+				;
+			else
+				retree = 0 + $1;
+			if( retree < 1 || 10 < retree )
+				;
+			else
+			{
+				printf( "OK. %d\n\n", retree ) > "/dev/tty";
+				break;
+			}
+		}
+	
+		while( 1 )
+		{
+			niterate = defaultiterate;
+			printf( "\n" ) > "/dev/tty";
+			printf( "Maximum number of iterations?\n" ) > "/dev/tty";
+			printf( "@ [%d] ", niterate ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" );
+			if( res == 0 )
+				continue;
+			else if( NF == 0 )
+				;
+			else
+				niterate = 0 + $1;
+			if( niterate < 0 || 1000 < niterate )
+				;
+			else
+			{
+				printf( "OK. %d\n\n", niterate ) > "/dev/tty";
+				break;
+			}
+		}
+
+		while( 1 )
+		{
+			fft = defaultfft;
+			printf( "\n" ) > "/dev/tty";
+			printf( "Use fft?\n" ) > "/dev/tty";
+			printf( "@ [%s] ", fft?"Yes":"No" ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" );
+			if( res == 0 )
+				continue;
+			else if( NF == 0 )
+			{
+				break;
+			}
+			else if( NF == 0 || $0 ~ /^[Yy]/ )
+			{
+				fft = 1;
+				break;
+			}
+			else if( NF == 0 || $0 ~ /^[Nn]/ )
+			{
+				fft = 0;
+				break;
+			}
+		}
+		if( fft )
+		{
+				printf( "OK. FFT is enabled.\n\n" ) > "/dev/tty";
+				fftparam = " ";
+		}
+		else
+		{
+				printf( "OK. FFT is disabled.\n\n" ) > "/dev/tty";
+				fftparam = " --nofft ";
+		}
+
+		while( 1 )
+		{
+			scoringmatrix = 3;
+			printf( "\n" ) > "/dev/tty";
+			printf( "Scoring matrix? (ignored when DNA sequence is input.)\n" ) > "/dev/tty";
+			printf( " 1. BLOSUM 30\n" ) > "/dev/tty";
+			printf( " 2. BLOSUM 45\n" ) > "/dev/tty";
+			printf( " 3. BLOSUM 62\n" ) > "/dev/tty";
+			printf( " 4. BLOSUM 80\n" ) > "/dev/tty";
+			printf( " 5. JTT 200\n" ) > "/dev/tty";
+			printf( " 6. JTT 100\n" ) > "/dev/tty";
+			printf( "@ [%d] ", scoringmatrix ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" );
+			if( res == 0 )
+				continue;
+			else if( NF == 0 )
+				;
+			else
+				scoringmatrix = 0 + $1;
+			if( scoringmatrix < 1 || 6 < scoringmatrix )
+				;
+			else
+			{
+				break;
+			}
+		}
+		if( scoringmatrix == 1 )
+			scoringparam = " --bl 30 ";
+		else if( scoringmatrix == 2 )
+			scoringparam = " --bl 45 ";
+		else if( scoringmatrix == 3 )
+			scoringparam = " --bl 62 ";
+		else if( scoringmatrix == 4 )
+			scoringparam = " --bl 80 ";
+		else if( scoringmatrix == 5 )
+			scoringparam = " --jtt 200 ";
+		else if( scoringmatrix == 6 )
+			scoringparam = " --jtt 100 ";
+		printf( "OK. %s\n\n",scoringparam ) > "/dev/tty";
+	
+		while( 1 )
+		{
+			penalty = 0.0 + defaultgop;
+			offset = 0.0 + defaultaof;
+			printf( "\n" ) > "/dev/tty";
+			printf( "Parameters (gap opening penalty, offset)?\n", penalty, offset ) > "/dev/tty";
+			printf( "@ [%5.3f, %5.3f] ", penalty, offset ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" );
+			if( res == 0 )
+				continue;
+			else if( NF == 2 )
+			{
+				penalty = 0.0 + $1;
+				offset = 0.0 + $2;
+			}
+			else if( NF == 0 )
+				;
+			else
+				continue;
+			if( penalty < 0.0 || 10.0 < penalty )
+				;
+			else if( offset < 0.0 || 10.0 < offset )
+				;
+			else
+			{
+				printf( "OK. %5.3f %5.3f\n\n", penalty, offset ) > "/dev/tty";
+				break;
+			}
+		}
+	
+		command = sprintf( "%s %s --retree %d --maxiterate %d %s --op %f --ep %f %s > %s", myself, fftparam, retree, niterate, scoringparam, penalty, offset, infile, outfile );
+		printf( "%s\n\n", command ) > "/dev/tty";
+	
+	
+		while( 1 )
+		{
+			go = 0;
+			printf( "\n" ) > "/dev/tty";
+			printf( "OK?\n" ) > "/dev/tty";
+			printf( "@ [Y] " ) > "/dev/tty";
+			res = getline < "/dev/tty";
+			close( "/dev/tty" );
+			if( res == 0 )
+				continue;
+			else if( NF == 0 || $0 ~ /^[Yy]/ )
+			{
+				go=1;
+				break;
+			}
+			else
+				break;
+		}
+		if( go ) break;
+		printf( "\n" ) > "/dev/tty";
+		printf( "\n" ) > "/dev/tty";
+	}
+	system( command );
+	printf( "Press Enter to exit." ) > "/dev/tty";
+	res = getline < "/dev/tty";
+}
+'
+)
+exit 0;

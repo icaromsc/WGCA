@@ -1,0 +1,990 @@
+#!/usr/bin/env perl
+
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#            National Center for Biotechnology Information (NCBI)
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government do not place any restriction on its use or reproduction.
+#  We would, however, appreciate having the NCBI and the author cited in
+#  any work or product based on this material.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+# ===========================================================================
+#
+# File Name:  nquire
+#
+# Author:  Jonathan Kans
+#
+# Version Creation Date:   8/20/12
+#
+# ==========================================================================
+
+# Entrez Direct - EDirect
+
+# use strict;
+use warnings;
+
+my ($LibDir, $ScriptName);
+
+use File::Spec;
+
+# nquire version number
+
+$version = "11.0";
+
+BEGIN
+{
+  my $Volume;
+  ($Volume, $LibDir, $ScriptName) = File::Spec->splitpath($0);
+  $LibDir = File::Spec->catpath($Volume, $LibDir, '');
+  if (my $RealPathname = eval {readlink $0}) {
+    do {
+      $RealPathname = File::Spec->rel2abs($RealPathname, $LibDir);
+      ($Volume, $LibDir, undef) = File::Spec->splitpath($RealPathname);
+      $LibDir = File::Spec->catpath($Volume, $LibDir, '')
+    } while ($RealPathname = eval {readlink $RealPathname});
+  } else {
+    $LibDir = File::Spec->rel2abs($LibDir)
+  }
+  $LibDir .= '/aux/lib/perl5';
+}
+use lib $LibDir;
+
+use JSON::PP;
+use LWP::UserAgent;
+use POSIX;
+use URI::Escape;
+use Net::FTP;
+use Time::HiRes;
+use XML::Simple;
+
+# definitions
+
+use constant false => 0;
+use constant true  => 1;
+
+# utility subroutines
+
+sub clearflags {
+  %macros = ();
+  $agent = "Nquire/1.0";
+  $alias = "";
+  $debug = false;
+  $http = "";
+  $j2x = false;
+  $x2j = false;
+  $output = "";
+}
+
+sub map_macros {
+
+  $qury = shift (@_);
+
+  if ( $qury !~ /\(#/ ) {
+    return $qury;
+  }
+
+  if ( scalar (keys %macros) > 0 ) {
+    for ( keys %macros ) {
+      $ky = $_;
+      $vl = $macros{$_};
+      $qury =~ s/\((\#$ky)\)/$vl/g;
+    }
+  }
+
+  return $qury;
+}
+
+sub read_aliases {
+
+  if ( $alias ne "" ) {
+    if (open (my $PROXY_IN, $alias)) {
+      while ( $thisline = <$PROXY_IN> ) {
+        $thisline =~ s/\r//;
+        $thisline =~ s/\n//;
+        $thisline =~ s/ +/ /g;
+        $thisline =~ s/> </></g;
+
+        if ( $thisline =~ /(.+)\t(.+)/ ) {
+          $ky = $1;
+          $vl = $2;
+          $vl =~ s/\"//g;
+          $macros{"$ky"} = "$vl";
+        }
+      }
+      close ($PROXY_IN);
+    } else {
+      print STDERR "Unable to open alias file '$alias'\n";
+    }
+  }
+}
+
+# send actual query
+
+sub do_post {
+
+  $urlx = shift (@_);
+  $argx = shift (@_);
+
+  $rslt = "";
+
+  if ( $debug ) {
+    if ( $argx ne "" ) {
+      print STDERR "URL: $urlx?$argx\n\n";
+    } else {
+      print STDERR "URL: $urlx\n\n";
+    }
+  }
+
+  if ( $http eq "get" or $http eq "GET" ) {
+    if ( $argx ne "" ) {
+      $urlx .= "?";
+      $urlx .= "$argx";
+    }
+
+    $usragnt = new LWP::UserAgent (timeout => 300);
+    $usragnt->agent( "$agent" );
+
+    $res = $usragnt->get ( $urlx );
+
+    if ( $res->is_success) {
+      $rslt = $res->content;
+    } elsif ( $debug ) {
+      print STDERR "STATUS: " . $res->status_line . "\n";
+    }
+
+    if ( $rslt eq "" and $debug ) {
+      print STDERR "No do_get output returned from '$urlx'\n";
+    }
+
+    if ( $debug ) {
+      print STDERR "$rslt\n";
+    }
+
+    return $rslt;
+  }
+
+  $usragnt = new LWP::UserAgent (timeout => 300);
+  $usragnt->agent( "$agent" );
+
+  $req = new HTTP::Request POST => "$urlx";
+  $req->content_type('application/x-www-form-urlencoded');
+  $req->content("$argx");
+
+  $res = $usragnt->request ( $req );
+
+  if ( $res->is_success) {
+    $rslt = $res->content;
+  } elsif ( $debug ) {
+    print STDERR "STATUS: " . $res->status_line . "\n";
+  }
+
+  if ( $rslt eq "" && $debug ) {
+    if ( $argx ne "" ) {
+      $urlx .= "?";
+      $urlx .= "$argx";
+    }
+    print STDERR "No do_post output returned from '$urlx'\n";
+  }
+
+  if ( $debug ) {
+    print STDERR "$rslt\n";
+  }
+
+  return $rslt;
+}
+
+# uri_escape with backslash exceptions
+
+sub do_uri_escape {
+
+  $patx = shift (@_);
+
+  $rslt = "";
+
+  while ( $patx ne "" ) {
+    if ( $patx =~ /^\\\\(.+)/ ) {
+      $rslt .= "\\";
+      $patx = $1;
+    } elsif ( $patx =~ /^\\(.)(.+)/ ) {
+      $rslt .= $1;
+      $patx = $2;
+    } elsif ( $patx =~ /^(.)(.+)/ ) {
+      $rslt .= uri_escape ($1);
+      $patx = $2;
+    } elsif ( $patx =~ /^(.)/ ) {
+      $rslt .= uri_escape ($1);
+      $patx = "";
+    }
+  }
+
+  return $rslt;
+}
+
+# convert_json based on convert_bool from:
+#
+# https://stackoverflow.com/questions/41039792correct-and-easy-way-convert-jsonppboolean-to-0-1-with-perl/41040316#41040316
+#
+# with hash section improvements by Aaron Ucko to convert non-XML-legal element characters to underscore.
+
+sub convert_json {
+  my %unrecognized;
+
+  local *_convert_json = sub {
+    my $ref_type = ref($_[0]);
+    if (!$ref_type) {
+      # Nothing.
+    }
+    elsif ($ref_type eq 'HASH') {
+      my %converted = ();
+      while (my ($k, $v) = each %{ $_[0] }) {
+        $k =~ s/[^[:alnum:]_:.-]|^[0-9.-]/_/g;
+        _convert_json($v);
+        $converted{$k} = $v;
+      }
+      %{ $_[0] } = %converted;
+    }
+    elsif ($ref_type eq 'ARRAY') {
+      _convert_json($_) for @{ $_[0] };
+    }
+    elsif (
+       $ref_type eq 'JSON::PP::Boolean' || $ref_type eq 'Types::Serialiser::Boolean'
+    ) {
+      $_[0] = $_[0] ? 1 : 0;
+    }
+    else {
+      ++$unrecognized{$ref_type};
+    }
+  };
+
+  &_convert_json;
+}
+
+# nquire executes an external URL query from command line arguments
+
+my $nquire_help = qq{
+Query Commands
+
+  -ftp         Uses FTP instead of HTTP
+  -get         Uses HTTP GET instead of POST
+  -url         Base URL for external search
+
+Documentation
+
+  -help        Print this document
+  -examples    Examples of advanced queries
+  -version     Print version number
+
+Examples
+
+  nquire -get -url "http://collections.mnh.si.edu/services/resolver/resolver.php" \\
+    -voucher "Birds:625456" |
+  xtract -pattern Result -element ScientificName Country
+
+  nquire -get -url http://w1.weather.gov/xml/current_obs/KSFO.xml |
+  xtract -pattern current_observation -tab "\\n" \\
+    -element weather temp_f wind_dir wind_mph
+
+  nquire -url "https://eutils.ncbi.nlm.nih.gov/entrez/eutils" elink.fcgi \\
+    -dbfrom pubmed -db pubmed -cmd neighbor -linkname pubmed_pubmed -id 2539356
+
+  nquire -eutils efetch.fcgi -db pubmed -id 2539356 -rettype medline -retmode text
+
+  nquire -eutils esummary.fcgi -db pubmed -id 2539356 -version 2.0
+
+  nquire -eutils esearch.fcgi -db pubmed -term "tn3 transposition immunity" |
+  xtract -pattern eSearchResult -element QueryTranslation
+
+  nquire -ftp ftp.ncbi.nlm.nih.gov pub/gdp ideogram_9606_GCF_000001305.14_850_V1 |
+  grep acen | cut -f 1,2,6,7 | grep "^X\\t"
+
+};
+
+my $nquire_examples = qq{
+Medical Subject Headings
+
+  nquire -get -url "http://id.nlm.nih.gov/mesh/sparql" \\
+    -query "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \\
+      SELECT DISTINCT ?class FROM <http://id.nlm.nih.gov/mesh> \\
+      WHERE { ?s rdf:type ?class } ORDER BY ?class" |
+  xtract -pattern result -pfx "meshv:" -first "uri[http://id.nlm.nih.gov/mesh/vocab#|]"
+
+  meshv:AllowedDescriptorQualifierPair
+  meshv:CheckTag
+  meshv:Concept
+  meshv:DisallowedDescriptorQualifierPair
+  meshv:GeographicalDescriptor
+  meshv:PublicationType
+  meshv:Qualifier
+  meshv:SCR_Chemical
+  meshv:SCR_Disease
+  meshv:SCR_Organism
+  meshv:SCR_Protocol
+  meshv:Term
+  meshv:TopicalDescriptor
+  meshv:TreeNumber
+
+MeSH Predicates
+
+  nquire -get -url "http://id.nlm.nih.gov/mesh/sparql" \\
+    -query "SELECT DISTINCT ?p FROM <http://id.nlm.nih.gov/mesh> WHERE { ?s ?p ?o } ORDER BY ?p" |
+  xtract -pattern result -pfx "meshv:" -first "uri[http://id.nlm.nih.gov/mesh/vocab#|]"
+
+  meshv:abbreviation
+  meshv:active
+  meshv:allowableQualifier
+  meshv:altLabel
+  meshv:annotation
+  meshv:broaderConcept
+  meshv:broaderDescriptor
+  meshv:broaderQualifier
+  meshv:casn1_label
+  meshv:concept
+  meshv:considerAlso
+  meshv:dateCreated
+  meshv:dateEstablished
+  meshv:dateRevised
+  meshv:entryVersion
+  meshv:frequency
+  meshv:hasDescriptor
+  meshv:hasQualifier
+  meshv:historyNote
+  meshv:identifier
+  meshv:indexerConsiderAlso
+  meshv:lastActiveYear
+  meshv:lexicalTag
+  meshv:mappedTo
+  meshv:narrowerConcept
+  meshv:nlmClassificationNumber
+  meshv:note
+  meshv:onlineNote
+  meshv:parentTreeNumber
+  meshv:pharmacologicalAction
+  meshv:prefLabel
+  meshv:preferredConcept
+  meshv:preferredMappedTo
+  meshv:preferredTerm
+  meshv:previousIndexing
+  meshv:publicMeSHNote
+  meshv:registryNumber
+  meshv:relatedConcept
+  meshv:relatedRegistryNumber
+  meshv:scopeNote
+  meshv:seeAlso
+  meshv:sortVersion
+  meshv:source
+  meshv:term
+  meshv:thesaurusID
+  meshv:treeNumber
+  meshv:useInstead
+
+WikiData Predicate List
+
+  nquire -url "https://query.wikidata.org/sparql" \\
+    -query "SELECT ?property ?propertyType ?propertyLabel \\
+      ?propertyDescription ?propertyAltLabel WHERE { \\
+      ?property wikibase:propertyType ?propertyType . SERVICE wikibase:label \\
+      { bd:serviceParam wikibase:language '[AUTO_LANGUAGE],en'. } } \\
+      ORDER BY ASC(xsd:integer(STRAFTER(STR(?property), 'P')))" |
+  xtract -pattern result -first "uri[http://www.wikidata.org/entity/|]" -first literal
+
+Selected WikiData Predicates
+
+  P6       head of government
+  P16      highway system
+  P17      country
+  P19      place of birth
+  P21      sex or gender
+  P22      father
+  P25      mother
+  P26      spouse
+  P30      continent
+  P31      instance of
+  P35      head of state
+  P36      capital
+  P40      child
+  P105     taxon rank
+  P660     EC enzyme classification
+  P672     MeSH Code
+  P680     molecular function
+  P681     cell component
+  P682     biological process
+  P685     NCBI Taxonomy ID
+  P698     PubMed ID
+  P699     Disease Ontology ID
+  P932     PMCID
+  P1340    eye color
+  P2067    mass
+  P2410    WikiPathways ID
+  P2888    exact match
+
+Vitamin Binding Site
+
+  nquire -get -url "http://www.wikidata.org/entity/Q22679758" |
+  transmute -j2x |
+  xtract -pattern entities -group claims -block P527 -element "value\@id"
+
+Children of JS Bach
+
+  nquire -url "https://query.wikidata.org/sparql" \\
+    -query "SELECT ?child ?childLabel WHERE \\
+      { ?child wdt:P22 wd:Q1339. SERVICE wikibase:label \\
+        { bd:serviceParam wikibase:language '[AUTO_LANGUAGE],en'. } }" |
+  xtract -pattern result -block binding -if "\@name" -equals childLabel -element literal
+
+Eye Color Frequency
+
+  nquire -url "https://query.wikidata.org/sparql" \\
+    -query "SELECT ?eyeColorLabel WHERE \\
+      { ?human wdt:P31 wd:Q5. ?human wdt:P1340 ?eyeColor. SERVICE wikibase:label \\
+        { bd:serviceParam wikibase:language '[AUTO_LANGUAGE],en'. } }" |
+  xtract -pattern result -element literal |
+  sort-uniq-count-rank
+
+Federated Query
+
+  nquire -url "https://query.wikidata.org/sparql" \\
+    -query " \\
+      PREFIX wp:      <http://vocabularies.wikipathways.org/wp#> \\
+      PREFIX dcterms:  <http://purl.org/dc/terms/> \\
+      PREFIX dc:      <http://purl.org/dc/elements/1.1/> \\
+      SELECT DISTINCT ?metabolite1Label ?metabolite2Label ?mass1 ?mass2 WITH { \\
+        SELECT ?metabolite1 ?metabolite2 WHERE { \\
+          ?pathwayItem wdt:P2410 'WP706'; \\
+                       wdt:P2888 ?pwIri. \\
+          SERVICE <http://sparql.wikipathways.org/> { \\
+            ?pathway dc:identifier ?pwIri. \\
+            ?interaction rdf:type wp:Interaction; \\
+                         wp:participants ?wpmb1, ?wpmb2; \\
+                         dcterms:isPartOf ?pathway. \\
+            FILTER (?wpmb1 != ?wpmb2) \\
+            ?wpmb1 wp:bdbWikidata ?metabolite1. \\
+            ?wpmb2 wp:bdbWikidata ?metabolite2. \\
+          } \\
+        } \\
+      } AS %metabolites WHERE { \\
+        INCLUDE %metabolites. \\
+        ?metabolite1 wdt:P2067 ?mass1. \\
+        ?metabolite2 wdt:P2067 ?mass2. \\
+        SERVICE wikibase:label { bd:serviceParam wikibase:language '[AUTO_LANGUAGE],en'. } \\
+      }" |
+  xtract -pattern result -block binding -element "binding\@name" literal
+
+BioThings Queries
+
+  nquire -get -j2x -url "http://mygene.info/v3" query -q "pathway.wikipathways.id:WP455" -fetch_all true |
+  xtract -pattern hits -element \@_id
+
+  nquire -j2x -url "http://mygene.info/v3" query -q "WP455" -scopes "pathway.wikipathways.id" -size 300 |
+  xtract -pattern anon -element \@_id
+
+  nquire -variant variant "chr6:g.26093141G>A" -fields dbsnp.gene |
+  xtract -pattern gene -element \@geneid
+
+  nquire -gene query -q "symbol:OPN1MW" -species 9606 |
+  xtract -pattern hits -element \@_id
+
+  nquire -gene query -q "symbol:OPN1MW AND taxid:9606" |
+  xtract -pattern hits -element \@_id
+
+  nquire -gene gene 2652 -fields pathway.wikipathways |
+  xtract -pattern pathway -element \@id
+
+  nquire -gene query -q "pathway.wikipathways.id:WP455" -size 300 |
+  xtract -pattern hits -element \@_id
+
+  nquire -chem query -q "drugbank.targets.uniprot:P05231 AND drugbank.targets.actions:inhibitor" -fields hgvs |
+  xtract -pattern hits -element \@_id
+
+  cat uniprots.xml |
+  xtract -pattern ENTREZ_EXTEND -sep "\n" -element Id |
+  while read uid
+  do
+    echo "UID \$uid"
+    echo "\$uid" | xplore -load uniprot | xplore -link inchikey
+    echo ""
+  done
+
+EDirect Expansion
+
+  ExtractIDs() {
+    xtract -pattern BIO_THINGS -block Id -tab "\\n" -element Id
+  }
+
+  WrapIDs() {
+    xtract -wrp BIO_THINGS -pattern opt -wrp Type -lbl "\$1" \\
+      -wrp Count -num "\$2" -block "\$2" -wrp Id -element "\$3" |
+    xtract -format
+  }
+
+  nquire -gene query -q "symbol:OPN1MW AND taxid:9606" |
+  WrapIDs entrezgene hits "\@entrezgene" |
+
+  ExtractIDs |
+  while read geneid
+  do
+    nquire -gene gene "\$geneid" -fields pathway.wikipathways
+  done |
+  WrapIDs pathway.wikipathways.id pathway "\@id" |
+
+  ExtractIDs |
+  while read pathid
+  do
+    nquire -gene query -q "pathway.wikipathways.id:\$pathid" -size 300
+  done |
+  WrapIDs entrezgene hits "\@entrezgene" |
+
+  ExtractIDs |
+  sort -n
+
+};
+
+my @pubchem_properties = qw(
+  MolecularFormula
+  MolecularWeight
+  CanonicalSMILES
+  IsomericSMILES
+  InChI
+  InChIKey
+  IUPACName
+  XLogP
+  ExactMass
+  MonoisotopicMass
+  TPSA
+  Complexity
+  Charge
+  HBondDonorCount
+  HBondAcceptorCount
+  RotatableBondCount
+  HeavyAtomCount
+  IsotopeAtomCount
+  AtomStereoCount
+  DefinedAtomStereoCount
+  UndefinedAtomStereoCount
+  BondStereoCount
+  DefinedBondStereoCount
+  UndefinedBondStereoCount
+  CovalentUnitCount
+  Volume3D
+  XStericQuadrupole3D
+  YStericQuadrupole3D
+  ZStericQuadrupole3D
+  FeatureCount3D
+  FeatureAcceptorCount3D
+  FeatureDonorCount3D
+  FeatureAnionCount3D
+  FeatureCationCount3D
+  FeatureRingCount3D
+  FeatureHydrophobeCount3D
+  ConformerModelRMSD3D
+  EffectiveRotorCount3D
+  ConformerCount3D
+  Fingerprint2D
+);
+
+sub nquire {
+
+  # nquire -url http://... -tag value -tag value | ...
+
+  $url = "";
+  $arg = "";
+  $pfx = "";
+  $amp = "";
+  $pat = "";
+  $sfx = "";
+
+  @args = @ARGV;
+  $max = scalar @args;
+
+  %biothingsHash = (
+    '-gene'     =>  'http://mygene.info/v3',
+    '-variant'  =>  'http://myvariant.info/v1',
+    '-chem'     =>  'http://mychem.info/v1',
+  );
+
+  if ( $max < 1 ) {
+    return;
+  }
+
+  if ( $ARGV[0] eq "-version" ) {
+    print "$version\n";
+    return;
+  }
+
+  if ( $ARGV[0] eq "-help" ) {
+    print "nquire $version\n";
+    print $nquire_help;
+    return;
+  }
+
+  # -examples prints advanced sparql queries (undocumented)
+
+  if ( $ARGV[0] eq "-examples" or $ARGV[0] eq "-example" or $ARGV[0] eq "-extras" or $ARGV[0] eq "-extra" ) {
+    print "nquire $version\n";
+    print $nquire_examples;
+    return;
+  }
+
+  if ( $max < 2 ) {
+    return;
+  }
+
+  $i = 0;
+
+  # if present, -debug must be first argument, only prints generated URL (undocumented)
+
+  if ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat eq "-debug" ) {
+      $i++;
+      $debug = true;
+    }
+  }
+
+  # if present, -ftp must be next
+
+  if ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat eq "-ftp" ) {
+      $i++;
+      if ( $i < $max ) {
+        my $server = $args[$i];
+        $i++;
+        if ( $i < $max ) {
+          my $dir = $args[$i];
+          $i++;
+          if ( $i < $max ) {
+            my $fl = $args[$i];
+
+            my $ftp = new Net::FTP($server, Passive => 1)
+              or die "Unable to connect to FTP server: $!";
+
+            $ftp->login or die "Unable to log in to FTP server: ", $ftp->message;
+            $ftp->cwd($dir) or die "Unable to change to $dir: ", $ftp->message;
+            $ftp->binary or warn "Unable to set binary mode: ", $ftp->message;
+
+            if (! $ftp->get($fl, "/dev/stdout") ) {
+              my $msg = $ftp->message;
+              chomp $msg;
+              print STDERR "\nFAILED TO DOWNLOAD:\n\n$fl ($msg\n";
+            }
+          }
+        }
+      }
+      return;
+    }
+  }
+
+  # if present, -http get or -get must be next (now also allow -http post or -post)
+
+  # nquire -get -url "http://collections.mnh.si.edu/services/resolver/resolver.php" -voucher "Birds:625456"
+
+  if ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat eq "-http" ) {
+      $i++;
+      if ( $i < $max ) {
+        $http = $args[$i];
+        $i++;
+      }
+    } elsif ( $pat eq "-get" ) {
+      $i++;
+      $http = "get";
+    } elsif ( $pat eq "-post" ) {
+      $i++;
+      $http = "post";
+    }
+  }
+
+  # if present, -agent must be next argument (undocumented)
+
+  if ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat eq "-agent" ) {
+      $i++;
+      if ( $i < $max ) {
+        $agent = $args[$i];
+        $i++;
+      }
+    }
+  }
+
+  # if present, -j2x or -x2j must be next argument (undocumented)
+
+  if ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat eq "-j2x" ) {
+      $i++;
+      $j2x = true;
+    } elsif ( $pat eq "-x2j" ) {
+      $i++;
+      $x2j = true;
+    }
+  }
+
+  # read file of keyword shortcuts for URL expansion
+
+  if ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat eq "-alias" ) {
+      $i++;
+      if ( $i < $max ) {
+        $alias = $args[$i];
+        if ( $alias ne "" ) {
+          read_aliases ();
+        }
+        $i++;
+      }
+    }
+  }
+
+  # read URL
+
+  if ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat eq "-url" ) {
+      $i++;
+      if ( $i < $max ) {
+        $url = $args[$i];
+        $url = map_macros ($url);
+        $i++;
+      }
+    } elsif ( $pat eq "-ncbi" ) {
+      # shortcut for ncbi base (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $url = "https://www.ncbi.nlm.nih.gov";
+      }
+    } elsif ( $pat eq "-eutils" ) {
+      # shortcut for eutils base (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
+        # add 1/3 second sleep to avoid server limit (undocumented)
+        Time::HiRes::usleep(350000);
+      }
+    } elsif ( $pat eq "-test" ) {
+      # shortcut for eutilstest base (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $url = "https://eutilstest.ncbi.nlm.nih.gov/entrez/eutils";
+      }
+    } elsif ( $pat eq "-qa" ) {
+      # shortcut for eutils QA base (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $url = "http://qa.ncbi.nlm.nih.gov/entrez/eutils";
+      }
+
+    } elsif ( $pat eq "-hydra" ) {
+      # internal citation match request (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $url = "https://www.ncbi.nlm.nih.gov/projects/hydra/hydra_search.cgi";
+        $pat = $args[$i];
+        $pat = map_macros ($pat);
+        $enc = do_uri_escape ($pat);
+        $arg="search=pubmed_search_citation_top_20.1&query=$enc";
+        $amp = "&";
+        $i++;
+      }
+
+    } elsif ( $pat eq "-revhist" ) {
+      # internal sequence revision history request (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $url = "https://www.ncbi.nlm.nih.gov/sviewer/girevhist.cgi";
+        $pat = $args[$i];
+        $arg="cmd=seqid&txt=on&seqid=asntext&os=PUBSEQ_OS&val=$pat";
+        $amp = "&";
+        $i++;
+      }
+
+    } elsif ( $pat eq "-pubchem" ) {
+      # shortcut for PubChem Power User Gateway REST service base (undocumented)
+      # nquire -pubchem "compound/name/creatine/property" "IUPACName,MolecularWeight,MolecularFormula" "XML"
+      $i++;
+      if ( $i < $max ) {
+        $url = "https://pubchem.ncbi.nlm.nih.gov/rest/pug";
+        if ( $i + 2 == $max && $args[$i] eq "compound" ) {
+          # even shorter shortcut
+          # nquire -pubchem compound creatine
+          $pat = $args[$i + 1];
+          if ( $pat =~ /^-(.+)/ ) {
+          } elsif ( $pat !~ /\// ) {
+            $i = $i + 2;
+            $url .= "/compound/name/";
+            $pat = map_macros ($pat);
+            $url .= $pat;
+            $url .= "/property/";
+            $sfx = join(",", @pubchem_properties);
+            $url .= $sfx;
+            $url .= "/XML";
+          }
+        }
+      }
+
+    } elsif ( defined $biothingsHash{$pat} ) {
+      # shortcuts for biothings services (undocumented)
+      $i++;
+      $url = $biothingsHash{$pat};
+      if ( $http eq "" ) {
+          $http = "get";
+      }
+      $j2x = true;
+
+    } elsif ( $pat eq "-wikipathways" ) {
+      # shortcut for webservice.wikipathways.org (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $url = "http://webservice.wikipathways.org";
+      }
+
+    } elsif ( $pat eq "-biosample" ) {
+      # internal biosample_chk request on live database (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $http = "get";
+        $url = "https://api-int.ncbi.nlm.nih.gov/biosample/fetch";
+        $bid = $args[$i];
+        $arg="format=source&id=$bid";
+        $amp = "&";
+        $i++;
+      }
+    } elsif ( $pat eq "-biosample-dev" ) {
+      # internal biosample_chk request on development database (undocumented)
+      $i++;
+      if ( $i < $max ) {
+        $http = "get";
+        $url = "https://dev-api-int.ncbi.nlm.nih.gov/biosample/fetch";
+        $bid = $args[$i];
+        $arg="format=source&id=$bid";
+        $amp = "&";
+        $i++;
+      }
+    }
+  }
+
+  if ( $url eq "" ) {
+    return;
+  }
+
+  # hard-coded URL aliases for common NCBI web sites
+
+  if ( $url =~ /\(#/ ) {
+
+    $ky = "ncbi_url";
+    if ( $url =~ /\(#$ky\)/ ) {
+      $vl = "https://www.ncbi.nlm.nih.gov";
+      $url =~ s/\((\#$ky)\)/$vl/g;
+    }
+
+    $ky = "eutils_url";
+    if ( $url =~ /\(#$ky\)/ ) {
+      $vl = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
+      $url =~ s/\((\#$ky)\)/$vl/g;
+    }
+  }
+
+  # arguments before next minus are added to base URL as /value
+
+  $go_on = true;
+  while ( $i < $max and $go_on ) {
+    $pat = $args[$i];
+    if ( $pat =~ /^-(.+)/ ) {
+      $go_on = false;
+    } else {
+      $pat = map_macros ($pat);
+      $url .= "/" . $pat;
+      $i++;
+    }
+  }
+
+  # now expect tag with minus and value[s] without, add as &tag=value[,value]
+
+  while ( $i < $max ) {
+    $pat = $args[$i];
+    if ( $pat =~ /^-(.+)/ ) {
+      $pat = $1;
+      $pfx = $amp . "$pat=";
+      $amp = "";
+    } else {
+      $pat =~ s/^\\-/-/g;
+      $pat = map_macros ($pat);
+      $enc = do_uri_escape ($pat);
+      $arg .= $pfx . $enc;
+      $pfx = ",";
+      $amp = "&";
+    }
+    $i++;
+  }
+
+  # perform query
+  $output = do_post ($url, $arg);
+
+  if ( $j2x ) {
+    my $jc = JSON::PP->new->ascii->pretty->allow_nonref;
+    my $conv = $jc->decode($output);
+    convert_json($conv);
+    my $result = XMLout($conv, SuppressEmpty => undef);
+
+    # remove newlines, tabs, space between tokens, compress runs of spaces
+    $result =~ s/\r/ /g;
+    $result =~ s/\n/ /g;
+    $result =~ s/\t//g;
+    $result =~ s/ +/ /g;
+    $result =~ s/> +</></g;
+
+    # remove <opt> flanking object
+    if ( $result =~ /<opt>\s*?</ and $result =~ />\s*?<\/opt>/ ) {
+      $result =~ s/<opt>\s*?</</g;
+      $result =~ s/>\s*?<\/opt>/>/g;
+    }
+
+    $output = "$result";
+
+    # restore newlines between objects
+    $output =~ s/> *?</>\n</g;
+
+    binmode(STDOUT, ":utf8");
+  }
+
+  if ( $x2j ) {
+    my $xc = new XML::Simple(KeepRoot => 1);
+    my $conv = $xc->XMLin($output);
+    convert_json($conv);
+    my $jc = JSON::PP->new->ascii->pretty->allow_nonref;
+    my $result = $jc->encode($conv);
+
+    $output = "$result";
+  }
+
+  print "$output";
+}
+
+# initialize
+
+clearflags ();
+
+# execute URL request
+
+nquire ();
+
+# close input and output files
+
+close (STDIN);
+close (STDOUT);
+close (STDERR);

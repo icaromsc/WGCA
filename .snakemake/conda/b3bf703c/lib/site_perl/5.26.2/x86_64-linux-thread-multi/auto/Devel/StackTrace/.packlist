@@ -1,0 +1,4 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Devel/StackTrace.pm relocate_as=../../../../Devel/StackTrace.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Devel/StackTrace/Frame.pm relocate_as=../../../../Devel/StackTrace/Frame.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Devel::StackTrace.3 relocate_as=../../../../../../../man/man3/Devel::StackTrace.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Devel::StackTrace::Frame.3 relocate_as=../../../../../../../man/man3/Devel::StackTrace::Frame.3

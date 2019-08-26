@@ -1,0 +1,30 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	summarize_virulence
+	31	virulence_identification
+	32
+
+[Mon Aug 26 16:38:52 2019]
+rule virulence_identification:
+    input: data/samples/L8.fasta
+    output: virulence_genes/L8.tsv
+    jobid: 18
+    wildcards: sample=L8
+
+[Mon Aug 26 16:38:53 2019]
+Error in rule virulence_identification:
+    jobid: 18
+    output: virulence_genes/L8.tsv
+    shell:
+        abricate --minid=90 --db=vfdb data/samples/L8.fasta > virulence_genes/L8.tsv
+        (exited with non-zero exit code)
+
+Removing output files of failed job virulence_identification since they might be corrupted:
+virulence_genes/L8.tsv
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/bioinfo/WGCA/.snakemake/log/2019-08-26T163852.108578.snakemake.log

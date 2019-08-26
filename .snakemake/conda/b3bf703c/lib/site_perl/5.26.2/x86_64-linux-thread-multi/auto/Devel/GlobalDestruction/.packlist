@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Devel/GlobalDestruction.pm relocate_as=../../../../Devel/GlobalDestruction.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Devel::GlobalDestruction.3 relocate_as=../../../../../../../man/man3/Devel::GlobalDestruction.3

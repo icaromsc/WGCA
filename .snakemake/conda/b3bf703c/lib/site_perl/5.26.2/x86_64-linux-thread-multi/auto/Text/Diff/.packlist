@@ -1,0 +1,6 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Text/Diff.pm relocate_as=../../../../Text/Diff.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Text/Diff/Config.pm relocate_as=../../../../Text/Diff/Config.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Text/Diff/Table.pm relocate_as=../../../../Text/Diff/Table.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Text::Diff.3 relocate_as=../../../../../../../man/man3/Text::Diff.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Text::Diff::Config.3 relocate_as=../../../../../../../man/man3/Text::Diff::Config.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Text::Diff::Table.3 relocate_as=../../../../../../../man/man3/Text::Diff::Table.3

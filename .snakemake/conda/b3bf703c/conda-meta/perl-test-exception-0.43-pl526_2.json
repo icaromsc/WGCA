@@ -1,0 +1,61 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-sub-uplevel"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-test-exception-0.43-pl526_2",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Test/Exception.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Exception/.packlist",
+    "man/man3/Test::Exception.3"
+  ],
+  "fn": "perl-test-exception-0.43-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-test-exception-0.43-pl526_2",
+    "type": 1
+  },
+  "md5": "245bc80913f1725d4aff7c12bb217d12",
+  "name": "perl-test-exception",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-test-exception-0.43-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Test/Exception.pm",
+        "path_type": "hardlink",
+        "sha256": "af63fd45ee3dfc379530e00382cf419f6e975240f7021ad61d351e67eb4de191",
+        "sha256_in_prefix": "af63fd45ee3dfc379530e00382cf419f6e975240f7021ad61d351e67eb4de191",
+        "size_in_bytes": 15465
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Exception/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "2e31a045190e81eefab79c545bf270f9a0746301a8fccb08889d24769796cf0a",
+        "sha256_in_prefix": "b6a9de69f68312a268ea830351e3b7793628a60e9c8603f5741e59b8c2e1b1a2",
+        "size_in_bytes": 234
+      },
+      {
+        "_path": "man/man3/Test::Exception.3",
+        "path_type": "hardlink",
+        "sha256": "ce611d891a97bc8361f18938ad6953f1675ea46d751b2590e7f06b35901c46d7",
+        "sha256_in_prefix": "ce611d891a97bc8361f18938ad6953f1675ea46d751b2590e7f06b35901c46d7",
+        "size_in_bytes": 14453
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 12540,
+  "subdir": "linux-64",
+  "timestamp": 1533078918100,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-test-exception-0.43-pl526_2.tar.bz2",
+  "version": "0.43"
+}

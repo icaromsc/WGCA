@@ -1,0 +1,70 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-file-slurp-tiny-0.004-pl526_1",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/File/Slurp/Tiny.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Slurp/Tiny/.packlist",
+    "man/man3/File::Slurp::Tiny.3"
+  ],
+  "fn": "perl-file-slurp-tiny-0.004-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-file-slurp-tiny-0.004-pl526_1",
+    "type": 1
+  },
+  "md5": "1cf79bd3a86d7dbc00837771705beea3",
+  "name": "perl-file-slurp-tiny",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-file-slurp-tiny-0.004-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "848544d4db3e52bcedaef31d2b527d73b86091608dbb9609eee8454706e9c0c7",
+        "sha256_in_prefix": "fa719293809c96537b3dbc4e54e0fac9408a768e87a79d7c288d02e7c484d39c",
+        "size_in_bytes": 266
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/File/Slurp/Tiny.pm",
+        "path_type": "hardlink",
+        "sha256": "393a0de61a40270a5081f337898acd97e4334b67f432aaf7ee2b8fb207eccc53",
+        "sha256_in_prefix": "393a0de61a40270a5081f337898acd97e4334b67f432aaf7ee2b8fb207eccc53",
+        "size_in_bytes": 4741
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Slurp/Tiny/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "66e20036d76fd1b23bcbabfbd63d1b83c393b761e72b6724af0f9070c16dbae4",
+        "sha256_in_prefix": "18a2f5849412436d06f5e56b6129271c02816583723cf808d5fb3892251fa073",
+        "size_in_bytes": 246
+      },
+      {
+        "_path": "man/man3/File::Slurp::Tiny.3",
+        "path_type": "hardlink",
+        "sha256": "af2b02f2fcc54d0227db4c9c8ac416726c1e59add98ed15697d9e2b63ea00021",
+        "sha256_in_prefix": "af2b02f2fcc54d0227db4c9c8ac416726c1e59add98ed15697d9e2b63ea00021",
+        "size_in_bytes": 5480
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 7767,
+  "subdir": "linux-64",
+  "timestamp": 1530979979697,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-file-slurp-tiny-0.004-pl526_1.tar.bz2",
+  "version": "0.004"
+}

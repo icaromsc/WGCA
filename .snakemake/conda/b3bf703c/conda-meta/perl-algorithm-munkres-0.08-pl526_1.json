@@ -1,0 +1,70 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-algorithm-munkres-0.08-pl526_1",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Algorithm/Munkres.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Algorithm/Munkres/.packlist",
+    "man/man3/Algorithm::Munkres.3"
+  ],
+  "fn": "perl-algorithm-munkres-0.08-pl526_1.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-algorithm-munkres-0.08-pl526_1",
+    "type": 1
+  },
+  "md5": "6b6f07a137705b8a11321c5d4f16bf38",
+  "name": "perl-algorithm-munkres",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-algorithm-munkres-0.08-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "d0ccbc6cffde19d79d6a573b491d9d9fb7afe4ee3c51abaa919741835de727f7",
+        "sha256_in_prefix": "a26d821e5927809f293013148f97c03947ea46d978afc1f46a026957e77d6724",
+        "size_in_bytes": 267
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Algorithm/Munkres.pm",
+        "path_type": "hardlink",
+        "sha256": "b668b9e63b67bdccff0828094c1788d42b7d351196912070018f765ec25b18ae",
+        "sha256_in_prefix": "b668b9e63b67bdccff0828094c1788d42b7d351196912070018f765ec25b18ae",
+        "size_in_bytes": 13508
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Algorithm/Munkres/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "0ef6017ed6d031f9afac5d554bff158f097ce1cdb295003d98f864e227191ff4",
+        "sha256_in_prefix": "6bcf78465407ec858f253da07c0b8a67df0fe93519daa886209689576b542533",
+        "size_in_bytes": 246
+      },
+      {
+        "_path": "man/man3/Algorithm::Munkres.3",
+        "path_type": "hardlink",
+        "sha256": "eeb73492b66bf1f55c94a36aacc6cdcd1164d32e3f0a1cc7db7f70ccfe98bde9",
+        "sha256_in_prefix": "eeb73492b66bf1f55c94a36aacc6cdcd1164d32e3f0a1cc7db7f70ccfe98bde9",
+        "size_in_bytes": 7812
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 10875,
+  "subdir": "linux-64",
+  "timestamp": 1531006685839,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-algorithm-munkres-0.08-pl526_1.tar.bz2",
+  "version": "0.08"
+}

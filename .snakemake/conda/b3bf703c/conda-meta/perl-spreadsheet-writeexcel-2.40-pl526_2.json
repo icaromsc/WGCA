@@ -1,0 +1,384 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-ole-storage_lite",
+    "perl-parse-recdescent"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-spreadsheet-writeexcel-2.40-pl526_2",
+  "features": "",
+  "files": [
+    "bin/chartex",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/BIFFwriter.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Big.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Area.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Bar.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Column.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/External.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Line.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Pie.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Scatter.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Stock.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Examples.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Format.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Formula.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/OLEwriter.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Properties.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Utility.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Workbook.pm",
+    "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Worksheet.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Spreadsheet/WriteExcel/.packlist",
+    "man/man1/chartex.1",
+    "man/man3/Spreadsheet::WriteExcel.3",
+    "man/man3/Spreadsheet::WriteExcel::BIFFwriter.3",
+    "man/man3/Spreadsheet::WriteExcel::Big.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::Area.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::Bar.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::Column.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::External.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::Line.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::Pie.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::Scatter.3",
+    "man/man3/Spreadsheet::WriteExcel::Chart::Stock.3",
+    "man/man3/Spreadsheet::WriteExcel::Examples.3",
+    "man/man3/Spreadsheet::WriteExcel::Format.3",
+    "man/man3/Spreadsheet::WriteExcel::Formula.3",
+    "man/man3/Spreadsheet::WriteExcel::OLEwriter.3",
+    "man/man3/Spreadsheet::WriteExcel::Properties.3",
+    "man/man3/Spreadsheet::WriteExcel::Utility.3",
+    "man/man3/Spreadsheet::WriteExcel::Workbook.3",
+    "man/man3/Spreadsheet::WriteExcel::Worksheet.3"
+  ],
+  "fn": "perl-spreadsheet-writeexcel-2.40-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-spreadsheet-writeexcel-2.40-pl526_2",
+    "type": 1
+  },
+  "md5": "dbc71d9bfe4d0e81e9f1f36132728147",
+  "name": "perl-spreadsheet-writeexcel",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-spreadsheet-writeexcel-2.40-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/chartex",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "9671c81dbfe236b99c5916c6752e2b95660450ef691daaf29b1eec62525df220",
+        "sha256_in_prefix": "f886770cf218cbc6ca9a08882a8b76b1afd928f3ed8a61ada79e91be2bbfb2ce",
+        "size_in_bytes": 5845
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel.pm",
+        "path_type": "hardlink",
+        "sha256": "38aa225399383d6e429609bdd6813eb2671c42f0180eb15bbe6a07906c187715",
+        "sha256_in_prefix": "38aa225399383d6e429609bdd6813eb2671c42f0180eb15bbe6a07906c187715",
+        "size_in_bytes": 224816
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/BIFFwriter.pm",
+        "path_type": "hardlink",
+        "sha256": "5beee827e5d21a17459e6b63f55c727770c4214d089ce4100391bda4e201b513",
+        "sha256_in_prefix": "5beee827e5d21a17459e6b63f55c727770c4214d089ce4100391bda4e201b513",
+        "size_in_bytes": 7348
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Big.pm",
+        "path_type": "hardlink",
+        "sha256": "5d549bcffe603bbad665128b9e47ea58df54a7b509205dd00cb56155698dedec",
+        "sha256_in_prefix": "5d549bcffe603bbad665128b9e47ea58df54a7b509205dd00cb56155698dedec",
+        "size_in_bytes": 1830
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart.pm",
+        "path_type": "hardlink",
+        "sha256": "5c2088849b9279987d66df628bfec4658006cd7d3beb21d55f863e3a728d5aa9",
+        "sha256_in_prefix": "5c2088849b9279987d66df628bfec4658006cd7d3beb21d55f863e3a728d5aa9",
+        "size_in_bytes": 86315
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Area.pm",
+        "path_type": "hardlink",
+        "sha256": "806df57da0270b8375b31ff84c8e5eda25cb799979cb25d939f78301d8a393a8",
+        "sha256_in_prefix": "806df57da0270b8375b31ff84c8e5eda25cb799979cb25d939f78301d8a393a8",
+        "size_in_bytes": 4875
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Bar.pm",
+        "path_type": "hardlink",
+        "sha256": "89d933eec5be46c2bc361b0827144c4ec2c58572ec026e07cd3b7e36858dae61",
+        "sha256_in_prefix": "89d933eec5be46c2bc361b0827144c4ec2c58572ec026e07cd3b7e36858dae61",
+        "size_in_bytes": 6255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Column.pm",
+        "path_type": "hardlink",
+        "sha256": "2ae1f4d249a8e5d50192b7865c5bc60f80305ca23fd4101bf84d77d62edd966d",
+        "sha256_in_prefix": "2ae1f4d249a8e5d50192b7865c5bc60f80305ca23fd4101bf84d77d62edd966d",
+        "size_in_bytes": 5109
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/External.pm",
+        "path_type": "hardlink",
+        "sha256": "ef2354ac0fec49deb20a37133ad66a8037920c8a9e682c780c4e1021cac437f7",
+        "sha256_in_prefix": "ef2354ac0fec49deb20a37133ad66a8037920c8a9e682c780c4e1021cac437f7",
+        "size_in_bytes": 2827
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Line.pm",
+        "path_type": "hardlink",
+        "sha256": "6a35609f5f9b87548a817e39ec7e2d700d4f7ad5589f37c2a338b46b992d664d",
+        "sha256_in_prefix": "6a35609f5f9b87548a817e39ec7e2d700d4f7ad5589f37c2a338b46b992d664d",
+        "size_in_bytes": 4875
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Pie.pm",
+        "path_type": "hardlink",
+        "sha256": "429cd0fb501a61c285de8f5d8a0f13d054665cd4ec314420a3ee91dd72011627",
+        "sha256_in_prefix": "429cd0fb501a61c285de8f5d8a0f13d054665cd4ec314420a3ee91dd72011627",
+        "size_in_bytes": 5289
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Scatter.pm",
+        "path_type": "hardlink",
+        "sha256": "bc4e28abdddbad5e4daf6bac0b37bb63a3f085e310eee71f40bf91e663af289d",
+        "sha256_in_prefix": "bc4e28abdddbad5e4daf6bac0b37bb63a3f085e310eee71f40bf91e663af289d",
+        "size_in_bytes": 6389
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Chart/Stock.pm",
+        "path_type": "hardlink",
+        "sha256": "55dfd7b3e8c926930adc91f54e495c93ee6d7e9d7785e9a3cfa542620d503ae7",
+        "sha256_in_prefix": "55dfd7b3e8c926930adc91f54e495c93ee6d7e9d7785e9a3cfa542620d503ae7",
+        "size_in_bytes": 7515
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Examples.pm",
+        "path_type": "hardlink",
+        "sha256": "ca99f2e75180c09272a518cb08459a217135df2eab6095afd7f717d078e1087e",
+        "sha256_in_prefix": "ca99f2e75180c09272a518cb08459a217135df2eab6095afd7f717d078e1087e",
+        "size_in_bytes": 322403
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Format.pm",
+        "path_type": "hardlink",
+        "sha256": "083a619e76b41d9731c2ce1e29ed4c898f3a77a6438cbe8053ad78843d78a1ce",
+        "sha256_in_prefix": "083a619e76b41d9731c2ce1e29ed4c898f3a77a6438cbe8053ad78843d78a1ce",
+        "size_in_bytes": 23041
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Formula.pm",
+        "path_type": "hardlink",
+        "sha256": "6b50c5f5e51c5e269d4b2df9f9838f199dc7f6b2b36022b015c0f964457597ee",
+        "sha256_in_prefix": "6b50c5f5e51c5e269d4b2df9f9838f199dc7f6b2b36022b015c0f964457597ee",
+        "size_in_bytes": 54033
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/OLEwriter.pm",
+        "path_type": "hardlink",
+        "sha256": "6470e2c507c6892075ad1aedcaafa6f881d9859d20852f42ad079d70ae39795c",
+        "sha256_in_prefix": "6470e2c507c6892075ad1aedcaafa6f881d9859d20852f42ad079d70ae39795c",
+        "size_in_bytes": 11328
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Properties.pm",
+        "path_type": "hardlink",
+        "sha256": "c439c4d7faf086b8581472999e65d65c46b31f64ae701f40f8aecc86bae08919",
+        "sha256_in_prefix": "c439c4d7faf086b8581472999e65d65c46b31f64ae701f40f8aecc86bae08919",
+        "size_in_bytes": 10076
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Utility.pm",
+        "path_type": "hardlink",
+        "sha256": "e2f080bfb237fb0066195ea5163e5d7f6d4716eacf8fccf0c40a092c2dd6476b",
+        "sha256_in_prefix": "e2f080bfb237fb0066195ea5163e5d7f6d4716eacf8fccf0c40a092c2dd6476b",
+        "size_in_bytes": 29725
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Workbook.pm",
+        "path_type": "hardlink",
+        "sha256": "0845b99b38babeb09f4a005557a7cb3408c43c97dc5aa20b76e87d82c3345c04",
+        "sha256_in_prefix": "0845b99b38babeb09f4a005557a7cb3408c43c97dc5aa20b76e87d82c3345c04",
+        "size_in_bytes": 110552
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Spreadsheet/WriteExcel/Worksheet.pm",
+        "path_type": "hardlink",
+        "sha256": "da0b43a722bcae7318d31740668d57538b0bc296287da7922cd510a699166042",
+        "sha256_in_prefix": "da0b43a722bcae7318d31740668d57538b0bc296287da7922cd510a699166042",
+        "size_in_bytes": 221491
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Spreadsheet/WriteExcel/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "17917da45428a47a81de74df06a0fed441903b3349800d3c15a53ed9edeb643b",
+        "sha256_in_prefix": "529d418260019d219cba7c8d4556f639623ac59eef33fad4f4c4873e1c4712e7",
+        "size_in_bytes": 6324
+      },
+      {
+        "_path": "man/man1/chartex.1",
+        "path_type": "hardlink",
+        "sha256": "d17723a1681260007eaa3acae8d91be2e1d98801369a60d6b37b37426c8d0155",
+        "sha256_in_prefix": "d17723a1681260007eaa3acae8d91be2e1d98801369a60d6b37b37426c8d0155",
+        "size_in_bytes": 3661
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel.3",
+        "path_type": "hardlink",
+        "sha256": "7aa0d0e54b269c389ac41a2c0c02b4e7c8e3fe14936edbb02e02b02524e0be15",
+        "sha256_in_prefix": "7aa0d0e54b269c389ac41a2c0c02b4e7c8e3fe14936edbb02e02b02524e0be15",
+        "size_in_bytes": 266823
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::BIFFwriter.3",
+        "path_type": "hardlink",
+        "sha256": "057dfa3364adf994fba8a2be3c8966d9043706f39eae078d3473120163dae957",
+        "sha256_in_prefix": "057dfa3364adf994fba8a2be3c8966d9043706f39eae078d3473120163dae957",
+        "size_in_bytes": 2718
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Big.3",
+        "path_type": "hardlink",
+        "sha256": "959c78623ac1141a5a4ed5563476b3f9444a90621986bf8850f56b8beee054a1",
+        "sha256_in_prefix": "959c78623ac1141a5a4ed5563476b3f9444a90621986bf8850f56b8beee054a1",
+        "size_in_bytes": 3103
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart.3",
+        "path_type": "hardlink",
+        "sha256": "c346071d6b12b1806c7c29171dcec2e485290433fa87d39e4d97ac156fa5a2a3",
+        "sha256_in_prefix": "c346071d6b12b1806c7c29171dcec2e485290433fa87d39e4d97ac156fa5a2a3",
+        "size_in_bytes": 23428
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::Area.3",
+        "path_type": "hardlink",
+        "sha256": "bd061b42e4a6c814386c775b836b0670137fcfb0be10afd620c9443f8f90109b",
+        "sha256_in_prefix": "bd061b42e4a6c814386c775b836b0670137fcfb0be10afd620c9443f8f90109b",
+        "size_in_bytes": 6019
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::Bar.3",
+        "path_type": "hardlink",
+        "sha256": "ad4f16582d24140a1d7d299e4a9ab73dec2fff184df7b168c881aa03a11fde66",
+        "sha256_in_prefix": "ad4f16582d24140a1d7d299e4a9ab73dec2fff184df7b168c881aa03a11fde66",
+        "size_in_bytes": 6006
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::Column.3",
+        "path_type": "hardlink",
+        "sha256": "37b8df5450120bddd67947401727de5456b03dbc86e78e99c7f190ce910dd787",
+        "sha256_in_prefix": "37b8df5450120bddd67947401727de5456b03dbc86e78e99c7f190ce910dd787",
+        "size_in_bytes": 6045
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::External.3",
+        "path_type": "hardlink",
+        "sha256": "a49413d1cd8753f009263ba7fa9432561c54a2d8390630ea9919ca520b0795fd",
+        "sha256_in_prefix": "a49413d1cd8753f009263ba7fa9432561c54a2d8390630ea9919ca520b0795fd",
+        "size_in_bytes": 3108
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::Line.3",
+        "path_type": "hardlink",
+        "sha256": "fc08ce6a74abdbb40296b1af93c6c1ba2ed9dc07650fea7b454e6f342d0a9522",
+        "sha256_in_prefix": "fc08ce6a74abdbb40296b1af93c6c1ba2ed9dc07650fea7b454e6f342d0a9522",
+        "size_in_bytes": 6019
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::Pie.3",
+        "path_type": "hardlink",
+        "sha256": "8cc12ba98998f7d73d270a7694c08183ee828f37f2961885bce97a0206ddb30e",
+        "sha256_in_prefix": "8cc12ba98998f7d73d270a7694c08183ee828f37f2961885bce97a0206ddb30e",
+        "size_in_bytes": 5698
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::Scatter.3",
+        "path_type": "hardlink",
+        "sha256": "5753586e01f631f74b759c6a02b79184cd97aa31b7bd301d5a7f504ccf75c440",
+        "sha256_in_prefix": "5753586e01f631f74b759c6a02b79184cd97aa31b7bd301d5a7f504ccf75c440",
+        "size_in_bytes": 6058
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Chart::Stock.3",
+        "path_type": "hardlink",
+        "sha256": "fbe7739921cd2ded850df830b65bf014bdf6bea15a086caba0607ea7514ca52f",
+        "sha256_in_prefix": "fbe7739921cd2ded850df830b65bf014bdf6bea15a086caba0607ea7514ca52f",
+        "size_in_bytes": 7446
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Examples.3",
+        "path_type": "hardlink",
+        "sha256": "d80cca0f01295737bf7e0bd18d0ae13d4b1416d399866826d98f3436cbf4609d",
+        "sha256_in_prefix": "d80cca0f01295737bf7e0bd18d0ae13d4b1416d399866826d98f3436cbf4609d",
+        "size_in_bytes": 352168
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Format.3",
+        "path_type": "hardlink",
+        "sha256": "37921ddb8895cf273a353408d58df11f5d51f274331460c5ae4977052e23e1e1",
+        "sha256_in_prefix": "37921ddb8895cf273a353408d58df11f5d51f274331460c5ae4977052e23e1e1",
+        "size_in_bytes": 2686
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Formula.3",
+        "path_type": "hardlink",
+        "sha256": "beff8662f8f7db97053469f5b01bf90031a9aad18b7af7fef8eac11b475fd7cc",
+        "sha256_in_prefix": "beff8662f8f7db97053469f5b01bf90031a9aad18b7af7fef8eac11b475fd7cc",
+        "size_in_bytes": 8637
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::OLEwriter.3",
+        "path_type": "hardlink",
+        "sha256": "c2b1062e0eef689ff12c8710be21d53a1a1166cbf88b8de69fb96da3d338ed75",
+        "sha256_in_prefix": "c2b1062e0eef689ff12c8710be21d53a1a1166cbf88b8de69fb96da3d338ed75",
+        "size_in_bytes": 2722
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Properties.3",
+        "path_type": "hardlink",
+        "sha256": "903b7b815869466cf05208d0c4fb3b9dd22fe318d88d56163e0f3d46ce2fc886",
+        "sha256_in_prefix": "903b7b815869466cf05208d0c4fb3b9dd22fe318d88d56163e0f3d46ce2fc886",
+        "size_in_bytes": 2748
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Utility.3",
+        "path_type": "hardlink",
+        "sha256": "e20cb8271176f9ace7ef00e94837909be0e7584a9c9f205b85012e586df72712",
+        "sha256_in_prefix": "e20cb8271176f9ace7ef00e94837909be0e7584a9c9f205b85012e586df72712",
+        "size_in_bytes": 23490
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Workbook.3",
+        "path_type": "hardlink",
+        "sha256": "4aa92631cb3919dfbf715eccddecee705c04780649567034b67102f23dfc8fda",
+        "sha256_in_prefix": "4aa92631cb3919dfbf715eccddecee705c04780649567034b67102f23dfc8fda",
+        "size_in_bytes": 2689
+      },
+      {
+        "_path": "man/man3/Spreadsheet::WriteExcel::Worksheet.3",
+        "path_type": "hardlink",
+        "sha256": "63a05c4ffe8d032b6b45481f03055ac7c20b6fd425702e04e257dec5cb2f13f9",
+        "sha256_in_prefix": "63a05c4ffe8d032b6b45481f03055ac7c20b6fd425702e04e257dec5cb2f13f9",
+        "size_in_bytes": 2693
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 265240,
+  "subdir": "linux-64",
+  "timestamp": 1552540177140,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-spreadsheet-writeexcel-2.40-pl526_2.tar.bz2",
+  "version": "2.40"
+}

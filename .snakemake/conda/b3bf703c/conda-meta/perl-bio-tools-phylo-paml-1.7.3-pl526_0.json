@@ -1,0 +1,193 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "paml",
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-base",
+    "perl-bioperl-run",
+    "perl-getopt-long",
+    "perl-io-string"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-bio-tools-phylo-paml-1.7.3-pl526_0",
+  "features": "",
+  "files": [
+    "bin/bp_pairwise_kaks",
+    "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML.pm",
+    "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML/Codeml.pm",
+    "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML/ModelResult.pm",
+    "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML/Result.pm",
+    "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Baseml.pm",
+    "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Codeml.pm",
+    "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Evolver.pm",
+    "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Yn00.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Bio/Tools/Phylo/PAML/.packlist",
+    "man/man1/bp_pairwise_kaks.1",
+    "man/man3/Bio::Tools::Phylo::PAML.3",
+    "man/man3/Bio::Tools::Phylo::PAML::Codeml.3",
+    "man/man3/Bio::Tools::Phylo::PAML::ModelResult.3",
+    "man/man3/Bio::Tools::Phylo::PAML::Result.3",
+    "man/man3/Bio::Tools::Run::Phylo::PAML::Baseml.3",
+    "man/man3/Bio::Tools::Run::Phylo::PAML::Codeml.3",
+    "man/man3/Bio::Tools::Run::Phylo::PAML::Evolver.3",
+    "man/man3/Bio::Tools::Run::Phylo::PAML::Yn00.3"
+  ],
+  "fn": "perl-bio-tools-phylo-paml-1.7.3-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-bio-tools-phylo-paml-1.7.3-pl526_0",
+    "type": 1
+  },
+  "md5": "27c0cfbc4f30dc34531091404132f413",
+  "name": "perl-bio-tools-phylo-paml",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-bio-tools-phylo-paml-1.7.3-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/bp_pairwise_kaks",
+        "path_type": "hardlink",
+        "sha256": "6b0bc369416630e7c208297b9af846b80e933aca140a8c2319494b5f5f81d933",
+        "sha256_in_prefix": "6b0bc369416630e7c208297b9af846b80e933aca140a8c2319494b5f5f81d933",
+        "size_in_bytes": 7378
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML.pm",
+        "path_type": "hardlink",
+        "sha256": "7a7bb41e416a9808703da533aa5ae0748c9c61e84de66a33a883db4a90f0e375",
+        "sha256_in_prefix": "7a7bb41e416a9808703da533aa5ae0748c9c61e84de66a33a883db4a90f0e375",
+        "size_in_bytes": 66214
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML/Codeml.pm",
+        "path_type": "hardlink",
+        "sha256": "75d5bb7a6736c7e0639a328dcab2944a2031a1569d75baa9f96c093527825550",
+        "sha256_in_prefix": "75d5bb7a6736c7e0639a328dcab2944a2031a1569d75baa9f96c093527825550",
+        "size_in_bytes": 8128
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML/ModelResult.pm",
+        "path_type": "hardlink",
+        "sha256": "6c5859d87f3967a19f3d513811b70b686c645bfcbd627899a3c3824be3640475",
+        "sha256_in_prefix": "6c5859d87f3967a19f3d513811b70b686c645bfcbd627899a3c3824be3640475",
+        "size_in_bytes": 15871
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Phylo/PAML/Result.pm",
+        "path_type": "hardlink",
+        "sha256": "5b9546dd420fb05126968908779683670eac2f0179aaa4af17400f437e74d651",
+        "sha256_in_prefix": "5b9546dd420fb05126968908779683670eac2f0179aaa4af17400f437e74d651",
+        "size_in_bytes": 28342
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Baseml.pm",
+        "path_type": "hardlink",
+        "sha256": "146eab4a0a4269bdabadb62fbe69d5920cb92c1f089d221a332fbbdb847b6f3c",
+        "sha256_in_prefix": "146eab4a0a4269bdabadb62fbe69d5920cb92c1f089d221a332fbbdb847b6f3c",
+        "size_in_bytes": 20478
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Codeml.pm",
+        "path_type": "hardlink",
+        "sha256": "4d2311c971b8d26789e4e6369901b4a971228932c5574ad5b40d3806c375a8ab",
+        "sha256_in_prefix": "4d2311c971b8d26789e4e6369901b4a971228932c5574ad5b40d3806c375a8ab",
+        "size_in_bytes": 26946
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Evolver.pm",
+        "path_type": "hardlink",
+        "sha256": "d881038cf7d26c6ecaee8d8ebe96b2ab340efecbcc2e04bb73e67f437e47a0a7",
+        "sha256_in_prefix": "d881038cf7d26c6ecaee8d8ebe96b2ab340efecbcc2e04bb73e67f437e47a0a7",
+        "size_in_bytes": 21835
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/Tools/Run/Phylo/PAML/Yn00.pm",
+        "path_type": "hardlink",
+        "sha256": "9383e7357b8973785d8247cd23ae4579e823434f47113a3269741f1fbec79075",
+        "sha256_in_prefix": "9383e7357b8973785d8247cd23ae4579e823434f47113a3269741f1fbec79075",
+        "size_in_bytes": 13360
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Bio/Tools/Phylo/PAML/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "e6018ac19b06b8aac2bc875d8140432b8220409899d62d3e044ac7b713c52fbb",
+        "sha256_in_prefix": "f2158d0b2005f1b76104783e1a1a1bbc80cb07f9b5f4b65df7e1137803bdd3fc",
+        "size_in_bytes": 2732
+      },
+      {
+        "_path": "man/man1/bp_pairwise_kaks.1",
+        "path_type": "hardlink",
+        "sha256": "2517983b83a7c1c568187d1987436d4bf132158431b15bd19db9ed60fb84c17e",
+        "sha256_in_prefix": "2517983b83a7c1c568187d1987436d4bf132158431b15bd19db9ed60fb84c17e",
+        "size_in_bytes": 5347
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Phylo::PAML.3",
+        "path_type": "hardlink",
+        "sha256": "2b48f1d4358ae36210974a9108d6191447810395a949e0fecb4c802e8cdaaa8d",
+        "sha256_in_prefix": "2b48f1d4358ae36210974a9108d6191447810395a949e0fecb4c802e8cdaaa8d",
+        "size_in_bytes": 12006
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Phylo::PAML::Codeml.3",
+        "path_type": "hardlink",
+        "sha256": "ff2a5ce7427247b4025fe1b2f42ea91001fb2c5d312a81637ebfcc442cd50427",
+        "sha256_in_prefix": "ff2a5ce7427247b4025fe1b2f42ea91001fb2c5d312a81637ebfcc442cd50427",
+        "size_in_bytes": 9358
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Phylo::PAML::ModelResult.3",
+        "path_type": "hardlink",
+        "sha256": "f3f9625dbe1f2648fd9ab2b2de178020af22d771d5e3cef8a2eb21efdc81d55c",
+        "sha256_in_prefix": "f3f9625dbe1f2648fd9ab2b2de178020af22d771d5e3cef8a2eb21efdc81d55c",
+        "size_in_bytes": 13931
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Phylo::PAML::Result.3",
+        "path_type": "hardlink",
+        "sha256": "24d071b725de45badc7aad3ccf54a7dc331804c3e5a1952d44a6ffd7948d8db3",
+        "sha256_in_prefix": "24d071b725de45badc7aad3ccf54a7dc331804c3e5a1952d44a6ffd7948d8db3",
+        "size_in_bytes": 21653
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Run::Phylo::PAML::Baseml.3",
+        "path_type": "hardlink",
+        "sha256": "1f55114ec525b10b0ed824b5382e3f99ee564e0b0813c093904ebd7e81bc8984",
+        "sha256_in_prefix": "1f55114ec525b10b0ed824b5382e3f99ee564e0b0813c093904ebd7e81bc8984",
+        "size_in_bytes": 13727
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Run::Phylo::PAML::Codeml.3",
+        "path_type": "hardlink",
+        "sha256": "5baac80b7c9f3002b681360aacd6b1fe0d63293a780b1b9e5f84c5545256c824",
+        "sha256_in_prefix": "5baac80b7c9f3002b681360aacd6b1fe0d63293a780b1b9e5f84c5545256c824",
+        "size_in_bytes": 17803
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Run::Phylo::PAML::Evolver.3",
+        "path_type": "hardlink",
+        "sha256": "26346a2b9eaab03266025d254ade651260322184fae90c5d8366b6b3201cb333",
+        "sha256_in_prefix": "26346a2b9eaab03266025d254ade651260322184fae90c5d8366b6b3201cb333",
+        "size_in_bytes": 12699
+      },
+      {
+        "_path": "man/man3/Bio::Tools::Run::Phylo::PAML::Yn00.3",
+        "path_type": "hardlink",
+        "sha256": "06f33a1796e4f7f395df58ce3b25db953e61d34f64779e1d6ba49a798de76a04",
+        "sha256_in_prefix": "06f33a1796e4f7f395df58ce3b25db953e61d34f64779e1d6ba49a798de76a04",
+        "size_in_bytes": 10250
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 55896,
+  "subdir": "linux-64",
+  "timestamp": 1533822766015,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-bio-tools-phylo-paml-1.7.3-pl526_0.tar.bz2",
+  "version": "1.7.3"
+}

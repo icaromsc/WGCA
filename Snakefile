@@ -19,6 +19,8 @@ rule virulence_identification:
         "data/samples/{sample}.fasta"
     output:
         "virulence_genes/{sample}.tsv"
+    conda:
+        "envs/abricate.yaml"
     shell:
         "abricate --minid=90 --db=vfdb {input} > {output}"
 

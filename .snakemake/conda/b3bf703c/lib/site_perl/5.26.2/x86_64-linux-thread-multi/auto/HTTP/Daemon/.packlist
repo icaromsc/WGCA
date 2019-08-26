@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTTP/Daemon.pm relocate_as=../../../../HTTP/Daemon.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTTP::Daemon.3 relocate_as=../../../../../../../man/man3/HTTP::Daemon.3

@@ -1,0 +1,408 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-date-format",
+    "perl-timedate"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-mailtools-2.21-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Mail/Address.pm",
+    "lib/site_perl/5.26.2/Mail/Address.pod",
+    "lib/site_perl/5.26.2/Mail/Cap.pm",
+    "lib/site_perl/5.26.2/Mail/Cap.pod",
+    "lib/site_perl/5.26.2/Mail/Field.pm",
+    "lib/site_perl/5.26.2/Mail/Field.pod",
+    "lib/site_perl/5.26.2/Mail/Field/AddrList.pm",
+    "lib/site_perl/5.26.2/Mail/Field/AddrList.pod",
+    "lib/site_perl/5.26.2/Mail/Field/Date.pm",
+    "lib/site_perl/5.26.2/Mail/Field/Date.pod",
+    "lib/site_perl/5.26.2/Mail/Field/Generic.pm",
+    "lib/site_perl/5.26.2/Mail/Field/Generic.pod",
+    "lib/site_perl/5.26.2/Mail/Filter.pm",
+    "lib/site_perl/5.26.2/Mail/Filter.pod",
+    "lib/site_perl/5.26.2/Mail/Header.pm",
+    "lib/site_perl/5.26.2/Mail/Header.pod",
+    "lib/site_perl/5.26.2/Mail/Internet.pm",
+    "lib/site_perl/5.26.2/Mail/Internet.pod",
+    "lib/site_perl/5.26.2/Mail/Mailer.pm",
+    "lib/site_perl/5.26.2/Mail/Mailer.pod",
+    "lib/site_perl/5.26.2/Mail/Mailer/qmail.pm",
+    "lib/site_perl/5.26.2/Mail/Mailer/rfc822.pm",
+    "lib/site_perl/5.26.2/Mail/Mailer/sendmail.pm",
+    "lib/site_perl/5.26.2/Mail/Mailer/smtp.pm",
+    "lib/site_perl/5.26.2/Mail/Mailer/smtps.pm",
+    "lib/site_perl/5.26.2/Mail/Mailer/testfile.pm",
+    "lib/site_perl/5.26.2/Mail/Send.pm",
+    "lib/site_perl/5.26.2/Mail/Send.pod",
+    "lib/site_perl/5.26.2/Mail/Util.pm",
+    "lib/site_perl/5.26.2/Mail/Util.pod",
+    "lib/site_perl/5.26.2/MailTools.pm",
+    "lib/site_perl/5.26.2/MailTools.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MailTools/.packlist",
+    "man/man3/Mail::Address.3",
+    "man/man3/Mail::Cap.3",
+    "man/man3/Mail::Field.3",
+    "man/man3/Mail::Field::AddrList.3",
+    "man/man3/Mail::Field::Date.3",
+    "man/man3/Mail::Field::Generic.3",
+    "man/man3/Mail::Filter.3",
+    "man/man3/Mail::Header.3",
+    "man/man3/Mail::Internet.3",
+    "man/man3/Mail::Mailer.3",
+    "man/man3/Mail::Send.3",
+    "man/man3/Mail::Util.3",
+    "man/man3/MailTools.3"
+  ],
+  "fn": "perl-mailtools-2.21-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-mailtools-2.21-pl526_0",
+    "type": 1
+  },
+  "md5": "2e44b03f9ec0c8ab35f01612861f73da",
+  "name": "perl-mailtools",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-mailtools-2.21-pl526_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Address.pm",
+        "path_type": "hardlink",
+        "sha256": "7147ebfab4fea6187b253e6b30459355dd22877e331009fe3c50b7d78be55ee3",
+        "sha256_in_prefix": "7147ebfab4fea6187b253e6b30459355dd22877e331009fe3c50b7d78be55ee3",
+        "size_in_bytes": 7008
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Address.pod",
+        "path_type": "hardlink",
+        "sha256": "fdcac53bfa1a6b509ed1a524ada3d362d461d8dae4abf030f9d9d8dd75fa48cf",
+        "sha256_in_prefix": "fdcac53bfa1a6b509ed1a524ada3d362d461d8dae4abf030f9d9d8dd75fa48cf",
+        "size_in_bytes": 4172
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Cap.pm",
+        "path_type": "hardlink",
+        "sha256": "c50ee0fbdb44dafc081a237d2a703d2896864159bd5cdf4c009d3686c8401aca",
+        "sha256_in_prefix": "c50ee0fbdb44dafc081a237d2a703d2896864159bd5cdf4c009d3686c8401aca",
+        "size_in_bytes": 6578
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Cap.pod",
+        "path_type": "hardlink",
+        "sha256": "4aeeb4a838da8740abb5d07676599ff073ed253b0172204d6b01ba15d0c6a87d",
+        "sha256_in_prefix": "4aeeb4a838da8740abb5d07676599ff073ed253b0172204d6b01ba15d0c6a87d",
+        "size_in_bytes": 3869
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field.pm",
+        "path_type": "hardlink",
+        "sha256": "37bcab87402fe3f221a6f29b471d179b0bcab6f19a45d1391b4676dca3b45076",
+        "sha256_in_prefix": "37bcab87402fe3f221a6f29b471d179b0bcab6f19a45d1391b4676dca3b45076",
+        "size_in_bytes": 5057
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field.pod",
+        "path_type": "hardlink",
+        "sha256": "c45ba6154de836835478e4029c801a7a3dbb54fdeb32179ddbbe2ccab026542b",
+        "sha256_in_prefix": "c45ba6154de836835478e4029c801a7a3dbb54fdeb32179ddbbe2ccab026542b",
+        "size_in_bytes": 5030
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field/AddrList.pm",
+        "path_type": "hardlink",
+        "sha256": "58938b01ca6badd9984b339eb4866d415c3709b5512f4212c179dc3f0b0a3f08",
+        "sha256_in_prefix": "58938b01ca6badd9984b339eb4866d415c3709b5512f4212c179dc3f0b0a3f08",
+        "size_in_bytes": 1615
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field/AddrList.pod",
+        "path_type": "hardlink",
+        "sha256": "b3fed0890e1ef57839c44532597c14241adf43ec9564049f61a99cec9ee2c0ff",
+        "sha256_in_prefix": "b3fed0890e1ef57839c44532597c14241adf43ec9564049f61a99cec9ee2c0ff",
+        "size_in_bytes": 4152
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field/Date.pm",
+        "path_type": "hardlink",
+        "sha256": "0d486e727e0377f1e176e5dcb476fa0d5d57d0b11fca2746c03b8bde01734c1f",
+        "sha256_in_prefix": "0d486e727e0377f1e176e5dcb476fa0d5d57d0b11fca2746c03b8bde01734c1f",
+        "size_in_bytes": 1318
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field/Date.pod",
+        "path_type": "hardlink",
+        "sha256": "ad442d0ed6cb07ea9fdfe34d6315a6b71789791982f5915d8f33de66e1ea2dbd",
+        "sha256_in_prefix": "ad442d0ed6cb07ea9fdfe34d6315a6b71789791982f5915d8f33de66e1ea2dbd",
+        "size_in_bytes": 3041
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field/Generic.pm",
+        "path_type": "hardlink",
+        "sha256": "544f30c47f62c8f363003ed84323f6e43c8c4136163fb9f41f54160792852fef",
+        "sha256_in_prefix": "544f30c47f62c8f363003ed84323f6e43c8c4136163fb9f41f54160792852fef",
+        "size_in_bytes": 778
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Field/Generic.pod",
+        "path_type": "hardlink",
+        "sha256": "e3b0b5cc6b96c2f0c23ba051c78cc6d72ac5acb9c3c4bbc9df9b5bd83bb41d54",
+        "sha256_in_prefix": "e3b0b5cc6b96c2f0c23ba051c78cc6d72ac5acb9c3c4bbc9df9b5bd83bb41d54",
+        "size_in_bytes": 3128
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Filter.pm",
+        "path_type": "hardlink",
+        "sha256": "ab179311c14b556ee878a05bc73b2f891ecb84b14e42d6b114d0199e0544ed21",
+        "sha256_in_prefix": "ab179311c14b556ee878a05bc73b2f891ecb84b14e42d6b114d0199e0544ed21",
+        "size_in_bytes": 1474
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Filter.pod",
+        "path_type": "hardlink",
+        "sha256": "9fdc89eccd5a1517dbd58f1f47d5f3472afd30189d42504c7f119dab0b441541",
+        "sha256_in_prefix": "9fdc89eccd5a1517dbd58f1f47d5f3472afd30189d42504c7f119dab0b441541",
+        "size_in_bytes": 2886
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Header.pm",
+        "path_type": "hardlink",
+        "sha256": "bf3b159a3c864382010b3422dff93b8a035025a6adc3af4f1554ebf7de689af8",
+        "sha256_in_prefix": "bf3b159a3c864382010b3422dff93b8a035025a6adc3af4f1554ebf7de689af8",
+        "size_in_bytes": 14153
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Header.pod",
+        "path_type": "hardlink",
+        "sha256": "e9645ff5d3311e1122b6ec71f269b1b9ebec842ea865f58162d74598217d4cbb",
+        "sha256_in_prefix": "e9645ff5d3311e1122b6ec71f269b1b9ebec842ea865f58162d74598217d4cbb",
+        "size_in_bytes": 7948
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Internet.pm",
+        "path_type": "hardlink",
+        "sha256": "dc16bef1d20f9a79444acd8a05576d6a0e4cd6287d4ed4ac5322457e3b3bbcc8",
+        "sha256_in_prefix": "dc16bef1d20f9a79444acd8a05576d6a0e4cd6287d4ed4ac5322457e3b3bbcc8",
+        "size_in_bytes": 12266
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Internet.pod",
+        "path_type": "hardlink",
+        "sha256": "a73fbdf6b1189c66d9900fe832fb7d801fe85b074a49565228851c96d75f2bbf",
+        "sha256_in_prefix": "a73fbdf6b1189c66d9900fe832fb7d801fe85b074a49565228851c96d75f2bbf",
+        "size_in_bytes": 10483
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer.pm",
+        "path_type": "hardlink",
+        "sha256": "eb9ade1de7fcc28239b2aed006a585014a663abc13a9f488d2c820fa486dff64",
+        "sha256_in_prefix": "eb9ade1de7fcc28239b2aed006a585014a663abc13a9f488d2c820fa486dff64",
+        "size_in_bytes": 5060
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer.pod",
+        "path_type": "hardlink",
+        "sha256": "e05f5415f0e079103931941c89af64922d15627f9eff747a2ec9d53815ca53d3",
+        "sha256_in_prefix": "e05f5415f0e079103931941c89af64922d15627f9eff747a2ec9d53815ca53d3",
+        "size_in_bytes": 4197
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer/qmail.pm",
+        "path_type": "hardlink",
+        "sha256": "7e97bd14099e083d4e90a2b9c54692b9f745a15c265de5241b63a695031dbdc9",
+        "sha256_in_prefix": "7e97bd14099e083d4e90a2b9c54692b9f745a15c265de5241b63a695031dbdc9",
+        "size_in_bytes": 750
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer/rfc822.pm",
+        "path_type": "hardlink",
+        "sha256": "265ec210be09296bd0ef1b76b22b0b85e4b93f93a1ba93f3fb5e8839911778ea",
+        "sha256_in_prefix": "265ec210be09296bd0ef1b76b22b0b85e4b93f93a1ba93f3fb5e8839911778ea",
+        "size_in_bytes": 809
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer/sendmail.pm",
+        "path_type": "hardlink",
+        "sha256": "cced5f28ef1992487b81474bb305c53200c1699d6ce167cb6ca82d13fc9aec7c",
+        "sha256_in_prefix": "cced5f28ef1992487b81474bb305c53200c1699d6ce167cb6ca82d13fc9aec7c",
+        "size_in_bytes": 971
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer/smtp.pm",
+        "path_type": "hardlink",
+        "sha256": "ce0f81440385231071657c638aeb5f7f2a6a9c9fef4ad584bae0e82ad3bb9214",
+        "sha256_in_prefix": "ce0f81440385231071657c638aeb5f7f2a6a9c9fef4ad584bae0e82ad3bb9214",
+        "size_in_bytes": 2342
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer/smtps.pm",
+        "path_type": "hardlink",
+        "sha256": "aae3101ad999479c5074ded40508492889e11ba0e4838723fe0f84a4be3301db",
+        "sha256_in_prefix": "aae3101ad999479c5074ded40508492889e11ba0e4838723fe0f84a4be3301db",
+        "size_in_bytes": 2324
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Mailer/testfile.pm",
+        "path_type": "hardlink",
+        "sha256": "03e72abffd3eb99c576aca323901c26e32ac78e9d7240f56aeaf1a844e84cddf",
+        "sha256_in_prefix": "03e72abffd3eb99c576aca323901c26e32ac78e9d7240f56aeaf1a844e84cddf",
+        "size_in_bytes": 1384
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Send.pm",
+        "path_type": "hardlink",
+        "sha256": "292d8cce622d4a57744bb8b3fb4c8f8db4b00c392f84e99ef704693bfcd43a18",
+        "sha256_in_prefix": "292d8cce622d4a57744bb8b3fb4c8f8db4b00c392f84e99ef704693bfcd43a18",
+        "size_in_bytes": 1384
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Send.pod",
+        "path_type": "hardlink",
+        "sha256": "ac0bf3daa46f95ca9697481a21206ec7ea636b43c95847e97845f4ec259de0b2",
+        "sha256_in_prefix": "ac0bf3daa46f95ca9697481a21206ec7ea636b43c95847e97845f4ec259de0b2",
+        "size_in_bytes": 3249
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Util.pm",
+        "path_type": "hardlink",
+        "sha256": "adc1d87843760fa3980dc1dc148973a535e74fb16796140c37fbfe3d34c2bb1b",
+        "sha256_in_prefix": "adc1d87843760fa3980dc1dc148973a535e74fb16796140c37fbfe3d34c2bb1b",
+        "size_in_bytes": 3440
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Mail/Util.pod",
+        "path_type": "hardlink",
+        "sha256": "7dded5491e43fe424bffb8bfe3d69d7fc951f3bb88be125ac580fcbd7fa7ca29",
+        "sha256_in_prefix": "7dded5491e43fe424bffb8bfe3d69d7fc951f3bb88be125ac580fcbd7fa7ca29",
+        "size_in_bytes": 3163
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/MailTools.pm",
+        "path_type": "hardlink",
+        "sha256": "57d60c6e007c4edd699d34df4ac8f411cc6e70d9b4d1fcbcc9d8f27037758607",
+        "sha256_in_prefix": "57d60c6e007c4edd699d34df4ac8f411cc6e70d9b4d1fcbcc9d8f27037758607",
+        "size_in_bytes": 458
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/MailTools.pod",
+        "path_type": "hardlink",
+        "sha256": "356e126a4031b7ae9c768937728e084de2963b393e49e3cc236834f201819895",
+        "sha256_in_prefix": "356e126a4031b7ae9c768937728e084de2963b393e49e3cc236834f201819895",
+        "size_in_bytes": 2293
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MailTools/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "7f4561a6a656ca7c5b70ba0d296d8f392ca35eaed7a058373522c177e3fc9bbc",
+        "sha256_in_prefix": "573db4e7eaa7f8efb0e0b01fce970211aa9675b963972a1aa3460cdf94dd6569",
+        "size_in_bytes": 4989
+      },
+      {
+        "_path": "man/man3/Mail::Address.3",
+        "path_type": "hardlink",
+        "sha256": "124910540acbb661af8ecb911f0dead5a8ff7b57a03e5c5175ddd366bb2caf5c",
+        "sha256_in_prefix": "124910540acbb661af8ecb911f0dead5a8ff7b57a03e5c5175ddd366bb2caf5c",
+        "size_in_bytes": 7431
+      },
+      {
+        "_path": "man/man3/Mail::Cap.3",
+        "path_type": "hardlink",
+        "sha256": "8f3290cf3174523aac71cb632ea30003d06da80ccda31d9058a46a40006ba30d",
+        "sha256_in_prefix": "8f3290cf3174523aac71cb632ea30003d06da80ccda31d9058a46a40006ba30d",
+        "size_in_bytes": 7895
+      },
+      {
+        "_path": "man/man3/Mail::Field.3",
+        "path_type": "hardlink",
+        "sha256": "0fa05fee205d20386a638c12cdbefd167f38d894c7881db19c0a169092bc45a0",
+        "sha256_in_prefix": "0fa05fee205d20386a638c12cdbefd167f38d894c7881db19c0a169092bc45a0",
+        "size_in_bytes": 8574
+      },
+      {
+        "_path": "man/man3/Mail::Field::AddrList.3",
+        "path_type": "hardlink",
+        "sha256": "7b832c1b41a9e4a5110108f6257e205e2dc060324402c159398022eead92f8b2",
+        "sha256_in_prefix": "7b832c1b41a9e4a5110108f6257e205e2dc060324402c159398022eead92f8b2",
+        "size_in_bytes": 8025
+      },
+      {
+        "_path": "man/man3/Mail::Field::Date.3",
+        "path_type": "hardlink",
+        "sha256": "da9ee51ea47be9280dd58ecdca42579dea9cd6f53e9b1d79b48e84127ce69726",
+        "sha256_in_prefix": "da9ee51ea47be9280dd58ecdca42579dea9cd6f53e9b1d79b48e84127ce69726",
+        "size_in_bytes": 6539
+      },
+      {
+        "_path": "man/man3/Mail::Field::Generic.3",
+        "path_type": "hardlink",
+        "sha256": "825afeb1e4bf2c5df6ed658995ed4c2055ed63930e72d57c33f2f062d91fea34",
+        "sha256_in_prefix": "825afeb1e4bf2c5df6ed658995ed4c2055ed63930e72d57c33f2f062d91fea34",
+        "size_in_bytes": 6598
+      },
+      {
+        "_path": "man/man3/Mail::Filter.3",
+        "path_type": "hardlink",
+        "sha256": "1db0cdcb601cd3fb6f5da4be905638f23b4f3db9812f1a19dd06512f7fe3226f",
+        "sha256_in_prefix": "1db0cdcb601cd3fb6f5da4be905638f23b4f3db9812f1a19dd06512f7fe3226f",
+        "size_in_bytes": 5528
+      },
+      {
+        "_path": "man/man3/Mail::Header.3",
+        "path_type": "hardlink",
+        "sha256": "ec19454ada572a06a5bdc6fb9ecb684a4e39ce9b536a7e6cd2645468bc7268a8",
+        "sha256_in_prefix": "ec19454ada572a06a5bdc6fb9ecb684a4e39ce9b536a7e6cd2645468bc7268a8",
+        "size_in_bytes": 13247
+      },
+      {
+        "_path": "man/man3/Mail::Internet.3",
+        "path_type": "hardlink",
+        "sha256": "84a4015454d2a0b07dac61a8b6095c83d50b8a9fc47e369da7d12426d57d1e5f",
+        "sha256_in_prefix": "84a4015454d2a0b07dac61a8b6095c83d50b8a9fc47e369da7d12426d57d1e5f",
+        "size_in_bytes": 16658
+      },
+      {
+        "_path": "man/man3/Mail::Mailer.3",
+        "path_type": "hardlink",
+        "sha256": "2d84b31e7d84e74b4e3c9d6ee97fa9e1de0693feee8984d9ff080972db417508",
+        "sha256_in_prefix": "2d84b31e7d84e74b4e3c9d6ee97fa9e1de0693feee8984d9ff080972db417508",
+        "size_in_bytes": 7490
+      },
+      {
+        "_path": "man/man3/Mail::Send.3",
+        "path_type": "hardlink",
+        "sha256": "14868b041177608f6eb613db7a416db0138f2328ce03f60913818aac1198b3e6",
+        "sha256_in_prefix": "14868b041177608f6eb613db7a416db0138f2328ce03f60913818aac1198b3e6",
+        "size_in_bytes": 6451
+      },
+      {
+        "_path": "man/man3/Mail::Util.3",
+        "path_type": "hardlink",
+        "sha256": "056776e518a4a15220cbf654bfbb361d9611ed8005f4019efa7a2647e6155120",
+        "sha256_in_prefix": "056776e518a4a15220cbf654bfbb361d9611ed8005f4019efa7a2647e6155120",
+        "size_in_bytes": 5721
+      },
+      {
+        "_path": "man/man3/MailTools.3",
+        "path_type": "hardlink",
+        "sha256": "1a5beb0c1ee7bfe5345b7117c216be63aad2340112379b494e51dab265025b22",
+        "sha256_in_prefix": "1a5beb0c1ee7bfe5345b7117c216be63aad2340112379b494e51dab265025b22",
+        "size_in_bytes": 4603
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 48971,
+  "subdir": "noarch",
+  "timestamp": 1558902955456,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/perl-mailtools-2.21-pl526_0.tar.bz2",
+  "version": "2.21"
+}

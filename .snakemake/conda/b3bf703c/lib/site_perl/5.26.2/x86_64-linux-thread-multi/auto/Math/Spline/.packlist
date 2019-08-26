@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Math/Spline.pm relocate_as=../../../../Math/Spline.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Math::Spline.3 relocate_as=../../../../../../../man/man3/Math::Spline.3

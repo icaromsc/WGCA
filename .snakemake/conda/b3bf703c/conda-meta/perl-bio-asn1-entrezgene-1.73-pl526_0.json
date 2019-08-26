@@ -1,0 +1,114 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-base",
+    "perl-bioperl-core",
+    "perl-carp",
+    "perl-data-dumper",
+    "perl-parent",
+    "perl-test-most"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-bio-asn1-entrezgene-1.73-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Bio/ASN1/EntrezGene.pm",
+    "lib/site_perl/5.26.2/Bio/ASN1/EntrezGene/Indexer.pm",
+    "lib/site_perl/5.26.2/Bio/ASN1/Sequence.pm",
+    "lib/site_perl/5.26.2/Bio/ASN1/Sequence/Indexer.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Bio/ASN1/EntrezGene/.packlist",
+    "man/man3/Bio::ASN1::EntrezGene.3",
+    "man/man3/Bio::ASN1::EntrezGene::Indexer.3",
+    "man/man3/Bio::ASN1::Sequence.3",
+    "man/man3/Bio::ASN1::Sequence::Indexer.3"
+  ],
+  "fn": "perl-bio-asn1-entrezgene-1.73-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-bio-asn1-entrezgene-1.73-pl526_0",
+    "type": 1
+  },
+  "md5": "eb4508d7832a56b14b0be6aae26da212",
+  "name": "perl-bio-asn1-entrezgene",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-bio-asn1-entrezgene-1.73-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/ASN1/EntrezGene.pm",
+        "path_type": "hardlink",
+        "sha256": "cd3f028b1aed5b44dc21cc2661d0aef5a050ce0fbaf525a18f82f82754cef127",
+        "sha256_in_prefix": "cd3f028b1aed5b44dc21cc2661d0aef5a050ce0fbaf525a18f82f82754cef127",
+        "size_in_bytes": 20117
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/ASN1/EntrezGene/Indexer.pm",
+        "path_type": "hardlink",
+        "sha256": "55146ebe5d8f5e420147b902dad53fb8a64fdf82ce605ca063712b5923187f56",
+        "sha256_in_prefix": "55146ebe5d8f5e420147b902dad53fb8a64fdf82ce605ca063712b5923187f56",
+        "size_in_bytes": 6840
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/ASN1/Sequence.pm",
+        "path_type": "hardlink",
+        "sha256": "7a1b0aef947bf1ad73f0069d12bd5c037fb731e33871e4d624721fe7eb0f22d1",
+        "sha256_in_prefix": "7a1b0aef947bf1ad73f0069d12bd5c037fb731e33871e4d624721fe7eb0f22d1",
+        "size_in_bytes": 19999
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/ASN1/Sequence/Indexer.pm",
+        "path_type": "hardlink",
+        "sha256": "afc2a9cbc67c5a00fa76269985c7a567315963b8c095ec1654c31a28883a4e41",
+        "sha256_in_prefix": "afc2a9cbc67c5a00fa76269985c7a567315963b8c095ec1654c31a28883a4e41",
+        "size_in_bytes": 6369
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Bio/ASN1/EntrezGene/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "24f072cc85084826966bf5815bb2c4575938abbe6ea78a6abfb8c256179cb4d2",
+        "sha256_in_prefix": "c2216103a019bcbfed109e651d67e47c86b69844771afd43bf07e52aba174bb6",
+        "size_in_bytes": 1366
+      },
+      {
+        "_path": "man/man3/Bio::ASN1::EntrezGene.3",
+        "path_type": "hardlink",
+        "sha256": "b599d83fcfd9d71d750afceeceee522f209182b1c1041adc76ad21fe69c1cb60",
+        "sha256_in_prefix": "b599d83fcfd9d71d750afceeceee522f209182b1c1041adc76ad21fe69c1cb60",
+        "size_in_bytes": 13392
+      },
+      {
+        "_path": "man/man3/Bio::ASN1::EntrezGene::Indexer.3",
+        "path_type": "hardlink",
+        "sha256": "efe14954b691d96af7e6a785ab3f6fd1881ec4c14c8873f0c7b5c74aa8839c7e",
+        "sha256_in_prefix": "efe14954b691d96af7e6a785ab3f6fd1881ec4c14c8873f0c7b5c74aa8839c7e",
+        "size_in_bytes": 8046
+      },
+      {
+        "_path": "man/man3/Bio::ASN1::Sequence.3",
+        "path_type": "hardlink",
+        "sha256": "fac5b70a3de5ab14753317e747dfa96f5cf394bb4c6c2b4504749cc1e5bd711f",
+        "sha256_in_prefix": "fac5b70a3de5ab14753317e747dfa96f5cf394bb4c6c2b4504749cc1e5bd711f",
+        "size_in_bytes": 12658
+      },
+      {
+        "_path": "man/man3/Bio::ASN1::Sequence::Indexer.3",
+        "path_type": "hardlink",
+        "sha256": "d482fe4db8ed624f44f5de196e5f5a9057ff6043460e7f8f26c3edc1988c8d52",
+        "sha256_in_prefix": "d482fe4db8ed624f44f5de196e5f5a9057ff6043460e7f8f26c3edc1988c8d52",
+        "size_in_bytes": 7541
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 22243,
+  "subdir": "linux-64",
+  "timestamp": 1542423768294,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-bio-asn1-entrezgene-1.73-pl526_0.tar.bz2",
+  "version": "1.73"
+}

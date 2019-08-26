@@ -1,0 +1,60 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-base-2.23-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/base.pm",
+    "lib/site_perl/5.26.2/fields.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/base/.packlist"
+  ],
+  "fn": "perl-base-2.23-pl526_1.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-base-2.23-pl526_1",
+    "type": 1
+  },
+  "md5": "03db12873cdeb00d4e8d02bcbf583a04",
+  "name": "perl-base",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-base-2.23-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/base.pm",
+        "path_type": "hardlink",
+        "sha256": "c5a10495d42c9d84b8246596fb810e0d6d2db6022e3738139d3f2f64f5e5e92b",
+        "sha256_in_prefix": "c5a10495d42c9d84b8246596fb810e0d6d2db6022e3738139d3f2f64f5e5e92b",
+        "size_in_bytes": 7390
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/fields.pm",
+        "path_type": "hardlink",
+        "sha256": "38cf1a904399788bea53ac3c72986d68ab8cfd369224b872fad307152ca473cc",
+        "sha256_in_prefix": "38cf1a904399788bea53ac3c72986d68ab8cfd369224b872fad307152ca473cc",
+        "size_in_bytes": 9489
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/base/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f08e069521f9e87a0673d506624f7523cf15691e0753e557ee12ebfc935fe905",
+        "sha256_in_prefix": "b6c5cef600e39a3e0078d2b438f7d712a6c01f2316ef2f26e4fa935a5e4190aa",
+        "size_in_bytes": 380
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 10033,
+  "subdir": "linux-64",
+  "timestamp": 1531087355870,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-base-2.23-pl526_1.tar.bz2",
+  "version": "2.23"
+}

@@ -1,0 +1,69 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0",
+    "perl-xsloader"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-mime-base64-3.15-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/MIME/Base64.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/MIME/QuotedPrint.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MIME/Base64/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MIME/Base64/Base64.so"
+  ],
+  "fn": "perl-mime-base64-3.15-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-mime-base64-3.15-pl526_1",
+    "type": 1
+  },
+  "md5": "6ebc750ac3e57ca1f02d3f580ff281b3",
+  "name": "perl-mime-base64",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-mime-base64-3.15-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/MIME/Base64.pm",
+        "path_type": "hardlink",
+        "sha256": "91498dfbc6bd12dc65c54cd637793cd3c5183598f16e2340656310a30c28d0ab",
+        "sha256_in_prefix": "91498dfbc6bd12dc65c54cd637793cd3c5183598f16e2340656310a30c28d0ab",
+        "size_in_bytes": 5450
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/MIME/QuotedPrint.pm",
+        "path_type": "hardlink",
+        "sha256": "c28ca1088145029ee83e44257306565889a87a4275eee54260fb19bdccc5b5c7",
+        "sha256_in_prefix": "c28ca1088145029ee83e44257306565889a87a4275eee54260fb19bdccc5b5c7",
+        "size_in_bytes": 3290
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MIME/Base64/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "cd94e640cf1a83088ee63850edb20ef5a9230ee8a071fdeed8c44058d0607b73",
+        "sha256_in_prefix": "cd73cc08d87e77312c3d64cb7657b36b60a89175b71ffca23ffcf33b67a97ed1",
+        "size_in_bytes": 639
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/MIME/Base64/Base64.so",
+        "path_type": "hardlink",
+        "sha256": "3d911a939880d11bdda5debc649ac4551ea7525537c0df34f337fbb6e9c4ba43",
+        "sha256_in_prefix": "3d911a939880d11bdda5debc649ac4551ea7525537c0df34f337fbb6e9c4ba43",
+        "size_in_bytes": 16283
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 14853,
+  "subdir": "linux-64",
+  "timestamp": 1531068695779,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-mime-base64-3.15-pl526_1.tar.bz2",
+  "version": "3.15"
+}

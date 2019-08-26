@@ -1,0 +1,6 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/List/MoreUtils.pm relocate_as=../../../../List/MoreUtils.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/List/MoreUtils/Contributing.pod relocate_as=../../../../List/MoreUtils/Contributing.pod
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/List/MoreUtils/PP.pm relocate_as=../../../../List/MoreUtils/PP.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/List::MoreUtils.3 relocate_as=../../../../../../../man/man3/List::MoreUtils.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/List::MoreUtils::Contributing.3 relocate_as=../../../../../../../man/man3/List::MoreUtils::Contributing.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/List::MoreUtils::PP.3 relocate_as=../../../../../../../man/man3/List::MoreUtils::PP.3

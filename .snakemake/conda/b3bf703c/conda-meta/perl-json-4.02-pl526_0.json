@@ -1,0 +1,135 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-json-xs <3"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-json-4.02-pl526_0",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/JSON.pm",
+    "lib/site_perl/5.26.2/JSON/backportPP.pm",
+    "lib/site_perl/5.26.2/JSON/backportPP/Boolean.pm",
+    "lib/site_perl/5.26.2/JSON/backportPP/Compat5005.pm",
+    "lib/site_perl/5.26.2/JSON/backportPP/Compat5006.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/JSON/.packlist",
+    "man/man3/JSON.3",
+    "man/man3/JSON::backportPP.3",
+    "man/man3/JSON::backportPP::Boolean.3",
+    "man/man3/JSON::backportPP::Compat5005.3",
+    "man/man3/JSON::backportPP::Compat5006.3"
+  ],
+  "fn": "perl-json-4.02-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-json-4.02-pl526_0",
+    "type": 1
+  },
+  "md5": "14082a3e2b78deb9aa3ca880ab9eb854",
+  "name": "perl-json",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-json-4.02-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "d84d899c920689445e8e162404f0fbef708c62fe678bfe365baea1d81959e23a",
+        "sha256_in_prefix": "cf08f65d1690fdf3f88c188f97aa4ef654e116d1ec50e5a5c53c31123044311e",
+        "size_in_bytes": 239
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/JSON.pm",
+        "path_type": "hardlink",
+        "sha256": "f4983d25d3daff385e9ee16b911618353eec5fdc4ea5256e1c83761e09865e29",
+        "sha256_in_prefix": "f4983d25d3daff385e9ee16b911618353eec5fdc4ea5256e1c83761e09865e29",
+        "size_in_bytes": 62546
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/JSON/backportPP.pm",
+        "path_type": "hardlink",
+        "sha256": "96a119d95f4ea4e22a84e57f7426497ed86d75250c1be415e3b9e0ca3d90bc9d",
+        "sha256_in_prefix": "96a119d95f4ea4e22a84e57f7426497ed86d75250c1be415e3b9e0ca3d90bc9d",
+        "size_in_bytes": 100704
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/JSON/backportPP/Boolean.pm",
+        "path_type": "hardlink",
+        "sha256": "e037a674399825fa4626eaf4d48be569c1156233a2cf7b7f00118c3162e92748",
+        "sha256_in_prefix": "e037a674399825fa4626eaf4d48be569c1156233a2cf7b7f00118c3162e92748",
+        "size_in_bytes": 849
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/JSON/backportPP/Compat5005.pm",
+        "path_type": "hardlink",
+        "sha256": "a10bd121547b115e89abe41fa1aedf7c7c2158defe6fd1c9be4c7ed2e2db756e",
+        "sha256_in_prefix": "a10bd121547b115e89abe41fa1aedf7c7c2158defe6fd1c9be4c7ed2e2db756e",
+        "size_in_bytes": 2805
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/JSON/backportPP/Compat5006.pm",
+        "path_type": "hardlink",
+        "sha256": "cd14837d0806cd92957387503a0ba08cc6585b2c3cf7f4cde3fa70eb4e08202d",
+        "sha256_in_prefix": "cd14837d0806cd92957387503a0ba08cc6585b2c3cf7f4cde3fa70eb4e08202d",
+        "size_in_bytes": 3829
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/JSON/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "26c58e365137278f363b90cbe6a50e9ac00ebb2e49b6d2de4cef269b6bfc9659",
+        "sha256_in_prefix": "c304a8bb7e5266777edd82062ab4a89c56042cfd321d28efd378555e9271613e",
+        "size_in_bytes": 1240
+      },
+      {
+        "_path": "man/man3/JSON.3",
+        "path_type": "hardlink",
+        "sha256": "2f9d21c9d5557dee856c4861967b438e8d397a1e06c3436c2200b8c8ceb52cc6",
+        "sha256_in_prefix": "2f9d21c9d5557dee856c4861967b438e8d397a1e06c3436c2200b8c8ceb52cc6",
+        "size_in_bytes": 64161
+      },
+      {
+        "_path": "man/man3/JSON::backportPP.3",
+        "path_type": "hardlink",
+        "sha256": "797dfc28fc2a2d8984f039040374647020f5a6be9f7b186a1e3776d2a285ae0b",
+        "sha256_in_prefix": "797dfc28fc2a2d8984f039040374647020f5a6be9f7b186a1e3776d2a285ae0b",
+        "size_in_bytes": 64804
+      },
+      {
+        "_path": "man/man3/JSON::backportPP::Boolean.3",
+        "path_type": "hardlink",
+        "sha256": "4e1f6e11f805d8a25f5ae0564d59402cf8fb4140a56635b4a60a9920f7e01d8a",
+        "sha256_in_prefix": "4e1f6e11f805d8a25f5ae0564d59402cf8fb4140a56635b4a60a9920f7e01d8a",
+        "size_in_bytes": 2737
+      },
+      {
+        "_path": "man/man3/JSON::backportPP::Compat5005.3",
+        "path_type": "hardlink",
+        "sha256": "4334ebac456acb95fbccb0ca1cc883c0c7219de02098a9a5f9f823197dd7a163",
+        "sha256_in_prefix": "4334ebac456acb95fbccb0ca1cc883c0c7219de02098a9a5f9f823197dd7a163",
+        "size_in_bytes": 2606
+      },
+      {
+        "_path": "man/man3/JSON::backportPP::Compat5006.3",
+        "path_type": "hardlink",
+        "sha256": "baba153ed9ea82592427df409cb51ebe3991406cfad4603e78f7ce695ceb3857",
+        "sha256_in_prefix": "baba153ed9ea82592427df409cb51ebe3991406cfad4603e78f7ce695ceb3857",
+        "size_in_bytes": 2602
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 53205,
+  "subdir": "linux-64",
+  "timestamp": 1557552589407,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-json-4.02-pl526_0.tar.bz2",
+  "version": "4.02"
+}

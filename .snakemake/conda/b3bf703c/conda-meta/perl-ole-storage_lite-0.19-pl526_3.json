@@ -1,0 +1,70 @@
+{
+  "build": "pl526_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-ole-storage_lite-0.19-pl526_3",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/OLE/Storage_Lite.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/OLE/Storage_Lite/.packlist",
+    "man/man3/OLE::Storage_Lite.3"
+  ],
+  "fn": "perl-ole-storage_lite-0.19-pl526_3.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-ole-storage_lite-0.19-pl526_3",
+    "type": 1
+  },
+  "md5": "756163b36016abb477b2c9e711096f41",
+  "name": "perl-ole-storage_lite",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-ole-storage_lite-0.19-pl526_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "54b1c1223d4eea3d19e6c616de52a197ddb02b261c1dcd45b2e04cf5cf6e11cd",
+        "sha256_in_prefix": "9afd26dbdfdcb6b72e282eae62a4cb142850703ceecf3a2b18241d7d35dd9b17",
+        "size_in_bytes": 265
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/OLE/Storage_Lite.pm",
+        "path_type": "hardlink",
+        "sha256": "6cd8e14d09ac82cd9d07810b22f597355ab373c8f2190bcfde67206cadfe6d55",
+        "sha256_in_prefix": "6cd8e14d09ac82cd9d07810b22f597355ab373c8f2190bcfde67206cadfe6d55",
+        "size_in_bytes": 56037
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/OLE/Storage_Lite/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "c304d01de53c8d3c60b71027c84d003c1d0bf03115eea6534430c5eff9cb6875",
+        "sha256_in_prefix": "cd101916b0b9ced49edf9921137285d0f07288d99c6721ce6de8f044421bc655",
+        "size_in_bytes": 242
+      },
+      {
+        "_path": "man/man3/OLE::Storage_Lite.3",
+        "path_type": "hardlink",
+        "sha256": "0f5fb7aed60623959e509bcc198fbd5e41ebfb42306eb54da5b2c26185bd808d",
+        "sha256_in_prefix": "0f5fb7aed60623959e509bcc198fbd5e41ebfb42306eb54da5b2c26185bd808d",
+        "size_in_bytes": 10628
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 18042,
+  "subdir": "linux-64",
+  "timestamp": 1552131089328,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-ole-storage_lite-0.19-pl526_3.tar.bz2",
+  "version": "0.19"
+}

@@ -1,0 +1,2 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Sort/Naturally.pm relocate_as=../../../../Sort/Naturally.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Sort::Naturally.3 relocate_as=../../../../../../../man/man3/Sort::Naturally.3

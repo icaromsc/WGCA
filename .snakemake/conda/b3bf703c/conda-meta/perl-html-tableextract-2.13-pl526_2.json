@@ -1,0 +1,62 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-html-element-extended",
+    "perl-html-parser"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-html-tableextract-2.13-pl526_2",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/HTML/TableExtract.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML-TableExtract/.packlist",
+    "man/man3/HTML::TableExtract.3"
+  ],
+  "fn": "perl-html-tableextract-2.13-pl526_2.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-html-tableextract-2.13-pl526_2",
+    "type": 1
+  },
+  "md5": "ce74a864c8e3af76921cb8645372de61",
+  "name": "perl-html-tableextract",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-html-tableextract-2.13-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/HTML/TableExtract.pm",
+        "path_type": "hardlink",
+        "sha256": "9c20185b296ddddfcb49bf24e646b4ffb18e95b71949d1c9858d2ce99c5deb17",
+        "sha256_in_prefix": "9c20185b296ddddfcb49bf24e646b4ffb18e95b71949d1c9858d2ce99c5deb17",
+        "size_in_bytes": 55214
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML-TableExtract/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "41b105226ab1168913e748ad4aeecd47ddfe20115260f8fbde886a3becec3a38",
+        "sha256_in_prefix": "2a138205cb98617156b4323d3a7fafa77afa22e8629f82fb3e7317776d20f782",
+        "size_in_bytes": 240
+      },
+      {
+        "_path": "man/man3/HTML::TableExtract.3",
+        "path_type": "hardlink",
+        "sha256": "89fe3dfff29570721ebb8684d6d4d6168c922d4310631f80c48a5307a477314d",
+        "sha256_in_prefix": "89fe3dfff29570721ebb8684d6d4d6168c922d4310631f80c48a5307a477314d",
+        "size_in_bytes": 25945
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 23255,
+  "subdir": "linux-64",
+  "timestamp": 1533797919099,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-html-tableextract-2.13-pl526_2.tar.bz2",
+  "version": "2.13"
+}

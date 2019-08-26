@@ -1,0 +1,166 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-appconfig-1.71-pl526_1",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/AppConfig.pm",
+    "lib/site_perl/5.26.2/AppConfig/Args.pm",
+    "lib/site_perl/5.26.2/AppConfig/CGI.pm",
+    "lib/site_perl/5.26.2/AppConfig/File.pm",
+    "lib/site_perl/5.26.2/AppConfig/Getopt.pm",
+    "lib/site_perl/5.26.2/AppConfig/State.pm",
+    "lib/site_perl/5.26.2/AppConfig/Sys.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/AppConfig/.packlist",
+    "man/man3/AppConfig.3",
+    "man/man3/AppConfig::Args.3",
+    "man/man3/AppConfig::CGI.3",
+    "man/man3/AppConfig::File.3",
+    "man/man3/AppConfig::Getopt.3",
+    "man/man3/AppConfig::State.3",
+    "man/man3/AppConfig::Sys.3"
+  ],
+  "fn": "perl-appconfig-1.71-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-appconfig-1.71-pl526_1",
+    "type": 1
+  },
+  "md5": "ce249bab46455b131908aa356c4b1277",
+  "name": "perl-appconfig",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-appconfig-1.71-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "a1f357650e9dc1f45c86fc68cd4c09137da9832b0d6de94bee16e0dab8e8a8e9",
+        "sha256_in_prefix": "26eb756b5f607772dcd95af027877feb60be5a438565eab4443c544cd294b684",
+        "size_in_bytes": 249
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/AppConfig.pm",
+        "path_type": "hardlink",
+        "sha256": "ba47e51a0e7aab5565b3e05ae70c56980fefa9c4eed503bedc9b0e4c48bb4226",
+        "sha256_in_prefix": "ba47e51a0e7aab5565b3e05ae70c56980fefa9c4eed503bedc9b0e4c48bb4226",
+        "size_in_bytes": 32464
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/AppConfig/Args.pm",
+        "path_type": "hardlink",
+        "sha256": "c04389817cf090225554555a5a5cb5e7b5e0e9c894aa972c3180aed5ea88ab22",
+        "sha256_in_prefix": "c04389817cf090225554555a5a5cb5e7b5e0e9c894aa972c3180aed5ea88ab22",
+        "size_in_bytes": 7665
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/AppConfig/CGI.pm",
+        "path_type": "hardlink",
+        "sha256": "0e49ddf6754a658a81b7c04a0aac05471d1dea34875b7704b5f59a4f3dc41d21",
+        "sha256_in_prefix": "0e49ddf6754a658a81b7c04a0aac05471d1dea34875b7704b5f59a4f3dc41d21",
+        "size_in_bytes": 6926
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/AppConfig/File.pm",
+        "path_type": "hardlink",
+        "sha256": "4a98d69ff1bcc78e5a900cce215442fd3b40339a6f07ff8919eac76a28e86102",
+        "sha256_in_prefix": "4a98d69ff1bcc78e5a900cce215442fd3b40339a6f07ff8919eac76a28e86102",
+        "size_in_bytes": 24078
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/AppConfig/Getopt.pm",
+        "path_type": "hardlink",
+        "sha256": "48540f928f45ac7ee61f1979e1320f5bb8cb441ebffe5b6189a5bb9632984b30",
+        "sha256_in_prefix": "48540f928f45ac7ee61f1979e1320f5bb8cb441ebffe5b6189a5bb9632984b30",
+        "size_in_bytes": 8243
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/AppConfig/State.pm",
+        "path_type": "hardlink",
+        "sha256": "ec7b28b1eb4a153f494854a582b89660e40aff43386684de687f19000bca38f5",
+        "sha256_in_prefix": "ec7b28b1eb4a153f494854a582b89660e40aff43386684de687f19000bca38f5",
+        "size_in_bytes": 47372
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/AppConfig/Sys.pm",
+        "path_type": "hardlink",
+        "sha256": "b1e6093d0d79de2f0e707d71a5a85d4175e5e29b1a66e6b5ff1650fadbf82ee1",
+        "sha256_in_prefix": "b1e6093d0d79de2f0e707d71a5a85d4175e5e29b1a66e6b5ff1650fadbf82ee1",
+        "size_in_bytes": 7977
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/AppConfig/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "6b13146efb4dee9594b3d50a01a305893c86f9bc5801347470789d72fd2cbf0a",
+        "sha256_in_prefix": "61b894f66fbceffdd5a930c452f8041991c3a16e58b81c1bf41478571adb7d15",
+        "size_in_bytes": 1578
+      },
+      {
+        "_path": "man/man3/AppConfig.3",
+        "path_type": "hardlink",
+        "sha256": "62a563f7802c1960f400190f0587708dcea9cbb2e4ee8753090e22daf3cbb835",
+        "sha256_in_prefix": "62a563f7802c1960f400190f0587708dcea9cbb2e4ee8753090e22daf3cbb835",
+        "size_in_bytes": 33398
+      },
+      {
+        "_path": "man/man3/AppConfig::Args.3",
+        "path_type": "hardlink",
+        "sha256": "64f542f046d02167483deebafc9508daabb81a19693163f1c98966e556d47c4a",
+        "sha256_in_prefix": "64f542f046d02167483deebafc9508daabb81a19693163f1c98966e556d47c4a",
+        "size_in_bytes": 6098
+      },
+      {
+        "_path": "man/man3/AppConfig::CGI.3",
+        "path_type": "hardlink",
+        "sha256": "4abd47f053793090e16669a4569cdb80706bf92bfafa932baa0747076932a71d",
+        "sha256_in_prefix": "4abd47f053793090e16669a4569cdb80706bf92bfafa932baa0747076932a71d",
+        "size_in_bytes": 4715
+      },
+      {
+        "_path": "man/man3/AppConfig::File.3",
+        "path_type": "hardlink",
+        "sha256": "42ad884cf06edd4554daf231289b6ce385df62b0d3988ff4c5e2b4ad098f1255",
+        "sha256_in_prefix": "42ad884cf06edd4554daf231289b6ce385df62b0d3988ff4c5e2b4ad098f1255",
+        "size_in_bytes": 10718
+      },
+      {
+        "_path": "man/man3/AppConfig::Getopt.3",
+        "path_type": "hardlink",
+        "sha256": "f716875710c3c12a548c377391d3a3b6adcd90b5b1798a89ba8dd73aca17f6c0",
+        "sha256_in_prefix": "f716875710c3c12a548c377391d3a3b6adcd90b5b1798a89ba8dd73aca17f6c0",
+        "size_in_bytes": 5550
+      },
+      {
+        "_path": "man/man3/AppConfig::State.3",
+        "path_type": "hardlink",
+        "sha256": "ac76bb300fc4f77c1d0bf9a0592c82c19f63c735dec78eb63f994d040bda1753",
+        "sha256_in_prefix": "ac76bb300fc4f77c1d0bf9a0592c82c19f63c735dec78eb63f994d040bda1753",
+        "size_in_bytes": 23037
+      },
+      {
+        "_path": "man/man3/AppConfig::Sys.3",
+        "path_type": "hardlink",
+        "sha256": "1c299c35e869ee3a2a16212419a7b5c101a47fb91a792df27b7b70a3b83e0c78",
+        "sha256_in_prefix": "1c299c35e869ee3a2a16212419a7b5c101a47fb91a792df27b7b70a3b83e0c78",
+        "size_in_bytes": 4801
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 43514,
+  "subdir": "linux-64",
+  "timestamp": 1531089177696,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-appconfig-1.71-pl526_1.tar.bz2",
+  "version": "1.71"
+}

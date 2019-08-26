@@ -1,0 +1,342 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-extutils-makemaker-7.36-pl526_1",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/ExtUtils/Command.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Command/MM.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Install.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Installed.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Liblist.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Liblist/Kid.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_AIX.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_Any.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_BeOS.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_Cygwin.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_DOS.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_Darwin.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_MacOS.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_NW5.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_OS2.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_QNX.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_UWIN.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_Unix.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_VMS.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_VOS.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_Win32.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MM_Win95.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MY.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker/Config.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker/FAQ.pod",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker/Locale.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker/Tutorial.pod",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker/version.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker/version/regex.pm",
+    "lib/site_perl/5.26.2/ExtUtils/MakeMaker/version/vpp.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Mkbootstrap.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Mksymlists.pm",
+    "lib/site_perl/5.26.2/ExtUtils/Packlist.pm",
+    "lib/site_perl/5.26.2/ExtUtils/testlib.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/ExtUtils/MakeMaker/.packlist"
+  ],
+  "fn": "perl-extutils-makemaker-7.36-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-extutils-makemaker-7.36-pl526_1",
+    "type": 1
+  },
+  "md5": "32d1b791177a614aeae12e67bca620b0",
+  "name": "perl-extutils-makemaker",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-extutils-makemaker-7.36-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "a52d977c6dc6db6f2bdfe0de72dc061aec5ff31d7b7d5d841168c1690f893b1b",
+        "sha256_in_prefix": "2824a4295cd80e1546ced20f1254ebaa49a9d881ed066a41f7b1b983723e0d7f",
+        "size_in_bytes": 282
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Command.pm",
+        "path_type": "hardlink",
+        "sha256": "68b2af7a9c132b78d0d050171309e9f7c1b4a3e8e85b83a8635516f6fa67eed9",
+        "sha256_in_prefix": "68b2af7a9c132b78d0d050171309e9f7c1b4a3e8e85b83a8635516f6fa67eed9",
+        "size_in_bytes": 7797
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Command/MM.pm",
+        "path_type": "hardlink",
+        "sha256": "787d09c220b91ae486de217ae77600d72a949aa929df24bca07098ab3db63ddb",
+        "sha256_in_prefix": "787d09c220b91ae486de217ae77600d72a949aa929df24bca07098ab3db63ddb",
+        "size_in_bytes": 7704
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Install.pm",
+        "path_type": "hardlink",
+        "sha256": "a2cc978da8b860bd1668536c713e7629fc63af366bb1a3007700da6d195b84c5",
+        "sha256_in_prefix": "a2cc978da8b860bd1668536c713e7629fc63af366bb1a3007700da6d195b84c5",
+        "size_in_bytes": 40585
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Installed.pm",
+        "path_type": "hardlink",
+        "sha256": "27911a38de6a9a4f7d73482c43be94f61991d9fe1ff3b19edd2c6c3218e5dd8c",
+        "sha256_in_prefix": "27911a38de6a9a4f7d73482c43be94f61991d9fe1ff3b19edd2c6c3218e5dd8c",
+        "size_in_bytes": 14363
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Liblist.pm",
+        "path_type": "hardlink",
+        "sha256": "b0c63a5a4229053d23dfae3e4b620995cedf36d78851cf38c9a0658e2782249f",
+        "sha256_in_prefix": "b0c63a5a4229053d23dfae3e4b620995cedf36d78851cf38c9a0658e2782249f",
+        "size_in_bytes": 9495
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Liblist/Kid.pm",
+        "path_type": "hardlink",
+        "sha256": "d0bbc7306d2df0b3b701a8f12373e5b6582863388d8ca3cf96c2a8b6cde02f4b",
+        "sha256_in_prefix": "d0bbc7306d2df0b3b701a8f12373e5b6582863388d8ca3cf96c2a8b6cde02f4b",
+        "size_in_bytes": 25024
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM.pm",
+        "path_type": "hardlink",
+        "sha256": "0833e38cedb0f6731eb1e389af74b500add3f158408ecccc2b806939dcdf942e",
+        "sha256_in_prefix": "0833e38cedb0f6731eb1e389af74b500add3f158408ecccc2b806939dcdf942e",
+        "size_in_bytes": 2133
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_AIX.pm",
+        "path_type": "hardlink",
+        "sha256": "0eeeed1ddeb3ff937dfe78d59f75b86eb719cec215f9a33979d9bed05cc76560",
+        "sha256_in_prefix": "0eeeed1ddeb3ff937dfe78d59f75b86eb719cec215f9a33979d9bed05cc76560",
+        "size_in_bytes": 1478
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_Any.pm",
+        "path_type": "hardlink",
+        "sha256": "fb25a3d7fa6c019973b8e82183e5289af86b096194061e04b8262db6e27bfc5f",
+        "sha256_in_prefix": "fb25a3d7fa6c019973b8e82183e5289af86b096194061e04b8262db6e27bfc5f",
+        "size_in_bytes": 82846
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_BeOS.pm",
+        "path_type": "hardlink",
+        "sha256": "640d6838c5074d57c7dd132243d7298f10a26145c5e629a1c4086c39cc5a19f2",
+        "sha256_in_prefix": "640d6838c5074d57c7dd132243d7298f10a26145c5e629a1c4086c39cc5a19f2",
+        "size_in_bytes": 1045
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_Cygwin.pm",
+        "path_type": "hardlink",
+        "sha256": "a8a97e53390e62bf11c26b9ccfe02e298a09ff9a60311092049eb4796ceb4a8d",
+        "sha256_in_prefix": "a8a97e53390e62bf11c26b9ccfe02e298a09ff9a60311092049eb4796ceb4a8d",
+        "size_in_bytes": 4082
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_DOS.pm",
+        "path_type": "hardlink",
+        "sha256": "6b348af6ad7d13dcb6f71349fa37b17c2f0ab28567f4e508cbddeb73071ba267",
+        "sha256_in_prefix": "6b348af6ad7d13dcb6f71349fa37b17c2f0ab28567f4e508cbddeb73071ba267",
+        "size_in_bytes": 1047
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_Darwin.pm",
+        "path_type": "hardlink",
+        "sha256": "a95997802b70c03dbefef23f458cd8dcb9b3bf2e48b8e2b47996d753a5f0a10a",
+        "sha256_in_prefix": "a95997802b70c03dbefef23f458cd8dcb9b3bf2e48b8e2b47996d753a5f0a10a",
+        "size_in_bytes": 931
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_MacOS.pm",
+        "path_type": "hardlink",
+        "sha256": "d2d3d0a2a880837a1ea3deaa62f28449cd8d683e35fa51c3d8eb9d3e4fc1da4a",
+        "sha256_in_prefix": "d2d3d0a2a880837a1ea3deaa62f28449cd8d683e35fa51c3d8eb9d3e4fc1da4a",
+        "size_in_bytes": 887
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_NW5.pm",
+        "path_type": "hardlink",
+        "sha256": "1a9bf60b9fbe382690ad3b24433ba67dc4d36d0feaf35b9d7074f3bad2d58b36",
+        "sha256_in_prefix": "1a9bf60b9fbe382690ad3b24433ba67dc4d36d0feaf35b9d7074f3bad2d58b36",
+        "size_in_bytes": 5463
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_OS2.pm",
+        "path_type": "hardlink",
+        "sha256": "bc5e7c055ee997560620bab57446d2aba86d2572f4b1e83e9ad61eca4d3500db",
+        "sha256_in_prefix": "bc5e7c055ee997560620bab57446d2aba86d2572f4b1e83e9ad61eca4d3500db",
+        "size_in_bytes": 3212
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_QNX.pm",
+        "path_type": "hardlink",
+        "sha256": "71235412f6444ecb87431618b39a33a1116139a6fb427cb251215d4aa67abbab",
+        "sha256_in_prefix": "71235412f6444ecb87431618b39a33a1116139a6fb427cb251215d4aa67abbab",
+        "size_in_bytes": 889
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_UWIN.pm",
+        "path_type": "hardlink",
+        "sha256": "24cf3fb354209dd4805cbd18fedf47b04c1470e603028637c6d000277b991be6",
+        "sha256_in_prefix": "24cf3fb354209dd4805cbd18fedf47b04c1470e603028637c6d000277b991be6",
+        "size_in_bytes": 976
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_Unix.pm",
+        "path_type": "hardlink",
+        "sha256": "2595667935d111d4eb6aad4b432c15960f6fd4a7d19d04a1d7c4ae936be33e1c",
+        "sha256_in_prefix": "2595667935d111d4eb6aad4b432c15960f6fd4a7d19d04a1d7c4ae936be33e1c",
+        "size_in_bytes": 114201
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_VMS.pm",
+        "path_type": "hardlink",
+        "sha256": "c6c5138662d11582a623c5409f2f8ed14d9b2bf7434f2a4000843328e2bd5ddd",
+        "sha256_in_prefix": "c6c5138662d11582a623c5409f2f8ed14d9b2bf7434f2a4000843328e2bd5ddd",
+        "size_in_bytes": 68198
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_VOS.pm",
+        "path_type": "hardlink",
+        "sha256": "29ce4f404cf3234e40cf05ac8a0bd041f21a726d76838fa1cca55edc6ff94209",
+        "sha256_in_prefix": "29ce4f404cf3234e40cf05ac8a0bd041f21a726d76838fa1cca55edc6ff94209",
+        "size_in_bytes": 744
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_Win32.pm",
+        "path_type": "hardlink",
+        "sha256": "2fd6d77e4cfbef797df77c26355a099f4a5ec27c1400310a9c77356c9ab858e7",
+        "sha256_in_prefix": "2fd6d77e4cfbef797df77c26355a099f4a5ec27c1400310a9c77356c9ab858e7",
+        "size_in_bytes": 14661
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MM_Win95.pm",
+        "path_type": "hardlink",
+        "sha256": "723bcebcda35e4b2b22bf8bc21e20d998612a90e0cf9fad05a7eb108f69b0ff6",
+        "sha256_in_prefix": "723bcebcda35e4b2b22bf8bc21e20d998612a90e0cf9fad05a7eb108f69b0ff6",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MY.pm",
+        "path_type": "hardlink",
+        "sha256": "ce258fca373131748d0e1dd2a1c53c4c39d48738958c6d7d22be5eaf104fe43b",
+        "sha256_in_prefix": "ce258fca373131748d0e1dd2a1c53c4c39d48738958c6d7d22be5eaf104fe43b",
+        "size_in_bytes": 673
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker.pm",
+        "path_type": "hardlink",
+        "sha256": "26899a54d3a489fa5988d5155493e924debb426ad044b45d9f751c5e08ecb463",
+        "sha256_in_prefix": "26899a54d3a489fa5988d5155493e924debb426ad044b45d9f751c5e08ecb463",
+        "size_in_bytes": 108727
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker/Config.pm",
+        "path_type": "hardlink",
+        "sha256": "74e2b8fd5f3069a5294d7750680b3bc285359bde202fbcae18ff8b2931cf4482",
+        "sha256_in_prefix": "74e2b8fd5f3069a5294d7750680b3bc285359bde202fbcae18ff8b2931cf4482",
+        "size_in_bytes": 588
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker/FAQ.pod",
+        "path_type": "hardlink",
+        "sha256": "5543b71cb611df60cd68a7e3f1186e1ddf3050288dc51779ca532517a547aeef",
+        "sha256_in_prefix": "5543b71cb611df60cd68a7e3f1186e1ddf3050288dc51779ca532517a547aeef",
+        "size_in_bytes": 20179
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker/Locale.pm",
+        "path_type": "hardlink",
+        "sha256": "4030a7b35328c48182f3b476b141502da5b915120acc26c13d47f8520549f5d8",
+        "sha256_in_prefix": "4030a7b35328c48182f3b476b141502da5b915120acc26c13d47f8520549f5d8",
+        "size_in_bytes": 13334
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker/Tutorial.pod",
+        "path_type": "hardlink",
+        "sha256": "8353e2a8973da71652c1abb3627df768f066d2fa07ba9e4210676eef69459b8f",
+        "sha256_in_prefix": "8353e2a8973da71652c1abb3627df768f066d2fa07ba9e4210676eef69459b8f",
+        "size_in_bytes": 5426
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker/version.pm",
+        "path_type": "hardlink",
+        "sha256": "fdf783c9cd3e48030faafa230b5614295d840b71318c0f846bc45df9d8cfa8a2",
+        "sha256_in_prefix": "fdf783c9cd3e48030faafa230b5614295d840b71318c0f846bc45df9d8cfa8a2",
+        "size_in_bytes": 2373
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker/version/regex.pm",
+        "path_type": "hardlink",
+        "sha256": "3b01302fddf973e2271236b8565f50b189dc5d7c379d0d278859b0f94b8d40a2",
+        "sha256_in_prefix": "3b01302fddf973e2271236b8565f50b189dc5d7c379d0d278859b0f94b8d40a2",
+        "size_in_bytes": 4512
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/MakeMaker/version/vpp.pm",
+        "path_type": "hardlink",
+        "sha256": "dde59430b3f8bd611754f0037105100b191290a3de71508fa1d29def6f34f611",
+        "sha256_in_prefix": "dde59430b3f8bd611754f0037105100b191290a3de71508fa1d29def6f34f611",
+        "size_in_bytes": 23039
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Mkbootstrap.pm",
+        "path_type": "hardlink",
+        "sha256": "7d5441bae35f083acc2054888907db8e1f130477ff23cc86a0c6442a8019c1fc",
+        "sha256_in_prefix": "7d5441bae35f083acc2054888907db8e1f130477ff23cc86a0c6442a8019c1fc",
+        "size_in_bytes": 3300
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Mksymlists.pm",
+        "path_type": "hardlink",
+        "sha256": "884f9cd2badbd892f8a1d9ff4e6ab3bb34a8bada6d6a5d252e566779a45e2cd0",
+        "sha256_in_prefix": "884f9cd2badbd892f8a1d9ff4e6ab3bb34a8bada6d6a5d252e566779a45e2cd0",
+        "size_in_bytes": 10999
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/Packlist.pm",
+        "path_type": "hardlink",
+        "sha256": "9107c102c493e92d6924d79a7fe15ff9f8dd90cb0bcaadc0777a075258e307a3",
+        "sha256_in_prefix": "9107c102c493e92d6924d79a7fe15ff9f8dd90cb0bcaadc0777a075258e307a3",
+        "size_in_bytes": 8565
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/ExtUtils/testlib.pm",
+        "path_type": "hardlink",
+        "sha256": "dbc8d88aa79cd4909308cd5a34dc1b17bbf1c48b51d6f08c819a3a62bf3ca17d",
+        "sha256_in_prefix": "dbc8d88aa79cd4909308cd5a34dc1b17bbf1c48b51d6f08c819a3a62bf3ca17d",
+        "size_in_bytes": 911
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/ExtUtils/MakeMaker/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "e4cb2b9d18e625d8e1d897ddc848639459ac9c8ccc89e3c652dc3656ebdc2919",
+        "sha256_in_prefix": "3c77ece6de988ee6ad3a8357ad24db3d961c61912710f70260710dc6b38b7ec2",
+        "size_in_bytes": 8676
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 156857,
+  "subdir": "linux-64",
+  "timestamp": 1556830635661,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-extutils-makemaker-7.36-pl526_1.tar.bz2",
+  "version": "7.36"
+}

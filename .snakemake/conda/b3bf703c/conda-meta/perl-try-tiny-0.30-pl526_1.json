@@ -1,0 +1,60 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-try-tiny-0.30-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Try/Tiny.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Try/Tiny/.packlist",
+    "man/man3/Try::Tiny.3"
+  ],
+  "fn": "perl-try-tiny-0.30-pl526_1.tar.bz2",
+  "license": "mit",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-try-tiny-0.30-pl526_1",
+    "type": 1
+  },
+  "md5": "cf04b17e5804be0615363036e37b9ca7",
+  "name": "perl-try-tiny",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-try-tiny-0.30-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Try/Tiny.pm",
+        "path_type": "hardlink",
+        "sha256": "7010b15c12e237d17cb989df3167201f01f825a5bcf3f7cb10bd3908b96d1b4e",
+        "sha256_in_prefix": "7010b15c12e237d17cb989df3167201f01f825a5bcf3f7cb10bd3908b96d1b4e",
+        "size_in_bytes": 20730
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Try/Tiny/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "ac2840166fe594597c8b0441ef377ddc7d50a1c057f49b89beb06fb59b8b706a",
+        "sha256_in_prefix": "7ba7a50970c9aeb4be99c274d46e80d1bc4781d3764db243b25ad119fa127b47",
+        "size_in_bytes": 210
+      },
+      {
+        "_path": "man/man3/Try::Tiny.3",
+        "path_type": "hardlink",
+        "sha256": "c01dd22da9c93cc5b3b339c67eb5b90097887cf8a02600c69e40995333a23801",
+        "sha256_in_prefix": "c01dd22da9c93cc5b3b339c67eb5b90097887cf8a02600c69e40995333a23801",
+        "size_in_bytes": 20253
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 17097,
+  "subdir": "linux-64",
+  "timestamp": 1552134211254,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-try-tiny-0.30-pl526_1.tar.bz2",
+  "version": "0.30"
+}

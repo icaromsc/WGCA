@@ -1,0 +1,196 @@
+{
+  "build": "pl526h14c3975_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-base",
+    "perl-carp",
+    "perl-encode",
+    "perl-exporter",
+    "perl-file-temp",
+    "perl-html-parser",
+    "perl-parent"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-cgi-4.44-pl526h14c3975_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/CGI.pm",
+    "lib/site_perl/5.26.2/CGI.pod",
+    "lib/site_perl/5.26.2/CGI/Carp.pm",
+    "lib/site_perl/5.26.2/CGI/Cookie.pm",
+    "lib/site_perl/5.26.2/CGI/File/Temp.pm",
+    "lib/site_perl/5.26.2/CGI/HTML/Functions.pm",
+    "lib/site_perl/5.26.2/CGI/HTML/Functions.pod",
+    "lib/site_perl/5.26.2/CGI/Pretty.pm",
+    "lib/site_perl/5.26.2/CGI/Push.pm",
+    "lib/site_perl/5.26.2/CGI/Util.pm",
+    "lib/site_perl/5.26.2/Fh.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/CGI/.packlist",
+    "man/man3/CGI.3",
+    "man/man3/CGI::Carp.3",
+    "man/man3/CGI::Cookie.3",
+    "man/man3/CGI::HTML::Functions.3",
+    "man/man3/CGI::Pretty.3",
+    "man/man3/CGI::Push.3",
+    "man/man3/CGI::Util.3"
+  ],
+  "fn": "perl-cgi-4.44-pl526h14c3975_1.tar.bz2",
+  "license": "GPL",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-cgi-4.44-pl526h14c3975_1",
+    "type": 1
+  },
+  "md5": "abf86df04595969e49c5ac3f295e2a20",
+  "name": "perl-cgi",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-cgi-4.44-pl526h14c3975_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/CGI.pm",
+        "path_type": "hardlink",
+        "sha256": "cedbe48908797136c1755b429414fe8dcdef2a8a13689639fe3203a157bf6636",
+        "sha256_in_prefix": "cedbe48908797136c1755b429414fe8dcdef2a8a13689639fe3203a157bf6636",
+        "size_in_bytes": 125225
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI.pod",
+        "path_type": "hardlink",
+        "sha256": "296f89ccae9f2239f5be5e7d4aecf05d3cb4dedc786c98c998484dd50689bfd4",
+        "sha256_in_prefix": "296f89ccae9f2239f5be5e7d4aecf05d3cb4dedc786c98c998484dd50689bfd4",
+        "size_in_bytes": 67231
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/Carp.pm",
+        "path_type": "hardlink",
+        "sha256": "6bf8d6431e07c84ccb6aed8772714db6897a5a3a59158f0404da1d810b50bf75",
+        "sha256_in_prefix": "6bf8d6431e07c84ccb6aed8772714db6897a5a3a59158f0404da1d810b50bf75",
+        "size_in_bytes": 19060
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/Cookie.pm",
+        "path_type": "hardlink",
+        "sha256": "7fd02a36e3780846ca33d013e0edb252a690b1f7884dc87c5c69f8f602ab9899",
+        "sha256_in_prefix": "7fd02a36e3780846ca33d013e0edb252a690b1f7884dc87c5c69f8f602ab9899",
+        "size_in_bytes": 17495
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/File/Temp.pm",
+        "path_type": "hardlink",
+        "sha256": "1ace48fccfc1f6fe79685e1047aa89dbcfcb1bccc56101757f309f03a9917344",
+        "sha256_in_prefix": "1ace48fccfc1f6fe79685e1047aa89dbcfcb1bccc56101757f309f03a9917344",
+        "size_in_bytes": 942
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/HTML/Functions.pm",
+        "path_type": "hardlink",
+        "sha256": "2b2a3d25940d4e388754e41bb8acdf6325987df546932d057f2f5e9bbd7eab5f",
+        "sha256_in_prefix": "2b2a3d25940d4e388754e41bb8acdf6325987df546932d057f2f5e9bbd7eab5f",
+        "size_in_bytes": 125
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/HTML/Functions.pod",
+        "path_type": "hardlink",
+        "sha256": "93f5d295710bc38bde7b332cdf8736af4b9e1756eee8da08f99edd412c05f982",
+        "sha256_in_prefix": "93f5d295710bc38bde7b332cdf8736af4b9e1756eee8da08f99edd412c05f982",
+        "size_in_bytes": 60528
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/Pretty.pm",
+        "path_type": "hardlink",
+        "sha256": "896511d65255e841863243eaad1e2c0bd5ed821f452796d4b28162cccb436c72",
+        "sha256_in_prefix": "896511d65255e841863243eaad1e2c0bd5ed821f452796d4b28162cccb436c72",
+        "size_in_bytes": 1976
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/Push.pm",
+        "path_type": "hardlink",
+        "sha256": "27df06a4e9a4c5126a1f23a6662fe244871a8eb0c63db2a5d576bf7f531ca054",
+        "sha256_in_prefix": "27df06a4e9a4c5126a1f23a6662fe244871a8eb0c63db2a5d576bf7f531ca054",
+        "size_in_bytes": 10142
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/CGI/Util.pm",
+        "path_type": "hardlink",
+        "sha256": "d6c90efb873418204dec2a72a7fe2d6d243a9ff3518e5d5aaf31db8c40a6eedc",
+        "sha256_in_prefix": "d6c90efb873418204dec2a72a7fe2d6d243a9ff3518e5d5aaf31db8c40a6eedc",
+        "size_in_bytes": 11714
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Fh.pm",
+        "path_type": "hardlink",
+        "sha256": "9eced58af486ebbb2f1108c02afed2c3a9cda34875a14cefe4b963d6080274bf",
+        "sha256_in_prefix": "9eced58af486ebbb2f1108c02afed2c3a9cda34875a14cefe4b963d6080274bf",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/CGI/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "705e3c0e6309ca04796eb1bef4aa897902f59d87b937e3c9ab93050e12e57a65",
+        "sha256_in_prefix": "7121deb46bd3dee4d79b3b54f5bb553a7081d4cb52e265eab2cced9a8631def3",
+        "size_in_bytes": 1872
+      },
+      {
+        "_path": "man/man3/CGI.3",
+        "path_type": "hardlink",
+        "sha256": "c7760edac48a030e51367d6e26fbd7d0ecb9c2a4b259e1b631bd4368f5d0e297",
+        "sha256_in_prefix": "c7760edac48a030e51367d6e26fbd7d0ecb9c2a4b259e1b631bd4368f5d0e297",
+        "size_in_bytes": 81295
+      },
+      {
+        "_path": "man/man3/CGI::Carp.3",
+        "path_type": "hardlink",
+        "sha256": "68d1216a13448037aa9d1b23d7111bd6f89f1e6cdc81253c897ae66ab57cbf6a",
+        "sha256_in_prefix": "68d1216a13448037aa9d1b23d7111bd6f89f1e6cdc81253c897ae66ab57cbf6a",
+        "size_in_bytes": 14355
+      },
+      {
+        "_path": "man/man3/CGI::Cookie.3",
+        "path_type": "hardlink",
+        "sha256": "63c46f3c2a2aaa69c2bcb8c40923e98cc34d7c843b40ff79c7ff3f4a7c9c4f07",
+        "sha256_in_prefix": "63c46f3c2a2aaa69c2bcb8c40923e98cc34d7c843b40ff79c7ff3f4a7c9c4f07",
+        "size_in_bytes": 14958
+      },
+      {
+        "_path": "man/man3/CGI::HTML::Functions.3",
+        "path_type": "hardlink",
+        "sha256": "9af3befce1d4ad45f90d60e0ac73f7cf40f6a4ca8c312ebef253e05c1b00231a",
+        "sha256_in_prefix": "9af3befce1d4ad45f90d60e0ac73f7cf40f6a4ca8c312ebef253e05c1b00231a",
+        "size_in_bytes": 74735
+      },
+      {
+        "_path": "man/man3/CGI::Pretty.3",
+        "path_type": "hardlink",
+        "sha256": "2ba1914fdd28c54f083ca06c7b3ed098fc87ff4e5ccf64f4d8c7efcc56c9dd28",
+        "sha256_in_prefix": "2ba1914fdd28c54f083ca06c7b3ed098fc87ff4e5ccf64f4d8c7efcc56c9dd28",
+        "size_in_bytes": 3130
+      },
+      {
+        "_path": "man/man3/CGI::Push.3",
+        "path_type": "hardlink",
+        "sha256": "ee371615c4fd27ffb689b31e39c69d10041a2ff8bdd25af85ada9fce52c30de5",
+        "sha256_in_prefix": "ee371615c4fd27ffb689b31e39c69d10041a2ff8bdd25af85ada9fce52c30de5",
+        "size_in_bytes": 9948
+      },
+      {
+        "_path": "man/man3/CGI::Util.3",
+        "path_type": "hardlink",
+        "sha256": "d872e7e09762975a68b5d8f363861fc36786e372ee4a0091d839cee596f289cf",
+        "sha256_in_prefix": "d872e7e09762975a68b5d8f363861fc36786e372ee4a0091d839cee596f289cf",
+        "size_in_bytes": 3088
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 118533,
+  "subdir": "linux-64",
+  "timestamp": 1559756295327,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-cgi-4.44-pl526h14c3975_1.tar.bz2",
+  "version": "4.44"
+}

@@ -1,0 +1,70 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-task-weaken-1.06-pl526_0",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Task/Weaken.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Task/Weaken/.packlist",
+    "man/man3/Task::Weaken.3"
+  ],
+  "fn": "perl-task-weaken-1.06-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-task-weaken-1.06-pl526_0",
+    "type": 1
+  },
+  "md5": "9aa2fd2dae5a9e0adcd99ff8deade351",
+  "name": "perl-task-weaken",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-task-weaken-1.06-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "58a6b354124978dff5e4042d545e44fcc5ab5e5d51196b022fc124e7fc24021c",
+        "sha256_in_prefix": "26afc19c4fd27cb8ba16bdd73ce6a8db3e3c875ae73e01b20e23db465e8933ed",
+        "size_in_bytes": 255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Task/Weaken.pm",
+        "path_type": "hardlink",
+        "sha256": "10daf57ebd31cf2e9b3a3729e465fe7da43072f574493421e4879b4cd090c4ee",
+        "sha256_in_prefix": "10daf57ebd31cf2e9b3a3729e465fe7da43072f574493421e4879b4cd090c4ee",
+        "size_in_bytes": 2740
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Task/Weaken/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "b3962c905aa9a3b92bbb89dc27b6299efb05da9d4424f2d106327cd70fb461a2",
+        "sha256_in_prefix": "9ce4a7e9e73be8b060d018b3dc826234139080986d4b9c1f86d5e82e110cf83e",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "man/man3/Task::Weaken.3",
+        "path_type": "hardlink",
+        "sha256": "6428c2e993123b3d6b9b5da70d8c79e291c1933c3b0bca2c7a9815e9ae8958ee",
+        "sha256_in_prefix": "6428c2e993123b3d6b9b5da70d8c79e291c1933c3b0bca2c7a9815e9ae8958ee",
+        "size_in_bytes": 5001
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 7761,
+  "subdir": "linux-64",
+  "timestamp": 1542014292147,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-task-weaken-1.06-pl526_0.tar.bz2",
+  "version": "1.06"
+}

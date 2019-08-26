@@ -1,0 +1,168 @@
+{
+  "build": "pl526h6bb024c_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-html-tagset",
+    "perl-xsloader"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-html-parser-3.72-pl526h6bb024c_5",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Entities.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Filter.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/HeadParser.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/LinkExtor.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Parser.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/PullParser.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/TokeParser.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Parser/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Parser/Parser.so",
+    "man/man3/HTML::Entities.3",
+    "man/man3/HTML::Filter.3",
+    "man/man3/HTML::HeadParser.3",
+    "man/man3/HTML::LinkExtor.3",
+    "man/man3/HTML::Parser.3",
+    "man/man3/HTML::PullParser.3",
+    "man/man3/HTML::TokeParser.3"
+  ],
+  "fn": "perl-html-parser-3.72-pl526h6bb024c_5.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-html-parser-3.72-pl526h6bb024c_5",
+    "type": 1
+  },
+  "md5": "9874aecaa5a6f19c55f32baa5cc7302e",
+  "name": "perl-html-parser",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-html-parser-3.72-pl526h6bb024c_5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Entities.pm",
+        "path_type": "hardlink",
+        "sha256": "92f5a662cbfca64ba55be9b9eeb5fe2e9379e9db5ccc915ec5224f9c1764fd93",
+        "sha256_in_prefix": "92f5a662cbfca64ba55be9b9eeb5fe2e9379e9db5ccc915ec5224f9c1764fd93",
+        "size_in_bytes": 14995
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Filter.pm",
+        "path_type": "hardlink",
+        "sha256": "56e0574f1384765b2e1126c81baccd3d51e1590078ff29777ac497cc2b2002b9",
+        "sha256_in_prefix": "56e0574f1384765b2e1126c81baccd3d51e1590078ff29777ac497cc2b2002b9",
+        "size_in_bytes": 2681
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/HeadParser.pm",
+        "path_type": "hardlink",
+        "sha256": "5ea164d5264300589d9ee1e8537233a0950f05faa11ec5c60845558363ace5b5",
+        "sha256_in_prefix": "5ea164d5264300589d9ee1e8537233a0950f05faa11ec5c60845558363ace5b5",
+        "size_in_bytes": 8526
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/LinkExtor.pm",
+        "path_type": "hardlink",
+        "sha256": "0ef455917648923b5a8338c91cc762c6d62ad0a95d182f17efea3db91c78b5d7",
+        "sha256_in_prefix": "0ef455917648923b5a8338c91cc762c6d62ad0a95d182f17efea3db91c78b5d7",
+        "size_in_bytes": 4505
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/Parser.pm",
+        "path_type": "hardlink",
+        "sha256": "db622fd37afbfd2fd98ae3314dabeaf064c1ee0949747b74df63bde774c7e5cb",
+        "sha256_in_prefix": "db622fd37afbfd2fd98ae3314dabeaf064c1ee0949747b74df63bde774c7e5cb",
+        "size_in_bytes": 39595
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/PullParser.pm",
+        "path_type": "hardlink",
+        "sha256": "f2786574bef84140ba047f14cc47dcd4cd91550f9a223ba0f8ed670db82e911a",
+        "sha256_in_prefix": "f2786574bef84140ba047f14cc47dcd4cd91550f9a223ba0f8ed670db82e911a",
+        "size_in_bytes": 5681
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/HTML/TokeParser.pm",
+        "path_type": "hardlink",
+        "sha256": "49a9619850760cae003465294cff58c17f4e101685fb50ab27ba48f6e39afd93",
+        "sha256_in_prefix": "49a9619850760cae003465294cff58c17f4e101685fb50ab27ba48f6e39afd93",
+        "size_in_bytes": 10104
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Parser/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "bd5954335c47c6311b0459b4d788c51d7ca1241e86601532d5f71a355b2fcbab",
+        "sha256_in_prefix": "4c9b8e2309cac2fb960b1adc4de1dc5615b0b29404cc57dedae87f425a954cc0",
+        "size_in_bytes": 1912
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Parser/Parser.so",
+        "path_type": "hardlink",
+        "sha256": "2deab0192f99d9a44953513fd9c2fa4708437a9d395dde29f904dc02604d50bf",
+        "sha256_in_prefix": "2deab0192f99d9a44953513fd9c2fa4708437a9d395dde29f904dc02604d50bf",
+        "size_in_bytes": 61728
+      },
+      {
+        "_path": "man/man3/HTML::Entities.3",
+        "path_type": "hardlink",
+        "sha256": "5e6947ff85b6f8842bf5ee6ed398d56bd1bf061dcb5f67ec90138425607731f0",
+        "sha256_in_prefix": "5e6947ff85b6f8842bf5ee6ed398d56bd1bf061dcb5f67ec90138425607731f0",
+        "size_in_bytes": 8137
+      },
+      {
+        "_path": "man/man3/HTML::Filter.3",
+        "path_type": "hardlink",
+        "sha256": "38fc0b88357bc9c37e02965e8011babb96dd84fc41bb774a06dde08bd77070d0",
+        "sha256_in_prefix": "38fc0b88357bc9c37e02965e8011babb96dd84fc41bb774a06dde08bd77070d0",
+        "size_in_bytes": 4782
+      },
+      {
+        "_path": "man/man3/HTML::HeadParser.3",
+        "path_type": "hardlink",
+        "sha256": "22867dd16d800d0339c2f8532833ba814353049c97fc7c0568ecf079c72c8071",
+        "sha256_in_prefix": "22867dd16d800d0339c2f8532833ba814353049c97fc7c0568ecf079c72c8071",
+        "size_in_bytes": 7250
+      },
+      {
+        "_path": "man/man3/HTML::LinkExtor.3",
+        "path_type": "hardlink",
+        "sha256": "e7ff3b3f4b1d25973e0fb6c8c40b74e6916435cb2cb437be07eff6372bf4038e",
+        "sha256_in_prefix": "e7ff3b3f4b1d25973e0fb6c8c40b74e6916435cb2cb437be07eff6372bf4038e",
+        "size_in_bytes": 5859
+      },
+      {
+        "_path": "man/man3/HTML::Parser.3",
+        "path_type": "hardlink",
+        "sha256": "bbb2111a12249adc707d33c17e2737e85c145d8366edc4f1ba65396d12a4d9ca",
+        "sha256_in_prefix": "bbb2111a12249adc707d33c17e2737e85c145d8366edc4f1ba65396d12a4d9ca",
+        "size_in_bytes": 50965
+      },
+      {
+        "_path": "man/man3/HTML::PullParser.3",
+        "path_type": "hardlink",
+        "sha256": "aef6f0108746ba02cd2d6009fdec773e2f0addc97613bfd343f33a93c7dc6ae7",
+        "sha256_in_prefix": "aef6f0108746ba02cd2d6009fdec773e2f0addc97613bfd343f33a93c7dc6ae7",
+        "size_in_bytes": 6415
+      },
+      {
+        "_path": "man/man3/HTML::TokeParser.3",
+        "path_type": "hardlink",
+        "sha256": "34943eaac9d45c1d4d0a6b4d543f4b330675f1bb325a6bf4d6522df417f8c3d0",
+        "sha256_in_prefix": "34943eaac9d45c1d4d0a6b4d543f4b330675f1bb325a6bf4d6522df417f8c3d0",
+        "size_in_bytes": 11198
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 67481,
+  "subdir": "linux-64",
+  "timestamp": 1555516623155,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-html-parser-3.72-pl526h6bb024c_5.tar.bz2",
+  "version": "3.72"
+}

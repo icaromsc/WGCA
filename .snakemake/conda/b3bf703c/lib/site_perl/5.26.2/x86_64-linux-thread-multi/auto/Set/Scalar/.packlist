@@ -1,0 +1,16 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar.pm relocate_as=../../../../Set/Scalar.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar/Base.pm relocate_as=../../../../Set/Scalar/Base.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar/Null.pm relocate_as=../../../../Set/Scalar/Null.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar/Real.pm relocate_as=../../../../Set/Scalar/Real.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar/Universe.pm relocate_as=../../../../Set/Scalar/Universe.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar/Valued.pm relocate_as=../../../../Set/Scalar/Valued.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar/ValuedUniverse.pm relocate_as=../../../../Set/Scalar/ValuedUniverse.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Set/Scalar/Virtual.pm relocate_as=../../../../Set/Scalar/Virtual.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar.3 relocate_as=../../../../../../../man/man3/Set::Scalar.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar::Base.3 relocate_as=../../../../../../../man/man3/Set::Scalar::Base.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar::Null.3 relocate_as=../../../../../../../man/man3/Set::Scalar::Null.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar::Real.3 relocate_as=../../../../../../../man/man3/Set::Scalar::Real.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar::Universe.3 relocate_as=../../../../../../../man/man3/Set::Scalar::Universe.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar::Valued.3 relocate_as=../../../../../../../man/man3/Set::Scalar::Valued.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar::ValuedUniverse.3 relocate_as=../../../../../../../man/man3/Set::Scalar::ValuedUniverse.3
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Set::Scalar::Virtual.3 relocate_as=../../../../../../../man/man3/Set::Scalar::Virtual.3

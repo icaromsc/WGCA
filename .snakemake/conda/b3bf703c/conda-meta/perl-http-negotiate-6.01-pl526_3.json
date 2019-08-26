@@ -1,0 +1,61 @@
+{
+  "build": "pl526_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-http-message"
+  ],
+  "extracted_package_dir": "/home/bioinfo/miniconda3/pkgs/perl-http-negotiate-6.01-pl526_3",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/HTTP/Negotiate.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTTP/Negotiate/.packlist",
+    "man/man3/HTTP::Negotiate.3"
+  ],
+  "fn": "perl-http-negotiate-6.01-pl526_3.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/bioinfo/miniconda3/pkgs/perl-http-negotiate-6.01-pl526_3",
+    "type": 1
+  },
+  "md5": "3be31b3d87352fdd54246212bae3ede9",
+  "name": "perl-http-negotiate",
+  "package_tarball_full_path": "/home/bioinfo/miniconda3/pkgs/perl-http-negotiate-6.01-pl526_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/HTTP/Negotiate.pm",
+        "path_type": "hardlink",
+        "sha256": "11b15afe7736f0818b9fee791baa8d34cc67fa137380bafbb0c2c963a6f01e88",
+        "sha256_in_prefix": "11b15afe7736f0818b9fee791baa8d34cc67fa137380bafbb0c2c963a6f01e88",
+        "size_in_bytes": 16100
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTTP/Negotiate/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "501c4981f1800f1cb5cfcf206992c8198257ea591f62d9c7bd621eb13b496a5c",
+        "sha256_in_prefix": "3e7c69ecc38c055da73ea2666831fa5fc3713a234503cca4efd509b764aef1c9",
+        "size_in_bytes": 234
+      },
+      {
+        "_path": "man/man3/HTTP::Negotiate.3",
+        "path_type": "hardlink",
+        "sha256": "d16ead0636f607327237472fef0af2d3bd779b74fc87d8fc859b05f78bd5c16c",
+        "sha256_in_prefix": "d16ead0636f607327237472fef0af2d3bd779b74fc87d8fc859b05f78bd5c16c",
+        "size_in_bytes": 10369
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 13592,
+  "subdir": "linux-64",
+  "timestamp": 1552518036233,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-http-negotiate-6.01-pl526_3.tar.bz2",
+  "version": "6.01"
+}

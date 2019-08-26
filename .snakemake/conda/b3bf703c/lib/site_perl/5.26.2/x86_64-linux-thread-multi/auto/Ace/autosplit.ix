@@ -1,0 +1,32 @@
+# Index created by AutoSplit for blib/lib/Ace.pm
+#    (file acts as timestamp)
+package Ace;
+sub debug  ;
+sub ping  ;
+sub date_style  ;
+sub timestamps  ;
+sub put  ;
+sub parse  ;
+sub parse_longtext  ;
+sub parse_file  ;
+sub new  ;
+sub layout  ;
+sub class_count  ;
+sub status  ;
+sub title  ;
+sub version  ;
+sub auto_save  ;
+sub find  ;
+sub grep  ;
+sub pick  ;
+sub freeprotect  ;
+sub split  ;
+sub classes  ;
+sub fetch_many  ;
+sub _register_iterator  ;
+sub _unregister_iterator  ;
+sub _save_iterator  ;
+sub _restore_iterator  ;
+sub datetime  ;
+sub date  ;
+1;

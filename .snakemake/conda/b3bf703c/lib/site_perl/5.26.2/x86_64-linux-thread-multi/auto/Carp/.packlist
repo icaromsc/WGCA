@@ -1,0 +1,3 @@
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Carp.pm relocate_as=../../../Carp.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Carp/Heavy.pm relocate_as=../../../Carp/Heavy.pm
+/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Carp.3 relocate_as=../../../../../../man/man3/Carp.3
