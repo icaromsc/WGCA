@@ -1,0 +1,2 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Algorithm/Munkres.pm relocate_as=../../../../Algorithm/Munkres.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Algorithm::Munkres.3 relocate_as=../../../../../../../man/man3/Algorithm::Munkres.3

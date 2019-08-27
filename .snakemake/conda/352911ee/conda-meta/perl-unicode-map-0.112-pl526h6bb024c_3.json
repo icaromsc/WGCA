@@ -1,0 +1,881 @@
+{
+  "build": "pl526h6bb024c_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-unicode-map-0.112-pl526h6bb024c_3",
+  "features": "",
+  "files": [
+    "bin/map",
+    "bin/mirrorMappings",
+    "bin/mkCSGB2312",
+    "bin/mkmapfile",
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ADOBE/STDENC.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ADOBE/SYMBOL.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ADOBE/ZDINGBAT.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ARABIC.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CENTEURO.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CHINSIMP.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CHINTRAD.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CROATIAN.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CYRILLIC.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/DEVANAGA.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/DINGBATS.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/GREEK.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/GUJARATI.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/GURMUKHI.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/HEBREW.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ICELAND.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/JAPANESE.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/KOREAN.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ROMAN.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ROMANIAN.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/SYMBOL.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/THAI.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/TURKISH.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/BIG5.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/CNS-11643-1986.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/EUC-JP.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/EUC-KR.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/GB12345-80.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/GB2312-80.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/GB2312.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JIS-X-0201.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JIS-X-0208.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JIS-X-0212.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JOHAB.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/KSC1001.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/KSC5601-1992.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/SHIFTJIS.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/IBM/IBM038.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-1.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-10.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-13.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-14.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-15.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-2.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-3.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-4.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-5.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-6.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-7.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-8.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-9.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/ISO646-US.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP437.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP737.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP775.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP850.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP852.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP855.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP857.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP860.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP861.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP862.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP863.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP864.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP865.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP866.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP869.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP874.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP037.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP1026.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP500.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP875.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/CYRILLIC.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/GREEK.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/ICELAND.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/LATIN2.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/ROMAN.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/TURKISH.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1250.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1251.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1252.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1253.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1254.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1255.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1256.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1257.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1258.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP932.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP936.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP949.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP950.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/NEXT/NEXTSTEP.map",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/REGISTRY",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Unicode/Map/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Unicode/Map/Map.so",
+    "man/man1/map.1",
+    "man/man1/mkmapfile.1",
+    "man/man3/Unicode::Map.3"
+  ],
+  "fn": "perl-unicode-map-0.112-pl526h6bb024c_3.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-unicode-map-0.112-pl526h6bb024c_3",
+    "type": 1
+  },
+  "md5": "da4af750734feda730d4ec28ce40d9f9",
+  "name": "perl-unicode-map",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-unicode-map-0.112-pl526h6bb024c_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/map",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "c5daa398099ddc73300023ff8b9cdcfceada7ba55ab1dee2c7bb2332fb942522",
+        "sha256_in_prefix": "230e283db5b62219fee88f3ef1591cc9ef5621e3fdab2525a2fbb8030b0d04a1",
+        "size_in_bytes": 4103
+      },
+      {
+        "_path": "bin/mirrorMappings",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "68ac69e5f1858ab43fa4d009f0eb37c20d15ca67917d062454cd1a1948214cbf",
+        "sha256_in_prefix": "dc3b109d3f24d311a91fc625afe1f006689b90e9af0e5426d2ffe65d3a0c28ba",
+        "size_in_bytes": 3811
+      },
+      {
+        "_path": "bin/mkCSGB2312",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "6ffd34164393cfd5bb3413bb926a8628f95072178717e58dc6d533dcab8dd159",
+        "sha256_in_prefix": "d88196f93fe2578f5b4300207baad4f182a3b08a2cddb2a07f6d0b6e98feb0e9",
+        "size_in_bytes": 2946
+      },
+      {
+        "_path": "bin/mkmapfile",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "408cecbd707a48dcd76e915c949a9e257dadc4f5cd1259bbe1d1adbc08981834",
+        "sha256_in_prefix": "bb73c32664ad9e65561c17c803974fa6a9c077efbc5921d4caa3e08a0048e00b",
+        "size_in_bytes": 4202
+      },
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "5fc2612ce4e4219bf1ad12410d3601b80da28d76ad107ba6c8c9e90273a8e7cd",
+        "sha256_in_prefix": "0d24e2f9223497f8c598cac83a8e61fbaf823d0080e7ed3685666eb80b01891f",
+        "size_in_bytes": 319
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map.pm",
+        "path_type": "hardlink",
+        "sha256": "762670d3b01fb7939bf3a6c06f57f9e25afc6b0767265202f176774b73c83a08",
+        "sha256_in_prefix": "762670d3b01fb7939bf3a6c06f57f9e25afc6b0767265202f176774b73c83a08",
+        "size_in_bytes": 36051
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ADOBE/STDENC.map",
+        "path_type": "hardlink",
+        "sha256": "2fc3a7d567d83642c2bf2b7fef3ecd9b577064500f9dca1c9c13df17b5befc45",
+        "sha256_in_prefix": "2fc3a7d567d83642c2bf2b7fef3ecd9b577064500f9dca1c9c13df17b5befc45",
+        "size_in_bytes": 221
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ADOBE/SYMBOL.map",
+        "path_type": "hardlink",
+        "sha256": "9ad781135a12973087bbfa060593205da99eb47ab1059fb268c8883415e9bba2",
+        "sha256_in_prefix": "9ad781135a12973087bbfa060593205da99eb47ab1059fb268c8883415e9bba2",
+        "size_in_bytes": 394
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ADOBE/ZDINGBAT.map",
+        "path_type": "hardlink",
+        "sha256": "20e090afa354037b7a1a7c26ee401b36c60ae259482eb6194126d323aa59a238",
+        "sha256_in_prefix": "20e090afa354037b7a1a7c26ee401b36c60ae259482eb6194126d323aa59a238",
+        "size_in_bytes": 126
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ARABIC.map",
+        "path_type": "hardlink",
+        "sha256": "75fc267030509156cca935c95e66d87d4eca562a063a2ba138fa0918a849b87a",
+        "sha256_in_prefix": "75fc267030509156cca935c95e66d87d4eca562a063a2ba138fa0918a849b87a",
+        "size_in_bytes": 521
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CENTEURO.map",
+        "path_type": "hardlink",
+        "sha256": "d5c1928bdeb4be8b62b8ff3883cbac5a6211c45c6b46b50e87cdd9a106508496",
+        "sha256_in_prefix": "d5c1928bdeb4be8b62b8ff3883cbac5a6211c45c6b46b50e87cdd9a106508496",
+        "size_in_bytes": 338
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CHINSIMP.map",
+        "path_type": "hardlink",
+        "sha256": "ca974e90eda082cd15145f5240ee03a2ce59898ac774026c09f7109798a8ef71",
+        "sha256_in_prefix": "ca974e90eda082cd15145f5240ee03a2ce59898ac774026c09f7109798a8ef71",
+        "size_in_bytes": 20114
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CHINTRAD.map",
+        "path_type": "hardlink",
+        "sha256": "0709476b8eae92326c7144609383085e0da3605b7b3c258ffeb75008440c233e",
+        "sha256_in_prefix": "0709476b8eae92326c7144609383085e0da3605b7b3c258ffeb75008440c233e",
+        "size_in_bytes": 38789
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CROATIAN.map",
+        "path_type": "hardlink",
+        "sha256": "ae1ec9800cc33c78471098bfcc37390488302ce69563c76a310711bdb6be94d3",
+        "sha256_in_prefix": "ae1ec9800cc33c78471098bfcc37390488302ce69563c76a310711bdb6be94d3",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/CYRILLIC.map",
+        "path_type": "hardlink",
+        "sha256": "b06032ac34dd640b6931f585879a75d7bf37cf2e002b5f0da0491183c123c6cf",
+        "sha256_in_prefix": "b06032ac34dd640b6931f585879a75d7bf37cf2e002b5f0da0491183c123c6cf",
+        "size_in_bytes": 221
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/DEVANAGA.map",
+        "path_type": "hardlink",
+        "sha256": "abc09de2949e9937e73d1efbfa6fd20bd9cbc40379e44cecd2ebf3d838f3d691",
+        "sha256_in_prefix": "abc09de2949e9937e73d1efbfa6fd20bd9cbc40379e44cecd2ebf3d838f3d691",
+        "size_in_bytes": 200
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/DINGBATS.map",
+        "path_type": "hardlink",
+        "sha256": "54846fcfc6a147b1077f41fd3bd476e35fe517d4f2d6b5d939614fd0dd6420c3",
+        "sha256_in_prefix": "54846fcfc6a147b1077f41fd3bd476e35fe517d4f2d6b5d939614fd0dd6420c3",
+        "size_in_bytes": 175
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/GREEK.map",
+        "path_type": "hardlink",
+        "sha256": "739503cc9e71dcc2acf6048f5d2ec3a0734ce42abb026d72d1370f80eaf658ac",
+        "sha256_in_prefix": "739503cc9e71dcc2acf6048f5d2ec3a0734ce42abb026d72d1370f80eaf658ac",
+        "size_in_bytes": 350
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/GUJARATI.map",
+        "path_type": "hardlink",
+        "sha256": "17e659af7cd4eb6fe7ede03c965d2910ec6c8ff3b51b459bba29311e43600768",
+        "sha256_in_prefix": "17e659af7cd4eb6fe7ede03c965d2910ec6c8ff3b51b459bba29311e43600768",
+        "size_in_bytes": 199
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/GURMUKHI.map",
+        "path_type": "hardlink",
+        "sha256": "c2dd43d012f079e99569cffd8bb9827321e913ec1f7af55edb61bdc8758a2f4f",
+        "sha256_in_prefix": "c2dd43d012f079e99569cffd8bb9827321e913ec1f7af55edb61bdc8758a2f4f",
+        "size_in_bytes": 201
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/HEBREW.map",
+        "path_type": "hardlink",
+        "sha256": "4c59c4d231d5c88725b9a6e40c9fa5ca1f42d619640660523d0d88a119435f84",
+        "sha256_in_prefix": "4c59c4d231d5c88725b9a6e40c9fa5ca1f42d619640660523d0d88a119435f84",
+        "size_in_bytes": 727
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ICELAND.map",
+        "path_type": "hardlink",
+        "sha256": "9a09b28ee40df5d27279138c6237bbe2296502075d5ab3a7ad1f41fcf1825a10",
+        "sha256_in_prefix": "9a09b28ee40df5d27279138c6237bbe2296502075d5ab3a7ad1f41fcf1825a10",
+        "size_in_bytes": 368
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/JAPANESE.map",
+        "path_type": "hardlink",
+        "sha256": "f2199382aacd2b430a268531b62e2c3172120fe4b774858c73756197a52817fd",
+        "sha256_in_prefix": "f2199382aacd2b430a268531b62e2c3172120fe4b774858c73756197a52817fd",
+        "size_in_bytes": 20294
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/KOREAN.map",
+        "path_type": "hardlink",
+        "sha256": "711884c9cf442efcb83a0844ac1f5095a0eda45074f9b776160649d4024aef24",
+        "sha256_in_prefix": "711884c9cf442efcb83a0844ac1f5095a0eda45074f9b776160649d4024aef24",
+        "size_in_bytes": 25624
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ROMAN.map",
+        "path_type": "hardlink",
+        "sha256": "01d0b4b21dacab5d16af1489974329392dba0ecd5507e879cfb87fec88b722a8",
+        "sha256_in_prefix": "01d0b4b21dacab5d16af1489974329392dba0ecd5507e879cfb87fec88b722a8",
+        "size_in_bytes": 362
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/ROMANIAN.map",
+        "path_type": "hardlink",
+        "sha256": "cccb563ef9a32144fcdc6169e0e303b0657ffb6799894c926d0bda8b00ccdd30",
+        "sha256_in_prefix": "cccb563ef9a32144fcdc6169e0e303b0657ffb6799894c926d0bda8b00ccdd30",
+        "size_in_bytes": 391
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/SYMBOL.map",
+        "path_type": "hardlink",
+        "sha256": "135d4236da653bf0f41dd8e58dc7eca4051e4ec2ccb17e263d41734e7fb4621c",
+        "sha256_in_prefix": "135d4236da653bf0f41dd8e58dc7eca4051e4ec2ccb17e263d41734e7fb4621c",
+        "size_in_bytes": 492
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/THAI.map",
+        "path_type": "hardlink",
+        "sha256": "1942d0a886f59b59170d56a5b06c3aed33bc47f7d2f0f385299710ae14e10e09",
+        "sha256_in_prefix": "1942d0a886f59b59170d56a5b06c3aed33bc47f7d2f0f385299710ae14e10e09",
+        "size_in_bytes": 192
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/APPLE/TURKISH.map",
+        "path_type": "hardlink",
+        "sha256": "9cc240bd83f49fb9749aa672e0132fdd4cdda02c9ccdbfdebf429581ee0bd9cf",
+        "sha256_in_prefix": "9cc240bd83f49fb9749aa672e0132fdd4cdda02c9ccdbfdebf429581ee0bd9cf",
+        "size_in_bytes": 359
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/BIG5.map",
+        "path_type": "hardlink",
+        "sha256": "30928c72a3d06ea74524a47f7c16cc71ce48a7e47b0047b0baf28f6753d3098b",
+        "sha256_in_prefix": "30928c72a3d06ea74524a47f7c16cc71ce48a7e47b0047b0baf28f6753d3098b",
+        "size_in_bytes": 38674
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/CNS-11643-1986.map",
+        "path_type": "hardlink",
+        "sha256": "b85f9e20a550098a8f979b8d0316deb7f31929251cfc01aa1efe8f5e089e4c53",
+        "sha256_in_prefix": "b85f9e20a550098a8f979b8d0316deb7f31929251cfc01aa1efe8f5e089e4c53",
+        "size_in_bytes": 58443
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/EUC-JP.map",
+        "path_type": "hardlink",
+        "sha256": "003a20f2428a42fa89bcf7f42dcc49a90c58b5675b5a50816d9b9bf7dffe0383",
+        "sha256_in_prefix": "003a20f2428a42fa89bcf7f42dcc49a90c58b5675b5a50816d9b9bf7dffe0383",
+        "size_in_bytes": 49717
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/EUC-KR.map",
+        "path_type": "hardlink",
+        "sha256": "8e00d5efa4d02e1467c454a883a5533ccaeccce6b568e881a7c5d68470189759",
+        "sha256_in_prefix": "8e00d5efa4d02e1467c454a883a5533ccaeccce6b568e881a7c5d68470189759",
+        "size_in_bytes": 26188
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/GB12345-80.map",
+        "path_type": "hardlink",
+        "sha256": "b1b539fe296aa2ada0486f7714b9e24f2585d11a372f06babadf52c671397c4e",
+        "sha256_in_prefix": "b1b539fe296aa2ada0486f7714b9e24f2585d11a372f06babadf52c671397c4e",
+        "size_in_bytes": 21043
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/GB2312-80.map",
+        "path_type": "hardlink",
+        "sha256": "a09e5d1f3629cd0cc6536a97ff10fefe652dac269107398dc050adb4cc4080d7",
+        "sha256_in_prefix": "a09e5d1f3629cd0cc6536a97ff10fefe652dac269107398dc050adb4cc4080d7",
+        "size_in_bytes": 19942
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/GB2312.map",
+        "path_type": "hardlink",
+        "sha256": "7a18dc9473f495a844a65f6f92628f506a42ba4103f09bbf4941e2396a59fcc6",
+        "sha256_in_prefix": "7a18dc9473f495a844a65f6f92628f506a42ba4103f09bbf4941e2396a59fcc6",
+        "size_in_bytes": 19962
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JIS-X-0201.map",
+        "path_type": "hardlink",
+        "sha256": "83ac258b20b1c11156cebb0e5d365b0eec835978716e58e2da31d215759b6b9d",
+        "sha256_in_prefix": "83ac258b20b1c11156cebb0e5d365b0eec835978716e58e2da31d215759b6b9d",
+        "size_in_bytes": 44
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JIS-X-0208.map",
+        "path_type": "hardlink",
+        "sha256": "14a4fb169c20d4ae4dc5462d02a46131e96315dbf504a10e2f596cd1098004ae",
+        "sha256_in_prefix": "14a4fb169c20d4ae4dc5462d02a46131e96315dbf504a10e2f596cd1098004ae",
+        "size_in_bytes": 19318
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JIS-X-0212.map",
+        "path_type": "hardlink",
+        "sha256": "22d5375002a4dc1da2c2c97ac802b05d7a18cc213641a69761ee452810512eac",
+        "sha256_in_prefix": "22d5375002a4dc1da2c2c97ac802b05d7a18cc213641a69761ee452810512eac",
+        "size_in_bytes": 12991
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/JOHAB.map",
+        "path_type": "hardlink",
+        "sha256": "7423a06d82055b11ea8de2a6ada49e503517d5c62e7ea6457041bb2b79815d35",
+        "sha256_in_prefix": "7423a06d82055b11ea8de2a6ada49e503517d5c62e7ea6457041bb2b79815d35",
+        "size_in_bytes": 20467
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/KSC1001.map",
+        "path_type": "hardlink",
+        "sha256": "e8369281ba150fdfb5dc63c4ab9a8dfe987f82c1e73eee9c05fb7c17278d1221",
+        "sha256_in_prefix": "e8369281ba150fdfb5dc63c4ab9a8dfe987f82c1e73eee9c05fb7c17278d1221",
+        "size_in_bytes": 20299
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/KSC5601-1992.map",
+        "path_type": "hardlink",
+        "sha256": "81c4c6fb6e5b3e78a1594e322554b59298ed52deac18108612dd263e582a0a24",
+        "sha256_in_prefix": "81c4c6fb6e5b3e78a1594e322554b59298ed52deac18108612dd263e582a0a24",
+        "size_in_bytes": 26173
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/EASTASIA/SHIFTJIS.map",
+        "path_type": "hardlink",
+        "sha256": "b427b074da8be6789c2d24e6e1f40751bf5674e8ca4e9997a38196c399d0f28f",
+        "sha256_in_prefix": "b427b074da8be6789c2d24e6e1f40751bf5674e8ca4e9997a38196c399d0f28f",
+        "size_in_bytes": 19359
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/IBM/IBM038.map",
+        "path_type": "hardlink",
+        "sha256": "e29c4205df19fbb029c7ce9280c02f38fb818aea9eeceb96bbf0d755f099ba66",
+        "sha256_in_prefix": "e29c4205df19fbb029c7ce9280c02f38fb818aea9eeceb96bbf0d755f099ba66",
+        "size_in_bytes": 266
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-1.map",
+        "path_type": "hardlink",
+        "sha256": "5482ddfc79bc34e343d4c7176cc1e9352564e71fbbdcafd6ca3e06005aab533c",
+        "sha256_in_prefix": "5482ddfc79bc34e343d4c7176cc1e9352564e71fbbdcafd6ca3e06005aab533c",
+        "size_in_bytes": 35
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-10.map",
+        "path_type": "hardlink",
+        "sha256": "f6fbcb20f896a9d0d30bca09ab2a0109cae26745e68b3f3a44cc214396cdccc9",
+        "sha256_in_prefix": "f6fbcb20f896a9d0d30bca09ab2a0109cae26745e68b3f3a44cc214396cdccc9",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-13.map",
+        "path_type": "hardlink",
+        "sha256": "754038ef0090909ce7ae878baee57c3f1d2b94afb480035f5d58443318cb20a6",
+        "sha256_in_prefix": "754038ef0090909ce7ae878baee57c3f1d2b94afb480035f5d58443318cb20a6",
+        "size_in_bytes": 257
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-14.map",
+        "path_type": "hardlink",
+        "sha256": "891939c813451b67532617fde9bea3a07279efa223f5dbf0aaa340c88ef0910a",
+        "sha256_in_prefix": "891939c813451b67532617fde9bea3a07279efa223f5dbf0aaa340c88ef0910a",
+        "size_in_bytes": 143
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-15.map",
+        "path_type": "hardlink",
+        "sha256": "7854777af63775248f68f9a8b836abe8585b5031a5ef27971f849618de395173",
+        "sha256_in_prefix": "7854777af63775248f68f9a8b836abe8585b5031a5ef27971f849618de395173",
+        "size_in_bytes": 74
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-2.map",
+        "path_type": "hardlink",
+        "sha256": "6c03a004dd271d66bdd99e756f27534b65679fcc9327e7b42b18c2a8952bcf2c",
+        "sha256_in_prefix": "6c03a004dd271d66bdd99e756f27534b65679fcc9327e7b42b18c2a8952bcf2c",
+        "size_in_bytes": 284
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-3.map",
+        "path_type": "hardlink",
+        "sha256": "c0d86c59e4453ff5bd549aa0f55182982bdf4e495255c412d5cbf989997e0d0e",
+        "sha256_in_prefix": "c0d86c59e4453ff5bd549aa0f55182982bdf4e495255c412d5cbf989997e0d0e",
+        "size_in_bytes": 185
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-4.map",
+        "path_type": "hardlink",
+        "sha256": "8522a4f353b1059800577bf15bf6889bd6340a2f63145ef792d7b41f0e374364",
+        "sha256_in_prefix": "8522a4f353b1059800577bf15bf6889bd6340a2f63145ef792d7b41f0e374364",
+        "size_in_bytes": 239
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-5.map",
+        "path_type": "hardlink",
+        "sha256": "d766ad4d85ba5009330bc373d2996cdb85b3d60b408657f08e43ee9a3f8ce788",
+        "sha256_in_prefix": "d766ad4d85ba5009330bc373d2996cdb85b3d60b408657f08e43ee9a3f8ce788",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-6.map",
+        "path_type": "hardlink",
+        "sha256": "ed36c3cdfc0cf288ec524457c0e0ebe5b27ccce7fd0ccd784a8394073a8972b6",
+        "sha256_in_prefix": "ed36c3cdfc0cf288ec524457c0e0ebe5b27ccce7fd0ccd784a8394073a8972b6",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-7.map",
+        "path_type": "hardlink",
+        "sha256": "87c92f48d76439e54d6a0c8513bac5d091ac3a4c1fa82f44fc13038001a6061b",
+        "sha256_in_prefix": "87c92f48d76439e54d6a0c8513bac5d091ac3a4c1fa82f44fc13038001a6061b",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-8.map",
+        "path_type": "hardlink",
+        "sha256": "13d8f03eeb5ceb1b093da30e8371639e14ad3a6ccd59183c5694f80a70d7182d",
+        "sha256_in_prefix": "13d8f03eeb5ceb1b093da30e8371639e14ad3a6ccd59183c5694f80a70d7182d",
+        "size_in_bytes": 60
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/8859-9.map",
+        "path_type": "hardlink",
+        "sha256": "8df92a993037abeea10b301d57860e7b9228f3764075a195f4e9702ecc282da0",
+        "sha256_in_prefix": "8df92a993037abeea10b301d57860e7b9228f3764075a195f4e9702ecc282da0",
+        "size_in_bytes": 62
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/ISO/ISO646-US.map",
+        "path_type": "hardlink",
+        "sha256": "d01d1bc3b249f9ce39520567fdac41e646d579ca2fa0280ac6cd002f7b29da89",
+        "sha256_in_prefix": "d01d1bc3b249f9ce39520567fdac41e646d579ca2fa0280ac6cd002f7b29da89",
+        "size_in_bytes": 30
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP437.map",
+        "path_type": "hardlink",
+        "sha256": "aa4ddf78fad84d41ceedc17c9ed7985e9d10824411696ff296e6333aec42f22a",
+        "sha256_in_prefix": "aa4ddf78fad84d41ceedc17c9ed7985e9d10824411696ff296e6333aec42f22a",
+        "size_in_bytes": 383
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP737.map",
+        "path_type": "hardlink",
+        "sha256": "437d956660c0d14ffad790ad120f443b5963bbfdc98a33ce3e6c0da2f0b13e91",
+        "sha256_in_prefix": "437d956660c0d14ffad790ad120f443b5963bbfdc98a33ce3e6c0da2f0b13e91",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP775.map",
+        "path_type": "hardlink",
+        "sha256": "a63cb27eaad162c52b3321181f31f2cf3d56cd37139b6adc271475a0a0dd1219",
+        "sha256_in_prefix": "a63cb27eaad162c52b3321181f31f2cf3d56cd37139b6adc271475a0a0dd1219",
+        "size_in_bytes": 392
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP850.map",
+        "path_type": "hardlink",
+        "sha256": "faa3454a3f4b0ca5fd992f4f776c26ab32f4db58f428644cb7b9be42030b3fe6",
+        "sha256_in_prefix": "faa3454a3f4b0ca5fd992f4f776c26ab32f4db58f428644cb7b9be42030b3fe6",
+        "size_in_bytes": 389
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP852.map",
+        "path_type": "hardlink",
+        "sha256": "6edd1aad6c12ac4efaaecd2ccb203f30ce4dcab4a43521b00b4526aa663457b0",
+        "sha256_in_prefix": "6edd1aad6c12ac4efaaecd2ccb203f30ce4dcab4a43521b00b4526aa663457b0",
+        "size_in_bytes": 365
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP855.map",
+        "path_type": "hardlink",
+        "sha256": "b236d1bc0b25c5fa9f02245f60d59703ade26c7838a2fe39200c82175adc21ed",
+        "sha256_in_prefix": "b236d1bc0b25c5fa9f02245f60d59703ade26c7838a2fe39200c82175adc21ed",
+        "size_in_bytes": 410
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP857.map",
+        "path_type": "hardlink",
+        "sha256": "fe2c2cd339efe382675c5c19e2bc3f64526ed7a8afcd5de32ed80a400cdce763",
+        "sha256_in_prefix": "fe2c2cd339efe382675c5c19e2bc3f64526ed7a8afcd5de32ed80a400cdce763",
+        "size_in_bytes": 378
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP860.map",
+        "path_type": "hardlink",
+        "sha256": "00b59b2798bec4adef704e94892c885174ee277d6b94aa4ffa98377e91a00c0e",
+        "sha256_in_prefix": "00b59b2798bec4adef704e94892c885174ee277d6b94aa4ffa98377e91a00c0e",
+        "size_in_bytes": 383
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP861.map",
+        "path_type": "hardlink",
+        "sha256": "1adb83a764c3a44359a4faa1abceb1205f389c8533f88ed70029cde3736f0396",
+        "sha256_in_prefix": "1adb83a764c3a44359a4faa1abceb1205f389c8533f88ed70029cde3736f0396",
+        "size_in_bytes": 386
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP862.map",
+        "path_type": "hardlink",
+        "sha256": "647eedda2f5b46a1b0e8b5cf5e1a17b1fe56eff1a7e640ade8dc456be8f1f308",
+        "sha256_in_prefix": "647eedda2f5b46a1b0e8b5cf5e1a17b1fe56eff1a7e640ade8dc456be8f1f308",
+        "size_in_bytes": 311
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP863.map",
+        "path_type": "hardlink",
+        "sha256": "ff8662da13021d1e81957a00ec8866c296becb27f276ca3384fe8db8a856fef4",
+        "sha256_in_prefix": "ff8662da13021d1e81957a00ec8866c296becb27f276ca3384fe8db8a856fef4",
+        "size_in_bytes": 386
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP864.map",
+        "path_type": "hardlink",
+        "sha256": "d2de2f6ad81edba0b92059afa5b58ebd5666cc9f3e715ca6287ae633e535ba2c",
+        "sha256_in_prefix": "d2de2f6ad81edba0b92059afa5b58ebd5666cc9f3e715ca6287ae633e535ba2c",
+        "size_in_bytes": 360
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP865.map",
+        "path_type": "hardlink",
+        "sha256": "57881b27ea2c621e2f6de756c755e2228f53e3d39c14f00d7b6a3198cfe6326c",
+        "sha256_in_prefix": "57881b27ea2c621e2f6de756c755e2228f53e3d39c14f00d7b6a3198cfe6326c",
+        "size_in_bytes": 386
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP866.map",
+        "path_type": "hardlink",
+        "sha256": "2a57551df63d50e9b839df6975ac2ed43d393779d53638a31e710d96b1f03a42",
+        "sha256_in_prefix": "2a57551df63d50e9b839df6975ac2ed43d393779d53638a31e710d96b1f03a42",
+        "size_in_bytes": 209
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP869.map",
+        "path_type": "hardlink",
+        "sha256": "4420ef80cbf41cc6f570b4232eaea4f80ff1db6a88b0c606f7548fd6691cf839",
+        "sha256_in_prefix": "4420ef80cbf41cc6f570b4232eaea4f80ff1db6a88b0c606f7548fd6691cf839",
+        "size_in_bytes": 267
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/DOS/CP874.map",
+        "path_type": "hardlink",
+        "sha256": "5aab90ddbfae6d7d81a22b2407c6807af74d055b7b9c512349f666090c4c2c52",
+        "sha256_in_prefix": "5aab90ddbfae6d7d81a22b2407c6807af74d055b7b9c512349f666090c4c2c52",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP037.map",
+        "path_type": "hardlink",
+        "sha256": "49616521a2f61189b635ef8d4c1b5153a7afc672d68c24cc32d345c8408bd8f0",
+        "sha256_in_prefix": "49616521a2f61189b635ef8d4c1b5153a7afc672d68c24cc32d345c8408bd8f0",
+        "size_in_bytes": 467
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP1026.map",
+        "path_type": "hardlink",
+        "sha256": "9cdb1a707774b8e136b9a6dd7faab728251797a6ba1aabaee2451c59dc334773",
+        "sha256_in_prefix": "9cdb1a707774b8e136b9a6dd7faab728251797a6ba1aabaee2451c59dc334773",
+        "size_in_bytes": 476
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP500.map",
+        "path_type": "hardlink",
+        "sha256": "8b20fdffb99c082d6ea119dc2ee977688bf0ce79480e7714a2338312e38014ad",
+        "sha256_in_prefix": "8b20fdffb99c082d6ea119dc2ee977688bf0ce79480e7714a2338312e38014ad",
+        "size_in_bytes": 464
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/EBCDIC/CP875.map",
+        "path_type": "hardlink",
+        "sha256": "eefa7244597110e6aef93c733beb9c8c0b7f7813dce43ad871500657f1bfdc68",
+        "sha256_in_prefix": "eefa7244597110e6aef93c733beb9c8c0b7f7813dce43ad871500657f1bfdc68",
+        "size_in_bytes": 389
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/CYRILLIC.map",
+        "path_type": "hardlink",
+        "sha256": "aad21d413173103c9d5cf349b1d52b5d735e57091d194b624783c4431bb0d3b9",
+        "sha256_in_prefix": "aad21d413173103c9d5cf349b1d52b5d735e57091d194b624783c4431bb0d3b9",
+        "size_in_bytes": 218
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/GREEK.map",
+        "path_type": "hardlink",
+        "sha256": "32ef009dc319cf8818e1ba91ce8c6c06f81563e39619ed42649de4acec211370",
+        "sha256_in_prefix": "32ef009dc319cf8818e1ba91ce8c6c06f81563e39619ed42649de4acec211370",
+        "size_in_bytes": 345
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/ICELAND.map",
+        "path_type": "hardlink",
+        "sha256": "917cd428534e1bd7c1f3b3d2572ea5f6da506dde24c5422b3d87bc2cdbf31020",
+        "sha256_in_prefix": "917cd428534e1bd7c1f3b3d2572ea5f6da506dde24c5422b3d87bc2cdbf31020",
+        "size_in_bytes": 365
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/LATIN2.map",
+        "path_type": "hardlink",
+        "sha256": "4897c7d51911b89bd77c72ff1787fd06f605ab7bda928674a6087bf56be0d18e",
+        "sha256_in_prefix": "4897c7d51911b89bd77c72ff1787fd06f605ab7bda928674a6087bf56be0d18e",
+        "size_in_bytes": 338
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/ROMAN.map",
+        "path_type": "hardlink",
+        "sha256": "ca7b7eab3bb6fe133ac0482de46920bbc412ce10298f42b38160aed42e330193",
+        "sha256_in_prefix": "ca7b7eab3bb6fe133ac0482de46920bbc412ce10298f42b38160aed42e330193",
+        "size_in_bytes": 359
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/MAC/TURKISH.map",
+        "path_type": "hardlink",
+        "sha256": "77acc8f17c010dd40f6a043c7384c1682ec8fa4eaf8a711a3499fa533637fece",
+        "sha256_in_prefix": "77acc8f17c010dd40f6a043c7384c1682ec8fa4eaf8a711a3499fa533637fece",
+        "size_in_bytes": 355
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1250.map",
+        "path_type": "hardlink",
+        "sha256": "2a40b13bf3321c4617f35d8986bdc862d3b04922e58c5f4f411e35ebd2889e16",
+        "sha256_in_prefix": "2a40b13bf3321c4617f35d8986bdc862d3b04922e58c5f4f411e35ebd2889e16",
+        "size_in_bytes": 334
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1251.map",
+        "path_type": "hardlink",
+        "sha256": "c4d6e7012d188b82cb55402dcabf82712604f215cad7ccf3f37f3d261e74eeb1",
+        "sha256_in_prefix": "c4d6e7012d188b82cb55402dcabf82712604f215cad7ccf3f37f3d261e74eeb1",
+        "size_in_bytes": 188
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1252.map",
+        "path_type": "hardlink",
+        "sha256": "be1a85bcaca25089376a02026ace06cf1ba63f03d5e6fc8c886e82a9ed7fb056",
+        "sha256_in_prefix": "be1a85bcaca25089376a02026ace06cf1ba63f03d5e6fc8c886e82a9ed7fb056",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1253.map",
+        "path_type": "hardlink",
+        "sha256": "7e0209c9dfe65cf17b11d0bc6e44f22a61dec997716be0fd07c1c2ad8aef1033",
+        "sha256_in_prefix": "7e0209c9dfe65cf17b11d0bc6e44f22a61dec997716be0fd07c1c2ad8aef1033",
+        "size_in_bytes": 132
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1254.map",
+        "path_type": "hardlink",
+        "sha256": "6423485eac83dbb175cda5a92acf57c2ce496dc4c567837c9695da49deaddf46",
+        "sha256_in_prefix": "6423485eac83dbb175cda5a92acf57c2ce496dc4c567837c9695da49deaddf46",
+        "size_in_bytes": 132
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1255.map",
+        "path_type": "hardlink",
+        "sha256": "929f41297ede243bf291f443cca6d8de5dff4f065cef612e8f6e19ed2c7c91d1",
+        "sha256_in_prefix": "929f41297ede243bf291f443cca6d8de5dff4f065cef612e8f6e19ed2c7c91d1",
+        "size_in_bytes": 130
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1256.map",
+        "path_type": "hardlink",
+        "sha256": "a3c11315ae0142b78a882208bd05b9716c426761183a8b843d4fe6011ee999c1",
+        "sha256_in_prefix": "a3c11315ae0142b78a882208bd05b9716c426761183a8b843d4fe6011ee999c1",
+        "size_in_bytes": 203
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1257.map",
+        "path_type": "hardlink",
+        "sha256": "ef35d8bb2fbd2d855d43f177f6a6aa5383374d82d2369951cce392f4512d8f31",
+        "sha256_in_prefix": "ef35d8bb2fbd2d855d43f177f6a6aa5383374d82d2369951cce392f4512d8f31",
+        "size_in_bytes": 324
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP1258.map",
+        "path_type": "hardlink",
+        "sha256": "720de8aea22bc49e0635335a79c9d6e69adaec4a8f23ecba2a1e571f353efada",
+        "sha256_in_prefix": "720de8aea22bc49e0635335a79c9d6e69adaec4a8f23ecba2a1e571f353efada",
+        "size_in_bytes": 178
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP932.map",
+        "path_type": "hardlink",
+        "sha256": "8256105f64b1191fedd51e30d10a9db0419d8a7b2bbf0ce4839caaedf2d48d7c",
+        "sha256_in_prefix": "8256105f64b1191fedd51e30d10a9db0419d8a7b2bbf0ce4839caaedf2d48d7c",
+        "size_in_bytes": 21675
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP936.map",
+        "path_type": "hardlink",
+        "sha256": "f3aa6ed39002916d46212495f509e42bb1dc79cb299f618967fb1f2ac224b5b5",
+        "sha256_in_prefix": "f3aa6ed39002916d46212495f509e42bb1dc79cb299f618967fb1f2ac224b5b5",
+        "size_in_bytes": 31882
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP949.map",
+        "path_type": "hardlink",
+        "sha256": "eeef9b6b723fcc9c8c7e6a886fc87e0113db27cbccd2db8279185704d24f3193",
+        "sha256_in_prefix": "eeef9b6b723fcc9c8c7e6a886fc87e0113db27cbccd2db8279185704d24f3193",
+        "size_in_bytes": 26194
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/MS/WIN/CP950.map",
+        "path_type": "hardlink",
+        "sha256": "c80c856fe4614446abba87cf57306b2f233a2460ead18058c51e80d61f79b456",
+        "sha256_in_prefix": "c80c856fe4614446abba87cf57306b2f233a2460ead18058c51e80d61f79b456",
+        "size_in_bytes": 38752
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/NEXT/NEXTSTEP.map",
+        "path_type": "hardlink",
+        "sha256": "f88097c4afeebc9449f4f78192e10f009e83821875f569a2c0e0480b1960bc65",
+        "sha256_in_prefix": "f88097c4afeebc9449f4f78192e10f009e83821875f569a2c0e0480b1960bc65",
+        "size_in_bytes": 249
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Unicode/Map/REGISTRY",
+        "path_type": "hardlink",
+        "sha256": "ca3f643c9f2600c7579d012751a64cd76982e5b0a90c31bc670df3223cc0d54f",
+        "sha256_in_prefix": "ca3f643c9f2600c7579d012751a64cd76982e5b0a90c31bc670df3223cc0d54f",
+        "size_in_bytes": 23802
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Unicode/Map/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "32787a2bf715c11fdb756a8bb2f5ceb8721060bbb1a0ad60e21d9c69dc6a4db7",
+        "sha256_in_prefix": "554310d4ccce931baa79a7cd260551ae22c106f8af749ee2d6fbceaf4f532341",
+        "size_in_bytes": 15929
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Unicode/Map/Map.so",
+        "path_type": "hardlink",
+        "sha256": "99c17b6b072964239a6de1fef2188ed3493cfe4f88d7d26d6ad175af99d7ea11",
+        "sha256_in_prefix": "99c17b6b072964239a6de1fef2188ed3493cfe4f88d7d26d6ad175af99d7ea11",
+        "size_in_bytes": 25768
+      },
+      {
+        "_path": "man/man1/map.1",
+        "path_type": "hardlink",
+        "sha256": "eb364f8b5e026c25061642792b14dd412658310f31c2ae873c85eabebc7ebd93",
+        "sha256_in_prefix": "eb364f8b5e026c25061642792b14dd412658310f31c2ae873c85eabebc7ebd93",
+        "size_in_bytes": 3501
+      },
+      {
+        "_path": "man/man1/mkmapfile.1",
+        "path_type": "hardlink",
+        "sha256": "94a777b26656f4b68337a0bfc9b35d911ba2fd8028373c7e859bee7c71771124",
+        "sha256_in_prefix": "94a777b26656f4b68337a0bfc9b35d911ba2fd8028373c7e859bee7c71771124",
+        "size_in_bytes": 2626
+      },
+      {
+        "_path": "man/man3/Unicode::Map.3",
+        "path_type": "hardlink",
+        "sha256": "b986f2d4a06c88996a2a3e4a43a013d5692f87d649fc5be820473ac77263fe3b",
+        "sha256_in_prefix": "b986f2d4a06c88996a2a3e4a43a013d5692f87d649fc5be820473ac77263fe3b",
+        "size_in_bytes": 12486
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "066d693f7444de8d18a62773c9384b834c2d4077129b6d99588f5faba6b07603",
+  "size": 259999,
+  "subdir": "linux-64",
+  "timestamp": 1555969136554,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-unicode-map-0.112-pl526h6bb024c_3.tar.bz2",
+  "version": "0.112"
+}

@@ -1,0 +1,370 @@
+{
+  "build": "pl526_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-math-derivative",
+    "perl-math-spline",
+    "perl-statistics-descriptive",
+    "perl-svg",
+    "perl-tree-dag_node"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-svg-graph-0.02-pl526_3",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/SVG/Frame.pm",
+    "lib/site_perl/5.26.2/SVG/Graph.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Data.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Data/Datum.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Data/Node.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Data/Tree.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/File.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Frame.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/axis.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/bar.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/barflex.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/bezier.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/bubble.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/heatmap.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/line.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/pictogram.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/scatter.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/tree.pm",
+    "lib/site_perl/5.26.2/SVG/Graph/Glyph/wedge.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/SVG/Graph/.packlist",
+    "man/man3/SVG::Frame.3",
+    "man/man3/SVG::Graph.3",
+    "man/man3/SVG::Graph::Data.3",
+    "man/man3/SVG::Graph::Data::Datum.3",
+    "man/man3/SVG::Graph::Data::Node.3",
+    "man/man3/SVG::Graph::Data::Tree.3",
+    "man/man3/SVG::Graph::File.3",
+    "man/man3/SVG::Graph::Frame.3",
+    "man/man3/SVG::Graph::Glyph.3",
+    "man/man3/SVG::Graph::Glyph::axis.3",
+    "man/man3/SVG::Graph::Glyph::bar.3",
+    "man/man3/SVG::Graph::Glyph::barflex.3",
+    "man/man3/SVG::Graph::Glyph::bezier.3",
+    "man/man3/SVG::Graph::Glyph::bubble.3",
+    "man/man3/SVG::Graph::Glyph::heatmap.3",
+    "man/man3/SVG::Graph::Glyph::line.3",
+    "man/man3/SVG::Graph::Glyph::pictogram.3",
+    "man/man3/SVG::Graph::Glyph::scatter.3",
+    "man/man3/SVG::Graph::Glyph::tree.3",
+    "man/man3/SVG::Graph::Glyph::wedge.3"
+  ],
+  "fn": "perl-svg-graph-0.02-pl526_3.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-svg-graph-0.02-pl526_3",
+    "type": 1
+  },
+  "md5": "1463029642c6a4fdfda96965698088f1",
+  "name": "perl-svg-graph",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-svg-graph-0.02-pl526_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Frame.pm",
+        "path_type": "hardlink",
+        "sha256": "8f259b1ffde9a635e8c22d86dff3dc5c3ff77cd1ea73b2211b4602e3e3bf7b50",
+        "sha256_in_prefix": "8f259b1ffde9a635e8c22d86dff3dc5c3ff77cd1ea73b2211b4602e3e3bf7b50",
+        "size_in_bytes": 10722
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph.pm",
+        "path_type": "hardlink",
+        "sha256": "980716f658ece7f5675bc4a79cc9cd7f119de6527523a298213910f7707931e6",
+        "sha256_in_prefix": "980716f658ece7f5675bc4a79cc9cd7f119de6527523a298213910f7707931e6",
+        "size_in_bytes": 8467
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Data.pm",
+        "path_type": "hardlink",
+        "sha256": "93780104e7cfa9b0abe336e7f334bc2677c055bcf299c7c8937bd3be2c2f2b8b",
+        "sha256_in_prefix": "93780104e7cfa9b0abe336e7f334bc2677c055bcf299c7c8937bd3be2c2f2b8b",
+        "size_in_bytes": 5479
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Data/Datum.pm",
+        "path_type": "hardlink",
+        "sha256": "c3043f9e0b3534504a46a1e3ec26ee68c60483eabed70c1d2148f83cd8540a1d",
+        "sha256_in_prefix": "c3043f9e0b3534504a46a1e3ec26ee68c60483eabed70c1d2148f83cd8540a1d",
+        "size_in_bytes": 1702
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Data/Node.pm",
+        "path_type": "hardlink",
+        "sha256": "1f13210ef1ce6b22b3b16dc332d7062cca27f1c94e8aa8ccf1dd062f9c32a3ac",
+        "sha256_in_prefix": "1f13210ef1ce6b22b3b16dc332d7062cca27f1c94e8aa8ccf1dd062f9c32a3ac",
+        "size_in_bytes": 2435
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Data/Tree.pm",
+        "path_type": "hardlink",
+        "sha256": "176f41342d9db62327b73cdffd73731cd2f6cccf50479c147aa5a07aed0f2e9f",
+        "sha256_in_prefix": "176f41342d9db62327b73cdffd73731cd2f6cccf50479c147aa5a07aed0f2e9f",
+        "size_in_bytes": 1197
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/File.pm",
+        "path_type": "hardlink",
+        "sha256": "dd7317e1252e730d39e2ac04f02757dd64c729ac28b9ac38f649c8bb38adc2b1",
+        "sha256_in_prefix": "dd7317e1252e730d39e2ac04f02757dd64c729ac28b9ac38f649c8bb38adc2b1",
+        "size_in_bytes": 1350
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Frame.pm",
+        "path_type": "hardlink",
+        "sha256": "f75bd64edbf274890e19bf4688cc48e9e8f0d2b6666b22538faaa1cc27f9addb",
+        "sha256_in_prefix": "f75bd64edbf274890e19bf4688cc48e9e8f0d2b6666b22538faaa1cc27f9addb",
+        "size_in_bytes": 13282
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph.pm",
+        "path_type": "hardlink",
+        "sha256": "ba090d0b520fc34930e7a3dfa014e02d4577afade8fcbae872591b6e41a305a0",
+        "sha256_in_prefix": "ba090d0b520fc34930e7a3dfa014e02d4577afade8fcbae872591b6e41a305a0",
+        "size_in_bytes": 3866
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/axis.pm",
+        "path_type": "hardlink",
+        "sha256": "473921f6eea702fecde16afd4c2e7f4b592feceb9806f693f5127e3fe0a5dbc5",
+        "sha256_in_prefix": "473921f6eea702fecde16afd4c2e7f4b592feceb9806f693f5127e3fe0a5dbc5",
+        "size_in_bytes": 8952
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/bar.pm",
+        "path_type": "hardlink",
+        "sha256": "4b97c0a963894eda9ba02410159657b65930273f82cbd01e3450ed9eebffccbc",
+        "sha256_in_prefix": "4b97c0a963894eda9ba02410159657b65930273f82cbd01e3450ed9eebffccbc",
+        "size_in_bytes": 2816
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/barflex.pm",
+        "path_type": "hardlink",
+        "sha256": "9e0a5baf60c9c436c70d1b4c6bdb541a17eb4a887ef8bfc68b988b52f7d1a18d",
+        "sha256_in_prefix": "9e0a5baf60c9c436c70d1b4c6bdb541a17eb4a887ef8bfc68b988b52f7d1a18d",
+        "size_in_bytes": 1172
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/bezier.pm",
+        "path_type": "hardlink",
+        "sha256": "09a85bc5c6ec2254ab40a2a9ff6bb972254c5fab3eac111195115b2b8101785f",
+        "sha256_in_prefix": "09a85bc5c6ec2254ab40a2a9ff6bb972254c5fab3eac111195115b2b8101785f",
+        "size_in_bytes": 5260
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/bubble.pm",
+        "path_type": "hardlink",
+        "sha256": "b12e74ce476e02afc640828ad124a8d9cc5ef65f8bdfbd42252e674e0a9550a1",
+        "sha256_in_prefix": "b12e74ce476e02afc640828ad124a8d9cc5ef65f8bdfbd42252e674e0a9550a1",
+        "size_in_bytes": 797
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/heatmap.pm",
+        "path_type": "hardlink",
+        "sha256": "7597da5d49dcd9dae447be8d8d221c4caa13d6b6e9e3255dbe51042409feaf29",
+        "sha256_in_prefix": "7597da5d49dcd9dae447be8d8d221c4caa13d6b6e9e3255dbe51042409feaf29",
+        "size_in_bytes": 5331
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/line.pm",
+        "path_type": "hardlink",
+        "sha256": "f5c91957641c5f0b6b7c348d13790c3197d02052604c92c0b5f699a56d0b56df",
+        "sha256_in_prefix": "f5c91957641c5f0b6b7c348d13790c3197d02052604c92c0b5f699a56d0b56df",
+        "size_in_bytes": 987
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/pictogram.pm",
+        "path_type": "hardlink",
+        "sha256": "fdec170100aafd900438216843dfa612a79b042ccecb5384b6bd7d367579fd9e",
+        "sha256_in_prefix": "fdec170100aafd900438216843dfa612a79b042ccecb5384b6bd7d367579fd9e",
+        "size_in_bytes": 2323
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/scatter.pm",
+        "path_type": "hardlink",
+        "sha256": "1cc1b8883704f4a8622a0e725a9bce2a7a582553f8dd2f38e21e1e244d706198",
+        "sha256_in_prefix": "1cc1b8883704f4a8622a0e725a9bce2a7a582553f8dd2f38e21e1e244d706198",
+        "size_in_bytes": 607
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/tree.pm",
+        "path_type": "hardlink",
+        "sha256": "8a6b4352586210c40603f0386d3f45b231ccd128da6989f5f9f47b4937083afd",
+        "sha256_in_prefix": "8a6b4352586210c40603f0386d3f45b231ccd128da6989f5f9f47b4937083afd",
+        "size_in_bytes": 3660
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/SVG/Graph/Glyph/wedge.pm",
+        "path_type": "hardlink",
+        "sha256": "37a06a5ac94406751a99607b4e1b528cbda01b500799efcb109a93da497601d8",
+        "sha256_in_prefix": "37a06a5ac94406751a99607b4e1b528cbda01b500799efcb109a93da497601d8",
+        "size_in_bytes": 1642
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/SVG/Graph/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "6358a47dda874948c8ef9b626692fc695996b6c46d0dd58469cd264e96e7a2c3",
+        "sha256_in_prefix": "5d8531474b743bf436667f50d81cffb17833907c0bea0de33c9513310c904620",
+        "size_in_bytes": 5112
+      },
+      {
+        "_path": "man/man3/SVG::Frame.3",
+        "path_type": "hardlink",
+        "sha256": "4015ee6bdccd62725b35a566b268ae02565769446b83ffb3dd70a441ac733150",
+        "sha256_in_prefix": "4015ee6bdccd62725b35a566b268ae02565769446b83ffb3dd70a441ac733150",
+        "size_in_bytes": 6879
+      },
+      {
+        "_path": "man/man3/SVG::Graph.3",
+        "path_type": "hardlink",
+        "sha256": "71cdc8044ddcfedcc9858be64245ed3db15e467deb69c442bedc2872d85a684f",
+        "sha256_in_prefix": "71cdc8044ddcfedcc9858be64245ed3db15e467deb69c442bedc2872d85a684f",
+        "size_in_bytes": 9790
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Data.3",
+        "path_type": "hardlink",
+        "sha256": "30a9e247af2b7f111ec61dc976ec4255afbd1420d138af6837bab4dfb37de801",
+        "sha256_in_prefix": "30a9e247af2b7f111ec61dc976ec4255afbd1420d138af6837bab4dfb37de801",
+        "size_in_bytes": 4181
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Data::Datum.3",
+        "path_type": "hardlink",
+        "sha256": "486ea735ba2765f98e6bf2f0f52a5e414b0316fa221f86785a7586035c0ff669",
+        "sha256_in_prefix": "486ea735ba2765f98e6bf2f0f52a5e414b0316fa221f86785a7586035c0ff669",
+        "size_in_bytes": 2995
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Data::Node.3",
+        "path_type": "hardlink",
+        "sha256": "2cf9290bac15a6bc4c5595406433556c52ea6a31ec5baf610637659c04560533",
+        "sha256_in_prefix": "2cf9290bac15a6bc4c5595406433556c52ea6a31ec5baf610637659c04560533",
+        "size_in_bytes": 3452
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Data::Tree.3",
+        "path_type": "hardlink",
+        "sha256": "ed96646e5d27fe341b3b040f02c58e5ee7323ea7a744380916cb27ebe8438c9d",
+        "sha256_in_prefix": "ed96646e5d27fe341b3b040f02c58e5ee7323ea7a744380916cb27ebe8438c9d",
+        "size_in_bytes": 2869
+      },
+      {
+        "_path": "man/man3/SVG::Graph::File.3",
+        "path_type": "hardlink",
+        "sha256": "d6b04b0ba7c39cd1b93fc6305e7250c98ead9641a37c1c0d13d075e9270a08cf",
+        "sha256_in_prefix": "d6b04b0ba7c39cd1b93fc6305e7250c98ead9641a37c1c0d13d075e9270a08cf",
+        "size_in_bytes": 2811
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Frame.3",
+        "path_type": "hardlink",
+        "sha256": "0dd7d71560304fadc0c06c41df6af103596209f9cfde76511754b9e3418d515d",
+        "sha256_in_prefix": "0dd7d71560304fadc0c06c41df6af103596209f9cfde76511754b9e3418d515d",
+        "size_in_bytes": 7689
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph.3",
+        "path_type": "hardlink",
+        "sha256": "d5fe4f018d372fb2d315cb3722c13965b1fbd26f1e32fa806c26dc7064ec4527",
+        "sha256_in_prefix": "d5fe4f018d372fb2d315cb3722c13965b1fbd26f1e32fa806c26dc7064ec4527",
+        "size_in_bytes": 4523
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::axis.3",
+        "path_type": "hardlink",
+        "sha256": "0f87a8b52da9e75e8ba898936b8f70289635da68679845fccc4aa29d138e93c7",
+        "sha256_in_prefix": "0f87a8b52da9e75e8ba898936b8f70289635da68679845fccc4aa29d138e93c7",
+        "size_in_bytes": 5046
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::bar.3",
+        "path_type": "hardlink",
+        "sha256": "67922ed9fb5aec132696f301403f7e13076d88960cdb68e78c34daf472eb7bb4",
+        "sha256_in_prefix": "67922ed9fb5aec132696f301403f7e13076d88960cdb68e78c34daf472eb7bb4",
+        "size_in_bytes": 2254
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::barflex.3",
+        "path_type": "hardlink",
+        "sha256": "334940bd00b162802126bfcdce25100469ab9c25018eb0b6951916abb6561924",
+        "sha256_in_prefix": "334940bd00b162802126bfcdce25100469ab9c25018eb0b6951916abb6561924",
+        "size_in_bytes": 2262
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::bezier.3",
+        "path_type": "hardlink",
+        "sha256": "d182d1f1ebfb848d0197084776d854a72c09d7832dff45b1fe126587fbdcc18f",
+        "sha256_in_prefix": "d182d1f1ebfb848d0197084776d854a72c09d7832dff45b1fe126587fbdcc18f",
+        "size_in_bytes": 3284
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::bubble.3",
+        "path_type": "hardlink",
+        "sha256": "34ee693eac43e701eabb7e8e9319272ee3d73e169dd3ce882a065eda88dcfe6d",
+        "sha256_in_prefix": "34ee693eac43e701eabb7e8e9319272ee3d73e169dd3ce882a065eda88dcfe6d",
+        "size_in_bytes": 2260
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::heatmap.3",
+        "path_type": "hardlink",
+        "sha256": "7079a808392cf9c93d4e450fdeb79355ebc713be519aae1ab7507811f5a8ee7b",
+        "sha256_in_prefix": "7079a808392cf9c93d4e450fdeb79355ebc713be519aae1ab7507811f5a8ee7b",
+        "size_in_bytes": 2943
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::line.3",
+        "path_type": "hardlink",
+        "sha256": "19dca53e079b36ac85eb6c30d1208a6ec8b8212cc2f11f3dab0c859549e80d29",
+        "sha256_in_prefix": "19dca53e079b36ac85eb6c30d1208a6ec8b8212cc2f11f3dab0c859549e80d29",
+        "size_in_bytes": 2256
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::pictogram.3",
+        "path_type": "hardlink",
+        "sha256": "c66ebf4e6c96cb1ceca24fe56b25c7a2ac08344f17c9543c7049b2aba860cdee",
+        "sha256_in_prefix": "c66ebf4e6c96cb1ceca24fe56b25c7a2ac08344f17c9543c7049b2aba860cdee",
+        "size_in_bytes": 2492
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::scatter.3",
+        "path_type": "hardlink",
+        "sha256": "7267337cf3a956e18d0c1aeb3de9e758e055166d3dded445c677391fd5ab83e4",
+        "sha256_in_prefix": "7267337cf3a956e18d0c1aeb3de9e758e055166d3dded445c677391fd5ab83e4",
+        "size_in_bytes": 2262
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::tree.3",
+        "path_type": "hardlink",
+        "sha256": "ddc4e82653885d5801c2819eb061125024729eb416c819e96f1f8c5718e0ecd7",
+        "sha256_in_prefix": "ddc4e82653885d5801c2819eb061125024729eb416c819e96f1f8c5718e0ecd7",
+        "size_in_bytes": 2386
+      },
+      {
+        "_path": "man/man3/SVG::Graph::Glyph::wedge.3",
+        "path_type": "hardlink",
+        "sha256": "c1809975028e3106b2770d2155c5c69ab0b10cf28c61653ff359ff9906b592ac",
+        "sha256_in_prefix": "c1809975028e3106b2770d2155c5c69ab0b10cf28c61653ff359ff9906b592ac",
+        "size_in_bytes": 2258
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fe528497ce2c304b14ba355928cdf24a9c8f5d76395e9d61aaaafc142fe80aa1",
+  "size": 26373,
+  "subdir": "linux-64",
+  "timestamp": 1552534791118,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-svg-graph-0.02-pl526_3.tar.bz2",
+  "version": "0.02"
+}

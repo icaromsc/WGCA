@@ -1,0 +1,4 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Jcode.pm relocate_as=../../../Jcode.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Jcode/Nihongo.pod relocate_as=../../../Jcode/Nihongo.pod
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Jcode.3 relocate_as=../../../../../../man/man3/Jcode.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Jcode::Nihongo.3 relocate_as=../../../../../../man/man3/Jcode::Nihongo.3

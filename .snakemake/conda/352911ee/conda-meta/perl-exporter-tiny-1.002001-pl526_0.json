@@ -1,0 +1,141 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-exporter-tiny-1.002001-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Exporter/Shiny.pm",
+    "lib/site_perl/5.26.2/Exporter/Tiny.pm",
+    "lib/site_perl/5.26.2/Exporter/Tiny/Manual/Etc.pod",
+    "lib/site_perl/5.26.2/Exporter/Tiny/Manual/Exporting.pod",
+    "lib/site_perl/5.26.2/Exporter/Tiny/Manual/Importing.pod",
+    "lib/site_perl/5.26.2/Exporter/Tiny/Manual/QuickStart.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Exporter/Tiny/.packlist",
+    "man/man3/Exporter::Shiny.3",
+    "man/man3/Exporter::Tiny.3",
+    "man/man3/Exporter::Tiny::Manual::Etc.3",
+    "man/man3/Exporter::Tiny::Manual::Exporting.3",
+    "man/man3/Exporter::Tiny::Manual::Importing.3",
+    "man/man3/Exporter::Tiny::Manual::QuickStart.3"
+  ],
+  "fn": "perl-exporter-tiny-1.002001-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-exporter-tiny-1.002001-pl526_0",
+    "type": 1
+  },
+  "md5": "b84ce6dbb823c77ddba901d1083c2e84",
+  "name": "perl-exporter-tiny",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-exporter-tiny-1.002001-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Exporter/Shiny.pm",
+        "path_type": "hardlink",
+        "sha256": "c4905889952e5008158db0eabdf2129e6d312655014ed1fa16b4a2c46ad88a11",
+        "sha256_in_prefix": "c4905889952e5008158db0eabdf2129e6d312655014ed1fa16b4a2c46ad88a11",
+        "size_in_bytes": 2485
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Exporter/Tiny.pm",
+        "path_type": "hardlink",
+        "sha256": "5dd7c630bd1cf03f419f0e5aa6065d08d2a084e319ece82f2a06a7c762169ec8",
+        "sha256_in_prefix": "5dd7c630bd1cf03f419f0e5aa6065d08d2a084e319ece82f2a06a7c762169ec8",
+        "size_in_bytes": 13549
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Exporter/Tiny/Manual/Etc.pod",
+        "path_type": "hardlink",
+        "sha256": "3e080e8653b3b717c52dad07fcfc84c31766a9034c9c3b881ff41301a19b378a",
+        "sha256_in_prefix": "3e080e8653b3b717c52dad07fcfc84c31766a9034c9c3b881ff41301a19b378a",
+        "size_in_bytes": 4629
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Exporter/Tiny/Manual/Exporting.pod",
+        "path_type": "hardlink",
+        "sha256": "293f6a8c2d4dacb49b775b24547a2f4845487bd6549b08a82f06dd89281111c8",
+        "sha256_in_prefix": "293f6a8c2d4dacb49b775b24547a2f4845487bd6549b08a82f06dd89281111c8",
+        "size_in_bytes": 8572
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Exporter/Tiny/Manual/Importing.pod",
+        "path_type": "hardlink",
+        "sha256": "b30bb287d84da14a188de33cffbb886aeefc006338bdea42c9692b851d496b41",
+        "sha256_in_prefix": "b30bb287d84da14a188de33cffbb886aeefc006338bdea42c9692b851d496b41",
+        "size_in_bytes": 7277
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Exporter/Tiny/Manual/QuickStart.pod",
+        "path_type": "hardlink",
+        "sha256": "02201691ea56dd237b75984d680ac5d6c1152d09c761ef6376a2a3df84c18109",
+        "sha256_in_prefix": "02201691ea56dd237b75984d680ac5d6c1152d09c761ef6376a2a3df84c18109",
+        "size_in_bytes": 4298
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Exporter/Tiny/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "5e0caf71136df75ea77498f3b96935f115437a449d600c8d6b6ba3c4c9581d41",
+        "sha256_in_prefix": "f8ae1b89f4ba82a15257f556b0d64be6064e3a62e778439c59a140e55976b867",
+        "size_in_bytes": 1660
+      },
+      {
+        "_path": "man/man3/Exporter::Shiny.3",
+        "path_type": "hardlink",
+        "sha256": "a48afdf5d623e1aa14d7cbab629350566e1f9075373ca630fb4f268c7744d06f",
+        "sha256_in_prefix": "a48afdf5d623e1aa14d7cbab629350566e1f9075373ca630fb4f268c7744d06f",
+        "size_in_bytes": 4049
+      },
+      {
+        "_path": "man/man3/Exporter::Tiny.3",
+        "path_type": "hardlink",
+        "sha256": "cfea36086db1756fee9daaf1322c4db90cd588993d686931a134ea23d7ee4fdc",
+        "sha256_in_prefix": "cfea36086db1756fee9daaf1322c4db90cd588993d686931a134ea23d7ee4fdc",
+        "size_in_bytes": 4541
+      },
+      {
+        "_path": "man/man3/Exporter::Tiny::Manual::Etc.3",
+        "path_type": "hardlink",
+        "sha256": "ac8f996d608fe7eee4d1d5b9470e1ddeb36a3ab631edc14f424cf3cdc580e680",
+        "sha256_in_prefix": "ac8f996d608fe7eee4d1d5b9470e1ddeb36a3ab631edc14f424cf3cdc580e680",
+        "size_in_bytes": 7303
+      },
+      {
+        "_path": "man/man3/Exporter::Tiny::Manual::Exporting.3",
+        "path_type": "hardlink",
+        "sha256": "8e876dbc7262ea7bf35cd004eacb2c423e501705e658852a34a0faafb78e1974",
+        "sha256_in_prefix": "8e876dbc7262ea7bf35cd004eacb2c423e501705e658852a34a0faafb78e1974",
+        "size_in_bytes": 12717
+      },
+      {
+        "_path": "man/man3/Exporter::Tiny::Manual::Importing.3",
+        "path_type": "hardlink",
+        "sha256": "322bcdf1d5591d2de77f9585cbde52748e2c7c72bafffc5403208ea398f68236",
+        "sha256_in_prefix": "322bcdf1d5591d2de77f9585cbde52748e2c7c72bafffc5403208ea398f68236",
+        "size_in_bytes": 11098
+      },
+      {
+        "_path": "man/man3/Exporter::Tiny::Manual::QuickStart.3",
+        "path_type": "hardlink",
+        "sha256": "9ef9457782ff09988df466dae0a9532a2920af5bda0ca568115f158437d5b4b8",
+        "sha256_in_prefix": "9ef9457782ff09988df466dae0a9532a2920af5bda0ca568115f158437d5b4b8",
+        "size_in_bytes": 7156
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d9603728d081a2b3a7c0009066bf72afab2dce7ae1b2c37c842f9f7f1accf354",
+  "size": 23277,
+  "subdir": "linux-64",
+  "timestamp": 1545135368653,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-exporter-tiny-1.002001-pl526_0.tar.bz2",
+  "version": "1.002001"
+}

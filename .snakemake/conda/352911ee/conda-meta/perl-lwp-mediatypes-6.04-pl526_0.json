@@ -1,0 +1,71 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-carp",
+    "perl-exporter"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-lwp-mediatypes-6.04-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/LWP/MediaTypes.pm",
+    "lib/site_perl/5.26.2/LWP/media.types",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/LWP/MediaTypes/.packlist",
+    "man/man3/LWP::MediaTypes.3"
+  ],
+  "fn": "perl-lwp-mediatypes-6.04-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-lwp-mediatypes-6.04-pl526_0",
+    "type": 1
+  },
+  "md5": "39688aa6f280b77af17f539350fe1744",
+  "name": "perl-lwp-mediatypes",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-lwp-mediatypes-6.04-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/LWP/MediaTypes.pm",
+        "path_type": "hardlink",
+        "sha256": "c5cbe9fd328ecdb7374ad0bd493cc05ea64251a43e1ed97e447b52e8999a1de5",
+        "sha256_in_prefix": "c5cbe9fd328ecdb7374ad0bd493cc05ea64251a43e1ed97e447b52e8999a1de5",
+        "size_in_bytes": 6911
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/LWP/media.types",
+        "path_type": "hardlink",
+        "sha256": "b469fded6cd6a83153b666d10e452036150f7e0f3fd15523577007cc2193d2bc",
+        "sha256_in_prefix": "b469fded6cd6a83153b666d10e452036150f7e0f3fd15523577007cc2193d2bc",
+        "size_in_bytes": 49815
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/LWP/MediaTypes/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "811f54371055bd0d4ca5a8f4219fba1fab2aaab64cd19d03d0303d061389c1d9",
+        "sha256_in_prefix": "c383cab712e600084df2355d5c02f41d181147dc6a0d02890a0006d7f942372d",
+        "size_in_bytes": 344
+      },
+      {
+        "_path": "man/man3/LWP::MediaTypes.3",
+        "path_type": "hardlink",
+        "sha256": "53372753f3e8dab56cbee51f2c060fa066cb6c653d8161b78bb0cf422fa5e088",
+        "sha256_in_prefix": "53372753f3e8dab56cbee51f2c060fa066cb6c653d8161b78bb0cf422fa5e088",
+        "size_in_bytes": 5874
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9385d424f0c9ed2d1d39922d555de6ef03b5d25c55a8e859f710e14fac3a7611",
+  "size": 22396,
+  "subdir": "linux-64",
+  "timestamp": 1557139576856,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-lwp-mediatypes-6.04-pl526_0.tar.bz2",
+  "version": "6.04"
+}

@@ -14,6 +14,13 @@ SAMPLES = list_files()
 #     shell: "..."
 
 
+# Define default rule to run the complete pipeline
+rule all:
+    input:
+        "WGCA_analysis_result/plasmid_summary.tsv",
+        "WGCA_analysis_result/virulence_summary.tsv"
+
+
 rule virulence_identification:
     input:
         "data/samples/{sample}.fasta"
@@ -22,7 +29,7 @@ rule virulence_identification:
     conda:
         "envs/abricate.yaml"
     shell:
-        "abricate --minid=90 --db=vfdb {input} > {output}"
+        "abricate --minid=90 --mincov=60 --db=vfdb {input} > {output}"
 
 rule summarize_virulence:
     input:
@@ -32,31 +39,33 @@ rule summarize_virulence:
     shell:
         "abricate --summary {input} > {output}"
 
-rule resistance_identification:
+rule plasmid_prediction:
     input:
         "data/samples/{sample}.fasta"
     output:
-        "resistance_genes/{sample}.tsv"
+        "plasmid_prediction/{sample}.tsv"
     conda:
         "envs/abricate.yaml"
     shell:
-        "abricate --minid=90 --db=card {input} > {output}"
+        "abricate --minid=60 --mincov=60 --db=plasmidfinder {input} > {output}"
 
 
-rule summarize_resistance:
+rule summarize_plasmid_prediction:
     input:
-        expand("resistance_genes/{sample}.tsv", sample=SAMPLES)
+        expand("plasmid_prediction/{sample}.tsv", sample=SAMPLES)
     output:
-        "resistance_genes/summary.tsv"
+        "plasmid_prediction/summary.tsv"
+    conda:
+        "envs/abricate.yaml"
     shell:
         "abricate --summary {input} > {output}"
 
 rule summary_results:
     input:
-        r="resistance_genes/summary.tsv",
+        r="plasmid_prediction/summary.tsv",
         v="virulence_genes/summary.tsv"
     output:
-        v="WGCA_analysis_result/vir_summary.tsv",
-        r="WGCA_analysis_result/res_summary.tsv"
+        v="WGCA_analysis_result/virulence_summary.tsv",
+        r="WGCA_analysis_result/plasmid_summary.tsv"
     shell:
         "cp {input.r} {output.r} ; cp {input.v} {output.v}"

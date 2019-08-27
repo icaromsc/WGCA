@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 18 of /home/icaro/WGCA/Snakefile:
+Missing input files for rule all:
+WGCA_analysis_result/plasmid_summary.tsv WGCA_analysis_result/virulence_summary.tsv

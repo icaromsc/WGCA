@@ -1,0 +1,2 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/HTML/TreeBuilder/XPath.pm relocate_as=../../../../../HTML/TreeBuilder/XPath.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/HTML::TreeBuilder::XPath.3 relocate_as=../../../../../../../../man/man3/HTML::TreeBuilder::XPath.3

@@ -1,0 +1,1193 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-cache-cache",
+    "perl-digest-md5"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-aceperl-1.92-pl526_2",
+  "features": "",
+  "files": [
+    "bin/ace.pl",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/AceSubs.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/GeneSubs.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/SearchSubs.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/SiteDefs.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/TreeSubs.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Freesubs.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Fk.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/anchored_arrow.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/arrow.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/box.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/crossbox.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/dot.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/ex.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/graded_segments.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/group.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/line.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/primers.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/segments.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/span.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/toomany.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/transcript.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/triangle.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/GlyphFactory.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Panel.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Track.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Iterator.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Local.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Model.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Object.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Object/Wormbase.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Feature.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/FeatureList.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/GappedAlignment.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Gene.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Homol.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Multi.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Transcript.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/SocketServer.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/GFF/Filehandle.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Freesubs/Freesubs.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asAce.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asHTML.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asTable.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asXML.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_default_makeHTML.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_insert.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_special_dump.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_to_ace_date.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_xmlNumber.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/add_row.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/add_tree.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asAce.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asDNA.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asGif.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asHTML.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asPeptide.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asString.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asTable.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asXML.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/autosplit.ix",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/comment.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/commit.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/date_style.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/debug.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/delete.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/escapeXML.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/isComment.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/kill.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/replace.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/rollback.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/tags.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/timestamp.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Sequence/Feature/autosplit.ix",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Sequence/autosplit.ix",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_register_iterator.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_restore_iterator.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_save_iterator.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_unregister_iterator.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/auto_save.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/autosplit.ix",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/class_count.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/classes.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/date.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/date_style.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/datetime.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/debug.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/fetch_many.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/find.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/freeprotect.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/grep.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/layout.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/new.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/parse.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/parse_file.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/parse_longtext.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/pick.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/ping.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/put.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/split.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/status.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/timestamps.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/title.al",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/version.al",
+    "man/man1/ace.pl.1",
+    "man/man3/Ace.3",
+    "man/man3/Ace::Browser::AceSubs.3",
+    "man/man3/Ace::Browser::SearchSubs.3",
+    "man/man3/Ace::Browser::SiteDefs.3",
+    "man/man3/Ace::Graphics::Fk.3",
+    "man/man3/Ace::Graphics::Glyph.3",
+    "man/man3/Ace::Graphics::Glyph::anchored_arrow.3",
+    "man/man3/Ace::Graphics::Glyph::arrow.3",
+    "man/man3/Ace::Graphics::Glyph::box.3",
+    "man/man3/Ace::Graphics::Glyph::dot.3",
+    "man/man3/Ace::Graphics::Glyph::ex.3",
+    "man/man3/Ace::Graphics::Glyph::graded_segments.3",
+    "man/man3/Ace::Graphics::Glyph::group.3",
+    "man/man3/Ace::Graphics::Glyph::line.3",
+    "man/man3/Ace::Graphics::Glyph::primers.3",
+    "man/man3/Ace::Graphics::Glyph::segments.3",
+    "man/man3/Ace::Graphics::Glyph::span.3",
+    "man/man3/Ace::Graphics::Glyph::toomany.3",
+    "man/man3/Ace::Graphics::Glyph::transcript.3",
+    "man/man3/Ace::Graphics::Glyph::triangle.3",
+    "man/man3/Ace::Graphics::GlyphFactory.3",
+    "man/man3/Ace::Graphics::Panel.3",
+    "man/man3/Ace::Graphics::Track.3",
+    "man/man3/Ace::Iterator.3",
+    "man/man3/Ace::Local.3",
+    "man/man3/Ace::Model.3",
+    "man/man3/Ace::Object.3",
+    "man/man3/Ace::Sequence.3",
+    "man/man3/Ace::Sequence::Feature.3",
+    "man/man3/Ace::Sequence::FeatureList.3",
+    "man/man3/Ace::Sequence::GappedAlignment.3",
+    "man/man3/Ace::Sequence::Gene.3",
+    "man/man3/Ace::Sequence::Homol.3",
+    "man/man3/Ace::Sequence::Multi.3",
+    "man/man3/Ace::Sequence::Transcript.3"
+  ],
+  "fn": "perl-aceperl-1.92-pl526_2.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-aceperl-1.92-pl526_2",
+    "type": 1
+  },
+  "md5": "8f0932e2e264bebf85619c4ef2f166a8",
+  "name": "perl-aceperl",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-aceperl-1.92-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/ace.pl",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "4c19ac0cb5143d9690adae5ada1977991e653a0f9150421613fb247b266e7476",
+        "sha256_in_prefix": "c42a1a2795fcf939ef3ff7e505e472d7f9a604d46666c1f641085a3391683d02",
+        "size_in_bytes": 7860
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace.pm",
+        "path_type": "hardlink",
+        "sha256": "f6953a6d73e96f4d132769c6676ca79efa874037774ad3f06aa546c55beada83",
+        "sha256_in_prefix": "f6953a6d73e96f4d132769c6676ca79efa874037774ad3f06aa546c55beada83",
+        "size_in_bytes": 68729
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/AceSubs.pm",
+        "path_type": "hardlink",
+        "sha256": "182d59d83b3997febc605ed0a2fb0c6ff3d6ef5a499008d9725f4a69ac04d5fa",
+        "sha256_in_prefix": "182d59d83b3997febc605ed0a2fb0c6ff3d6ef5a499008d9725f4a69ac04d5fa",
+        "size_in_bytes": 30813
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/GeneSubs.pm",
+        "path_type": "hardlink",
+        "sha256": "e01189d2684d3aac54a252b36698e8f88cb7a25890d612dec6c2e784bf776b79",
+        "sha256_in_prefix": "e01189d2684d3aac54a252b36698e8f88cb7a25890d612dec6c2e784bf776b79",
+        "size_in_bytes": 990
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/SearchSubs.pm",
+        "path_type": "hardlink",
+        "sha256": "a7ad7d930bb6a338827d77a1473202ba54ffc3922c74ceb8b88e43b93315157b",
+        "sha256_in_prefix": "a7ad7d930bb6a338827d77a1473202ba54ffc3922c74ceb8b88e43b93315157b",
+        "size_in_bytes": 8011
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/SiteDefs.pm",
+        "path_type": "hardlink",
+        "sha256": "0a56cdd3a236da9f12729cf172e89be84eaceea9ff8e373ca8460d785fedeb7f",
+        "sha256_in_prefix": "0a56cdd3a236da9f12729cf172e89be84eaceea9ff8e373ca8460d785fedeb7f",
+        "size_in_bytes": 7554
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Browser/TreeSubs.pm",
+        "path_type": "hardlink",
+        "sha256": "dd91ad70d3a388993dd0a8634c78a2f1f301ef0aa83ac31aea5555a47a9d877d",
+        "sha256_in_prefix": "dd91ad70d3a388993dd0a8634c78a2f1f301ef0aa83ac31aea5555a47a9d877d",
+        "size_in_bytes": 1290
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Freesubs.pm",
+        "path_type": "hardlink",
+        "sha256": "6104e573e9018b3d81424756a882584c3c56773bc1297f4406b8a4108cef1c48",
+        "sha256_in_prefix": "6104e573e9018b3d81424756a882584c3c56773bc1297f4406b8a4108cef1c48",
+        "size_in_bytes": 175
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Fk.pm",
+        "path_type": "hardlink",
+        "sha256": "8ff17ed1ffa65d274f0d800a32806e1b4496b6d89784f6b2f9ab643f8f0ca28d",
+        "sha256_in_prefix": "8ff17ed1ffa65d274f0d800a32806e1b4496b6d89784f6b2f9ab643f8f0ca28d",
+        "size_in_bytes": 2449
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph.pm",
+        "path_type": "hardlink",
+        "sha256": "3b658d39c571b2c8095c2c5a3de37721cf298b245936934d596bc1fec61cfe87",
+        "sha256_in_prefix": "3b658d39c571b2c8095c2c5a3de37721cf298b245936934d596bc1fec61cfe87",
+        "size_in_bytes": 15190
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/anchored_arrow.pm",
+        "path_type": "hardlink",
+        "sha256": "f55b605c901e0c8dd54bd67a524349b1dc9f5a48b37720dc65e86d391a6ae868",
+        "sha256_in_prefix": "f55b605c901e0c8dd54bd67a524349b1dc9f5a48b37720dc65e86d391a6ae868",
+        "size_in_bytes": 5521
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/arrow.pm",
+        "path_type": "hardlink",
+        "sha256": "87f809303a15a38cc172c1bc15ba3ec6f4b1d555975445c24e7d0ea9f7e901b7",
+        "sha256_in_prefix": "87f809303a15a38cc172c1bc15ba3ec6f4b1d555975445c24e7d0ea9f7e901b7",
+        "size_in_bytes": 6147
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/box.pm",
+        "path_type": "hardlink",
+        "sha256": "2302adc2d880a7da41ce16b065455780c088b17766797681e155ad161aa12da3",
+        "sha256_in_prefix": "2302adc2d880a7da41ce16b065455780c088b17766797681e155ad161aa12da3",
+        "size_in_bytes": 1636
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/crossbox.pm",
+        "path_type": "hardlink",
+        "sha256": "35867f8552c9a55bbff289ee45d95b71cf2ce51218cdd290ec5603223cc4bf68",
+        "sha256_in_prefix": "35867f8552c9a55bbff289ee45d95b71cf2ce51218cdd290ec5603223cc4bf68",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/dot.pm",
+        "path_type": "hardlink",
+        "sha256": "46d28e35b64fc3f7195f89fe546d60b3454320d129762cc01876e5fd0e53b3ec",
+        "sha256_in_prefix": "46d28e35b64fc3f7195f89fe546d60b3454320d129762cc01876e5fd0e53b3ec",
+        "size_in_bytes": 2161
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/ex.pm",
+        "path_type": "hardlink",
+        "sha256": "b4b96ea19db3049b5dd7f4aa55b41e2ccbe17e1d55cd37af20526d6064f11200",
+        "sha256_in_prefix": "b4b96ea19db3049b5dd7f4aa55b41e2ccbe17e1d55cd37af20526d6064f11200",
+        "size_in_bytes": 1896
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/graded_segments.pm",
+        "path_type": "hardlink",
+        "sha256": "eac7faf679d056505d3482965da6ffdeec1492c8b414fa7bdf6007671adbfe91",
+        "sha256_in_prefix": "eac7faf679d056505d3482965da6ffdeec1492c8b414fa7bdf6007671adbfe91",
+        "size_in_bytes": 4086
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/group.pm",
+        "path_type": "hardlink",
+        "sha256": "695a7d640c7e1d9efef8d75371c0991c8a7e3c4e963005acc115387931ff16ad",
+        "sha256_in_prefix": "695a7d640c7e1d9efef8d75371c0991c8a7e3c4e963005acc115387931ff16ad",
+        "size_in_bytes": 4124
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/line.pm",
+        "path_type": "hardlink",
+        "sha256": "f737d2b9e910f731fe448cf6f5e6d8d74ce706cd5e973a4bb04b7ea87aa79b90",
+        "sha256_in_prefix": "f737d2b9e910f731fe448cf6f5e6d8d74ce706cd5e973a4bb04b7ea87aa79b90",
+        "size_in_bytes": 1594
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/primers.pm",
+        "path_type": "hardlink",
+        "sha256": "b7134ba6d32f8435a418db6e63fd3f8b692fb866b5b3e45f9e3be3201b7548e5",
+        "sha256_in_prefix": "b7134ba6d32f8435a418db6e63fd3f8b692fb866b5b3e45f9e3be3201b7548e5",
+        "size_in_bytes": 2858
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/segments.pm",
+        "path_type": "hardlink",
+        "sha256": "0dc7c95252de280c06d514910a3f585473152bf86a9ec873d45557443b5847f6",
+        "sha256_in_prefix": "0dc7c95252de280c06d514910a3f585473152bf86a9ec873d45557443b5847f6",
+        "size_in_bytes": 5625
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/span.pm",
+        "path_type": "hardlink",
+        "sha256": "547ddc8e80260e215695f15f20c243fa59269cd800a224727e03caec1681af03",
+        "sha256_in_prefix": "547ddc8e80260e215695f15f20c243fa59269cd800a224727e03caec1681af03",
+        "size_in_bytes": 1001
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/toomany.pm",
+        "path_type": "hardlink",
+        "sha256": "fd07fc8b0e5e3ca35166820122271e968b3431e3bbbb20da75d40be79316b430",
+        "sha256_in_prefix": "fd07fc8b0e5e3ca35166820122271e968b3431e3bbbb20da75d40be79316b430",
+        "size_in_bytes": 1635
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/transcript.pm",
+        "path_type": "hardlink",
+        "sha256": "bd813da87567b46dcc6d6d9349c679a71d72685fc6430a17407b4c9a6244ee06",
+        "sha256_in_prefix": "bd813da87567b46dcc6d6d9349c679a71d72685fc6430a17407b4c9a6244ee06",
+        "size_in_bytes": 7388
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Glyph/triangle.pm",
+        "path_type": "hardlink",
+        "sha256": "8aec8e28efeaa07ae4522afb4f0ed93258e7fbb1bbd1227c58c6022e1b750a4c",
+        "sha256_in_prefix": "8aec8e28efeaa07ae4522afb4f0ed93258e7fbb1bbd1227c58c6022e1b750a4c",
+        "size_in_bytes": 2854
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/GlyphFactory.pm",
+        "path_type": "hardlink",
+        "sha256": "0613b1591f84baa25ee88c9b9701488841877955e697d8635daf2f4490277311",
+        "sha256_in_prefix": "0613b1591f84baa25ee88c9b9701488841877955e697d8635daf2f4490277311",
+        "size_in_bytes": 6750
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Panel.pm",
+        "path_type": "hardlink",
+        "sha256": "d0d420350fc1a5df9ccc29e043784fd3392778348a34104a8197c0461bf03787",
+        "sha256_in_prefix": "d0d420350fc1a5df9ccc29e043784fd3392778348a34104a8197c0461bf03787",
+        "size_in_bytes": 28006
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Graphics/Track.pm",
+        "path_type": "hardlink",
+        "sha256": "0d24305d9f8dca6d719a033acaf8e8932c61497130d577385d752ca81ff84601",
+        "sha256_in_prefix": "0d24305d9f8dca6d719a033acaf8e8932c61497130d577385d752ca81ff84601",
+        "size_in_bytes": 12240
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Iterator.pm",
+        "path_type": "hardlink",
+        "sha256": "1023df22bcb863f43d82c064130a7c43892a3ed9901660addbd8d5abfcef3a65",
+        "sha256_in_prefix": "1023df22bcb863f43d82c064130a7c43892a3ed9901660addbd8d5abfcef3a65",
+        "size_in_bytes": 5079
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Local.pm",
+        "path_type": "hardlink",
+        "sha256": "3404554e99e745b941e5f95c36c54c4ab5e57b8aa65355dbbfa060d11ff9aa5e",
+        "sha256_in_prefix": "3404554e99e745b941e5f95c36c54c4ab5e57b8aa65355dbbfa060d11ff9aa5e",
+        "size_in_bytes": 10276
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Model.pm",
+        "path_type": "hardlink",
+        "sha256": "4c4921272970c8b336c0508b921323448d030d29c64e9db2e6389188dac4c161",
+        "sha256_in_prefix": "4c4921272970c8b336c0508b921323448d030d29c64e9db2e6389188dac4c161",
+        "size_in_bytes": 6129
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Object.pm",
+        "path_type": "hardlink",
+        "sha256": "0daee7a277767f0d5076c58bc94cedb2162e6e95a3091bb026990f1ed6afae39",
+        "sha256_in_prefix": "0daee7a277767f0d5076c58bc94cedb2162e6e95a3091bb026990f1ed6afae39",
+        "size_in_bytes": 77242
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Object/Wormbase.pm",
+        "path_type": "hardlink",
+        "sha256": "6875bde02f15d13514bb72d535a7da68eedb5075e1b59562f4a97f32ee46549a",
+        "sha256_in_prefix": "6875bde02f15d13514bb72d535a7da68eedb5075e1b59562f4a97f32ee46549a",
+        "size_in_bytes": 863
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence.pm",
+        "path_type": "hardlink",
+        "sha256": "570ccea0a04e8839e82f1d8f1dd7c264d37a09ea2e9652258933e235d2bc0f19",
+        "sha256_in_prefix": "570ccea0a04e8839e82f1d8f1dd7c264d37a09ea2e9652258933e235d2bc0f19",
+        "size_in_bytes": 38340
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Feature.pm",
+        "path_type": "hardlink",
+        "sha256": "e56eb8f10002e47e5e027eb6f5ddfab72c89707986e67684857bed55abb4bb6c",
+        "sha256_in_prefix": "e56eb8f10002e47e5e027eb6f5ddfab72c89707986e67684857bed55abb4bb6c",
+        "size_in_bytes": 11192
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/FeatureList.pm",
+        "path_type": "hardlink",
+        "sha256": "c4cdeaa4f9c204b9d3f96219d7017652e955088a0f267c3e07c7967d7d05a94d",
+        "sha256_in_prefix": "c4cdeaa4f9c204b9d3f96219d7017652e955088a0f267c3e07c7967d7d05a94d",
+        "size_in_bytes": 4452
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/GappedAlignment.pm",
+        "path_type": "hardlink",
+        "sha256": "3f2badf5220fa2b2a6270cb8d77151b3dd138825314df4db7609f08ab9a2db07",
+        "sha256_in_prefix": "3f2badf5220fa2b2a6270cb8d77151b3dd138825314df4db7609f08ab9a2db07",
+        "size_in_bytes": 4694
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Gene.pm",
+        "path_type": "hardlink",
+        "sha256": "ff458913cac2047ac26b190515d55956679e8e41b8acdd6d6085816214655f3b",
+        "sha256_in_prefix": "ff458913cac2047ac26b190515d55956679e8e41b8acdd6d6085816214655f3b",
+        "size_in_bytes": 3943
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Homol.pm",
+        "path_type": "hardlink",
+        "sha256": "20e8ed4077b1bc57302dc06d2f94c49c72b9e01958c6d672ea4e701919162f14",
+        "sha256_in_prefix": "20e8ed4077b1bc57302dc06d2f94c49c72b9e01958c6d672ea4e701919162f14",
+        "size_in_bytes": 3296
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Multi.pm",
+        "path_type": "hardlink",
+        "sha256": "fa3143cb069785f8755f0e0e7a5f0aaca67641bb6f43a117c72ce25bbf7f1117",
+        "sha256_in_prefix": "fa3143cb069785f8755f0e0e7a5f0aaca67641bb6f43a117c72ce25bbf7f1117",
+        "size_in_bytes": 8375
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/Sequence/Transcript.pm",
+        "path_type": "hardlink",
+        "sha256": "0d7e0aba9bf0a03f47930ca6b7b3902a1f4805a0059709cc6c2c1ca34fa490ae",
+        "sha256_in_prefix": "0d7e0aba9bf0a03f47930ca6b7b3902a1f4805a0059709cc6c2c1ca34fa490ae",
+        "size_in_bytes": 4514
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Ace/SocketServer.pm",
+        "path_type": "hardlink",
+        "sha256": "aadcb37868c41202013c5094bec0b355933da941ad6d48dfc149de70bce4571f",
+        "sha256_in_prefix": "aadcb37868c41202013c5094bec0b355933da941ad6d48dfc149de70bce4571f",
+        "size_in_bytes": 5684
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/GFF/Filehandle.pm",
+        "path_type": "hardlink",
+        "sha256": "0215e475508f0243ae2a1beb0122a05ba9bb1cfa93ba363c0b87cc4b58a9a79d",
+        "sha256_in_prefix": "0215e475508f0243ae2a1beb0122a05ba9bb1cfa93ba363c0b87cc4b58a9a79d",
+        "size_in_bytes": 332
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "d9c3638fac5b1f5233235028f50f3dca9c447144e20052cde7d8a7fc62cd1a38",
+        "sha256_in_prefix": "824268fb50d696401082c7cf85ab34e97d63355cf05a08f0479b1caad55ef3a1",
+        "size_in_bytes": 19487
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Freesubs/Freesubs.so",
+        "path_type": "hardlink",
+        "sha256": "8247a0fb2e1b980b9ca5ccbfafb6ea5f84ad43b94fdb1cfbb2af3382dd020060",
+        "sha256_in_prefix": "8247a0fb2e1b980b9ca5ccbfafb6ea5f84ad43b94fdb1cfbb2af3382dd020060",
+        "size_in_bytes": 11062
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asAce.al",
+        "path_type": "hardlink",
+        "sha256": "2e8bfea9c1595b6a39296eb1ff6ced93215c236ce139d65abaaaa4bd594b4eb1",
+        "sha256_in_prefix": "2e8bfea9c1595b6a39296eb1ff6ced93215c236ce139d65abaaaa4bd594b4eb1",
+        "size_in_bytes": 1474
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asHTML.al",
+        "path_type": "hardlink",
+        "sha256": "ee4261ba18e4c9b9eb5b333c24a04828d1107f4fc67b7e0b674eca2af866227a",
+        "sha256_in_prefix": "ee4261ba18e4c9b9eb5b333c24a04828d1107f4fc67b7e0b674eca2af866227a",
+        "size_in_bytes": 1026
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asTable.al",
+        "path_type": "hardlink",
+        "sha256": "eaed0ee004dc06f9592eb13c939f67c457cfbbaf723a5d676694c3ad476b3082",
+        "sha256_in_prefix": "eaed0ee004dc06f9592eb13c939f67c457cfbbaf723a5d676694c3ad476b3082",
+        "size_in_bytes": 1378
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_asXML.al",
+        "path_type": "hardlink",
+        "sha256": "1bb2c2e83e1ba5d10c19d6d4647a62fbb02fce3fbc662fcbe7696a2d5858c746",
+        "sha256_in_prefix": "1bb2c2e83e1ba5d10c19d6d4647a62fbb02fce3fbc662fcbe7696a2d5858c746",
+        "size_in_bytes": 2325
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_default_makeHTML.al",
+        "path_type": "hardlink",
+        "sha256": "bd0513c5fa6da9198c85f4f4b7a304c475a58decadfee2580213caa6accd248c",
+        "sha256_in_prefix": "bd0513c5fa6da9198c85f4f4b7a304c475a58decadfee2580213caa6accd248c",
+        "size_in_bytes": 960
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_insert.al",
+        "path_type": "hardlink",
+        "sha256": "8a00873e167bf8f382b2366f4a6258a711a64fa6b63424f4c42aaef1ddbf6cab",
+        "sha256_in_prefix": "8a00873e167bf8f382b2366f4a6258a711a64fa6b63424f4c42aaef1ddbf6cab",
+        "size_in_bytes": 783
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_special_dump.al",
+        "path_type": "hardlink",
+        "sha256": "63c85f52eccac9700a899e142601b4fe34eab236dbcecd1c5aec4e28325cfadb",
+        "sha256_in_prefix": "63c85f52eccac9700a899e142601b4fe34eab236dbcecd1c5aec4e28325cfadb",
+        "size_in_bytes": 501
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_to_ace_date.al",
+        "path_type": "hardlink",
+        "sha256": "5233aa301f72e389a6eada14326d3e768684c253e7382c4ecf0e1f00a1e00f5e",
+        "sha256_in_prefix": "5233aa301f72e389a6eada14326d3e768684c253e7382c4ecf0e1f00a1e00f5e",
+        "size_in_bytes": 591
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/_xmlNumber.al",
+        "path_type": "hardlink",
+        "sha256": "c86e253e1811040bcadb594085373cde3f35f864f6208e56d90c74b1a511658c",
+        "sha256_in_prefix": "c86e253e1811040bcadb594085373cde3f35f864f6208e56d90c74b1a511658c",
+        "size_in_bytes": 649
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/add_row.al",
+        "path_type": "hardlink",
+        "sha256": "c83aa44834ae062220a662482d3379d2daaa3a4faca0bcc7d02372330c6f9cd2",
+        "sha256_in_prefix": "c83aa44834ae062220a662482d3379d2daaa3a4faca0bcc7d02372330c6f9cd2",
+        "size_in_bytes": 1991
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/add_tree.al",
+        "path_type": "hardlink",
+        "sha256": "3063f7d09d14a0679daed84be18c97615c0034dcff706ee95f0e4304816c24b7",
+        "sha256_in_prefix": "3063f7d09d14a0679daed84be18c97615c0034dcff706ee95f0e4304816c24b7",
+        "size_in_bytes": 1324
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asAce.al",
+        "path_type": "hardlink",
+        "sha256": "b4e69df7e1819d64e3657b342e62fd6b9f8222a5c2749ae5b1db1617b46370f4",
+        "sha256_in_prefix": "b4e69df7e1819d64e3657b342e62fd6b9f8222a5c2749ae5b1db1617b46370f4",
+        "size_in_bytes": 476
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asDNA.al",
+        "path_type": "hardlink",
+        "sha256": "049f3a7d3fea60b3815a421a52d847b4ee833f0549b22289ce740f9738e5bb1f",
+        "sha256_in_prefix": "049f3a7d3fea60b3815a421a52d847b4ee833f0549b22289ce740f9738e5bb1f",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asGif.al",
+        "path_type": "hardlink",
+        "sha256": "a8ae353b6bee6aa9b2261aa9c1fa940f4e0b09fe8b788bb21b746fa399c76868",
+        "sha256_in_prefix": "a8ae353b6bee6aa9b2261aa9c1fa940f4e0b09fe8b788bb21b746fa399c76868",
+        "size_in_bytes": 2494
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asHTML.al",
+        "path_type": "hardlink",
+        "sha256": "a2de1a70b76fe428ca1da1a43da90a18b6abeb78f85cd510f3cd166a5b2eea84",
+        "sha256_in_prefix": "a2de1a70b76fe428ca1da1a43da90a18b6abeb78f85cd510f3cd166a5b2eea84",
+        "size_in_bytes": 807
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asPeptide.al",
+        "path_type": "hardlink",
+        "sha256": "c2992eae8f516f9dddd4e6f84e09afab176643777382d6bc42007b68e58f65e6",
+        "sha256_in_prefix": "c2992eae8f516f9dddd4e6f84e09afab176643777382d6bc42007b68e58f65e6",
+        "size_in_bytes": 338
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asString.al",
+        "path_type": "hardlink",
+        "sha256": "29f068db99a48319f232ad49fd389cf3b22b28837487063104886ccba4cdecc3",
+        "sha256_in_prefix": "29f068db99a48319f232ad49fd389cf3b22b28837487063104886ccba4cdecc3",
+        "size_in_bytes": 1121
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asTable.al",
+        "path_type": "hardlink",
+        "sha256": "441348e3269938720e3a1208bab831da20675a5ad2a26b364c00fbe5286feae6",
+        "sha256_in_prefix": "441348e3269938720e3a1208bab831da20675a5ad2a26b364c00fbe5286feae6",
+        "size_in_bytes": 483
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/asXML.al",
+        "path_type": "hardlink",
+        "sha256": "cda80a1de04db984362f65f354bf2248585e01a184383c77aeaec1611592f8ce",
+        "sha256_in_prefix": "cda80a1de04db984362f65f354bf2248585e01a184383c77aeaec1611592f8ce",
+        "size_in_bytes": 1103
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/autosplit.ix",
+        "path_type": "hardlink",
+        "sha256": "5a155d63987e3540ec4bf7b131d4e1136cab4fd7e4b22d6cccd9bfa33ce511af",
+        "sha256_in_prefix": "5a155d63987e3540ec4bf7b131d4e1136cab4fd7e4b22d6cccd9bfa33ce511af",
+        "size_in_bytes": 593
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/comment.al",
+        "path_type": "hardlink",
+        "sha256": "10137c8ee924e928af5628b5bb7ad974d0dfa9422fe2db411aa79bdc8bd42735",
+        "sha256_in_prefix": "10137c8ee924e928af5628b5bb7ad974d0dfa9422fe2db411aa79bdc8bd42735",
+        "size_in_bytes": 491
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/commit.al",
+        "path_type": "hardlink",
+        "sha256": "43bd1c2212b1a38f2c6972855d5a0b67635c06d6ff9f8496505547e060506a38",
+        "sha256_in_prefix": "43bd1c2212b1a38f2c6972855d5a0b67635c06d6ff9f8496505547e060506a38",
+        "size_in_bytes": 1584
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/date_style.al",
+        "path_type": "hardlink",
+        "sha256": "8a294d81322cc7005d61083b1570bf52944e15e597094b5c3ba06448fc6d3ef6",
+        "sha256_in_prefix": "8a294d81322cc7005d61083b1570bf52944e15e597094b5c3ba06448fc6d3ef6",
+        "size_in_bytes": 462
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/debug.al",
+        "path_type": "hardlink",
+        "sha256": "0848869a7435cce2580a974df87e7406293a2b1ff6500d3d66bcc8b78602a08e",
+        "sha256_in_prefix": "0848869a7435cce2580a974df87e7406293a2b1ff6500d3d66bcc8b78602a08e",
+        "size_in_bytes": 324
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/delete.al",
+        "path_type": "hardlink",
+        "sha256": "4e88e395cfcd1a0478743c66a21590a2b0967c57a3bd7c59774e5cf02f26801e",
+        "sha256_in_prefix": "4e88e395cfcd1a0478743c66a21590a2b0967c57a3bd7c59774e5cf02f26801e",
+        "size_in_bytes": 1469
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/escapeXML.al",
+        "path_type": "hardlink",
+        "sha256": "0a2e9352f5079b383f4eb64e2473a86331d5bd4521cb1786cba5c5d292c78c04",
+        "sha256_in_prefix": "0a2e9352f5079b383f4eb64e2473a86331d5bd4521cb1786cba5c5d292c78c04",
+        "size_in_bytes": 443
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/isComment.al",
+        "path_type": "hardlink",
+        "sha256": "bfcc64dcc0b46214ecd29de249fbe37fcdf6c96e39546e87e5ab24b054f16462",
+        "sha256_in_prefix": "bfcc64dcc0b46214ecd29de249fbe37fcdf6c96e39546e87e5ab24b054f16462",
+        "size_in_bytes": 471
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/kill.al",
+        "path_type": "hardlink",
+        "sha256": "f87d10149e312bb93e4ed270ddd434aa4cf4b11a529b0456eccc30bcf3e1bde6",
+        "sha256_in_prefix": "f87d10149e312bb93e4ed270ddd434aa4cf4b11a529b0456eccc30bcf3e1bde6",
+        "size_in_bytes": 792
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/replace.al",
+        "path_type": "hardlink",
+        "sha256": "f371ed684ac25da789332a5829c9200de431307aa9aba0c91d1c6595d8ec2f62",
+        "sha256_in_prefix": "f371ed684ac25da789332a5829c9200de431307aa9aba0c91d1c6595d8ec2f62",
+        "size_in_bytes": 734
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/rollback.al",
+        "path_type": "hardlink",
+        "sha256": "040f0c4e65310e5c0f88552c3c955a2847c1c3153195555233f13aa7c84ba5e2",
+        "sha256_in_prefix": "040f0c4e65310e5c0f88552c3c955a2847c1c3153195555233f13aa7c84ba5e2",
+        "size_in_bytes": 513
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/tags.al",
+        "path_type": "hardlink",
+        "sha256": "472b1b4c59f891d81f7661928477ab10e9f7b475237ec316676d25c1c6429ecd",
+        "sha256_in_prefix": "472b1b4c59f891d81f7661928477ab10e9f7b475237ec316676d25c1c6429ecd",
+        "size_in_bytes": 504
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Object/timestamp.al",
+        "path_type": "hardlink",
+        "sha256": "0e2179932e3090d6f61f4fd468a6de82f6524aad21da09ea80671cca9f970c0b",
+        "sha256_in_prefix": "0e2179932e3090d6f61f4fd468a6de82f6524aad21da09ea80671cca9f970c0b",
+        "size_in_bytes": 690
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Sequence/Feature/autosplit.ix",
+        "path_type": "hardlink",
+        "sha256": "015282c0e2a2e501689e8aadafd8ef0c219b22f3a0512478baf6b7f07f3701b0",
+        "sha256_in_prefix": "015282c0e2a2e501689e8aadafd8ef0c219b22f3a0512478baf6b7f07f3701b0",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/Sequence/autosplit.ix",
+        "path_type": "hardlink",
+        "sha256": "9715654c14c07da6b15010737c63561773e69044b94c77977f3b020bc6f876ad",
+        "sha256_in_prefix": "9715654c14c07da6b15010737c63561773e69044b94c77977f3b020bc6f876ad",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_register_iterator.al",
+        "path_type": "hardlink",
+        "sha256": "983de2625edacefb5a1489eaa5eddc1fa38cf281b712382a106cbf16cae50f08",
+        "sha256_in_prefix": "983de2625edacefb5a1489eaa5eddc1fa38cf281b712382a106cbf16cae50f08",
+        "size_in_bytes": 358
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_restore_iterator.al",
+        "path_type": "hardlink",
+        "sha256": "cd859b992b1eb03f831509560a6053481ee8a95b5bdec00b93e34cc7127a8bb7",
+        "sha256_in_prefix": "cd859b992b1eb03f831509560a6053481ee8a95b5bdec00b93e34cc7127a8bb7",
+        "size_in_bytes": 1797
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_save_iterator.al",
+        "path_type": "hardlink",
+        "sha256": "498844a45748d0e524b92dd6889f3fa9e5a3a5ed1a2d5d4d3f5021082e1cba9b",
+        "sha256_in_prefix": "498844a45748d0e524b92dd6889f3fa9e5a3a5ed1a2d5d4d3f5021082e1cba9b",
+        "size_in_bytes": 593
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/_unregister_iterator.al",
+        "path_type": "hardlink",
+        "sha256": "ce82aff5b9f8d11fa5a976b2b81e816cbf82b6a774ad9e939c42a7b9aaf48acc",
+        "sha256_in_prefix": "ce82aff5b9f8d11fa5a976b2b81e816cbf82b6a774ad9e939c42a7b9aaf48acc",
+        "size_in_bytes": 398
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/auto_save.al",
+        "path_type": "hardlink",
+        "sha256": "60527de5c5319bf25947690cb344d9f269b401f5b2b28c4ea99c74c493998331",
+        "sha256_in_prefix": "60527de5c5319bf25947690cb344d9f269b401f5b2b28c4ea99c74c493998331",
+        "size_in_bytes": 452
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/autosplit.ix",
+        "path_type": "hardlink",
+        "sha256": "995ff1e3380b8d2032334e78b9dfd342cb6d71dbc515948345ea738d999e917f",
+        "sha256_in_prefix": "995ff1e3380b8d2032334e78b9dfd342cb6d71dbc515948345ea738d999e917f",
+        "size_in_bytes": 553
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/class_count.al",
+        "path_type": "hardlink",
+        "sha256": "c1f94c01023b4e12b8f9ecdcb1952b81316eb2af5ab46ee74e9f228e2ce284b3",
+        "sha256_in_prefix": "c1f94c01023b4e12b8f9ecdcb1952b81316eb2af5ab46ee74e9f228e2ce284b3",
+        "size_in_bytes": 413
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/classes.al",
+        "path_type": "hardlink",
+        "sha256": "b20431622eb33e3b4f0eb7a6c7d39d369fec8085a596b1ade0c21d58e2049336",
+        "sha256_in_prefix": "b20431622eb33e3b4f0eb7a6c7d39d369fec8085a596b1ade0c21d58e2049336",
+        "size_in_bytes": 522
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/date.al",
+        "path_type": "hardlink",
+        "sha256": "d652c1b7ffe779b4088b6a807d4e57d7550396570b4d18190f50609e38db43ce",
+        "sha256_in_prefix": "d652c1b7ffe779b4088b6a807d4e57d7550396570b4d18190f50609e38db43ce",
+        "size_in_bytes": 430
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/date_style.al",
+        "path_type": "hardlink",
+        "sha256": "87bc3c9f2aa020ac1bce7d90df690ae6234769254723cdd766b5c6cad5c29814",
+        "sha256_in_prefix": "87bc3c9f2aa020ac1bce7d90df690ae6234769254723cdd766b5c6cad5c29814",
+        "size_in_bytes": 403
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/datetime.al",
+        "path_type": "hardlink",
+        "sha256": "82be37d05fa351daa58b829be4916191d0e1fd596dfeccc17a4dee42d685a971",
+        "sha256_in_prefix": "82be37d05fa351daa58b829be4916191d0e1fd596dfeccc17a4dee42d685a971",
+        "size_in_bytes": 473
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/debug.al",
+        "path_type": "hardlink",
+        "sha256": "45852dc0336bc6a1ad241b9a004f9c57295e6c0968dcfa06dd38bfe26534a560",
+        "sha256_in_prefix": "45852dc0336bc6a1ad241b9a004f9c57295e6c0968dcfa06dd38bfe26534a560",
+        "size_in_bytes": 387
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/fetch_many.al",
+        "path_type": "hardlink",
+        "sha256": "b5397abb695c8fb9047aeaf4821434fccadeece58849c7e6f8f8f7dc9cf916d9",
+        "sha256_in_prefix": "b5397abb695c8fb9047aeaf4821434fccadeece58849c7e6f8f8f7dc9cf916d9",
+        "size_in_bytes": 953
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/find.al",
+        "path_type": "hardlink",
+        "sha256": "6e10bff60e97936fdf4c3b424923262bd7f60b50f4018c30f7b68571d693c5a4",
+        "sha256_in_prefix": "6e10bff60e97936fdf4c3b424923262bd7f60b50f4018c30f7b68571d693c5a4",
+        "size_in_bytes": 680
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/freeprotect.al",
+        "path_type": "hardlink",
+        "sha256": "899b6f6bd4e575d2354f8a5ced70e7f7c3cb08221efd7045d31032fd20a3d44c",
+        "sha256_in_prefix": "899b6f6bd4e575d2354f8a5ced70e7f7c3cb08221efd7045d31032fd20a3d44c",
+        "size_in_bytes": 462
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/grep.al",
+        "path_type": "hardlink",
+        "sha256": "823a15fce1fba8e811a40684144196788b85cdc3b800829e0a13222870f4a1ff",
+        "sha256_in_prefix": "823a15fce1fba8e811a40684144196788b85cdc3b800829e0a13222870f4a1ff",
+        "size_in_bytes": 975
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/layout.al",
+        "path_type": "hardlink",
+        "sha256": "85a48a72a091325e056c501e80b3353e297ced26a75222ef10e34ed47fb1cf2e",
+        "sha256_in_prefix": "85a48a72a091325e056c501e80b3353e297ced26a75222ef10e34ed47fb1cf2e",
+        "size_in_bytes": 469
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/new.al",
+        "path_type": "hardlink",
+        "sha256": "c53dd09264405232f0030d7f98209ecf684193cfbb23f2204fd8287326d0c2d2",
+        "sha256_in_prefix": "c53dd09264405232f0030d7f98209ecf684193cfbb23f2204fd8287326d0c2d2",
+        "size_in_bytes": 553
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/parse.al",
+        "path_type": "hardlink",
+        "sha256": "f66569356f86571f9e931f66779ae8276df45133dc01ff64153acad73ee4bea7",
+        "sha256_in_prefix": "f66569356f86571f9e931f66779ae8276df45133dc01ff64153acad73ee4bea7",
+        "size_in_bytes": 646
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/parse_file.al",
+        "path_type": "hardlink",
+        "sha256": "60a3df9428438ab2a18adcdcba30619b1d92d596431d7013aa11948e1a014a1e",
+        "sha256_in_prefix": "60a3df9428438ab2a18adcdcba30619b1d92d596431d7013aa11948e1a014a1e",
+        "size_in_bytes": 724
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/parse_longtext.al",
+        "path_type": "hardlink",
+        "sha256": "95385a7146762621a25ae40f90770fa7b7a57c08ce3c7c596dacbfa11b881ae2",
+        "sha256_in_prefix": "95385a7146762621a25ae40f90770fa7b7a57c08ce3c7c596dacbfa11b881ae2",
+        "size_in_bytes": 680
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/pick.al",
+        "path_type": "hardlink",
+        "sha256": "8fe622563dbb9133b1cf1b52d350f5aedf50aed16a0e5d3310020e8dd25e336b",
+        "sha256_in_prefix": "8fe622563dbb9133b1cf1b52d350f5aedf50aed16a0e5d3310020e8dd25e336b",
+        "size_in_bytes": 883
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/ping.al",
+        "path_type": "hardlink",
+        "sha256": "2aa36ce3400427f4f69c6e19f78d93911a1351d231292a47efcf539d27290564",
+        "sha256_in_prefix": "2aa36ce3400427f4f69c6e19f78d93911a1351d231292a47efcf539d27290564",
+        "size_in_bytes": 929
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/put.al",
+        "path_type": "hardlink",
+        "sha256": "fd3a71389926c3c09c05e7f5e7f92bc8362ed14e8d3bf8c90f3a208b649f9227",
+        "sha256_in_prefix": "fd3a71389926c3c09c05e7f5e7f92bc8362ed14e8d3bf8c90f3a208b649f9227",
+        "size_in_bytes": 930
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/split.al",
+        "path_type": "hardlink",
+        "sha256": "1ec62ba5c8bb7098e22de91e3454a82e98e65ef2427fbeed61c4b3db8ce2d5ed",
+        "sha256_in_prefix": "1ec62ba5c8bb7098e22de91e3454a82e98e65ef2427fbeed61c4b3db8ce2d5ed",
+        "size_in_bytes": 619
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/status.al",
+        "path_type": "hardlink",
+        "sha256": "04aaaa0b439a1b9310b6d688e4cdfc339fe2f422583d90c70e9a9ba8af8e2e18",
+        "sha256_in_prefix": "04aaaa0b439a1b9310b6d688e4cdfc339fe2f422583d90c70e9a9ba8af8e2e18",
+        "size_in_bytes": 1749
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/timestamps.al",
+        "path_type": "hardlink",
+        "sha256": "4e94e92a62cf900da48533e43f6d864a814a226fddcfe00a8017b74bd2932c85",
+        "sha256_in_prefix": "4e94e92a62cf900da48533e43f6d864a814a226fddcfe00a8017b74bd2932c85",
+        "size_in_bytes": 406
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/title.al",
+        "path_type": "hardlink",
+        "sha256": "83997bbbcf2a99091ac43314819fff6ae580e99941ff3f66abc8717b777c3b2d",
+        "sha256_in_prefix": "83997bbbcf2a99091ac43314819fff6ae580e99941ff3f66abc8717b777c3b2d",
+        "size_in_bytes": 324
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Ace/version.al",
+        "path_type": "hardlink",
+        "sha256": "de698d43a5fb27323cc56afd777fd6e19f62a5afad9e3d4c14b67d42fc24a1c9",
+        "sha256_in_prefix": "de698d43a5fb27323cc56afd777fd6e19f62a5afad9e3d4c14b67d42fc24a1c9",
+        "size_in_bytes": 332
+      },
+      {
+        "_path": "man/man1/ace.pl.1",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "man/man3/Ace.3",
+        "path_type": "hardlink",
+        "sha256": "e8f406e0244504a0c09c76dc74ded53570b8c512eb32bfbca304c60a1301725a",
+        "sha256_in_prefix": "e8f406e0244504a0c09c76dc74ded53570b8c512eb32bfbca304c60a1301725a",
+        "size_in_bytes": 44981
+      },
+      {
+        "_path": "man/man3/Ace::Browser::AceSubs.3",
+        "path_type": "hardlink",
+        "sha256": "692f18d2c09a9c1bf3180005a46e04e406a0bae76ba561d870b59a12ad886e9b",
+        "sha256_in_prefix": "692f18d2c09a9c1bf3180005a46e04e406a0bae76ba561d870b59a12ad886e9b",
+        "size_in_bytes": 18588
+      },
+      {
+        "_path": "man/man3/Ace::Browser::SearchSubs.3",
+        "path_type": "hardlink",
+        "sha256": "c6d8262dc6805dc7065bc9c50c89e4150b167a2d382f359cd2cf220e4f648143",
+        "sha256_in_prefix": "c6d8262dc6805dc7065bc9c50c89e4150b167a2d382f359cd2cf220e4f648143",
+        "size_in_bytes": 5823
+      },
+      {
+        "_path": "man/man3/Ace::Browser::SiteDefs.3",
+        "path_type": "hardlink",
+        "sha256": "e26e07824559c8b73081f72a2317976bf80822fc718fa092c71f49ff2b97ace1",
+        "sha256_in_prefix": "e26e07824559c8b73081f72a2317976bf80822fc718fa092c71f49ff2b97ace1",
+        "size_in_bytes": 4617
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Fk.3",
+        "path_type": "hardlink",
+        "sha256": "20b825bbfdcd7b194b8ba22c4db834651d56bc1fbd5e4487cd9fdfd9c6653870",
+        "sha256_in_prefix": "20b825bbfdcd7b194b8ba22c4db834651d56bc1fbd5e4487cd9fdfd9c6653870",
+        "size_in_bytes": 2813
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph.3",
+        "path_type": "hardlink",
+        "sha256": "f76027f8987b597baf56e6d2fc1eb2e7e73f8140eba4533a0862624fd77270b3",
+        "sha256_in_prefix": "f76027f8987b597baf56e6d2fc1eb2e7e73f8140eba4533a0862624fd77270b3",
+        "size_in_bytes": 13811
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::anchored_arrow.3",
+        "path_type": "hardlink",
+        "sha256": "b512a07744a38ce0214047878ca77ddbbd93536b53fa3a798d2b5948128b0c0f",
+        "sha256_in_prefix": "b512a07744a38ce0214047878ca77ddbbd93536b53fa3a798d2b5948128b0c0f",
+        "size_in_bytes": 4344
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::arrow.3",
+        "path_type": "hardlink",
+        "sha256": "5f988af5145546f5152b70d6c4a47435a682b2a38fd4ad56321386dbd578b828",
+        "sha256_in_prefix": "5f988af5145546f5152b70d6c4a47435a682b2a38fd4ad56321386dbd578b828",
+        "size_in_bytes": 4456
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::box.3",
+        "path_type": "hardlink",
+        "sha256": "6396548c92e3a7c5a3509d32dfd3203bf06b392292c5e4ca3c078ca5d9090311",
+        "sha256_in_prefix": "6396548c92e3a7c5a3509d32dfd3203bf06b392292c5e4ca3c078ca5d9090311",
+        "size_in_bytes": 3897
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::dot.3",
+        "path_type": "hardlink",
+        "sha256": "97ed4532d69cf6149ef07a7bb45e882e84c09f9b8048404c7e79f1ef7b493ac6",
+        "sha256_in_prefix": "97ed4532d69cf6149ef07a7bb45e882e84c09f9b8048404c7e79f1ef7b493ac6",
+        "size_in_bytes": 3598
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::ex.3",
+        "path_type": "hardlink",
+        "sha256": "d36ad2ecb92e1b3a4311d07db2c54b25cc4ffa970a31baf524d8d9e54f3e775f",
+        "sha256_in_prefix": "d36ad2ecb92e1b3a4311d07db2c54b25cc4ffa970a31baf524d8d9e54f3e775f",
+        "size_in_bytes": 3470
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::graded_segments.3",
+        "path_type": "hardlink",
+        "sha256": "d5815d2eb14f60e7946a3fc4e25df7cbb9436b19d202eb457276fbc838cf472b",
+        "sha256_in_prefix": "d5815d2eb14f60e7946a3fc4e25df7cbb9436b19d202eb457276fbc838cf472b",
+        "size_in_bytes": 3588
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::group.3",
+        "path_type": "hardlink",
+        "sha256": "aa9643651bddd79f0f611154d12dccd4f10b01a890b6b4aede787c91b52d71e7",
+        "sha256_in_prefix": "aa9643651bddd79f0f611154d12dccd4f10b01a890b6b4aede787c91b52d71e7",
+        "size_in_bytes": 3589
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::line.3",
+        "path_type": "hardlink",
+        "sha256": "d0a279d86aff9d8fafdd028951ed3444813aaef56dbc5ab9124eb33867c76c43",
+        "sha256_in_prefix": "d0a279d86aff9d8fafdd028951ed3444813aaef56dbc5ab9124eb33867c76c43",
+        "size_in_bytes": 3181
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::primers.3",
+        "path_type": "hardlink",
+        "sha256": "33e516c73f4213cf8a6a42aa56ae10e9c983c7eb9461b9254ce8af2dd59f8bf0",
+        "sha256_in_prefix": "33e516c73f4213cf8a6a42aa56ae10e9c983c7eb9461b9254ce8af2dd59f8bf0",
+        "size_in_bytes": 3739
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::segments.3",
+        "path_type": "hardlink",
+        "sha256": "9b4036f8766f8137276d52152eb479fcbf13cdabb7e0b3541d508f19f63ad3cc",
+        "sha256_in_prefix": "9b4036f8766f8137276d52152eb479fcbf13cdabb7e0b3541d508f19f63ad3cc",
+        "size_in_bytes": 3808
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::span.3",
+        "path_type": "hardlink",
+        "sha256": "dd29bc06fdb054921f9b8392f58db03c13dbf849889db568314b89440de61ad0",
+        "sha256_in_prefix": "dd29bc06fdb054921f9b8392f58db03c13dbf849889db568314b89440de61ad0",
+        "size_in_bytes": 3059
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::toomany.3",
+        "path_type": "hardlink",
+        "sha256": "a19be624d44fa74a87be1f3ab934ff5e92d24aa89bd0d5d5485bc1464234a82a",
+        "sha256_in_prefix": "a19be624d44fa74a87be1f3ab934ff5e92d24aa89bd0d5d5485bc1464234a82a",
+        "size_in_bytes": 3343
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::transcript.3",
+        "path_type": "hardlink",
+        "sha256": "43ac72b7a4d01d5ddd3acab5da7850fb917d2594c304044f7be6e6f5e7bcb12c",
+        "sha256_in_prefix": "43ac72b7a4d01d5ddd3acab5da7850fb917d2594c304044f7be6e6f5e7bcb12c",
+        "size_in_bytes": 4182
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Glyph::triangle.3",
+        "path_type": "hardlink",
+        "sha256": "15916bfd21e516fb5f744378ab2d0459b20e59f9721a6216fd4add13f2386bd3",
+        "sha256_in_prefix": "15916bfd21e516fb5f744378ab2d0459b20e59f9721a6216fd4add13f2386bd3",
+        "size_in_bytes": 3677
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::GlyphFactory.3",
+        "path_type": "hardlink",
+        "sha256": "4dd7b2bace9e387e04775086581d1ad8de36f66cba7b43a24d9643e2d90ecda2",
+        "sha256_in_prefix": "4dd7b2bace9e387e04775086581d1ad8de36f66cba7b43a24d9643e2d90ecda2",
+        "size_in_bytes": 7555
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Panel.3",
+        "path_type": "hardlink",
+        "sha256": "e008ac4e5dc4225afb172d78cdd5eb0081be8290814e19aac76b94ca7d6a9e9a",
+        "sha256_in_prefix": "e008ac4e5dc4225afb172d78cdd5eb0081be8290814e19aac76b94ca7d6a9e9a",
+        "size_in_bytes": 17679
+      },
+      {
+        "_path": "man/man3/Ace::Graphics::Track.3",
+        "path_type": "hardlink",
+        "sha256": "b2d449a8dc9eb2f6b2f7f89f7ea9c16b37be5e7bb3388d3fb56e08fe4a244d82",
+        "sha256_in_prefix": "b2d449a8dc9eb2f6b2f7f89f7ea9c16b37be5e7bb3388d3fb56e08fe4a244d82",
+        "size_in_bytes": 8996
+      },
+      {
+        "_path": "man/man3/Ace::Iterator.3",
+        "path_type": "hardlink",
+        "sha256": "5c4868a62a8e0a6bb797951b51c715be8630ab97a8e135ff8cc679d85c87d9ec",
+        "sha256_in_prefix": "5c4868a62a8e0a6bb797951b51c715be8630ab97a8e135ff8cc679d85c87d9ec",
+        "size_in_bytes": 5627
+      },
+      {
+        "_path": "man/man3/Ace::Local.3",
+        "path_type": "hardlink",
+        "sha256": "0392513adc5bd7a5f0c2c149ce3a4724255e7c06306d6cf0b3eeaf7b19671271",
+        "sha256_in_prefix": "0392513adc5bd7a5f0c2c149ce3a4724255e7c06306d6cf0b3eeaf7b19671271",
+        "size_in_bytes": 6947
+      },
+      {
+        "_path": "man/man3/Ace::Model.3",
+        "path_type": "hardlink",
+        "sha256": "c9b810361138b9d82152d8f1d79888241b2bcf9da44ffbc9b17e56dbe5a1da4c",
+        "sha256_in_prefix": "c9b810361138b9d82152d8f1d79888241b2bcf9da44ffbc9b17e56dbe5a1da4c",
+        "size_in_bytes": 4784
+      },
+      {
+        "_path": "man/man3/Ace::Object.3",
+        "path_type": "hardlink",
+        "sha256": "e19386226070bd8e1e19684808fe6d6608c08b3d5a407a2267a8bcec3c8c8167",
+        "sha256_in_prefix": "e19386226070bd8e1e19684808fe6d6608c08b3d5a407a2267a8bcec3c8c8167",
+        "size_in_bytes": 46309
+      },
+      {
+        "_path": "man/man3/Ace::Sequence.3",
+        "path_type": "hardlink",
+        "sha256": "f4cba9b2febaade90e625a4804e44b9cfa3cfc03e17a67fdaf52af7ba6d44795",
+        "sha256_in_prefix": "f4cba9b2febaade90e625a4804e44b9cfa3cfc03e17a67fdaf52af7ba6d44795",
+        "size_in_bytes": 21820
+      },
+      {
+        "_path": "man/man3/Ace::Sequence::Feature.3",
+        "path_type": "hardlink",
+        "sha256": "d78293a26e401112af957e1dde364b0fa66a1bdf36fbd8858d5ac938d253149c",
+        "sha256_in_prefix": "d78293a26e401112af957e1dde364b0fa66a1bdf36fbd8858d5ac938d253149c",
+        "size_in_bytes": 9295
+      },
+      {
+        "_path": "man/man3/Ace::Sequence::FeatureList.3",
+        "path_type": "hardlink",
+        "sha256": "c4a43c482b3fad6264871f990b15eda306172a907b9d9dc67f9b722ff5331ee8",
+        "sha256_in_prefix": "c4a43c482b3fad6264871f990b15eda306172a907b9d9dc67f9b722ff5331ee8",
+        "size_in_bytes": 5775
+      },
+      {
+        "_path": "man/man3/Ace::Sequence::GappedAlignment.3",
+        "path_type": "hardlink",
+        "sha256": "0db8e3d2dfc2f159177c8da8c8f0c67ea8d83009b832953d682ab547c1a9cc7e",
+        "sha256_in_prefix": "0db8e3d2dfc2f159177c8da8c8f0c67ea8d83009b832953d682ab547c1a9cc7e",
+        "size_in_bytes": 5200
+      },
+      {
+        "_path": "man/man3/Ace::Sequence::Gene.3",
+        "path_type": "hardlink",
+        "sha256": "030e7922c602150cfd09bf9ad12bac03dc2722d18ff97dcd9931462302c535b7",
+        "sha256_in_prefix": "030e7922c602150cfd09bf9ad12bac03dc2722d18ff97dcd9931462302c535b7",
+        "size_in_bytes": 5175
+      },
+      {
+        "_path": "man/man3/Ace::Sequence::Homol.3",
+        "path_type": "hardlink",
+        "sha256": "6d6d93f10976a736a6f4886634ef66e01217ef16957e46cbc45bf325db72c917",
+        "sha256_in_prefix": "6d6d93f10976a736a6f4886634ef66e01217ef16957e46cbc45bf325db72c917",
+        "size_in_bytes": 5019
+      },
+      {
+        "_path": "man/man3/Ace::Sequence::Multi.3",
+        "path_type": "hardlink",
+        "sha256": "c828cff6ad33c18a73d85186b4dfe4ca2942ad314511cfd9ecca787b14c63d4e",
+        "sha256_in_prefix": "c828cff6ad33c18a73d85186b4dfe4ca2942ad314511cfd9ecca787b14c63d4e",
+        "size_in_bytes": 8182
+      },
+      {
+        "_path": "man/man3/Ace::Sequence::Transcript.3",
+        "path_type": "hardlink",
+        "sha256": "d12733443a0ff86ae235bfe3e5e611c813f7e34c3d0b6ae14652c396741851e8",
+        "sha256_in_prefix": "d12733443a0ff86ae235bfe3e5e611c813f7e34c3d0b6ae14652c396741851e8",
+        "size_in_bytes": 5213
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "81ee87d283f02a3f41b183b5d2b68ae0c77f1ba765e900bb133db446abce3967",
+  "size": 152383,
+  "subdir": "linux-64",
+  "timestamp": 1532902727582,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-aceperl-1.92-pl526_2.tar.bz2",
+  "version": "1.92"
+}

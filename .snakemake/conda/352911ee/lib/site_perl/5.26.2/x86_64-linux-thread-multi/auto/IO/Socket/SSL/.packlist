@@ -1,0 +1,9 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/IO/Socket/SSL.pm relocate_as=../../../../../IO/Socket/SSL.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/IO/Socket/SSL.pod relocate_as=../../../../../IO/Socket/SSL.pod
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/IO/Socket/SSL/Intercept.pm relocate_as=../../../../../IO/Socket/SSL/Intercept.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/IO/Socket/SSL/PublicSuffix.pm relocate_as=../../../../../IO/Socket/SSL/PublicSuffix.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/IO/Socket/SSL/Utils.pm relocate_as=../../../../../IO/Socket/SSL/Utils.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/IO::Socket::SSL.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/IO::Socket::SSL::Intercept.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL::Intercept.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/IO::Socket::SSL::PublicSuffix.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL::PublicSuffix.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/IO::Socket::SSL::Utils.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL::Utils.3

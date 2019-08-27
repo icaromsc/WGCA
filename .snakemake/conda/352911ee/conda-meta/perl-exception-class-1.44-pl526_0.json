@@ -1,0 +1,79 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-class-data-inheritable",
+    "perl-devel-stacktrace"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-exception-class-1.44-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Exception/Class.pm",
+    "lib/site_perl/5.26.2/Exception/Class/Base.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Exception/Class/.packlist",
+    "man/man3/Exception::Class.3",
+    "man/man3/Exception::Class::Base.3"
+  ],
+  "fn": "perl-exception-class-1.44-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-exception-class-1.44-pl526_0",
+    "type": 1
+  },
+  "md5": "0ad1976b098896c3914c4b6a71b2cc29",
+  "name": "perl-exception-class",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-exception-class-1.44-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Exception/Class.pm",
+        "path_type": "hardlink",
+        "sha256": "1273f5db5ff141334077603a1f1ca84e1f5e5f3bcebb563e4590c55bc64f5f79",
+        "sha256_in_prefix": "1273f5db5ff141334077603a1f1ca84e1f5e5f3bcebb563e4590c55bc64f5f79",
+        "size_in_bytes": 17097
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Exception/Class/Base.pm",
+        "path_type": "hardlink",
+        "sha256": "e50e6cfb7a0d3fcdbc1cd771893a15d94b6e6e0948084f18e94cbab7bca5e848",
+        "sha256_in_prefix": "e50e6cfb7a0d3fcdbc1cd771893a15d94b6e6e0948084f18e94cbab7bca5e848",
+        "size_in_bytes": 16296
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Exception/Class/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f33d8ef315eb732e907fa9df39d070045921307f547d8c7be7019b142a4228bb",
+        "sha256_in_prefix": "3c11adcfe352fb06c280f82f45bc6788866ef018719d5d37bfe394eb3c23f2f6",
+        "size_in_bytes": 498
+      },
+      {
+        "_path": "man/man3/Exception::Class.3",
+        "path_type": "hardlink",
+        "sha256": "2f09bc2149ac50724e57c86be23e5c98b6ceb1b02a7e8e84e54786c7572d1acf",
+        "sha256_in_prefix": "2f09bc2149ac50724e57c86be23e5c98b6ceb1b02a7e8e84e54786c7572d1acf",
+        "size_in_bytes": 15316
+      },
+      {
+        "_path": "man/man3/Exception::Class::Base.3",
+        "path_type": "hardlink",
+        "sha256": "fd5d890d5eb1770ec4c0d47b3df09351b0de70dd3ca0b88774244ad38943b051",
+        "sha256_in_prefix": "fd5d890d5eb1770ec4c0d47b3df09351b0de70dd3ca0b88774244ad38943b051",
+        "size_in_bytes": 15960
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4e74b1841d97fda445af64d1a5b9059e1c951e4bc1e170ee937c02ff7a6f9a41",
+  "size": 19466,
+  "subdir": "linux-64",
+  "timestamp": 1541970300595,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-exception-class-1.44-pl526_0.tar.bz2",
+  "version": "1.44"
+}

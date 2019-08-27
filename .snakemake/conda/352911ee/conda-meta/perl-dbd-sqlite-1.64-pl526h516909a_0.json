@@ -1,0 +1,197 @@
+{
+  "build": "pl526h516909a_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-dbi"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-dbd-sqlite-1.64-pl526h516909a_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/Constants.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/Cookbook.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/Fulltext_search.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/GetInfo.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/VirtualTable.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/VirtualTable/FileContent.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/VirtualTable/PerlData.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/DBD/SQLite/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/DBD/SQLite/SQLite.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/share/dist/DBD-SQLite/sqlite3.c",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/share/dist/DBD-SQLite/sqlite3.h",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/share/dist/DBD-SQLite/sqlite3ext.h",
+    "man/man3/DBD::SQLite.3",
+    "man/man3/DBD::SQLite::Constants.3",
+    "man/man3/DBD::SQLite::Cookbook.3",
+    "man/man3/DBD::SQLite::Fulltext_search.3",
+    "man/man3/DBD::SQLite::VirtualTable.3",
+    "man/man3/DBD::SQLite::VirtualTable::FileContent.3",
+    "man/man3/DBD::SQLite::VirtualTable::PerlData.3"
+  ],
+  "fn": "perl-dbd-sqlite-1.64-pl526h516909a_0.tar.bz2",
+  "license": "Perl",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-dbd-sqlite-1.64-pl526h516909a_0",
+    "type": 1
+  },
+  "md5": "e174559d63638b9b1ff18e063f0b3173",
+  "name": "perl-dbd-sqlite",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-dbd-sqlite-1.64-pl526h516909a_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite.pm",
+        "path_type": "hardlink",
+        "sha256": "82cc6f523aa764bf983d02da99d084776ab06785c34ed53d3b3b514de2eb9f51",
+        "sha256_in_prefix": "82cc6f523aa764bf983d02da99d084776ab06785c34ed53d3b3b514de2eb9f51",
+        "size_in_bytes": 94085
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/Constants.pm",
+        "path_type": "hardlink",
+        "sha256": "675192c364907589e7d16855d8772036369bee272a74bc5806bc4521d23f76b5",
+        "sha256_in_prefix": "675192c364907589e7d16855d8772036369bee272a74bc5806bc4521d23f76b5",
+        "size_in_bytes": 21722
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/Cookbook.pod",
+        "path_type": "hardlink",
+        "sha256": "78e740b4ae1376c26ba89bbf08b16bbe32bdb02d85488aa9c585e22296658ade",
+        "sha256_in_prefix": "78e740b4ae1376c26ba89bbf08b16bbe32bdb02d85488aa9c585e22296658ade",
+        "size_in_bytes": 3750
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/Fulltext_search.pod",
+        "path_type": "hardlink",
+        "sha256": "f6438fdbcf66471e1dd30797f9b64c1e5ebdef75fa8e9398df6a962406c36c21",
+        "sha256_in_prefix": "f6438fdbcf66471e1dd30797f9b64c1e5ebdef75fa8e9398df6a962406c36c21",
+        "size_in_bytes": 19182
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/GetInfo.pm",
+        "path_type": "hardlink",
+        "sha256": "5608b66d0e5d6f28c59159ee700c317b57f79799317ad57f4438e6f6e5289940",
+        "sha256_in_prefix": "5608b66d0e5d6f28c59159ee700c317b57f79799317ad57f4438e6f6e5289940",
+        "size_in_bytes": 21548
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/VirtualTable.pm",
+        "path_type": "hardlink",
+        "sha256": "ec407f391652dce1a5abb4a3d55aa88f9985cb87caafe61265f4f255f33e46ca",
+        "sha256_in_prefix": "ec407f391652dce1a5abb4a3d55aa88f9985cb87caafe61265f4f255f33e46ca",
+        "size_in_bytes": 22361
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/VirtualTable/FileContent.pm",
+        "path_type": "hardlink",
+        "sha256": "05d2b467333837a707469f0de1a2e0d202e314e0c0f862125483f6800d94d184",
+        "sha256_in_prefix": "05d2b467333837a707469f0de1a2e0d202e314e0c0f862125483f6800d94d184",
+        "size_in_bytes": 8931
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/DBD/SQLite/VirtualTable/PerlData.pm",
+        "path_type": "hardlink",
+        "sha256": "48f339c03e9e47c7eaa1d14a51c561588c21ac6c5eba54d87c3c243fb121e03f",
+        "sha256_in_prefix": "48f339c03e9e47c7eaa1d14a51c561588c21ac6c5eba54d87c3c243fb121e03f",
+        "size_in_bytes": 14892
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/DBD/SQLite/.packlist",
+        "path_type": "hardlink",
+        "sha256": "ac8b783ded7a191e0a1de6ca05282b5c8d19e11911406654e9002ebffaccac22",
+        "sha256_in_prefix": "ac8b783ded7a191e0a1de6ca05282b5c8d19e11911406654e9002ebffaccac22",
+        "size_in_bytes": 7104
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/DBD/SQLite/SQLite.so",
+        "path_type": "hardlink",
+        "sha256": "75f7a03ec95bbca6318c4ce88deab793385d951510193d228be411121f5d4a76",
+        "sha256_in_prefix": "75f7a03ec95bbca6318c4ce88deab793385d951510193d228be411121f5d4a76",
+        "size_in_bytes": 1386088
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/share/dist/DBD-SQLite/sqlite3.c",
+        "path_type": "hardlink",
+        "sha256": "58255b8586956aa82366c944f76cff2e665c45e74dc4209da57417073c8647dd",
+        "sha256_in_prefix": "58255b8586956aa82366c944f76cff2e665c45e74dc4209da57417073c8647dd",
+        "size_in_bytes": 7898916
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/share/dist/DBD-SQLite/sqlite3.h",
+        "path_type": "hardlink",
+        "sha256": "4c24b54a67437cd96964879d9c7162b2117755aaeb51fc5678e6915e33175ccb",
+        "sha256_in_prefix": "4c24b54a67437cd96964879d9c7162b2117755aaeb51fc5678e6915e33175ccb",
+        "size_in_bytes": 561577
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/share/dist/DBD-SQLite/sqlite3ext.h",
+        "path_type": "hardlink",
+        "sha256": "16d99f2b71dd3826acf8d928fdca525d5746c9ea255e1c29848fb3a654474291",
+        "sha256_in_prefix": "16d99f2b71dd3826acf8d928fdca525d5746c9ea255e1c29848fb3a654474291",
+        "size_in_bytes": 33981
+      },
+      {
+        "_path": "man/man3/DBD::SQLite.3",
+        "path_type": "hardlink",
+        "sha256": "7a2d74d51eb3bb3fdf5318888b19058603f8910243ecc60a2f00955c4d64c275",
+        "sha256_in_prefix": "7a2d74d51eb3bb3fdf5318888b19058603f8910243ecc60a2f00955c4d64c275",
+        "size_in_bytes": 74823
+      },
+      {
+        "_path": "man/man3/DBD::SQLite::Constants.3",
+        "path_type": "hardlink",
+        "sha256": "e4c029da99d05c02f3c5ed953e886a6e8e29fcb000ec1f710f8320fc7df63507",
+        "sha256_in_prefix": "e4c029da99d05c02f3c5ed953e886a6e8e29fcb000ec1f710f8320fc7df63507",
+        "size_in_bytes": 15931
+      },
+      {
+        "_path": "man/man3/DBD::SQLite::Cookbook.3",
+        "path_type": "hardlink",
+        "sha256": "5b6da0573811fcb905be9fd37a29683e7b5a4f40cede34d19d84fb49bf1cd6da",
+        "sha256_in_prefix": "5b6da0573811fcb905be9fd37a29683e7b5a4f40cede34d19d84fb49bf1cd6da",
+        "size_in_bytes": 6445
+      },
+      {
+        "_path": "man/man3/DBD::SQLite::Fulltext_search.3",
+        "path_type": "hardlink",
+        "sha256": "5fade324797a57ae6fc81652f98b2e6553f70505f2c1f641799289d113cdb769",
+        "sha256_in_prefix": "5fade324797a57ae6fc81652f98b2e6553f70505f2c1f641799289d113cdb769",
+        "size_in_bytes": 23890
+      },
+      {
+        "_path": "man/man3/DBD::SQLite::VirtualTable.3",
+        "path_type": "hardlink",
+        "sha256": "2c8b8fe8bbfbfde0d7f5bd3fb92b9ab239da85c65ed8dad474eec95bda888c82",
+        "sha256_in_prefix": "2c8b8fe8bbfbfde0d7f5bd3fb92b9ab239da85c65ed8dad474eec95bda888c82",
+        "size_in_bytes": 23641
+      },
+      {
+        "_path": "man/man3/DBD::SQLite::VirtualTable::FileContent.3",
+        "path_type": "hardlink",
+        "sha256": "00da4e4771811733860877ed17bcf89892264b5f2c61694923cb335fcdb2759f",
+        "sha256_in_prefix": "00da4e4771811733860877ed17bcf89892264b5f2c61694923cb335fcdb2759f",
+        "size_in_bytes": 5290
+      },
+      {
+        "_path": "man/man3/DBD::SQLite::VirtualTable::PerlData.3",
+        "path_type": "hardlink",
+        "sha256": "5b6537a896625c1f3a30aad8e5317d017c95f6699865e717a1d7d5bb53a968cf",
+        "sha256_in_prefix": "5b6537a896625c1f3a30aad8e5317d017c95f6699865e717a1d7d5bb53a968cf",
+        "size_in_bytes": 10067
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "43c26533a6a1349086da323de77ce75bedb8403d8edbdcaf6e0576c5bc4eeda3",
+  "size": 2363982,
+  "subdir": "linux-64",
+  "timestamp": 1565614397548,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-dbd-sqlite-1.64-pl526h516909a_0.tar.bz2",
+  "version": "1.64"
+}

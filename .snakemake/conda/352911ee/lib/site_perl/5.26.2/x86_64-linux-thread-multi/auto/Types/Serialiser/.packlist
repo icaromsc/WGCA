@@ -1,0 +1,4 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Types/Serialiser.pm relocate_as=../../../../Types/Serialiser.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Types/Serialiser/Error.pm relocate_as=../../../../Types/Serialiser/Error.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Types::Serialiser.3 relocate_as=../../../../../../../man/man3/Types::Serialiser.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Types::Serialiser::Error.3 relocate_as=../../../../../../../man/man3/Types::Serialiser::Error.3

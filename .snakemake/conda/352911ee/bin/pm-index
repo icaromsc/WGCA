@@ -1,0 +1,75 @@
+#!/bin/sh
+
+dir=`dirname "$0"`
+
+if [ "$#" -eq 0 ]
+then
+  echo "Must supply path for archive files"
+  exit 1
+fi
+
+archive="$1"
+shift
+
+archive=${archive%/}
+
+if [ "$#" -eq 0 ]
+then
+  echo "Must supply path for indexed files"
+  exit 1
+fi
+
+indexed="$1"
+shift
+
+indexed=${indexed%/}
+
+cd "$archive"
+
+find "$indexed" -name "*.e2x.gz" -delete
+
+q=0
+fr=0
+chunk_size=250000
+if [ -n "${EDIRECT_CHUNK_SIZE}" ]
+then
+  chunk_size="${EDIRECT_CHUNK_SIZE}"
+fi
+to=$((chunk_size - 1))
+loop_max=$((50000000 / chunk_size))
+seq 1 $((loop_max)) | while read n
+do
+  base=$(printf pubmed%03d $n)
+  if [ -f "$indexed/$base.e2x.gz" ]
+  then
+    fr=$((fr + chunk_size))
+    to=$((to + chunk_size))
+    continue
+  fi
+  echo "$base XML"
+  seconds_start=$(date "+%s")
+  if [ -s "$dir/meshtree.txt" ]
+  then
+    seq -f "%0.f" $fr $to |
+    fetch-pubmed -path "$archive" |
+    xtract -transform "$dir/meshtree.txt" -e2index |
+    gzip -1 > "$indexed/$base.e2x.gz"
+  else
+    seq -f "%0.f" $fr $to |
+    fetch-pubmed -path "$archive" |
+    xtract -e2index |
+    gzip -1 > "$indexed/$base.e2x.gz"
+  fi
+  fr=$((fr + chunk_size))
+  to=$((to + chunk_size))
+  seconds_end=$(date "+%s")
+  seconds=$((seconds_end - seconds_start))
+  echo "$seconds seconds"
+  fsize=$(wc -c < "$indexed/$base.e2x.gz")
+  if [ "$fsize" -le 300 ]
+  then
+    rm -f "$target/$base.xml.gz"
+    exit 0
+  fi
+  sleep 1
+done

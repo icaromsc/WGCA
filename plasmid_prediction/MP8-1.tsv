@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+data/samples/MP8-1.fasta	MP8_1_DIV1228A_trimmed_(paired)_contig_10	1	938	rep11_1_repA(pB82)	1-938/945	===============	0/0	99.26	80.92	plasmidfinder	AB178871	plasmidfinder~~~rep11_1_repA(pB82)~~~AB178871 rep11_1_repA(pB82)_AB178871
+data/samples/MP8-1.fasta	MP8_1_DIV1228A_trimmed_(paired)_contig_15	46791	47778	rep2_1_ORF(E.faeciumContig1183)_JDOE	154-1141/1494	.=======/===...	2/2	66.06	73.91	plasmidfinder		plasmidfinder~~~rep2_1_ORF(E.faeciumContig1183)_JDOE~~~ rep2_1_ORF(E.faeciumContig1183)_JDOE
+data/samples/MP8-1.fasta	MP8_1_DIV1228A_trimmed_(paired)_contig_20	13185	14115	rep9_3_repA(pPD1)	8-936/1002	========/======	1/2	92.71	91.94	plasmidfinder	D78016	plasmidfinder~~~rep9_3_repA(pPD1)~~~D78016 rep9_3_repA(pPD1)_D78016

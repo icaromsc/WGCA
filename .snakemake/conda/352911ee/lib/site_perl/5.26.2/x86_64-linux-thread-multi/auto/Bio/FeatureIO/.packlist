@@ -1,0 +1,16 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/FeatureIO.pm relocate_as=../../../../Bio/FeatureIO.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/FeatureIO/bed.pm relocate_as=../../../../Bio/FeatureIO/bed.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/FeatureIO/gff.pm relocate_as=../../../../Bio/FeatureIO/gff.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/FeatureIO/gtf.pm relocate_as=../../../../Bio/FeatureIO/gtf.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/FeatureIO/interpro.pm relocate_as=../../../../Bio/FeatureIO/interpro.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/FeatureIO/ptt.pm relocate_as=../../../../Bio/FeatureIO/ptt.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/FeatureIO/vecscreen_simple.pm relocate_as=../../../../Bio/FeatureIO/vecscreen_simple.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Bio/SeqFeature/Annotated.pm relocate_as=../../../../Bio/SeqFeature/Annotated.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::FeatureIO.3 relocate_as=../../../../../../../man/man3/Bio::FeatureIO.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::FeatureIO::bed.3 relocate_as=../../../../../../../man/man3/Bio::FeatureIO::bed.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::FeatureIO::gff.3 relocate_as=../../../../../../../man/man3/Bio::FeatureIO::gff.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::FeatureIO::gtf.3 relocate_as=../../../../../../../man/man3/Bio::FeatureIO::gtf.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::FeatureIO::interpro.3 relocate_as=../../../../../../../man/man3/Bio::FeatureIO::interpro.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::FeatureIO::ptt.3 relocate_as=../../../../../../../man/man3/Bio::FeatureIO::ptt.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::FeatureIO::vecscreen_simple.3 relocate_as=../../../../../../../man/man3/Bio::FeatureIO::vecscreen_simple.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Bio::SeqFeature::Annotated.3 relocate_as=../../../../../../../man/man3/Bio::SeqFeature::Annotated.3

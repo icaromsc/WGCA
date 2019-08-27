@@ -1,0 +1,2 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/File/Sort.pm relocate_as=../../../../File/Sort.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/File::Sort.3 relocate_as=../../../../../../../man/man3/File::Sort.3

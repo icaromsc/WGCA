@@ -1,0 +1,2 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/File/Slurp.pm relocate_as=../../../../File/Slurp.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/File::Slurp.3 relocate_as=../../../../../../../man/man3/File::Slurp.3

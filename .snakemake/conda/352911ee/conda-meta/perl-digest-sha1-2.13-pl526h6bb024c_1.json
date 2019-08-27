@@ -1,0 +1,71 @@
+{
+  "build": "pl526h6bb024c_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-digest-sha1-2.13-pl526h6bb024c_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Digest/SHA1.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Digest/SHA1/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Digest/SHA1/SHA1.so",
+    "man/man3/Digest::SHA1.3"
+  ],
+  "fn": "perl-digest-sha1-2.13-pl526h6bb024c_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-digest-sha1-2.13-pl526h6bb024c_1",
+    "type": 1
+  },
+  "md5": "34f08c9ebc82b9357ff1a89712407e10",
+  "name": "perl-digest-sha1",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-digest-sha1-2.13-pl526h6bb024c_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Digest/SHA1.pm",
+        "path_type": "hardlink",
+        "sha256": "9eb3f751708d91aa50a98b8e39b82897b85fbe66cda2f7a02dfff041b6abbf7d",
+        "sha256_in_prefix": "9eb3f751708d91aa50a98b8e39b82897b85fbe66cda2f7a02dfff041b6abbf7d",
+        "size_in_bytes": 7091
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Digest/SHA1/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "86929d5a4ed6cffa5cd07c0e6fc32c6b94bd87281ccf44bfa8ea579e29de2fe2",
+        "sha256_in_prefix": "a6930b2e4c119a1221548635d5f21748f7c3193124a0994bcbb2c3d4313a0a7d",
+        "size_in_bytes": 370
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Digest/SHA1/SHA1.so",
+        "path_type": "hardlink",
+        "sha256": "751cbf8b19671dcd1cbe8099dd7f2728009bab31b3afa7f4aba93ddddfc7658b",
+        "sha256_in_prefix": "751cbf8b19671dcd1cbe8099dd7f2728009bab31b3afa7f4aba93ddddfc7658b",
+        "size_in_bytes": 25800
+      },
+      {
+        "_path": "man/man3/Digest::SHA1.3",
+        "path_type": "hardlink",
+        "sha256": "76626d3c7db4571c75f91f59800836792c3164f97dec7bdd719ca7ecbe1f4499",
+        "sha256_in_prefix": "76626d3c7db4571c75f91f59800836792c3164f97dec7bdd719ca7ecbe1f4499",
+        "size_in_bytes": 10497
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "645430122f0e7a5675570dfbc27efe2f8fe797e77f669a819e3b63dbcc720bfb",
+  "size": 20366,
+  "subdir": "linux-64",
+  "timestamp": 1556333878954,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-digest-sha1-2.13-pl526h6bb024c_1.tar.bz2",
+  "version": "2.13"
+}

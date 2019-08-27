@@ -1,0 +1,13 @@
+prefix=/home/icaro/WGCA/.snakemake/conda/352911ee
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.9
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private: -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -licui18n -licuuc -licudata -lpthread -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -lz -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -llzma -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -liconv -lm  
+Cflags: -I${includedir}/libxml2 -I/home/icaro/WGCA/.snakemake/conda/352911ee/include 

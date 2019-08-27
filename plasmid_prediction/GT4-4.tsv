@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+data/samples/GT4-4.fasta	GT4_4_contig_3	60948	61959	rep9_4_repA2(pTEF2)	1-1011/1011	========/======	1/1	100.00	96.54	plasmidfinder	AE016831	plasmidfinder~~~rep9_4_repA2(pTEF2)~~~AE016831 rep9_4_repA2(pTEF2)_AE016831
+data/samples/GT4-4.fasta	GT4_4_contig_8	61885	63390	repUS11__CDS16(pTEF3)	1-1506/1506	========/======	4/8	99.73	82.98	plasmidfinder	AE016832	plasmidfinder~~~repUS11__CDS16(pTEF3)~~~AE016832 repUS11__CDS16(pTEF3)_AE016832

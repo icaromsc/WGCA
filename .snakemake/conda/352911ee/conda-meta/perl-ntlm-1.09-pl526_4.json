@@ -1,0 +1,78 @@
+{
+  "build": "pl526_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-digest-hmac"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-ntlm-1.09-pl526_4",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Authen/NTLM.pm",
+    "lib/site_perl/5.26.2/Authen/NTLM/DES.pm",
+    "lib/site_perl/5.26.2/Authen/NTLM/MD4.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Authen/NTLM/.packlist",
+    "man/man3/Authen::NTLM.3"
+  ],
+  "fn": "perl-ntlm-1.09-pl526_4.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-ntlm-1.09-pl526_4",
+    "type": 1
+  },
+  "md5": "7863718bc88444211e686dc91dbf4292",
+  "name": "perl-ntlm",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-ntlm-1.09-pl526_4.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Authen/NTLM.pm",
+        "path_type": "hardlink",
+        "sha256": "bad52efa3753dd8654764b6e46d84bcd52d05064b355301a88ba9ed35d9c408d",
+        "sha256_in_prefix": "bad52efa3753dd8654764b6e46d84bcd52d05064b355301a88ba9ed35d9c408d",
+        "size_in_bytes": 12276
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Authen/NTLM/DES.pm",
+        "path_type": "hardlink",
+        "sha256": "377131fc5a376efbb4101cee5c91f4d9dd5b57f52c8ff7d4d8dbc5c1af071a1e",
+        "sha256_in_prefix": "377131fc5a376efbb4101cee5c91f4d9dd5b57f52c8ff7d4d8dbc5c1af071a1e",
+        "size_in_bytes": 7003
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Authen/NTLM/MD4.pm",
+        "path_type": "hardlink",
+        "sha256": "a39ea1c7c241bcd6312f4a2d4970314fd243279c4a47278d7a84e90cce1c705e",
+        "sha256_in_prefix": "a39ea1c7c241bcd6312f4a2d4970314fd243279c4a47278d7a84e90cce1c705e",
+        "size_in_bytes": 4809
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Authen/NTLM/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "79c656eef7425906d7b24ee0f9717b2a74284cc55ee7c4a22ec99bf9958505bf",
+        "sha256_in_prefix": "a9770bde2c1ff76d55bc8328c98189df9e06f7fc7d53a8a0c4950b496d43d006",
+        "size_in_bytes": 454
+      },
+      {
+        "_path": "man/man3/Authen::NTLM.3",
+        "path_type": "hardlink",
+        "sha256": "bd2b973c33d0239ac0807efb124dad1ed6464e7536f42d4f89508d29eec8b1f6",
+        "sha256_in_prefix": "bd2b973c33d0239ac0807efb124dad1ed6464e7536f42d4f89508d29eec8b1f6",
+        "size_in_bytes": 7231
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "34acb2fe7c17d7e65b5afca0fe047e9e61c99a512f5f2e9a71b42c33b9a841f8",
+  "size": 14903,
+  "subdir": "linux-64",
+  "timestamp": 1552132432732,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-ntlm-1.09-pl526_4.tar.bz2",
+  "version": "1.09"
+}

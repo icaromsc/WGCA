@@ -1,0 +1,61 @@
+{
+  "build": "pl526hc9558a2_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-compress-raw-zlib-2.087-pl526hc9558a2_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Compress/Raw/Zlib.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Compress/Raw/Zlib/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Compress/Raw/Zlib/Zlib.so"
+  ],
+  "fn": "perl-compress-raw-zlib-2.087-pl526hc9558a2_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-compress-raw-zlib-2.087-pl526hc9558a2_0",
+    "type": 1
+  },
+  "md5": "6a7842c318054b9110268696ce2fe7be",
+  "name": "perl-compress-raw-zlib",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-compress-raw-zlib-2.087-pl526hc9558a2_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Compress/Raw/Zlib.pm",
+        "path_type": "hardlink",
+        "sha256": "1311c2f54f7f38f9757aef50113faf7ca4b00cfe20de3476c78e33e175477713",
+        "sha256_in_prefix": "1311c2f54f7f38f9757aef50113faf7ca4b00cfe20de3476c78e33e175477713",
+        "size_in_bytes": 47456
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Compress/Raw/Zlib/.packlist",
+        "path_type": "hardlink",
+        "sha256": "9730dda115a1f17c72b3b70568df5bd57f3c6ea0c6938f82b5f19c402f2b487d",
+        "sha256_in_prefix": "9730dda115a1f17c72b3b70568df5bd57f3c6ea0c6938f82b5f19c402f2b487d",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Compress/Raw/Zlib/Zlib.so",
+        "path_type": "hardlink",
+        "sha256": "5421d838c24304f337830f96f51b8dcb1e1876eaf5c9db4ccd717094d19d4753",
+        "sha256_in_prefix": "5421d838c24304f337830f96f51b8dcb1e1876eaf5c9db4ccd717094d19d4753",
+        "size_in_bytes": 142000
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "87bf47b84e245aaf61a6182a862ea6123420a7c500763b6a4ed7fe6ad28e386d",
+  "size": 74219,
+  "subdir": "linux-64",
+  "timestamp": 1565466229690,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-compress-raw-zlib-2.087-pl526hc9558a2_0.tar.bz2",
+  "version": "2.087"
+}

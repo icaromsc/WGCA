@@ -1,0 +1,143 @@
+{
+  "build": "pl526h14c3975_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-carp"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-pathtools-3.75-pl526h14c3975_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Cwd.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/AmigaOS.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Cygwin.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Epoc.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Functions.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Mac.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/OS2.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Unix.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/VMS.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Win32.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Cwd/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Cwd/Cwd.so"
+  ],
+  "fn": "perl-pathtools-3.75-pl526h14c3975_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-pathtools-3.75-pl526h14c3975_1",
+    "type": 1
+  },
+  "md5": "4ac5eb7fe5450b7a28c9dc5423c7c293",
+  "name": "perl-pathtools",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-pathtools-3.75-pl526h14c3975_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Cwd.pm",
+        "path_type": "hardlink",
+        "sha256": "6c9b33ffb74620ec48d44be52ead95e813208f9372753c500a25e9e018106164",
+        "sha256_in_prefix": "6c9b33ffb74620ec48d44be52ead95e813208f9372753c500a25e9e018106164",
+        "size_in_bytes": 21799
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec.pm",
+        "path_type": "hardlink",
+        "sha256": "982290da0038fbbe38b8ce344ef3aeab8c035a8cd0706429880e2032b14c6c57",
+        "sha256_in_prefix": "982290da0038fbbe38b8ce344ef3aeab8c035a8cd0706429880e2032b14c6c57",
+        "size_in_bytes": 10571
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/AmigaOS.pm",
+        "path_type": "hardlink",
+        "sha256": "17e0afbf8b9165e0da26527317154f281e3b46ef48ea9940a75201715242335e",
+        "sha256_in_prefix": "17e0afbf8b9165e0da26527317154f281e3b46ef48ea9940a75201715242335e",
+        "size_in_bytes": 982
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Cygwin.pm",
+        "path_type": "hardlink",
+        "sha256": "5c69f87f9e92ac60f51b6793fc062bd09a51716f1d758393466f09fc84c57a6e",
+        "sha256_in_prefix": "5c69f87f9e92ac60f51b6793fc062bd09a51716f1d758393466f09fc84c57a6e",
+        "size_in_bytes": 3610
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Epoc.pm",
+        "path_type": "hardlink",
+        "sha256": "483d099ed4d94763e94bc387d166d34aaa473350b6c4b58bc176e0dc216a1a78",
+        "sha256_in_prefix": "483d099ed4d94763e94bc387d166d34aaa473350b6c4b58bc176e0dc216a1a78",
+        "size_in_bytes": 1571
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Functions.pm",
+        "path_type": "hardlink",
+        "sha256": "78de5323ffa68119bdffad5293171a9ee1ae9199705446e7d20e5c4ee300659c",
+        "sha256_in_prefix": "78de5323ffa68119bdffad5293171a9ee1ae9199705446e7d20e5c4ee300659c",
+        "size_in_bytes": 2348
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Mac.pm",
+        "path_type": "hardlink",
+        "sha256": "5b8993c6e7cdb4efdfe8931286fbce5e6b9e4c675c311cd7dec43d1d08b00c8e",
+        "sha256_in_prefix": "5b8993c6e7cdb4efdfe8931286fbce5e6b9e4c675c311cd7dec43d1d08b00c8e",
+        "size_in_bytes": 22274
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/OS2.pm",
+        "path_type": "hardlink",
+        "sha256": "cd1284605637617f9ed65ce7aa97d65020f8a88284f5ebc2bbd1b1ffad3cc504",
+        "sha256_in_prefix": "cd1284605637617f9ed65ce7aa97d65020f8a88284f5ebc2bbd1b1ffad3cc504",
+        "size_in_bytes": 6766
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Unix.pm",
+        "path_type": "hardlink",
+        "sha256": "b6b4dd2433b0205abbdbb51823fcb1b6370423160431892ed18de5961fe19fc8",
+        "sha256_in_prefix": "b6b4dd2433b0205abbdbb51823fcb1b6370423160431892ed18de5961fe19fc8",
+        "size_in_bytes": 15889
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/VMS.pm",
+        "path_type": "hardlink",
+        "sha256": "5dfac7cfad1ad20c685e27aaddf93755e93f42ee52d0952a13dce462acb822e7",
+        "sha256_in_prefix": "5dfac7cfad1ad20c685e27aaddf93755e93f42ee52d0952a13dce462acb822e7",
+        "size_in_bytes": 16326
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/File/Spec/Win32.pm",
+        "path_type": "hardlink",
+        "sha256": "0bba18ac6c80a5a29528b3c2e65bfefea2319863ffe5b4e5527cde4075b86836",
+        "sha256_in_prefix": "0bba18ac6c80a5a29528b3c2e65bfefea2319863ffe5b4e5527cde4075b86836",
+        "size_in_bytes": 11217
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Cwd/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "71a6b6d02bb9c49cc6cfd2708e8cde66329977660e0d6554e35ceb045edfbba3",
+        "sha256_in_prefix": "92fb417f965c89813fb56d53b65334c47556434d3730130ef493de732cecf9ae",
+        "size_in_bytes": 2860
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Cwd/Cwd.so",
+        "path_type": "hardlink",
+        "sha256": "2e65f3754e0dcab12da0ad98deecfe378a2d238f5e6b7bc50e5243af68121327",
+        "sha256_in_prefix": "2e65f3754e0dcab12da0ad98deecfe378a2d238f5e6b7bc50e5243af68121327",
+        "size_in_bytes": 26336
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2bc811011a444c5fe9f66141bb73911dfb47ca5e9746589cc3076996d9685c78",
+  "size": 41822,
+  "subdir": "linux-64",
+  "timestamp": 1556736921053,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-pathtools-3.75-pl526h14c3975_1.tar.bz2",
+  "version": "3.75"
+}

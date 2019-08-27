@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+data/samples/V583.fasta	NC_004669.1	101	1111	rep9_1_repA(pAD1)	1-1011/1011	===============	0/0	100.00	100.00	plasmidfinder	L01794	plasmidfinder~~~rep9_1_repA(pAD1)~~~L01794 rep9_1_repA(pAD1)_L01794
+data/samples/V583.fasta	NC_004669.1	9852	10771	rep13_3_rep(pWBG1773)	1-920/924	========/======	4/6	99.24	77.90	plasmidfinder	EF537646	plasmidfinder~~~rep13_3_rep(pWBG1773)~~~EF537646 rep13_3_rep(pWBG1773)_EF537646
+data/samples/V583.fasta	NC_004669.1	45922	47412	rep1_6_repE(pTEF1)	1-1491/1491	===============	0/0	100.00	100.00	plasmidfinder	AE016833	plasmidfinder~~~rep1_6_repE(pTEF1)~~~AE016833 rep1_6_repE(pTEF1)_AE016833
+data/samples/V583.fasta	NC_004670.1	16433	17938	repUS11__CDS16(pTEF3)	1-1506/1506	===============	0/0	100.00	100.00	plasmidfinder	AE016832	plasmidfinder~~~repUS11__CDS16(pTEF3)~~~AE016832 repUS11__CDS16(pTEF3)_AE016832
+data/samples/V583.fasta	NC_004671.1	100	1110	rep9_4_repA2(pTEF2)	1-1011/1011	===============	0/0	100.00	100.00	plasmidfinder	AE016831	plasmidfinder~~~rep9_4_repA2(pTEF2)~~~AE016831 rep9_4_repA2(pTEF2)_AE016831

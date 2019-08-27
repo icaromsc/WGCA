@@ -1,0 +1,33 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-dynaloader-1.25-pl526_1",
+  "features": "",
+  "files": [],
+  "fn": "perl-dynaloader-1.25-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-dynaloader-1.25-pl526_1",
+    "type": 1
+  },
+  "md5": "f8ef9b13d527c472a2a33a9218043f47",
+  "name": "perl-dynaloader",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-dynaloader-1.25-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a830c821100535a20bdf4d27ab766b6c18fd553ebc052cb8c4b92bf7397b50e0",
+  "size": 3373,
+  "subdir": "linux-64",
+  "timestamp": 1531652495743,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-dynaloader-1.25-pl526_1.tar.bz2",
+  "version": "1.25"
+}

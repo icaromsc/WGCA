@@ -1,0 +1,10 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MIME/Type.pm relocate_as=../../../../MIME/Type.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MIME/Type.pod relocate_as=../../../../MIME/Type.pod
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MIME/Types.pm relocate_as=../../../../MIME/Types.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MIME/Types.pod relocate_as=../../../../MIME/Types.pod
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MIME/types.db relocate_as=../../../../MIME/types.db
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MojoX/MIME/Types.pm relocate_as=../../../../MojoX/MIME/Types.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MojoX/MIME/Types.pod relocate_as=../../../../MojoX/MIME/Types.pod
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/MIME::Type.3 relocate_as=../../../../../../../man/man3/MIME::Type.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/MIME::Types.3 relocate_as=../../../../../../../man/man3/MIME::Types.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/MojoX::MIME::Types.3 relocate_as=../../../../../../../man/man3/MojoX::MIME::Types.3

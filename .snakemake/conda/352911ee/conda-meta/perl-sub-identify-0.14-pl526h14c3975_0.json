@@ -1,0 +1,70 @@
+{
+  "build": "pl526h14c3975_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-sub-identify-0.14-pl526h14c3975_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Sub/Identify.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Identify/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Identify/Identify.so",
+    "man/man3/Sub::Identify.3"
+  ],
+  "fn": "perl-sub-identify-0.14-pl526h14c3975_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-sub-identify-0.14-pl526h14c3975_0",
+    "type": 1
+  },
+  "md5": "17126c427ca6c885ce4836d69f3f4825",
+  "name": "perl-sub-identify",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-sub-identify-0.14-pl526h14c3975_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Sub/Identify.pm",
+        "path_type": "hardlink",
+        "sha256": "9b7160d05caf371030379bd5c1fc28ba0c07f300dfb4348122c99ac8d77e1c41",
+        "sha256_in_prefix": "9b7160d05caf371030379bd5c1fc28ba0c07f300dfb4348122c99ac8d77e1c41",
+        "size_in_bytes": 4555
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Identify/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "e5d6eda88d7de1b6c18d45f8ea9383453a2a61ba9cc1ab3d956dec90b15dd351",
+        "sha256_in_prefix": "440cfdadc28dacfe89e8cc6b43bac6ab5a723eca338dbf952ad8fdacba55447c",
+        "size_in_bytes": 383
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Identify/Identify.so",
+        "path_type": "hardlink",
+        "sha256": "ca18b375678045498c5278f99046a28d7ac6930ffa57462da8576d9e819ded06",
+        "sha256_in_prefix": "ca18b375678045498c5278f99046a28d7ac6930ffa57462da8576d9e819ded06",
+        "size_in_bytes": 16688
+      },
+      {
+        "_path": "man/man3/Sub::Identify.3",
+        "path_type": "hardlink",
+        "sha256": "0f686dcf75a0a1d086722d10dd68d27865e857829b7d51ffd0fa94e118a0e097",
+        "sha256_in_prefix": "0f686dcf75a0a1d086722d10dd68d27865e857829b7d51ffd0fa94e118a0e097",
+        "size_in_bytes": 4997
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "78bb072ebdddc2e8a8f10d6cc20f1f734fe4384bf36ee2191ab182825594f11b",
+  "size": 12764,
+  "subdir": "linux-64",
+  "timestamp": 1557957128417,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-sub-identify-0.14-pl526h14c3975_0.tar.bz2",
+  "version": "0.14"
+}

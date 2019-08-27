@@ -1,0 +1,6 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - abricate =0.8.13
+  - perl-list-moreutils

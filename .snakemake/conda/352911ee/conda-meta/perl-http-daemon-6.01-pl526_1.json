@@ -1,0 +1,64 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0",
+    "perl-http-date",
+    "perl-http-message",
+    "perl-lwp-mediatypes"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-http-daemon-6.01-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/HTTP/Daemon.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTTP/Daemon/.packlist",
+    "man/man3/HTTP::Daemon.3"
+  ],
+  "fn": "perl-http-daemon-6.01-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-http-daemon-6.01-pl526_1",
+    "type": 1
+  },
+  "md5": "b6540672ea97f10b1088ece63b799177",
+  "name": "perl-http-daemon",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-http-daemon-6.01-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/HTTP/Daemon.pm",
+        "path_type": "hardlink",
+        "sha256": "27ae8ff9144cd6a253f52da473eadce390ff24ef110f3900f67970b357d4d497",
+        "sha256_in_prefix": "27ae8ff9144cd6a253f52da473eadce390ff24ef110f3900f67970b357d4d497",
+        "size_in_bytes": 23255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTTP/Daemon/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "72491b7d72473e88c9e94ea17da598ccdc4ae51ae2a0a6eed7ac4e84567d6cf9",
+        "sha256_in_prefix": "d2e9da1f93fbe1f72cbfede97f0706cbbda88f4ec4136f40f1a800f89e502014",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "man/man3/HTTP::Daemon.3",
+        "path_type": "hardlink",
+        "sha256": "3f0ca62525365d35b6e9b189c9c94cc858c9b16d6f2760ac71af8e0f5fca04e4",
+        "sha256_in_prefix": "3f0ca62525365d35b6e9b189c9c94cc858c9b16d6f2760ac71af8e0f5fca04e4",
+        "size_in_bytes": 16709
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a46abd49eeefb08c8578fb2bd16e83f721b422e16637cd963eecf0b66791ba26",
+  "size": 14543,
+  "subdir": "linux-64",
+  "timestamp": 1531003982804,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-http-daemon-6.01-pl526_1.tar.bz2",
+  "version": "6.01"
+}

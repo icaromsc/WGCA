@@ -1,0 +1,178 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-bioperl-core",
+    "perl-tree-dag_node",
+    "perl-uri",
+    "perl-xml-dom",
+    "perl-xml-dom-xpath"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-bio-featureio-1.6.905-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Bio/FeatureIO.pm",
+    "lib/site_perl/5.26.2/Bio/FeatureIO/bed.pm",
+    "lib/site_perl/5.26.2/Bio/FeatureIO/gff.pm",
+    "lib/site_perl/5.26.2/Bio/FeatureIO/gtf.pm",
+    "lib/site_perl/5.26.2/Bio/FeatureIO/interpro.pm",
+    "lib/site_perl/5.26.2/Bio/FeatureIO/ptt.pm",
+    "lib/site_perl/5.26.2/Bio/FeatureIO/vecscreen_simple.pm",
+    "lib/site_perl/5.26.2/Bio/SeqFeature/Annotated.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Bio/FeatureIO/.packlist",
+    "man/man3/Bio::FeatureIO.3",
+    "man/man3/Bio::FeatureIO::bed.3",
+    "man/man3/Bio::FeatureIO::gff.3",
+    "man/man3/Bio::FeatureIO::gtf.3",
+    "man/man3/Bio::FeatureIO::interpro.3",
+    "man/man3/Bio::FeatureIO::ptt.3",
+    "man/man3/Bio::FeatureIO::vecscreen_simple.3",
+    "man/man3/Bio::SeqFeature::Annotated.3"
+  ],
+  "fn": "perl-bio-featureio-1.6.905-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-bio-featureio-1.6.905-pl526_1",
+    "type": 1
+  },
+  "md5": "def0e774602cd57f61d564cbf8dce087",
+  "name": "perl-bio-featureio",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-bio-featureio-1.6.905-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/FeatureIO.pm",
+        "path_type": "hardlink",
+        "sha256": "2005683e6b0d9ed1801dd60a69cd2ab0b996cd01b23c1d2a025e3bdb04a896a6",
+        "sha256_in_prefix": "2005683e6b0d9ed1801dd60a69cd2ab0b996cd01b23c1d2a025e3bdb04a896a6",
+        "size_in_bytes": 14074
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/FeatureIO/bed.pm",
+        "path_type": "hardlink",
+        "sha256": "6dbe6cd42f74a1093b3909b5003401660718573bd02211172c9b5cb65062af82",
+        "sha256_in_prefix": "6dbe6cd42f74a1093b3909b5003401660718573bd02211172c9b5cb65062af82",
+        "size_in_bytes": 7054
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/FeatureIO/gff.pm",
+        "path_type": "hardlink",
+        "sha256": "d7179d4d4a72c998197f96791be968cdf664da75845529dec153e11979e09b6e",
+        "sha256_in_prefix": "d7179d4d4a72c998197f96791be968cdf664da75845529dec153e11979e09b6e",
+        "size_in_bytes": 27526
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/FeatureIO/gtf.pm",
+        "path_type": "hardlink",
+        "sha256": "04385a32575ccf752f9f4463294de9fc4f35aa7b599823f267ae0a8fb90c6fa7",
+        "sha256_in_prefix": "04385a32575ccf752f9f4463294de9fc4f35aa7b599823f267ae0a8fb90c6fa7",
+        "size_in_bytes": 2128
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/FeatureIO/interpro.pm",
+        "path_type": "hardlink",
+        "sha256": "ba3b46e1739e00dfd9191382b4ad9ff90a243a7278ce8a184ec1b8955de357c2",
+        "sha256_in_prefix": "ba3b46e1739e00dfd9191382b4ad9ff90a243a7278ce8a184ec1b8955de357c2",
+        "size_in_bytes": 5622
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/FeatureIO/ptt.pm",
+        "path_type": "hardlink",
+        "sha256": "6de92edb2874568cf741a335fb6b32e0b88e2d7a0c669eb5fb7b7b4d697f8e59",
+        "sha256_in_prefix": "6de92edb2874568cf741a335fb6b32e0b88e2d7a0c669eb5fb7b7b4d697f8e59",
+        "size_in_bytes": 6012
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/FeatureIO/vecscreen_simple.pm",
+        "path_type": "hardlink",
+        "sha256": "e28b7e70c2369c64092c7512056d24cfddf4e6001b7e75168b77c6381d18e720",
+        "sha256_in_prefix": "e28b7e70c2369c64092c7512056d24cfddf4e6001b7e75168b77c6381d18e720",
+        "size_in_bytes": 5023
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Bio/SeqFeature/Annotated.pm",
+        "path_type": "hardlink",
+        "sha256": "6a6845557888c6dfd584880f0f86d153a906b53b557278fb14aeddcaa88dc442",
+        "sha256_in_prefix": "6a6845557888c6dfd584880f0f86d153a906b53b557278fb14aeddcaa88dc442",
+        "size_in_bytes": 33109
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Bio/FeatureIO/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "12fa6ffc427627a6489a71409fb7e56908040879cafb718672ecbc0474abf2e2",
+        "sha256_in_prefix": "bf924789cb8845cea01da0af2fc53950c00177d1fb7abc6c091ae0dfa7e64173",
+        "size_in_bytes": 2066
+      },
+      {
+        "_path": "man/man3/Bio::FeatureIO.3",
+        "path_type": "hardlink",
+        "sha256": "a3c67a7f5c455bca074fa4ebfbdfc580dac774e586717b322cf7dfb5f4303119",
+        "sha256_in_prefix": "a3c67a7f5c455bca074fa4ebfbdfc580dac774e586717b322cf7dfb5f4303119",
+        "size_in_bytes": 14417
+      },
+      {
+        "_path": "man/man3/Bio::FeatureIO::bed.3",
+        "path_type": "hardlink",
+        "sha256": "3561c120ed6e548f2f457c51e0bbd5d36415ecb8fb623bd5726a2f723d1ec261",
+        "sha256_in_prefix": "3561c120ed6e548f2f457c51e0bbd5d36415ecb8fb623bd5726a2f723d1ec261",
+        "size_in_bytes": 5904
+      },
+      {
+        "_path": "man/man3/Bio::FeatureIO::gff.3",
+        "path_type": "hardlink",
+        "sha256": "44a01e8d08a97cb44b84ba93d41b796262ae925329e2b9774283dae824210ba2",
+        "sha256_in_prefix": "44a01e8d08a97cb44b84ba93d41b796262ae925329e2b9774283dae824210ba2",
+        "size_in_bytes": 9420
+      },
+      {
+        "_path": "man/man3/Bio::FeatureIO::gtf.3",
+        "path_type": "hardlink",
+        "sha256": "d1f8ea5e364fdf1d593274854db3b13cb0340da6580f82f20771120366e0943b",
+        "sha256_in_prefix": "d1f8ea5e364fdf1d593274854db3b13cb0340da6580f82f20771120366e0943b",
+        "size_in_bytes": 3756
+      },
+      {
+        "_path": "man/man3/Bio::FeatureIO::interpro.3",
+        "path_type": "hardlink",
+        "sha256": "bed27c7d929c2c676faad4f701c39698f04217caf0fbdfc6509e3df70cc56b64",
+        "sha256_in_prefix": "bed27c7d929c2c676faad4f701c39698f04217caf0fbdfc6509e3df70cc56b64",
+        "size_in_bytes": 4350
+      },
+      {
+        "_path": "man/man3/Bio::FeatureIO::ptt.3",
+        "path_type": "hardlink",
+        "sha256": "d1ebcced64cc88b29de8a27887e7e32541a59ee0b9f46e4bee42455e92e37ad4",
+        "sha256_in_prefix": "d1ebcced64cc88b29de8a27887e7e32541a59ee0b9f46e4bee42455e92e37ad4",
+        "size_in_bytes": 7013
+      },
+      {
+        "_path": "man/man3/Bio::FeatureIO::vecscreen_simple.3",
+        "path_type": "hardlink",
+        "sha256": "e65f99d42e7a64c7e25c4ddb97aca6f3d504bbfa0cedb893ddb7d858d28c69f5",
+        "sha256_in_prefix": "e65f99d42e7a64c7e25c4ddb97aca6f3d504bbfa0cedb893ddb7d858d28c69f5",
+        "size_in_bytes": 5360
+      },
+      {
+        "_path": "man/man3/Bio::SeqFeature::Annotated.3",
+        "path_type": "hardlink",
+        "sha256": "52fcd208ca831733de4e8aa3ed0153aec16ecaa4a30a86c4a8ec5fce4bb1cda0",
+        "sha256_in_prefix": "52fcd208ca831733de4e8aa3ed0153aec16ecaa4a30a86c4a8ec5fce4bb1cda0",
+        "size_in_bytes": 19130
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "888f2aa25872f539f32da80684094651908daaae4f5e03e4ff318b7f1034dc6a",
+  "size": 38274,
+  "subdir": "linux-64",
+  "timestamp": 1533830423964,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-bio-featureio-1.6.905-pl526_1.tar.bz2",
+  "version": "1.6.905"
+}

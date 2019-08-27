@@ -1,0 +1,391 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0",
+    "perl-exporter",
+    "perl-parent"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-encode-2.88-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Alias.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Byte.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/CJKConstants.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/CN.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/CN/HZ.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Changes.e2x",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Config.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/ConfigLocal_PM.e2x",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/EBCDIC.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Encoder.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Encoding.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/GSM0338.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Guess.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/JP.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/JP/H2Z.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/JP/JIS7.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/KR.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/KR/2022_KR.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/MIME/Header.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/MIME/Header/ISO_2022_JP.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/MIME/Name.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Makefile_PL.e2x",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/PerlIO.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/README.e2x",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Supported.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Symbol.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/TW.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Unicode.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Unicode/UTF7.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/_PM.e2x",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/_T.e2x",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/encode.h",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Byte/Byte.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/CN/CN.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/EBCDIC/EBCDIC.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Encode.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/JP/JP.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/KR/KR.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Symbol/Symbol.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/TW/TW.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Unicode/Unicode.so",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/encoding.pm"
+  ],
+  "fn": "perl-encode-2.88-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-encode-2.88-pl526_1",
+    "type": 1
+  },
+  "md5": "0db0d9088045596254fb8a88a9a37294",
+  "name": "perl-encode",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-encode-2.88-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode.pm",
+        "path_type": "hardlink",
+        "sha256": "b9442020899222a3804301f2527c3976b0d7e0f24d192597ae4eb15cf9015496",
+        "sha256_in_prefix": "b9442020899222a3804301f2527c3976b0d7e0f24d192597ae4eb15cf9015496",
+        "size_in_bytes": 36499
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Alias.pm",
+        "path_type": "hardlink",
+        "sha256": "73671886d311552d9663ceb5b55dbc4c0a507a352068c73384bb09dc7af655d0",
+        "sha256_in_prefix": "73671886d311552d9663ceb5b55dbc4c0a507a352068c73384bb09dc7af655d0",
+        "size_in_bytes": 12494
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Byte.pm",
+        "path_type": "hardlink",
+        "sha256": "4e6227c9b037cee4961025cb3549d5eabdd1e8ec5a3492ea66f7d933b1665a6d",
+        "sha256_in_prefix": "4e6227c9b037cee4961025cb3549d5eabdd1e8ec5a3492ea66f7d933b1665a6d",
+        "size_in_bytes": 2430
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/CJKConstants.pm",
+        "path_type": "hardlink",
+        "sha256": "78a9d87ad5cdd120aa257cb2ee07b87a6c2844fcae47aa71e29ea9cc0c97b377",
+        "sha256_in_prefix": "78a9d87ad5cdd120aa257cb2ee07b87a6c2844fcae47aa71e29ea9cc0c97b377",
+        "size_in_bytes": 1683
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/CN.pm",
+        "path_type": "hardlink",
+        "sha256": "6ece2a25e2c78a791607edad2b14dc64581553b3dac5d1bafbda73a98096a945",
+        "sha256_in_prefix": "6ece2a25e2c78a791607edad2b14dc64581553b3dac5d1bafbda73a98096a945",
+        "size_in_bytes": 2042
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/CN/HZ.pm",
+        "path_type": "hardlink",
+        "sha256": "f87198d2d1d48670c71454f245bea29ae27245142d346923792a312979319592",
+        "sha256_in_prefix": "f87198d2d1d48670c71454f245bea29ae27245142d346923792a312979319592",
+        "size_in_bytes": 6002
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Changes.e2x",
+        "path_type": "hardlink",
+        "sha256": "fd13efe6891fbce92d88da4ed2a70b60984a1170cac2f8b0a715fbf5e6877e1b",
+        "sha256_in_prefix": "fd13efe6891fbce92d88da4ed2a70b60984a1170cac2f8b0a715fbf5e6877e1b",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Config.pm",
+        "path_type": "hardlink",
+        "sha256": "a15072cf84ac4a431b91b1a893a7c8d4c4dd48adefa077cd3a9b271cf0aba3bf",
+        "sha256_in_prefix": "a15072cf84ac4a431b91b1a893a7c8d4c4dd48adefa077cd3a9b271cf0aba3bf",
+        "size_in_bytes": 6065
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/ConfigLocal_PM.e2x",
+        "path_type": "hardlink",
+        "sha256": "f186bb40045845c4f09be807ebfd9bf037ebc5cb628e5f2286a964426b22a053",
+        "sha256_in_prefix": "f186bb40045845c4f09be807ebfd9bf037ebc5cb628e5f2286a964426b22a053",
+        "size_in_bytes": 184
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/EBCDIC.pm",
+        "path_type": "hardlink",
+        "sha256": "9677e24db044d8ad6a82df14e85e2d9e1e6b95cdaf47703e9aeae54f4fc2dce1",
+        "sha256_in_prefix": "9677e24db044d8ad6a82df14e85e2d9e1e6b95cdaf47703e9aeae54f4fc2dce1",
+        "size_in_bytes": 865
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Encoder.pm",
+        "path_type": "hardlink",
+        "sha256": "a410578c88f58327fcc0d85445972e26507a557d89482436d2dbcdd0f653d2df",
+        "sha256_in_prefix": "a410578c88f58327fcc0d85445972e26507a557d89482436d2dbcdd0f653d2df",
+        "size_in_bytes": 6316
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Encoding.pm",
+        "path_type": "hardlink",
+        "sha256": "16388abdc523e06c541afe49ba210071b8f7579b569f46253bab38a158fc975b",
+        "sha256_in_prefix": "16388abdc523e06c541afe49ba210071b8f7579b569f46253bab38a158fc975b",
+        "size_in_bytes": 9097
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/GSM0338.pm",
+        "path_type": "hardlink",
+        "sha256": "455d493153094754c8bf6fd12f59c4a7bf715422e64a9a482ffe1ccedef393e3",
+        "sha256_in_prefix": "455d493153094754c8bf6fd12f59c4a7bf715422e64a9a482ffe1ccedef393e3",
+        "size_in_bytes": 11804
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Guess.pm",
+        "path_type": "hardlink",
+        "sha256": "148f495bc17f49e6d3c065e76868b2eaf77e6d81a070d043fb6e15a43fcd0fc1",
+        "sha256_in_prefix": "148f495bc17f49e6d3c065e76868b2eaf77e6d81a070d043fb6e15a43fcd0fc1",
+        "size_in_bytes": 10092
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/JP.pm",
+        "path_type": "hardlink",
+        "sha256": "5d8e7e54f3f5099470cb223dfbda73791415be115637a8621fcebc4fc03ae703",
+        "sha256_in_prefix": "5d8e7e54f3f5099470cb223dfbda73791415be115637a8621fcebc4fc03ae703",
+        "size_in_bytes": 2682
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/JP/H2Z.pm",
+        "path_type": "hardlink",
+        "sha256": "a4ff8335f472bf058dafad1cfd718d725989ae812def24730d19458e8fc1db5a",
+        "sha256_in_prefix": "a4ff8335f472bf058dafad1cfd718d725989ae812def24730d19458e8fc1db5a",
+        "size_in_bytes": 5142
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/JP/JIS7.pm",
+        "path_type": "hardlink",
+        "sha256": "f0a31ff0413a48809f4cf979c01d1b15da952b491e4d5ab5f4e8e2f34ce4bc19",
+        "sha256_in_prefix": "f0a31ff0413a48809f4cf979c01d1b15da952b491e4d5ab5f4e8e2f34ce4bc19",
+        "size_in_bytes": 4155
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/KR.pm",
+        "path_type": "hardlink",
+        "sha256": "325edafad01afb13459f6a0f6b0ca767893806e4113d77f4a3e7e517ed56f210",
+        "sha256_in_prefix": "325edafad01afb13459f6a0f6b0ca767893806e4113d77f4a3e7e517ed56f210",
+        "size_in_bytes": 1960
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/KR/2022_KR.pm",
+        "path_type": "hardlink",
+        "sha256": "73d8753ae596fcc6e0805cd67d2e1906dacfa29d1c57257392bf0ad06bcb471f",
+        "sha256_in_prefix": "73d8753ae596fcc6e0805cd67d2e1906dacfa29d1c57257392bf0ad06bcb471f",
+        "size_in_bytes": 1900
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/MIME/Header.pm",
+        "path_type": "hardlink",
+        "sha256": "4d1902a9e16ef4d418132fa9ddda767a8c08567c84ec29398966e4a71e1f691f",
+        "sha256_in_prefix": "4d1902a9e16ef4d418132fa9ddda767a8c08567c84ec29398966e4a71e1f691f",
+        "size_in_bytes": 16563
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/MIME/Header/ISO_2022_JP.pm",
+        "path_type": "hardlink",
+        "sha256": "00ac1c1d2dff6771e211b4fc30b78df4170adb54c9ead927c2a4a9f9daffd907",
+        "sha256_in_prefix": "00ac1c1d2dff6771e211b4fc30b78df4170adb54c9ead927c2a4a9f9daffd907",
+        "size_in_bytes": 3141
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/MIME/Name.pm",
+        "path_type": "hardlink",
+        "sha256": "e3e86d47f7f89d29021a36240c9e9df65f0e4c0244e1f1d97b972dcf7bf774a9",
+        "sha256_in_prefix": "e3e86d47f7f89d29021a36240c9e9df65f0e4c0244e1f1d97b972dcf7bf774a9",
+        "size_in_bytes": 3780
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Makefile_PL.e2x",
+        "path_type": "hardlink",
+        "sha256": "7c04dedf6a024c8787a501d634ec4eb97687403586c4151228a264ac92127403",
+        "sha256_in_prefix": "7c04dedf6a024c8787a501d634ec4eb97687403586c4151228a264ac92127403",
+        "size_in_bytes": 5168
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/PerlIO.pod",
+        "path_type": "hardlink",
+        "sha256": "46e13c3e4dcfcceae275ec61ba36ff7fa533c54c6d45f089597ca8ede529f73f",
+        "sha256_in_prefix": "46e13c3e4dcfcceae275ec61ba36ff7fa533c54c6d45f089597ca8ede529f73f",
+        "size_in_bytes": 6060
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/README.e2x",
+        "path_type": "hardlink",
+        "sha256": "bdb8dadcab22f6c2ca4dd75319248cb93a06ead71daf00086bac01395d350d09",
+        "sha256_in_prefix": "bdb8dadcab22f6c2ca4dd75319248cb93a06ead71daf00086bac01395d350d09",
+        "size_in_bytes": 553
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Supported.pod",
+        "path_type": "hardlink",
+        "sha256": "3d07fc1f8be5214d92035894805cedb051bf5c2589c7995469286cdd0134d271",
+        "sha256_in_prefix": "3d07fc1f8be5214d92035894805cedb051bf5c2589c7995469286cdd0134d271",
+        "size_in_bytes": 28732
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Symbol.pm",
+        "path_type": "hardlink",
+        "sha256": "be5197c9acd38b8c68651d1e982e0467efac9b5d46c4e928b99192bdea4e4fdf",
+        "sha256_in_prefix": "be5197c9acd38b8c68651d1e982e0467efac9b5d46c4e928b99192bdea4e4fdf",
+        "size_in_bytes": 847
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/TW.pm",
+        "path_type": "hardlink",
+        "sha256": "2079c9f1486d270c204850fca458c83dd54dfdba475c126801f4a04b82f4b8ca",
+        "sha256_in_prefix": "2079c9f1486d270c204850fca458c83dd54dfdba475c126801f4a04b82f4b8ca",
+        "size_in_bytes": 2292
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Unicode.pm",
+        "path_type": "hardlink",
+        "sha256": "565f69e71f85f001ef62520bfebc143366b23e99f57abb21e5d9ccc5b71ecd15",
+        "sha256_in_prefix": "565f69e71f85f001ef62520bfebc143366b23e99f57abb21e5d9ccc5b71ecd15",
+        "size_in_bytes": 9104
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/Unicode/UTF7.pm",
+        "path_type": "hardlink",
+        "sha256": "73bb7c0c45dbdc8fed6cdfda6a4bea6b22d9decfa3ffee21a1c423ce76cbe16a",
+        "sha256_in_prefix": "73bb7c0c45dbdc8fed6cdfda6a4bea6b22d9decfa3ffee21a1c423ce76cbe16a",
+        "size_in_bytes": 3801
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/_PM.e2x",
+        "path_type": "hardlink",
+        "sha256": "5683c60d9cb3be6843ef9f467e38376f8d9ee94c350dfc12ba6212cdc1273b23",
+        "sha256_in_prefix": "5683c60d9cb3be6843ef9f467e38376f8d9ee94c350dfc12ba6212cdc1273b23",
+        "size_in_bytes": 250
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/_T.e2x",
+        "path_type": "hardlink",
+        "sha256": "bc56190ad7c7adf64e3ec9dee516c4fc7f632ef6aa6e2cbec3a3454231d6863e",
+        "sha256_in_prefix": "bc56190ad7c7adf64e3ec9dee516c4fc7f632ef6aa6e2cbec3a3454231d6863e",
+        "size_in_bytes": 151
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Encode/encode.h",
+        "path_type": "hardlink",
+        "sha256": "e76a146497af10a73464577e797430693da0bb110d830d25c1d24ead0d00c0b7",
+        "sha256_in_prefix": "e76a146497af10a73464577e797430693da0bb110d830d25c1d24ead0d00c0b7",
+        "size_in_bytes": 3967
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "5c3c1c4e11cc58628a5db8c7b35516f7e4ed3af255c4222f0bdf3c6837823794",
+        "sha256_in_prefix": "140db4a9b24aeade09854ad817119017041b9e6f3059ad33a4f80f3b29e02bf2",
+        "size_in_bytes": 8384
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Byte/Byte.so",
+        "path_type": "hardlink",
+        "sha256": "60dda2e00dbe88a0b422dd661a8175e6ed52c508ab83e8e03fa36c206210e087",
+        "sha256_in_prefix": "60dda2e00dbe88a0b422dd661a8175e6ed52c508ab83e8e03fa36c206210e087",
+        "size_in_bytes": 408840
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/CN/CN.so",
+        "path_type": "hardlink",
+        "sha256": "16df8f794bf27b20450f5579b368c519ad8d33d9e61279a23488e1636e825299",
+        "sha256_in_prefix": "16df8f794bf27b20450f5579b368c519ad8d33d9e61279a23488e1636e825299",
+        "size_in_bytes": 2216489
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/EBCDIC/EBCDIC.so",
+        "path_type": "hardlink",
+        "sha256": "77620f997e4ab00fe9e6804e612d0879d0372f4337f07f4e7e038ee1bb026a0c",
+        "sha256_in_prefix": "77620f997e4ab00fe9e6804e612d0879d0372f4337f07f4e7e038ee1bb026a0c",
+        "size_in_bytes": 46725
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Encode.so",
+        "path_type": "hardlink",
+        "sha256": "9c606edb65d085fd9f950cf4aeda90a1fd9c5c9d7224605d829fbc3b52847e71",
+        "sha256_in_prefix": "9c606edb65d085fd9f950cf4aeda90a1fd9c5c9d7224605d829fbc3b52847e71",
+        "size_in_bytes": 45511
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/JP/JP.so",
+        "path_type": "hardlink",
+        "sha256": "22d71d27a9e8c81fe305d7215de0afedccf16ec74cb92bc5600e617fdd44cbbc",
+        "sha256_in_prefix": "22d71d27a9e8c81fe305d7215de0afedccf16ec74cb92bc5600e617fdd44cbbc",
+        "size_in_bytes": 2867616
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/KR/KR.so",
+        "path_type": "hardlink",
+        "sha256": "9c083b3c1a0141b92c5321c18c75801b35bd25c0f170270169fae78a151387df",
+        "sha256_in_prefix": "9c083b3c1a0141b92c5321c18c75801b35bd25c0f170270169fae78a151387df",
+        "size_in_bytes": 2552619
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Symbol/Symbol.so",
+        "path_type": "hardlink",
+        "sha256": "456e02a22a4e87e93a9fd716cccd110067c83b9186bf5a911eaef9099759d489",
+        "sha256_in_prefix": "456e02a22a4e87e93a9fd716cccd110067c83b9186bf5a911eaef9099759d489",
+        "size_in_bytes": 61016
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/TW/TW.so",
+        "path_type": "hardlink",
+        "sha256": "4bfcfe34311d5c91c54468ac57627ff7b9c7098d85899aab91d6418b362daf66",
+        "sha256_in_prefix": "4bfcfe34311d5c91c54468ac57627ff7b9c7098d85899aab91d6418b362daf66",
+        "size_in_bytes": 2148719
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Encode/Unicode/Unicode.so",
+        "path_type": "hardlink",
+        "sha256": "8d05d384ecd4ad014c07346c97b5cedea6193329a08bbaf08e5aa0e00aa068d5",
+        "sha256_in_prefix": "8d05d384ecd4ad014c07346c97b5cedea6193329a08bbaf08e5aa0e00aa068d5",
+        "size_in_bytes": 18731
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/encoding.pm",
+        "path_type": "hardlink",
+        "sha256": "545092f4b6cc20f0fb6d261d47b2eb8f53c9fc858f08a47c59d0bb2631754841",
+        "sha256_in_prefix": "545092f4b6cc20f0fb6d261d47b2eb8f53c9fc858f08a47c59d0bb2631754841",
+        "size_in_bytes": 22988
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7b56e52d3c71a30f5130f9e75ecf525b143e5bf2b4f033b7c477e37494a820c5",
+  "size": 2229948,
+  "subdir": "linux-64",
+  "timestamp": 1531071533326,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-encode-2.88-pl526_1.tar.bz2",
+  "version": "2.88"
+}

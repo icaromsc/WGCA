@@ -1,0 +1,65 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-exporter",
+    "perl-mro-compat",
+    "perl-package-stash",
+    "perl-sub-identify"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-devel-overloadinfo-0.005-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Devel/OverloadInfo.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Devel/OverloadInfo/.packlist",
+    "man/man3/Devel::OverloadInfo.3"
+  ],
+  "fn": "perl-devel-overloadinfo-0.005-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-devel-overloadinfo-0.005-pl526_0",
+    "type": 1
+  },
+  "md5": "c3f198e3bc81f5f1af1aedff4dbd9167",
+  "name": "perl-devel-overloadinfo",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-devel-overloadinfo-0.005-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Devel/OverloadInfo.pm",
+        "path_type": "hardlink",
+        "sha256": "718198b048618deffff6b4aeb4c5b2a6cd17f5d83e3f0554d81a315cc09a27d2",
+        "sha256_in_prefix": "718198b048618deffff6b4aeb4c5b2a6cd17f5d83e3f0554d81a315cc09a27d2",
+        "size_in_bytes": 7893
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Devel/OverloadInfo/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "41165b7d022a4dafddb95980e966247e93ef4a71a7fba6f5211aca44d13879ab",
+        "sha256_in_prefix": "7479dbbd005b9c59f32e8c357df70ffc89af093574863dbd50ba246cda420494",
+        "size_in_bytes": 250
+      },
+      {
+        "_path": "man/man3/Devel::OverloadInfo.3",
+        "path_type": "hardlink",
+        "sha256": "505ac4b00f08e78f74ab83f2c80529ad50a5d079141b27f72437cc2cfe930e07",
+        "sha256_in_prefix": "505ac4b00f08e78f74ab83f2c80529ad50a5d079141b27f72437cc2cfe930e07",
+        "size_in_bytes": 5363
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2838782dbd3e25e0b9905419d8f2785ddee88ab3ad9667c69462b589426b3b15",
+  "size": 8555,
+  "subdir": "linux-64",
+  "timestamp": 1534542980855,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-devel-overloadinfo-0.005-pl526_0.tar.bz2",
+  "version": "0.005"
+}

@@ -1,0 +1,71 @@
+{
+  "build": "pl526_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-io-string-1.08-pl526_3",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/IO/String.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/String/.packlist",
+    "man/man3/IO::String.3"
+  ],
+  "fn": "perl-io-string-1.08-pl526_3.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-io-string-1.08-pl526_3",
+    "type": 1
+  },
+  "md5": "dad994f13fb037903c02f26b7ad3c63b",
+  "name": "perl-io-string",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-io-string-1.08-pl526_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "68d2b6e5d40bef271f511514f272c67ef88e98fe6dcb07120cf81f390b8d1c48",
+        "sha256_in_prefix": "cf09e4bea21750e6a8b5d1975f34d42e232890b26495909fc15a640ea7839129",
+        "size_in_bytes": 251
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/String.pm",
+        "path_type": "hardlink",
+        "sha256": "1ab64bb458aff8fa644ef8b89ffdf28b7e76f647ecc130032ee25df4b95ca993",
+        "sha256_in_prefix": "1ab64bb458aff8fa644ef8b89ffdf28b7e76f647ecc130032ee25df4b95ca993",
+        "size_in_bytes": 11461
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/String/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "849e7959fb2a71d37ec6a2f1e97a7ae338cb4e09cf5401ff5a2a96de82f7444b",
+        "sha256_in_prefix": "1aff0ca2b9eb306c2a52b25515396bef5017dfa62849b107b4bc22eab8d2662f",
+        "size_in_bytes": 214
+      },
+      {
+        "_path": "man/man3/IO::String.3",
+        "path_type": "hardlink",
+        "sha256": "9e3bc8be8fbe423bea56b22da73e51c4d26239f5696c9063caa36540df43772d",
+        "sha256_in_prefix": "9e3bc8be8fbe423bea56b22da73e51c4d26239f5696c9063caa36540df43772d",
+        "size_in_bytes": 6994
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "cf6c56d7db9fe00963cc2724cab08a420b695ef853c880d7ec149cf8a8ca2c1c",
+  "size": 10272,
+  "subdir": "linux-64",
+  "timestamp": 1533725884441,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-io-string-1.08-pl526_3.tar.bz2",
+  "version": "1.08"
+}

@@ -1,0 +1,430 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0",
+    "perl-pathtools"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-apache-test-1.40-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/Test.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/Test5005compat.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestBuild.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestClient.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestCommon.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestCommonPost.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfig.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigC.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigPHP.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigParrot.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigParse.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigPerl.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestHandler.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestHarness.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestHarnessPHP.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestMB.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestMM.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestPerlDB.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestReport.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestReportPerl.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRequest.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRun.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRunPHP.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRunParrot.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRunPerl.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSSLCA.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestServer.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSmoke.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSmokePerl.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSort.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestTrace.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestUtil.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Bundle/ApacheTest.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Apache/Test/.packlist",
+    "man/man3/Apache::Test.3",
+    "man/man3/Apache::TestConfig.3",
+    "man/man3/Apache::TestHandler.3",
+    "man/man3/Apache::TestMB.3",
+    "man/man3/Apache::TestMM.3",
+    "man/man3/Apache::TestReport.3",
+    "man/man3/Apache::TestRequest.3",
+    "man/man3/Apache::TestRun.3",
+    "man/man3/Apache::TestRunPHP.3",
+    "man/man3/Apache::TestRunPerl.3",
+    "man/man3/Apache::TestServer.3",
+    "man/man3/Apache::TestSmoke.3",
+    "man/man3/Apache::TestTrace.3",
+    "man/man3/Apache::TestUtil.3",
+    "man/man3/Bundle::ApacheTest.3"
+  ],
+  "fn": "perl-apache-test-1.40-pl526_1.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-apache-test-1.40-pl526_1",
+    "type": 1
+  },
+  "md5": "c2f127c5de6f8fa7ae28fe2ac9b80b2f",
+  "name": "perl-apache-test",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-apache-test-1.40-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/Test.pm",
+        "path_type": "hardlink",
+        "sha256": "dc4b48351508625ab7bbc5c51382117d97ed9262b22a4e0e95d4d46af49715bf",
+        "sha256_in_prefix": "dc4b48351508625ab7bbc5c51382117d97ed9262b22a4e0e95d4d46af49715bf",
+        "size_in_bytes": 29908
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/Test5005compat.pm",
+        "path_type": "hardlink",
+        "sha256": "6e86d570ba47bf90e5d2847c4fa8cb0c31be0d0574ac3ea1fd7c7d7e89bdab76",
+        "sha256_in_prefix": "6e86d570ba47bf90e5d2847c4fa8cb0c31be0d0574ac3ea1fd7c7d7e89bdab76",
+        "size_in_bytes": 2035
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestBuild.pm",
+        "path_type": "hardlink",
+        "sha256": "f11d27eb329b6fd04e295209954f20f551bc9a9bb290dc877aa094566be58c9b",
+        "sha256_in_prefix": "f11d27eb329b6fd04e295209954f20f551bc9a9bb290dc877aa094566be58c9b",
+        "size_in_bytes": 14931
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestClient.pm",
+        "path_type": "hardlink",
+        "sha256": "ec6d0204067ebd884da094865fb7e90d64e05cc8e1e131af90a0bf72e4d0db19",
+        "sha256_in_prefix": "ec6d0204067ebd884da094865fb7e90d64e05cc8e1e131af90a0bf72e4d0db19",
+        "size_in_bytes": 5254
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestCommon.pm",
+        "path_type": "hardlink",
+        "sha256": "8189c7367551354587e4eec83fae4ad0c1c137a43f70a2d38688ddbd0dfeed83",
+        "sha256_in_prefix": "8189c7367551354587e4eec83fae4ad0c1c137a43f70a2d38688ddbd0dfeed83",
+        "size_in_bytes": 3043
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestCommonPost.pm",
+        "path_type": "hardlink",
+        "sha256": "80c64fd4f70d4dd98143c8d12a6eaef92142c40a9c44a3cc23bceb61d09817b5",
+        "sha256_in_prefix": "80c64fd4f70d4dd98143c8d12a6eaef92142c40a9c44a3cc23bceb61d09817b5",
+        "size_in_bytes": 5227
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfig.pm",
+        "path_type": "hardlink",
+        "sha256": "9a5d235ebc75002a9b17662114c8e10a1951f8187d92932ee84402916a8ea9a4",
+        "sha256_in_prefix": "9a5d235ebc75002a9b17662114c8e10a1951f8187d92932ee84402916a8ea9a4",
+        "size_in_bytes": 60722
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigC.pm",
+        "path_type": "hardlink",
+        "sha256": "e122062d4c466f4ed9e4c8069255c1b57b27a27afedc716c421cd79dbe92bc21",
+        "sha256_in_prefix": "e122062d4c466f4ed9e4c8069255c1b57b27a27afedc716c421cd79dbe92bc21",
+        "size_in_bytes": 12261
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigPHP.pm",
+        "path_type": "hardlink",
+        "sha256": "d705e25328a5e2956846b197f090730fca92f9ea8ae0b3099ac5bc6a7adf9b93",
+        "sha256_in_prefix": "d705e25328a5e2956846b197f090730fca92f9ea8ae0b3099ac5bc6a7adf9b93",
+        "size_in_bytes": 18102
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigParrot.pm",
+        "path_type": "hardlink",
+        "sha256": "b1d95617f5e05e0f9a0691ae71cda17416ff8df1960a3f34080d12467ce9c534",
+        "sha256_in_prefix": "b1d95617f5e05e0f9a0691ae71cda17416ff8df1960a3f34080d12467ce9c534",
+        "size_in_bytes": 2665
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigParse.pm",
+        "path_type": "hardlink",
+        "sha256": "6d0994216870b7669604d6dfd524f7018111b84db37d3941e663fc963c2103d4",
+        "sha256_in_prefix": "6d0994216870b7669604d6dfd524f7018111b84db37d3941e663fc963c2103d4",
+        "size_in_bytes": 16109
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestConfigPerl.pm",
+        "path_type": "hardlink",
+        "sha256": "d7a79f1f0d1c9b50667efbf0ed52d0f7051d38702dc2c58085750d5461bbcd7c",
+        "sha256_in_prefix": "d7a79f1f0d1c9b50667efbf0ed52d0f7051d38702dc2c58085750d5461bbcd7c",
+        "size_in_bytes": 20009
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestHandler.pm",
+        "path_type": "hardlink",
+        "sha256": "bdd02442120d794fa01d1fbc56f8fcad8a4ed48c20e33b8d7faea59fdfd64611",
+        "sha256_in_prefix": "bdd02442120d794fa01d1fbc56f8fcad8a4ed48c20e33b8d7faea59fdfd64611",
+        "size_in_bytes": 5186
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestHarness.pm",
+        "path_type": "hardlink",
+        "sha256": "d8aeb689dccb960d6b851db791f6d753f896ca2f6303e9519c763d631b593c79",
+        "sha256_in_prefix": "d8aeb689dccb960d6b851db791f6d753f896ca2f6303e9519c763d631b593c79",
+        "size_in_bytes": 5172
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestHarnessPHP.pm",
+        "path_type": "hardlink",
+        "sha256": "3749f5fad4caf5e4bf9f4dc36f8ce2684b1ddda2b879b9d30019302ad4cf82fb",
+        "sha256_in_prefix": "3749f5fad4caf5e4bf9f4dc36f8ce2684b1ddda2b879b9d30019302ad4cf82fb",
+        "size_in_bytes": 4250
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestMB.pm",
+        "path_type": "hardlink",
+        "sha256": "a43427d3c31ef6d1526ce44c525fd7ac4fa6ed27c64d628ff37e3e7b4a04efc6",
+        "sha256_in_prefix": "a43427d3c31ef6d1526ce44c525fd7ac4fa6ed27c64d628ff37e3e7b4a04efc6",
+        "size_in_bytes": 11809
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestMM.pm",
+        "path_type": "hardlink",
+        "sha256": "c72c7766a962a4f89742a85ea3d30b1ab14d6ec414571a383a57588910c90be6",
+        "sha256_in_prefix": "c72c7766a962a4f89742a85ea3d30b1ab14d6ec414571a383a57588910c90be6",
+        "size_in_bytes": 7260
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestPerlDB.pm",
+        "path_type": "hardlink",
+        "sha256": "c0a77db5a8f9d432c82a61f614e2d50e97ab0d654e3ddad99de157074381d0b6",
+        "sha256_in_prefix": "c0a77db5a8f9d432c82a61f614e2d50e97ab0d654e3ddad99de157074381d0b6",
+        "size_in_bytes": 1620
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestReport.pm",
+        "path_type": "hardlink",
+        "sha256": "75b890b03d38f09c169b31a6fbca656b3da24180d1fc4742e5b4cf9770243d24",
+        "sha256_in_prefix": "75b890b03d38f09c169b31a6fbca656b3da24180d1fc4742e5b4cf9770243d24",
+        "size_in_bytes": 4088
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestReportPerl.pm",
+        "path_type": "hardlink",
+        "sha256": "29f6794ee954ef8b13f22280db56824135e38b1c79daf101bd2d6541a430e32e",
+        "sha256_in_prefix": "29f6794ee954ef8b13f22280db56824135e38b1c79daf101bd2d6541a430e32e",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRequest.pm",
+        "path_type": "hardlink",
+        "sha256": "4d83ba6f8fb94ea0e28ec6172244cdcaec2da1b5f80a10a175b2b6894061e18e",
+        "sha256_in_prefix": "4d83ba6f8fb94ea0e28ec6172244cdcaec2da1b5f80a10a175b2b6894061e18e",
+        "size_in_bytes": 35533
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRun.pm",
+        "path_type": "hardlink",
+        "sha256": "5b21f635a097ef91f19e4d2b3879779849e2c6785bb8ba5e45ba8ee8e2b8c6ac",
+        "sha256_in_prefix": "5b21f635a097ef91f19e4d2b3879779849e2c6785bb8ba5e45ba8ee8e2b8c6ac",
+        "size_in_bytes": 35801
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRunPHP.pm",
+        "path_type": "hardlink",
+        "sha256": "5680d0cfeee8d544c181f244bd64ccc079e3ced5e21b41eb4d29c7941cdcdc7e",
+        "sha256_in_prefix": "5680d0cfeee8d544c181f244bd64ccc079e3ced5e21b41eb4d29c7941cdcdc7e",
+        "size_in_bytes": 11230
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRunParrot.pm",
+        "path_type": "hardlink",
+        "sha256": "ee3fbcf772a8f14552f7ab40ff710b0ae57aa6f72a7c96dec0afdfd70e4bfeab",
+        "sha256_in_prefix": "ee3fbcf772a8f14552f7ab40ff710b0ae57aa6f72a7c96dec0afdfd70e4bfeab",
+        "size_in_bytes": 1829
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestRunPerl.pm",
+        "path_type": "hardlink",
+        "sha256": "f085775e21a2a9a1cc80b95200807df9acf6a07cb6b1be887eec69e829736818",
+        "sha256_in_prefix": "f085775e21a2a9a1cc80b95200807df9acf6a07cb6b1be887eec69e829736818",
+        "size_in_bytes": 4100
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSSLCA.pm",
+        "path_type": "hardlink",
+        "sha256": "ab11e001b0b7becb06e64cc343be738d6456331fdede8eef6b5afcec6f0b3261",
+        "sha256_in_prefix": "ab11e001b0b7becb06e64cc343be738d6456331fdede8eef6b5afcec6f0b3261",
+        "size_in_bytes": 13170
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestServer.pm",
+        "path_type": "hardlink",
+        "sha256": "10593c4e633c4e67124c6790097a9866526b54074988990321c8ab99191691a4",
+        "sha256_in_prefix": "10593c4e633c4e67124c6790097a9866526b54074988990321c8ab99191691a4",
+        "size_in_bytes": 19395
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSmoke.pm",
+        "path_type": "hardlink",
+        "sha256": "7ff63b2acc6a8f8f53e335d7de8d371eb6b777c74f1f88f4cc42401d6e7d0c3d",
+        "sha256_in_prefix": "7ff63b2acc6a8f8f53e335d7de8d371eb6b777c74f1f88f4cc42401d6e7d0c3d",
+        "size_in_bytes": 26966
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSmokePerl.pm",
+        "path_type": "hardlink",
+        "sha256": "08af6d064491de8b2ee493ef6a9413cc7435a9ef25e0ddd641d4c86508592c05",
+        "sha256_in_prefix": "08af6d064491de8b2ee493ef6a9413cc7435a9ef25e0ddd641d4c86508592c05",
+        "size_in_bytes": 1105
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestSort.pm",
+        "path_type": "hardlink",
+        "sha256": "8a9554c1189f6c20a7c7cede83048dd8c0e4aab5d20b2e04b0a7535df6c9b496",
+        "sha256_in_prefix": "8a9554c1189f6c20a7c7cede83048dd8c0e4aab5d20b2e04b0a7535df6c9b496",
+        "size_in_bytes": 1996
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestTrace.pm",
+        "path_type": "hardlink",
+        "sha256": "3b064b9a0ff121aabcb068d38dbdf61e7e3c456cd3a80a9fd6070b3f2eaa4ceb",
+        "sha256_in_prefix": "3b064b9a0ff121aabcb068d38dbdf61e7e3c456cd3a80a9fd6070b3f2eaa4ceb",
+        "size_in_bytes": 7788
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Apache/TestUtil.pm",
+        "path_type": "hardlink",
+        "sha256": "5942b0a9808518b6be906f8e38e2d55f5d3b8dff06eb314b7d9fb3a8657aadca",
+        "sha256_in_prefix": "5942b0a9808518b6be906f8e38e2d55f5d3b8dff06eb314b7d9fb3a8657aadca",
+        "size_in_bytes": 28992
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Bundle/ApacheTest.pm",
+        "path_type": "hardlink",
+        "sha256": "ae5673383ed5bffd55f80ad84bb8981fcc3bf33c4a8136aed94ed2c67ed82ba3",
+        "sha256_in_prefix": "ae5673383ed5bffd55f80ad84bb8981fcc3bf33c4a8136aed94ed2c67ed82ba3",
+        "size_in_bytes": 1737
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Apache/Test/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "ca513536fa97d29d3aa5e5fde6331be1c6f6a87bae668a675409131acea7efad",
+        "sha256_in_prefix": "786e77049a72ec61f084455db0c7e9e76df424d2826d840680ad8ae10bb7ae59",
+        "size_in_bytes": 6613
+      },
+      {
+        "_path": "man/man3/Apache::Test.3",
+        "path_type": "hardlink",
+        "sha256": "acad1e42ce29125c7ccf95b3012b49c90993d2d3b29e3309ba47979da5b9d783",
+        "sha256_in_prefix": "acad1e42ce29125c7ccf95b3012b49c90993d2d3b29e3309ba47979da5b9d783",
+        "size_in_bytes": 18369
+      },
+      {
+        "_path": "man/man3/Apache::TestConfig.3",
+        "path_type": "hardlink",
+        "sha256": "c3bf5be124b13dbd56304e114bf57d73f077658fe7279f3b7ed726a40551ebdf",
+        "sha256_in_prefix": "c3bf5be124b13dbd56304e114bf57d73f077658fe7279f3b7ed726a40551ebdf",
+        "size_in_bytes": 8371
+      },
+      {
+        "_path": "man/man3/Apache::TestHandler.3",
+        "path_type": "hardlink",
+        "sha256": "270bc92138b96f004e12b792cb57508300ce616624583e499a44d5464813e418",
+        "sha256_in_prefix": "270bc92138b96f004e12b792cb57508300ce616624583e499a44d5464813e418",
+        "size_in_bytes": 4123
+      },
+      {
+        "_path": "man/man3/Apache::TestMB.3",
+        "path_type": "hardlink",
+        "sha256": "8845f35fcbc91e4557c69c3f3bc5e86ef77f890209f8957235f1d4f75573b89d",
+        "sha256_in_prefix": "8845f35fcbc91e4557c69c3f3bc5e86ef77f890209f8957235f1d4f75573b89d",
+        "size_in_bytes": 9343
+      },
+      {
+        "_path": "man/man3/Apache::TestMM.3",
+        "path_type": "hardlink",
+        "sha256": "71aaf5445462718c89f833b8d570df43cc6d4b8aab030ae3031df23400dd5f87",
+        "sha256_in_prefix": "71aaf5445462718c89f833b8d570df43cc6d4b8aab030ae3031df23400dd5f87",
+        "size_in_bytes": 6313
+      },
+      {
+        "_path": "man/man3/Apache::TestReport.3",
+        "path_type": "hardlink",
+        "sha256": "919bfc0c76efb8efe9e4e600011b3b8710a3654df358d6047726c030d3736af5",
+        "sha256_in_prefix": "919bfc0c76efb8efe9e4e600011b3b8710a3654df358d6047726c030d3736af5",
+        "size_in_bytes": 3115
+      },
+      {
+        "_path": "man/man3/Apache::TestRequest.3",
+        "path_type": "hardlink",
+        "sha256": "b25ef878602670992b9c286833a3f88ed517893c90676d7a35cddea25c2780bb",
+        "sha256_in_prefix": "b25ef878602670992b9c286833a3f88ed517893c90676d7a35cddea25c2780bb",
+        "size_in_bytes": 22174
+      },
+      {
+        "_path": "man/man3/Apache::TestRun.3",
+        "path_type": "hardlink",
+        "sha256": "c8d78cd9fd717bb1a6dcb607483ca93d2a3fb054e942bd3805b21351a4884cdc",
+        "sha256_in_prefix": "c8d78cd9fd717bb1a6dcb607483ca93d2a3fb054e942bd3805b21351a4884cdc",
+        "size_in_bytes": 5123
+      },
+      {
+        "_path": "man/man3/Apache::TestRunPHP.3",
+        "path_type": "hardlink",
+        "sha256": "66dcd793426215f96efb87351625327d8bde9a7c60fb69255d036bf14dfea377",
+        "sha256_in_prefix": "66dcd793426215f96efb87351625327d8bde9a7c60fb69255d036bf14dfea377",
+        "size_in_bytes": 10794
+      },
+      {
+        "_path": "man/man3/Apache::TestRunPerl.3",
+        "path_type": "hardlink",
+        "sha256": "3832d42dfc4c9e58845223def45ab38ead3809e0071e73bb95f5fb2593ac2405",
+        "sha256_in_prefix": "3832d42dfc4c9e58845223def45ab38ead3809e0071e73bb95f5fb2593ac2405",
+        "size_in_bytes": 2690
+      },
+      {
+        "_path": "man/man3/Apache::TestServer.3",
+        "path_type": "hardlink",
+        "sha256": "289a91862c4fc5865cc5fb7051eb95c6abee58e43bbce92e72956a0feccd5563",
+        "sha256_in_prefix": "289a91862c4fc5865cc5fb7051eb95c6abee58e43bbce92e72956a0feccd5563",
+        "size_in_bytes": 2282
+      },
+      {
+        "_path": "man/man3/Apache::TestSmoke.3",
+        "path_type": "hardlink",
+        "sha256": "a0bf872a0eb63a454642847de5dabb6e80ee1964829fda79073a3fca07677890",
+        "sha256_in_prefix": "a0bf872a0eb63a454642847de5dabb6e80ee1964829fda79073a3fca07677890",
+        "size_in_bytes": 7352
+      },
+      {
+        "_path": "man/man3/Apache::TestTrace.3",
+        "path_type": "hardlink",
+        "sha256": "b976f592bdf6aa226c383c86991883012726acc7c59435200bc31cb75c10505d",
+        "sha256_in_prefix": "b976f592bdf6aa226c383c86991883012726acc7c59435200bc31cb75c10505d",
+        "size_in_bytes": 6429
+      },
+      {
+        "_path": "man/man3/Apache::TestUtil.3",
+        "path_type": "hardlink",
+        "sha256": "260a1a79421e3a3cc0fbc86c77313d0609afd2f1bd364f24f64c0ff483d05c9e",
+        "sha256_in_prefix": "260a1a79421e3a3cc0fbc86c77313d0609afd2f1bd364f24f64c0ff483d05c9e",
+        "size_in_bytes": 20065
+      },
+      {
+        "_path": "man/man3/Bundle::ApacheTest.3",
+        "path_type": "hardlink",
+        "sha256": "b82d2fedf34a286def9e4af9e214acdcff91460d96caf94f1cd618061f51f629",
+        "sha256_in_prefix": "b82d2fedf34a286def9e4af9e214acdcff91460d96caf94f1cd618061f51f629",
+        "size_in_bytes": 3187
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b22b019a5725ccd65fc4c32508cca6cb46550385e5160a2a27653f8ac5a2551a",
+  "size": 117622,
+  "subdir": "linux-64",
+  "timestamp": 1531089602017,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-apache-test-1.40-pl526_1.tar.bz2",
+  "version": "1.40"
+}

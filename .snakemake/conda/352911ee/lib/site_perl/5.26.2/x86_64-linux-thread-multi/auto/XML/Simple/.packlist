@@ -1,0 +1,4 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/XML/Simple.pm relocate_as=../../../../XML/Simple.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/XML/Simple/FAQ.pod relocate_as=../../../../XML/Simple/FAQ.pod
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/XML::Simple.3 relocate_as=../../../../../../../man/man3/XML::Simple.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/XML::Simple::FAQ.3 relocate_as=../../../../../../../man/man3/XML::Simple::FAQ.3

@@ -1,0 +1,65 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-capture-tiny",
+    "perl-text-diff"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-test-differences-0.67-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Test/Differences.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Differences/.packlist",
+    "man/man3/Test::Differences.3"
+  ],
+  "fn": "perl-test-differences-0.67-pl526_0.tar.bz2",
+  "license": "Perl",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-test-differences-0.67-pl526_0",
+    "type": 1
+  },
+  "md5": "256f0110145fa69a7c0ccf41a993fae5",
+  "name": "perl-test-differences",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-test-differences-0.67-pl526_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Test/Differences.pm",
+        "path_type": "hardlink",
+        "sha256": "1b95004d8d036619eeffc2ccafc38dcbdbe35daf6f06f97fdf19ffa5e022b7db",
+        "sha256_in_prefix": "1b95004d8d036619eeffc2ccafc38dcbdbe35daf6f06f97fdf19ffa5e022b7db",
+        "size_in_bytes": 18492
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/Differences/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "c559d95c8323a6d971163718f4af0c457db9e1c01c6c9b7a526630d109a9d2ff",
+        "sha256_in_prefix": "08574576b47ae334f0bff94cda342dc4a26e606c5e8af09945ffbfb6bfe114d8",
+        "size_in_bytes": 242
+      },
+      {
+        "_path": "man/man3/Test::Differences.3",
+        "path_type": "hardlink",
+        "sha256": "5590b32c322deefaf73db14475b31a41f82a2ae2b160d354957bcd95244b272c",
+        "sha256_in_prefix": "5590b32c322deefaf73db14475b31a41f82a2ae2b160d354957bcd95244b272c",
+        "size_in_bytes": 18788
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5a7c6e24998d28c15724160f2337bd6780446e4d7cd4c64c58920bcfd0e7e662",
+  "size": 15094,
+  "subdir": "noarch",
+  "timestamp": 1560893056384,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/perl-test-differences-0.67-pl526_0.tar.bz2",
+  "version": "0.67"
+}

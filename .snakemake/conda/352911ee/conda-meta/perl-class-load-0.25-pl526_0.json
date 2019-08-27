@@ -1,0 +1,77 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-base",
+    "perl-carp",
+    "perl-data-optlist",
+    "perl-exporter",
+    "perl-module-implementation",
+    "perl-module-runtime",
+    "perl-package-stash",
+    "perl-try-tiny"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-class-load-0.25-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Class/Load.pm",
+    "lib/site_perl/5.26.2/Class/Load/PP.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Class/Load/.packlist",
+    "man/man3/Class::Load.3"
+  ],
+  "fn": "perl-class-load-0.25-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-class-load-0.25-pl526_0",
+    "type": 1
+  },
+  "md5": "03c73103dc5e4f7daabd6bb0931193b6",
+  "name": "perl-class-load",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-class-load-0.25-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Class/Load.pm",
+        "path_type": "hardlink",
+        "sha256": "e6ea3a21d9e13b48a8d536f86a55c966796e0f56874389533983212b8b8831ee",
+        "sha256_in_prefix": "e6ea3a21d9e13b48a8d536f86a55c966796e0f56874389533983212b8b8831ee",
+        "size_in_bytes": 11540
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Class/Load/PP.pm",
+        "path_type": "hardlink",
+        "sha256": "f2bd0284d7594120f008649f8c514faf867238f4db35c0e697e8e14cb543ab20",
+        "sha256_in_prefix": "f2bd0284d7594120f008649f8c514faf867238f4db35c0e697e8e14cb543ab20",
+        "size_in_bytes": 1306
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Class/Load/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "5c21701dd5b2a35df502bfd88f0454fbecbb73bb70c686b6b0355d5368762814",
+        "sha256_in_prefix": "9e9f10012a9f1a56ce5035ce7fdc5d5ed2c7082a3dbabcb8b2756f5ca0ad4164",
+        "size_in_bytes": 330
+      },
+      {
+        "_path": "man/man3/Class::Load.3",
+        "path_type": "hardlink",
+        "sha256": "e41394ae6f8b4c39e129b8f8c7d3c1b426edce28fde7cc4dfb9ea165c72c49ae",
+        "sha256_in_prefix": "e41394ae6f8b4c39e129b8f8c7d3c1b426edce28fde7cc4dfb9ea165c72c49ae",
+        "size_in_bytes": 10121
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e1a534f7a6971dd52140b536ebad6264ea52c0bf9c97d6ffd3c5a008a23f4ccc",
+  "size": 11875,
+  "subdir": "linux-64",
+  "timestamp": 1534542741432,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-class-load-0.25-pl526_0.tar.bz2",
+  "version": "0.25"
+}

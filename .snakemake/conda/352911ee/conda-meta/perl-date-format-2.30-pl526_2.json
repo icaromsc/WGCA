@@ -1,0 +1,399 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-date-format-2.30-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/Date/Format.pm",
+    "lib/site_perl/5.26.2/Date/Language.pm",
+    "lib/site_perl/5.26.2/Date/Language/Afar.pm",
+    "lib/site_perl/5.26.2/Date/Language/Amharic.pm",
+    "lib/site_perl/5.26.2/Date/Language/Austrian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Brazilian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Bulgarian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Chinese.pm",
+    "lib/site_perl/5.26.2/Date/Language/Chinese_GB.pm",
+    "lib/site_perl/5.26.2/Date/Language/Czech.pm",
+    "lib/site_perl/5.26.2/Date/Language/Danish.pm",
+    "lib/site_perl/5.26.2/Date/Language/Dutch.pm",
+    "lib/site_perl/5.26.2/Date/Language/English.pm",
+    "lib/site_perl/5.26.2/Date/Language/Finnish.pm",
+    "lib/site_perl/5.26.2/Date/Language/French.pm",
+    "lib/site_perl/5.26.2/Date/Language/Gedeo.pm",
+    "lib/site_perl/5.26.2/Date/Language/German.pm",
+    "lib/site_perl/5.26.2/Date/Language/Greek.pm",
+    "lib/site_perl/5.26.2/Date/Language/Hungarian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Icelandic.pm",
+    "lib/site_perl/5.26.2/Date/Language/Italian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Norwegian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Oromo.pm",
+    "lib/site_perl/5.26.2/Date/Language/Romanian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Russian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Russian_cp1251.pm",
+    "lib/site_perl/5.26.2/Date/Language/Russian_koi8r.pm",
+    "lib/site_perl/5.26.2/Date/Language/Sidama.pm",
+    "lib/site_perl/5.26.2/Date/Language/Somali.pm",
+    "lib/site_perl/5.26.2/Date/Language/Spanish.pm",
+    "lib/site_perl/5.26.2/Date/Language/Swedish.pm",
+    "lib/site_perl/5.26.2/Date/Language/Tigrinya.pm",
+    "lib/site_perl/5.26.2/Date/Language/TigrinyaEritrean.pm",
+    "lib/site_perl/5.26.2/Date/Language/TigrinyaEthiopian.pm",
+    "lib/site_perl/5.26.2/Date/Language/Turkish.pm",
+    "lib/site_perl/5.26.2/Date/Parse.pm",
+    "lib/site_perl/5.26.2/Time/Zone.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Date/Parse/.packlist",
+    "man/man3/Date::Format.3",
+    "man/man3/Date::Language.3",
+    "man/man3/Date::Language::Bulgarian.3",
+    "man/man3/Date::Language::Hungarian.3",
+    "man/man3/Date::Parse.3",
+    "man/man3/Time::Zone.3"
+  ],
+  "fn": "perl-date-format-2.30-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-date-format-2.30-pl526_2",
+    "type": 1
+  },
+  "md5": "68604a936e3f5241c5299ef1b37725dd",
+  "name": "perl-date-format",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-date-format-2.30-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "a60d1d4aa4b9579a851da4422ea4c1a843139c59dac7cf064832adb7abf1d093",
+        "sha256_in_prefix": "9bb2e02def16027c3be684bdd5f62a0ea0c444f0ddf85cae995d2667eb4ed474",
+        "size_in_bytes": 253
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Format.pm",
+        "path_type": "hardlink",
+        "sha256": "1bcc66a9acca8ee061baa714bb06d680e15cdc03b0dd4219a441eb44b529848e",
+        "sha256_in_prefix": "1bcc66a9acca8ee061baa714bb06d680e15cdc03b0dd4219a441eb44b529848e",
+        "size_in_bytes": 9648
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language.pm",
+        "path_type": "hardlink",
+        "sha256": "e53d0415c9f5792dbc17243e99f784d80b93cbc1b778d93f314f3eed6886ee04",
+        "sha256_in_prefix": "e53d0415c9f5792dbc17243e99f784d80b93cbc1b778d93f314f3eed6886ee04",
+        "size_in_bytes": 2658
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Afar.pm",
+        "path_type": "hardlink",
+        "sha256": "157f7726af735802efb75ba6cc020a8d19b3e8bfc734628f82c2c1eebb8a071d",
+        "sha256_in_prefix": "157f7726af735802efb75ba6cc020a8d19b3e8bfc734628f82c2c1eebb8a071d",
+        "size_in_bytes": 1032
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Amharic.pm",
+        "path_type": "hardlink",
+        "sha256": "daa28aa67d5ff16b579c0d6a0dffc9a562a065d504ac953b411fce4593a8ec30",
+        "sha256_in_prefix": "daa28aa67d5ff16b579c0d6a0dffc9a562a065d504ac953b411fce4593a8ec30",
+        "size_in_bytes": 1927
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Austrian.pm",
+        "path_type": "hardlink",
+        "sha256": "c147c5d2064afe707bb253bb64c463ce611aa578e9baeb341f136ae6029d44ad",
+        "sha256_in_prefix": "c147c5d2064afe707bb253bb64c463ce611aa578e9baeb341f136ae6029d44ad",
+        "size_in_bytes": 994
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Brazilian.pm",
+        "path_type": "hardlink",
+        "sha256": "d47f2650d5b228e1eb19bf992f6bb70216840954e464d74bf459457d8827513b",
+        "sha256_in_prefix": "d47f2650d5b228e1eb19bf992f6bb70216840954e464d74bf459457d8827513b",
+        "size_in_bytes": 966
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Bulgarian.pm",
+        "path_type": "hardlink",
+        "sha256": "23f76d42a3aa82dc92c45c93958b36669f4a258c2c7cb4cf3d2d9799e56697fc",
+        "sha256_in_prefix": "23f76d42a3aa82dc92c45c93958b36669f4a258c2c7cb4cf3d2d9799e56697fc",
+        "size_in_bytes": 2567
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Chinese.pm",
+        "path_type": "hardlink",
+        "sha256": "70d89755a8ef15ddc46d97e0e32e175f270731c2dab43ec31a38b6a3b7576030",
+        "sha256_in_prefix": "70d89755a8ef15ddc46d97e0e32e175f270731c2dab43ec31a38b6a3b7576030",
+        "size_in_bytes": 977
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Chinese_GB.pm",
+        "path_type": "hardlink",
+        "sha256": "1a714f84d91fd0dc2787b47a689d62a92bdea4f7600c22f4a0e2342515fcdc03",
+        "sha256_in_prefix": "1a714f84d91fd0dc2787b47a689d62a92bdea4f7600c22f4a0e2342515fcdc03",
+        "size_in_bytes": 918
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Czech.pm",
+        "path_type": "hardlink",
+        "sha256": "d9b19e710b8e3fd2e015c47c0fd7c0d270745ecc27b171c6d6d1b6b1e64f3aa9",
+        "sha256_in_prefix": "d9b19e710b8e3fd2e015c47c0fd7c0d270745ecc27b171c6d6d1b6b1e64f3aa9",
+        "size_in_bytes": 1411
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Danish.pm",
+        "path_type": "hardlink",
+        "sha256": "dae96aeec4c1d13109dbeb6c9cd17db98cadf4917d0edf1f255ca189da4dcb95",
+        "sha256_in_prefix": "dae96aeec4c1d13109dbeb6c9cd17db98cadf4917d0edf1f255ca189da4dcb95",
+        "size_in_bytes": 1035
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Dutch.pm",
+        "path_type": "hardlink",
+        "sha256": "8963174cd3092e8f32d21d0369da454fb235ee551fcecab7435732fc23afbbd8",
+        "sha256_in_prefix": "8963174cd3092e8f32d21d0369da454fb235ee551fcecab7435732fc23afbbd8",
+        "size_in_bytes": 1086
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/English.pm",
+        "path_type": "hardlink",
+        "sha256": "92dbd7fc909d7f409a4931e1647b97f1fb3570fbbdde94f991c11d49a22ca1c5",
+        "sha256_in_prefix": "92dbd7fc909d7f409a4931e1647b97f1fb3570fbbdde94f991c11d49a22ca1c5",
+        "size_in_bytes": 973
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Finnish.pm",
+        "path_type": "hardlink",
+        "sha256": "98e7cfec1507d85281c87551ff63743f581b08780d01f50a97ddaf9ca0481604",
+        "sha256_in_prefix": "98e7cfec1507d85281c87551ff63743f581b08780d01f50a97ddaf9ca0481604",
+        "size_in_bytes": 1239
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/French.pm",
+        "path_type": "hardlink",
+        "sha256": "7910000545aec0181e03d6b1380c239287a8a8ea41dc5fc93e6876b5ba6112ed",
+        "sha256_in_prefix": "7910000545aec0181e03d6b1380c239287a8a8ea41dc5fc93e6876b5ba6112ed",
+        "size_in_bytes": 992
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Gedeo.pm",
+        "path_type": "hardlink",
+        "sha256": "abdc606a958a67ba7e7bac299d534693ecaba30bc0039bdc68a2eb0f73ae87c1",
+        "sha256_in_prefix": "abdc606a958a67ba7e7bac299d534693ecaba30bc0039bdc68a2eb0f73ae87c1",
+        "size_in_bytes": 1064
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/German.pm",
+        "path_type": "hardlink",
+        "sha256": "f92d9ba7ddcb35de435195777eeead3c32606862200c84146b209d6535ebe7c0",
+        "sha256_in_prefix": "f92d9ba7ddcb35de435195777eeead3c32606862200c84146b209d6535ebe7c0",
+        "size_in_bytes": 1040
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Greek.pm",
+        "path_type": "hardlink",
+        "sha256": "dc758099c84fde3bfa4279e9b482a490767506b79a28d9535cd6ff1cbc1bccd2",
+        "sha256_in_prefix": "dc758099c84fde3bfa4279e9b482a490767506b79a28d9535cd6ff1cbc1bccd2",
+        "size_in_bytes": 2826
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Hungarian.pm",
+        "path_type": "hardlink",
+        "sha256": "7414e9b4e9b88406b5182687e22c062127c6412d0ecf640d6907abc73c52aad1",
+        "sha256_in_prefix": "7414e9b4e9b88406b5182687e22c062127c6412d0ecf640d6907abc73c52aad1",
+        "size_in_bytes": 2133
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Icelandic.pm",
+        "path_type": "hardlink",
+        "sha256": "a50e701a7b6330dbc41861cda4849014c6232e9249023ea2fa99507e9a6ee702",
+        "sha256_in_prefix": "a50e701a7b6330dbc41861cda4849014c6232e9249023ea2fa99507e9a6ee702",
+        "size_in_bytes": 1037
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Italian.pm",
+        "path_type": "hardlink",
+        "sha256": "513bea678c33ad3a6f1f5b9dc1382ae5e90df929cc1e32d68c128b5ea67fbc4a",
+        "sha256_in_prefix": "513bea678c33ad3a6f1f5b9dc1382ae5e90df929cc1e32d68c128b5ea67fbc4a",
+        "size_in_bytes": 1006
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Norwegian.pm",
+        "path_type": "hardlink",
+        "sha256": "ff6b2edc4820c9c2db2f9392315af128bbf853a0557e7276d579945f141e9836",
+        "sha256_in_prefix": "ff6b2edc4820c9c2db2f9392315af128bbf853a0557e7276d579945f141e9836",
+        "size_in_bytes": 1004
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Oromo.pm",
+        "path_type": "hardlink",
+        "sha256": "fbf6dcc1ee213611ee41db6550a5c83eda44ce61f7d01d34e68145bde1c8a594",
+        "sha256_in_prefix": "fbf6dcc1ee213611ee41db6550a5c83eda44ce61f7d01d34e68145bde1c8a594",
+        "size_in_bytes": 999
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Romanian.pm",
+        "path_type": "hardlink",
+        "sha256": "320c9fdb726c098c30bc14c6e9c831add45e72e5f682b55c6ae4c1165880b093",
+        "sha256_in_prefix": "320c9fdb726c098c30bc14c6e9c831add45e72e5f682b55c6ae4c1165880b093",
+        "size_in_bytes": 892
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Russian.pm",
+        "path_type": "hardlink",
+        "sha256": "821eba9ca048605883a3434a4bb9cff01c87b7b9c23d9300a63afbde66c2f91d",
+        "sha256_in_prefix": "821eba9ca048605883a3434a4bb9cff01c87b7b9c23d9300a63afbde66c2f91d",
+        "size_in_bytes": 1384
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Russian_cp1251.pm",
+        "path_type": "hardlink",
+        "sha256": "9f2d81e621c48a18da1578d7044868fe7aec8feb80d35c6819f22b0e7e68a75d",
+        "sha256_in_prefix": "9f2d81e621c48a18da1578d7044868fe7aec8feb80d35c6819f22b0e7e68a75d",
+        "size_in_bytes": 1036
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Russian_koi8r.pm",
+        "path_type": "hardlink",
+        "sha256": "9e977e0b8cfb6370272efad845d7c253de6490d1268aa1504528f8fb48b31593",
+        "sha256_in_prefix": "9e977e0b8cfb6370272efad845d7c253de6490d1268aa1504528f8fb48b31593",
+        "size_in_bytes": 1034
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Sidama.pm",
+        "path_type": "hardlink",
+        "sha256": "7576c52360a76689ae763696b132fd64f945f34647115b72fe0782cc5c157abc",
+        "sha256_in_prefix": "7576c52360a76689ae763696b132fd64f945f34647115b72fe0782cc5c157abc",
+        "size_in_bytes": 980
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Somali.pm",
+        "path_type": "hardlink",
+        "sha256": "6a04620528727937446372182da3d845490501250a4c2aa860c4890454d07e93",
+        "sha256_in_prefix": "6a04620528727937446372182da3d845490501250a4c2aa860c4890454d07e93",
+        "size_in_bytes": 1155
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Spanish.pm",
+        "path_type": "hardlink",
+        "sha256": "0a342845a8507044b5e42f9057cc20b3dbdc2b9f7c4973fde8801d9bc6323e75",
+        "sha256_in_prefix": "0a342845a8507044b5e42f9057cc20b3dbdc2b9f7c4973fde8801d9bc6323e75",
+        "size_in_bytes": 922
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Swedish.pm",
+        "path_type": "hardlink",
+        "sha256": "d9482ae993437ab8515f34deb6f9be720916244f88b1aa81889a137f085b2a30",
+        "sha256_in_prefix": "d9482ae993437ab8515f34deb6f9be720916244f88b1aa81889a137f085b2a30",
+        "size_in_bytes": 1122
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Tigrinya.pm",
+        "path_type": "hardlink",
+        "sha256": "84c43a9576e1c5913d2dbfe280cc6f71b0f9f58200110a67df94a051d79fccac",
+        "sha256_in_prefix": "84c43a9576e1c5913d2dbfe280cc6f71b0f9f58200110a67df94a051d79fccac",
+        "size_in_bytes": 1434
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/TigrinyaEritrean.pm",
+        "path_type": "hardlink",
+        "sha256": "b70df17f6524cd88c8f211ae2dfa32867e520b16c7f82e6dc2070daf5281b6e2",
+        "sha256_in_prefix": "b70df17f6524cd88c8f211ae2dfa32867e520b16c7f82e6dc2070daf5281b6e2",
+        "size_in_bytes": 1904
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/TigrinyaEthiopian.pm",
+        "path_type": "hardlink",
+        "sha256": "6b8e97204e22c4b3cd9b4eaa93b4afd6240fe29869ce2a28c784bcba0123ebab",
+        "sha256_in_prefix": "6b8e97204e22c4b3cd9b4eaa93b4afd6240fe29869ce2a28c784bcba0123ebab",
+        "size_in_bytes": 1930
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Language/Turkish.pm",
+        "path_type": "hardlink",
+        "sha256": "26eba960646b13f1cbf235510112e5510ad00848a0a608010e31a2a3ecc477a5",
+        "sha256_in_prefix": "26eba960646b13f1cbf235510112e5510ad00848a0a608010e31a2a3ecc477a5",
+        "size_in_bytes": 2079
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Date/Parse.pm",
+        "path_type": "hardlink",
+        "sha256": "f5e02aa74cdcc883507a32d190d6c0339bc7cf773b4bbbe7c05ca3b5128f31e2",
+        "sha256_in_prefix": "f5e02aa74cdcc883507a32d190d6c0339bc7cf773b4bbbe7c05ca3b5128f31e2",
+        "size_in_bytes": 8940
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/Time/Zone.pm",
+        "path_type": "hardlink",
+        "sha256": "5b8c6b6aae372ec40a1ca1e74d8e3c94d3c5d495d430e89f95e4194b7e347e15",
+        "sha256_in_prefix": "5b8c6b6aae372ec40a1ca1e74d8e3c94d3c5d495d430e89f95e4194b7e347e15",
+        "size_in_bytes": 8346
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Date/Parse/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "7f94351c52a560dc2e0bf993216353a0b4555a21a03e1587debbfaf37e987a2f",
+        "sha256_in_prefix": "71123fbf9674df5ec2aca4deda44542e368dc44a0be2ba3ba58bad3c5eace553",
+        "size_in_bytes": 5448
+      },
+      {
+        "_path": "man/man3/Date::Format.3",
+        "path_type": "hardlink",
+        "sha256": "b9750cd0a487dffbd6f1438b1004ea84a3f2a2731996875890a68f04370ce87e",
+        "sha256_in_prefix": "b9750cd0a487dffbd6f1438b1004ea84a3f2a2731996875890a68f04370ce87e",
+        "size_in_bytes": 7201
+      },
+      {
+        "_path": "man/man3/Date::Language.3",
+        "path_type": "hardlink",
+        "sha256": "c87fe8a7e448258d30533c5ce5a59dd9334dd9c125e39bee4c0fff6db8dd7c11",
+        "sha256_in_prefix": "c87fe8a7e448258d30533c5ce5a59dd9334dd9c125e39bee4c0fff6db8dd7c11",
+        "size_in_bytes": 3707
+      },
+      {
+        "_path": "man/man3/Date::Language::Bulgarian.3",
+        "path_type": "hardlink",
+        "sha256": "e915737e7f41ab8aa11b104384beefc972ad138d7c990d64cb8f4b497b886d84",
+        "sha256_in_prefix": "e915737e7f41ab8aa11b104384beefc972ad138d7c990d64cb8f4b497b886d84",
+        "size_in_bytes": 3585
+      },
+      {
+        "_path": "man/man3/Date::Language::Hungarian.3",
+        "path_type": "hardlink",
+        "sha256": "9d27cd534ce3945d31a82132f6f63380200b24d916350dd7492f3b814d20e8f2",
+        "sha256_in_prefix": "9d27cd534ce3945d31a82132f6f63380200b24d916350dd7492f3b814d20e8f2",
+        "size_in_bytes": 3001
+      },
+      {
+        "_path": "man/man3/Date::Parse.3",
+        "path_type": "hardlink",
+        "sha256": "129d181e53344e73917b95007d442cd3926f11eade2923747487dd61e37f1ae9",
+        "sha256_in_prefix": "129d181e53344e73917b95007d442cd3926f11eade2923747487dd61e37f1ae9",
+        "size_in_bytes": 5515
+      },
+      {
+        "_path": "man/man3/Time::Zone.3",
+        "path_type": "hardlink",
+        "sha256": "2ccec982a30e6900624da1d72c1dcff8aea3373ae6ba279dd49c3b715fc648b1",
+        "sha256_in_prefix": "2ccec982a30e6900624da1d72c1dcff8aea3373ae6ba279dd49c3b715fc648b1",
+        "size_in_bytes": 3323
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "48537f23487aaa4567c90d4cc77dc32c95bf9b6944f21fb275a2b594c66d5d31",
+  "size": 30167,
+  "subdir": "linux-64",
+  "timestamp": 1552132830091,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-date-format-2.30-pl526_2.tar.bz2",
+  "version": "2.30"
+}

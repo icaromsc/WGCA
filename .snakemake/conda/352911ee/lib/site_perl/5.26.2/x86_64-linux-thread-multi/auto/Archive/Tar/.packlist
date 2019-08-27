@@ -1,0 +1,11 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/bin/ptar relocate_as=../../../../../../../bin/ptar
+/home/icaro/WGCA/.snakemake/conda/352911ee/bin/ptardiff relocate_as=../../../../../../../bin/ptardiff
+/home/icaro/WGCA/.snakemake/conda/352911ee/bin/ptargrep relocate_as=../../../../../../../bin/ptargrep
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Archive/Tar.pm relocate_as=../../../../Archive/Tar.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Archive/Tar/Constant.pm relocate_as=../../../../Archive/Tar/Constant.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Archive/Tar/File.pm relocate_as=../../../../Archive/Tar/File.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man1/ptar.1 relocate_as=../../../../../../../man/man1/ptar.1
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man1/ptardiff.1 relocate_as=../../../../../../../man/man1/ptardiff.1
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man1/ptargrep.1 relocate_as=../../../../../../../man/man1/ptargrep.1
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Archive::Tar.3 relocate_as=../../../../../../../man/man3/Archive::Tar.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Archive::Tar::File.3 relocate_as=../../../../../../../man/man3/Archive::Tar::File.3

@@ -1,0 +1,4 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/XML/SAX/Writer.pm relocate_as=../../../../../XML/SAX/Writer.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/XML/SAX/Writer/XML.pm relocate_as=../../../../../XML/SAX/Writer/XML.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/XML::SAX::Writer.3 relocate_as=../../../../../../../../man/man3/XML::SAX::Writer.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/XML::SAX::Writer::XML.3 relocate_as=../../../../../../../../man/man3/XML::SAX::Writer::XML.3

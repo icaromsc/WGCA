@@ -1,0 +1,61 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-file-which-1.23-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/File/Which.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Which/.packlist",
+    "man/man3/File::Which.3"
+  ],
+  "fn": "perl-file-which-1.23-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-file-which-1.23-pl526_0",
+    "type": 1
+  },
+  "md5": "46f24942ce35bdd275f905cfe93ac9e0",
+  "name": "perl-file-which",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-file-which-1.23-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/File/Which.pm",
+        "path_type": "hardlink",
+        "sha256": "e979fe0607368e1981d39a34134d55d98a705a0c044d5d8fccaa7fbae7e4373b",
+        "sha256_in_prefix": "e979fe0607368e1981d39a34134d55d98a705a0c044d5d8fccaa7fbae7e4373b",
+        "size_in_bytes": 11958
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/File/Which/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "d71a104b282a253fc4f8105da642a1c880203e5ead04009ba383d0d145942aae",
+        "sha256_in_prefix": "3fb8163b1e981e8cf5ae3dcd1cc8e32602c0119af7b2e7eebebc7d8e1051ae10",
+        "size_in_bytes": 218
+      },
+      {
+        "_path": "man/man3/File::Which.3",
+        "path_type": "hardlink",
+        "sha256": "9a0dc5fcd2d0f7940a7c724d098e107ff4dc8ac79f95b5619d1c6678733cc96e",
+        "sha256_in_prefix": "9a0dc5fcd2d0f7940a7c724d098e107ff4dc8ac79f95b5619d1c6678733cc96e",
+        "size_in_bytes": 11926
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "97acacdedfb8e90e7a8598b16970f8b5701a4c8b9e86da55fad2c777172e313a",
+  "size": 12572,
+  "subdir": "linux-64",
+  "timestamp": 1546946105582,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-file-which-1.23-pl526_0.tar.bz2",
+  "version": "1.23"
+}

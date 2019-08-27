@@ -1,0 +1,112 @@
+{
+  "build": "pl526h14c3975_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-test-leaktrace-0.16-pl526h14c3975_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace/JA.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace/Script.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/LeakTrace/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/LeakTrace/LeakTrace.so",
+    "man/man3/Test::LeakTrace.3",
+    "man/man3/Test::LeakTrace::JA.3",
+    "man/man3/Test::LeakTrace::Script.3"
+  ],
+  "fn": "perl-test-leaktrace-0.16-pl526h14c3975_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-test-leaktrace-0.16-pl526h14c3975_2",
+    "type": 1
+  },
+  "md5": "7fe075d24f9517b9f3a12402f16634af",
+  "name": "perl-test-leaktrace",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-test-leaktrace-0.16-pl526h14c3975_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "0839b99eb3091fd915f13120ac6122a65d2e71eb7f9076c71e0d2dc723f4e5d1",
+        "sha256_in_prefix": "9b98b298d9506b3af44c6f9f3cd5a67fe19aeba3d2b6739596e0035e678bcbce",
+        "size_in_bytes": 261
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace.pm",
+        "path_type": "hardlink",
+        "sha256": "337e24e73648d682f710cc8d4f65848122aecdb1ae05ff8591caafdb76353fd9",
+        "sha256_in_prefix": "337e24e73648d682f710cc8d4f65848122aecdb1ae05ff8591caafdb76353fd9",
+        "size_in_bytes": 7262
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace/JA.pod",
+        "path_type": "hardlink",
+        "sha256": "a850936070f739f52609add92048c7bd178f56602cb4d2d340ad287edafc7ada",
+        "sha256_in_prefix": "a850936070f739f52609add92048c7bd178f56602cb4d2d340ad287edafc7ada",
+        "size_in_bytes": 10261
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace/Script.pm",
+        "path_type": "hardlink",
+        "sha256": "9ab513fc764aac9e053d56848ad304e55aae12d7f6ef0793bbda0985d3d0e4eb",
+        "sha256_in_prefix": "9ab513fc764aac9e053d56848ad304e55aae12d7f6ef0793bbda0985d3d0e4eb",
+        "size_in_bytes": 986
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/LeakTrace/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "94f2ceffe3714941ea345a9a2d5e79dd9f64e100674272ea88ec0aebfef0c3b0",
+        "sha256_in_prefix": "e5ca87cc99512432cc5890a3daacc4b7ab4937c01540e7926d26a6a24c8fd3b2",
+        "size_in_bytes": 955
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/LeakTrace/LeakTrace.so",
+        "path_type": "hardlink",
+        "sha256": "102cf6a6445eed06804b49b7da6c20b63f3b1d19ef23505c931c0c0c6d6e2e63",
+        "sha256_in_prefix": "102cf6a6445eed06804b49b7da6c20b63f3b1d19ef23505c931c0c0c6d6e2e63",
+        "size_in_bytes": 26840
+      },
+      {
+        "_path": "man/man3/Test::LeakTrace.3",
+        "path_type": "hardlink",
+        "sha256": "0f4e677ba7e17605c67add4b54ca7007c3621ac96a7972b3ef960eb1a0cf06b2",
+        "sha256_in_prefix": "0f4e677ba7e17605c67add4b54ca7007c3621ac96a7972b3ef960eb1a0cf06b2",
+        "size_in_bytes": 8128
+      },
+      {
+        "_path": "man/man3/Test::LeakTrace::JA.3",
+        "path_type": "hardlink",
+        "sha256": "fdfe140f1037c8d6a506d28e794616dd2174da323cf3441edba0ed5744e91f5e",
+        "sha256_in_prefix": "fdfe140f1037c8d6a506d28e794616dd2174da323cf3441edba0ed5744e91f5e",
+        "size_in_bytes": 14646
+      },
+      {
+        "_path": "man/man3/Test::LeakTrace::Script.3",
+        "path_type": "hardlink",
+        "sha256": "bebc3eaa4174fae5d146f93455a644c72bef270cedf50d4ba8e3ca6736df9834",
+        "sha256_in_prefix": "bebc3eaa4174fae5d146f93455a644c72bef270cedf50d4ba8e3ca6736df9834",
+        "size_in_bytes": 3246
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8e8012c181ac71d2f12fdb9ddf39851eedfeca13211b69971bf1f4681731d635",
+  "size": 23673,
+  "subdir": "linux-64",
+  "timestamp": 1556737201453,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-test-leaktrace-0.16-pl526h14c3975_2.tar.bz2",
+  "version": "0.16"
+}

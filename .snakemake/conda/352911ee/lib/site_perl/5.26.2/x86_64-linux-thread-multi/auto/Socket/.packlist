@@ -1,0 +1,3 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Socket.pm relocate_as=../../Socket.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Socket/Socket.so relocate_as=Socket.so
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Socket.3 relocate_as=../../../../../../man/man3/Socket.3

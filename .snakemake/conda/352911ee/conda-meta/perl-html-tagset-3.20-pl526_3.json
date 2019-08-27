@@ -1,0 +1,71 @@
+{
+  "build": "pl526_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-html-tagset-3.20-pl526_3",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/HTML/Tagset.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Tagset/.packlist",
+    "man/man3/HTML::Tagset.3"
+  ],
+  "fn": "perl-html-tagset-3.20-pl526_3.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-html-tagset-3.20-pl526_3",
+    "type": 1
+  },
+  "md5": "169010ee892bae283dc8ae4c37ad268b",
+  "name": "perl-html-tagset",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-html-tagset-3.20-pl526_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "5712edbd01f699b79082f45898e67ef486dca839b6a5a09a3e6b15343adee38d",
+        "sha256_in_prefix": "094c80799122ed84ae0ced6e53cc7d107bf3d6e7023ef6f7e463109b05b64828",
+        "size_in_bytes": 255
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/HTML/Tagset.pm",
+        "path_type": "hardlink",
+        "sha256": "8c30b67ed4a38430daa9a9cdb6f1cec29b440247293ad293f8a02d4926de11a9",
+        "sha256_in_prefix": "8c30b67ed4a38430daa9a9cdb6f1cec29b440247293ad293f8a02d4926de11a9",
+        "size_in_bytes": 12947
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Tagset/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "0feec91e26fc88f3de3d3888e17556daecf13c4d0a9a9721dd6b1fd5b09a3680",
+        "sha256_in_prefix": "ae75c3448e00f99c6a0510b58868749fb99d32b5b3565cfa1821da3768e3e50c",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "man/man3/HTML::Tagset.3",
+        "path_type": "hardlink",
+        "sha256": "461c4ebd96e2c1b265b967441e5d89feec4e93b577ec49b4c22bebc16032d8d2",
+        "sha256_in_prefix": "461c4ebd96e2c1b265b967441e5d89feec4e93b577ec49b4c22bebc16032d8d2",
+        "size_in_bytes": 10724
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "614b5c19533945cd879680ea7a1019ef6ff994f745c9a67226b3609355aa26cb",
+  "size": 11838,
+  "subdir": "linux-64",
+  "timestamp": 1535081190425,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-html-tagset-3.20-pl526_3.tar.bz2",
+  "version": "3.20"
+}

@@ -1,0 +1,2 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/XML/RegExp.pm relocate_as=../../../../XML/RegExp.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/XML::RegExp.3 relocate_as=../../../../../../../man/man3/XML::RegExp.3

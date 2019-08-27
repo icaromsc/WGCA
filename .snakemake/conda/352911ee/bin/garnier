@@ -1,0 +1,7 @@
+#!/bin/sh
+
+BIN_DIR=$(dirname $(which garnier))
+export EMBOSS_ACDROOT=$BIN_DIR/../share/EMBOSS/acd/
+export EMBOSS_DATA=$BIN_DIR/../share/EMBOSS/data/
+export PLPLOT_LIB=$BIN_DIR/../share/EMBOSS/
+_garnier "$@"

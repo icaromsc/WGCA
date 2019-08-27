@@ -1,0 +1,12 @@
+prefix=/home/icaro/WGCA/.snakemake/conda/352911ee
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: libxslt
+Version: 1.1.32
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Libs: -L${libdir} -lxslt -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -lxml2 -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -lz -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -llzma -lpthread -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -liconv -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -licui18n -licuuc -licudata -lm -ldl -lm  -lrt
+Cflags: -I${includedir}

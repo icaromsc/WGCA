@@ -1,0 +1,2 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Data/OptList.pm relocate_as=../../../../Data/OptList.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Data::OptList.3 relocate_as=../../../../../../../man/man3/Data::OptList.3

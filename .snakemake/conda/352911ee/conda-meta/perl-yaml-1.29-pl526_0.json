@@ -1,0 +1,319 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-yaml-1.29-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/YAML.pm",
+    "lib/site_perl/5.26.2/YAML.pod",
+    "lib/site_perl/5.26.2/YAML/Any.pm",
+    "lib/site_perl/5.26.2/YAML/Any.pod",
+    "lib/site_perl/5.26.2/YAML/Dumper.pm",
+    "lib/site_perl/5.26.2/YAML/Dumper.pod",
+    "lib/site_perl/5.26.2/YAML/Dumper/Base.pm",
+    "lib/site_perl/5.26.2/YAML/Dumper/Base.pod",
+    "lib/site_perl/5.26.2/YAML/Error.pm",
+    "lib/site_perl/5.26.2/YAML/Error.pod",
+    "lib/site_perl/5.26.2/YAML/Loader.pm",
+    "lib/site_perl/5.26.2/YAML/Loader.pod",
+    "lib/site_perl/5.26.2/YAML/Loader/Base.pm",
+    "lib/site_perl/5.26.2/YAML/Loader/Base.pod",
+    "lib/site_perl/5.26.2/YAML/Marshall.pm",
+    "lib/site_perl/5.26.2/YAML/Marshall.pod",
+    "lib/site_perl/5.26.2/YAML/Mo.pm",
+    "lib/site_perl/5.26.2/YAML/Node.pm",
+    "lib/site_perl/5.26.2/YAML/Node.pod",
+    "lib/site_perl/5.26.2/YAML/Tag.pm",
+    "lib/site_perl/5.26.2/YAML/Tag.pod",
+    "lib/site_perl/5.26.2/YAML/Types.pm",
+    "lib/site_perl/5.26.2/YAML/Types.pod",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/YAML/.packlist",
+    "man/man3/YAML.3",
+    "man/man3/YAML::Any.3",
+    "man/man3/YAML::Dumper.3",
+    "man/man3/YAML::Dumper::Base.3",
+    "man/man3/YAML::Error.3",
+    "man/man3/YAML::Loader.3",
+    "man/man3/YAML::Loader::Base.3",
+    "man/man3/YAML::Marshall.3",
+    "man/man3/YAML::Node.3",
+    "man/man3/YAML::Tag.3",
+    "man/man3/YAML::Types.3"
+  ],
+  "fn": "perl-yaml-1.29-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-yaml-1.29-pl526_0",
+    "type": 1
+  },
+  "md5": "9bf9b027106526977ff3efe2032c3ae5",
+  "name": "perl-yaml",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-yaml-1.29-pl526_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/YAML.pm",
+        "path_type": "hardlink",
+        "sha256": "78205efe9d3804cbc366faa265417b02eab618a77ca10c97ef0b8066299b3c3c",
+        "sha256_in_prefix": "78205efe9d3804cbc366faa265417b02eab618a77ca10c97ef0b8066299b3c3c",
+        "size_in_bytes": 3163
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML.pod",
+        "path_type": "hardlink",
+        "sha256": "49a36930b3e5826047817db4b38430b6e231f537baa882e2e71eb820b109ebc4",
+        "sha256_in_prefix": "49a36930b3e5826047817db4b38430b6e231f537baa882e2e71eb820b109ebc4",
+        "size_in_bytes": 22819
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Any.pm",
+        "path_type": "hardlink",
+        "sha256": "bb276d3c91f2354e80cf81d662a181711dc1b982712c6397b7f685ecb5cb9e3b",
+        "sha256_in_prefix": "bb276d3c91f2354e80cf81d662a181711dc1b982712c6397b7f685ecb5cb9e3b",
+        "size_in_bytes": 2663
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Any.pod",
+        "path_type": "hardlink",
+        "sha256": "e569c5924307db6d97fb8ac067fa063b4eae0822eb26548429c7d350ef4f44f7",
+        "sha256_in_prefix": "e569c5924307db6d97fb8ac067fa063b4eae0822eb26548429c7d350ef4f44f7",
+        "size_in_bytes": 2887
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Dumper.pm",
+        "path_type": "hardlink",
+        "sha256": "7a95a4e81752c5a9e17cde768638fe13388ab258a8d96ec2b0a4237e452dd7fc",
+        "sha256_in_prefix": "7a95a4e81752c5a9e17cde768638fe13388ab258a8d96ec2b0a4237e452dd7fc",
+        "size_in_bytes": 17088
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Dumper.pod",
+        "path_type": "hardlink",
+        "sha256": "b694b88d31200dd5a5b8ac247401342c397d20c3739d40908f640451e3c61b45",
+        "sha256_in_prefix": "b694b88d31200dd5a5b8ac247401342c397d20c3739d40908f640451e3c61b45",
+        "size_in_bytes": 776
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Dumper/Base.pm",
+        "path_type": "hardlink",
+        "sha256": "f564814ce1148443139a12095a463c6d91d6cb7b923129e2915c2fa3b6cad9ee",
+        "sha256_in_prefix": "f564814ce1148443139a12095a463c6d91d6cb7b923129e2915c2fa3b6cad9ee",
+        "size_in_bytes": 3594
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Dumper/Base.pod",
+        "path_type": "hardlink",
+        "sha256": "12a46d854320410835444fe3dad5ea5765b0010179eb4bbdc4226163bad627e7",
+        "sha256_in_prefix": "12a46d854320410835444fe3dad5ea5765b0010179eb4bbdc4226163bad627e7",
+        "size_in_bytes": 653
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Error.pm",
+        "path_type": "hardlink",
+        "sha256": "f128c01c9c3b007cfee7decb583d76bb4ee58d874a9ab6378f32a0411380b040",
+        "sha256_in_prefix": "f128c01c9c3b007cfee7decb583d76bb4ee58d874a9ab6378f32a0411380b040",
+        "size_in_bytes": 5764
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Error.pod",
+        "path_type": "hardlink",
+        "sha256": "d33bc7a4c0aa0db3bd760a5d9c4f78465053273dbfeb8a541e1f84afe3facad7",
+        "sha256_in_prefix": "d33bc7a4c0aa0db3bd760a5d9c4f78465053273dbfeb8a541e1f84afe3facad7",
+        "size_in_bytes": 666
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Loader.pm",
+        "path_type": "hardlink",
+        "sha256": "521d584ee2e920268d2c0c6763fce6ca520c68ef83a306ba95c25ed61c9dad72",
+        "sha256_in_prefix": "521d584ee2e920268d2c0c6763fce6ca520c68ef83a306ba95c25ed61c9dad72",
+        "size_in_bytes": 26991
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Loader.pod",
+        "path_type": "hardlink",
+        "sha256": "30afced766d9ee53f8f07e1d37ebd9d7a81ae5b9fb5e3cb336abf9992f5b4b35",
+        "sha256_in_prefix": "30afced766d9ee53f8f07e1d37ebd9d7a81ae5b9fb5e3cb336abf9992f5b4b35",
+        "size_in_bytes": 767
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Loader/Base.pm",
+        "path_type": "hardlink",
+        "sha256": "28f5ceae9b39e420b02b718093c31d6c789a5805d003e6051153c5cde9d843af",
+        "sha256_in_prefix": "28f5ceae9b39e420b02b718093c31d6c789a5805d003e6051153c5cde9d843af",
+        "size_in_bytes": 1230
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Loader/Base.pod",
+        "path_type": "hardlink",
+        "sha256": "2f6c3aedfbc2b6b53af136bdd2f6209ae25854435643940e28d50fb76d291a84",
+        "sha256_in_prefix": "2f6c3aedfbc2b6b53af136bdd2f6209ae25854435643940e28d50fb76d291a84",
+        "size_in_bytes": 653
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Marshall.pm",
+        "path_type": "hardlink",
+        "sha256": "51c27be99fc0f374e40e1c6a5adbdd4e7c2d2320b349e3461cb2f739a0822717",
+        "sha256_in_prefix": "51c27be99fc0f374e40e1c6a5adbdd4e7c2d2320b349e3461cb2f739a0822717",
+        "size_in_bytes": 867
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Marshall.pod",
+        "path_type": "hardlink",
+        "sha256": "b4e6a7f196c0a4a26b781ab1cfb29ae8e9d5bbea443c27f658ca4f4b3e279808",
+        "sha256_in_prefix": "b4e6a7f196c0a4a26b781ab1cfb29ae8e9d5bbea443c27f658ca4f4b3e279808",
+        "size_in_bytes": 656
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Mo.pm",
+        "path_type": "hardlink",
+        "sha256": "4a0ed74b65f365773bc9a227d7eafca462f6d5499da93894b66af4fdeaf60d85",
+        "sha256_in_prefix": "4a0ed74b65f365773bc9a227d7eafca462f6d5499da93894b66af4fdeaf60d85",
+        "size_in_bytes": 3320
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Node.pm",
+        "path_type": "hardlink",
+        "sha256": "f36b2662d1d818fd7c5601fe9aa13fe30256e18c937a9f5b0a70018e6f955769",
+        "sha256_in_prefix": "f36b2662d1d818fd7c5601fe9aa13fe30256e18c937a9f5b0a70018e6f955769",
+        "size_in_bytes": 4424
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Node.pod",
+        "path_type": "hardlink",
+        "sha256": "b23b3653594357c9d17c93d87c0402b6db20136ca5afefd0f6b083eb03714b73",
+        "sha256_in_prefix": "b23b3653594357c9d17c93d87c0402b6db20136ca5afefd0f6b083eb03714b73",
+        "size_in_bytes": 2543
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Tag.pm",
+        "path_type": "hardlink",
+        "sha256": "5837472dee33f7619055f655f98d0081cc40ee290342ef76546a39e50101f63f",
+        "sha256_in_prefix": "5837472dee33f7619055f655f98d0081cc40ee290342ef76546a39e50101f63f",
+        "size_in_bytes": 216
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Tag.pod",
+        "path_type": "hardlink",
+        "sha256": "8c7ecce2bcc7910d8516680c9d7b4c0e0d0ef0872f370668556606448cdfbaed",
+        "sha256_in_prefix": "8c7ecce2bcc7910d8516680c9d7b4c0e0d0ef0872f370668556606448cdfbaed",
+        "size_in_bytes": 538
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Types.pm",
+        "path_type": "hardlink",
+        "sha256": "d35b0bd66eebdc1a9a09c849672a6d2e1b89ed6c3fdf497a28bf61a5e6c84a56",
+        "sha256_in_prefix": "d35b0bd66eebdc1a9a09c849672a6d2e1b89ed6c3fdf497a28bf61a5e6c84a56",
+        "size_in_bytes": 6592
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/YAML/Types.pod",
+        "path_type": "hardlink",
+        "sha256": "63e644d465105c14337e6fc73dc3c41ce3c58875d2001720dc085919ab2fd1ce",
+        "sha256_in_prefix": "63e644d465105c14337e6fc73dc3c41ce3c58875d2001720dc085919ab2fd1ce",
+        "size_in_bytes": 738
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/YAML/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "d81365ecabd939bb58cad95c22ab17c83de7b44a564169f2a69ee1e14cdc0eff",
+        "sha256_in_prefix": "adc54e6aeff3f0d847675c562219a27d563404c2d8a1bb766c08d52701913dbd",
+        "size_in_bytes": 3622
+      },
+      {
+        "_path": "man/man3/YAML.3",
+        "path_type": "hardlink",
+        "sha256": "1a64c51835cc6b7c9cc8e9ab1c6a3fcce4ac2f102b5a45ee96693b4286539a09",
+        "sha256_in_prefix": "1a64c51835cc6b7c9cc8e9ab1c6a3fcce4ac2f102b5a45ee96693b4286539a09",
+        "size_in_bytes": 28812
+      },
+      {
+        "_path": "man/man3/YAML::Any.3",
+        "path_type": "hardlink",
+        "sha256": "8852f1cb13054ffd94c881c9b0ce2b7890cf48141a329270dc968cf1ee2d9792",
+        "sha256_in_prefix": "8852f1cb13054ffd94c881c9b0ce2b7890cf48141a329270dc968cf1ee2d9792",
+        "size_in_bytes": 5589
+      },
+      {
+        "_path": "man/man3/YAML::Dumper.3",
+        "path_type": "hardlink",
+        "sha256": "7f01277eaa48f7399e01086b35412c6c4d6de814e9ed64a8ca49db2254864004",
+        "sha256_in_prefix": "7f01277eaa48f7399e01086b35412c6c4d6de814e9ed64a8ca49db2254864004",
+        "size_in_bytes": 2878
+      },
+      {
+        "_path": "man/man3/YAML::Dumper::Base.3",
+        "path_type": "hardlink",
+        "sha256": "2a2a8dd04b817da89bc8ccc2bbf737a95c5460bcbadeaed0421e387fb78d9fc4",
+        "sha256_in_prefix": "2a2a8dd04b817da89bc8ccc2bbf737a95c5460bcbadeaed0421e387fb78d9fc4",
+        "size_in_bytes": 2744
+      },
+      {
+        "_path": "man/man3/YAML::Error.3",
+        "path_type": "hardlink",
+        "sha256": "ab0f72b6f66c4085ff74323f059457437a633fa5c6d921e6f7e2c98c457c1f51",
+        "sha256_in_prefix": "ab0f72b6f66c4085ff74323f059457437a633fa5c6d921e6f7e2c98c457c1f51",
+        "size_in_bytes": 2783
+      },
+      {
+        "_path": "man/man3/YAML::Loader.3",
+        "path_type": "hardlink",
+        "sha256": "dcf0467c3fef342164e4d943148d5cdbbd910f31201a63be8de3f57365c9c571",
+        "sha256_in_prefix": "dcf0467c3fef342164e4d943148d5cdbbd910f31201a63be8de3f57365c9c571",
+        "size_in_bytes": 2868
+      },
+      {
+        "_path": "man/man3/YAML::Loader::Base.3",
+        "path_type": "hardlink",
+        "sha256": "4d8639ea29c259c3e692e43dc80377dafaaf8a5a1bc2c21ba0790482b57401e3",
+        "sha256_in_prefix": "4d8639ea29c259c3e692e43dc80377dafaaf8a5a1bc2c21ba0790482b57401e3",
+        "size_in_bytes": 2744
+      },
+      {
+        "_path": "man/man3/YAML::Marshall.3",
+        "path_type": "hardlink",
+        "sha256": "4abf31bfcf8d15c675513c4bd6fbaa769f7936f670644109c389928451649670",
+        "sha256_in_prefix": "4abf31bfcf8d15c675513c4bd6fbaa769f7936f670644109c389928451649670",
+        "size_in_bytes": 2742
+      },
+      {
+        "_path": "man/man3/YAML::Node.3",
+        "path_type": "hardlink",
+        "sha256": "8c1017a8f6a2ffae87c2507f208854160910a5fcf2f5f02a48635ba54f9786e2",
+        "sha256_in_prefix": "8c1017a8f6a2ffae87c2507f208854160910a5fcf2f5f02a48635ba54f9786e2",
+        "size_in_bytes": 4845
+      },
+      {
+        "_path": "man/man3/YAML::Tag.3",
+        "path_type": "hardlink",
+        "sha256": "781a6f0ed45c037f5f0e89f15da840bedb172f105ea7f5c76cc6f7c1173b6aa8",
+        "sha256_in_prefix": "781a6f0ed45c037f5f0e89f15da840bedb172f105ea7f5c76cc6f7c1173b6aa8",
+        "size_in_bytes": 2601
+      },
+      {
+        "_path": "man/man3/YAML::Types.3",
+        "path_type": "hardlink",
+        "sha256": "9f3e853f617b9a235d86f9c709ea2f1f3cb99204eef6c140db69d053849888af",
+        "sha256_in_prefix": "9f3e853f617b9a235d86f9c709ea2f1f3cb99204eef6c140db69d053849888af",
+        "size_in_bytes": 2818
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d68a9db603857c3ea537748b017a81a4e0bbc1b4a14ce30a99d5d9e1011fed39",
+  "size": 41574,
+  "subdir": "noarch",
+  "timestamp": 1558470877900,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/perl-yaml-1.29-pl526_0.tar.bz2",
+  "version": "1.29"
+}

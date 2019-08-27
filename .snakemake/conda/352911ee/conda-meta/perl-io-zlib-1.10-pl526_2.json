@@ -1,0 +1,63 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-io-zlib-1.10-pl526_2",
+  "features": "",
+  "files": [
+    "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+    "lib/site_perl/5.26.2/IO/Zlib.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/Zlib/.packlist"
+  ],
+  "fn": "perl-io-zlib-1.10-pl526_2.tar.bz2",
+  "license": "unknown",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-io-zlib-1.10-pl526_2",
+    "type": 1
+  },
+  "md5": "14acb0318f4ad06603b5d38706ae043a",
+  "name": "perl-io-zlib",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-io-zlib-1.10-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/5.26.2/x86_64-linux-thread-multi/perllocal.pod",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "34ee7193f500593fcb75642fea37562700df742355e8f3ae7b99e9f86dc0243c",
+        "sha256_in_prefix": "b1f27c88875a1444aecd4419890e51043a497d7d8f9ba2fa5b9c91f56d7e2560",
+        "size_in_bytes": 247
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/IO/Zlib.pm",
+        "path_type": "hardlink",
+        "sha256": "20db1cc744b3cee1244d943f93cb4cfb53c571551d0aaf0c140f5988110a510c",
+        "sha256_in_prefix": "20db1cc744b3cee1244d943f93cb4cfb53c571551d0aaf0c140f5988110a510c",
+        "size_in_bytes": 15015
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/Zlib/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "2d93a9b61dc8d86c3db195774a72c347860f85523113a396a90a1083892d2c3c",
+        "sha256_in_prefix": "835374fddc83df905ebca2830c2879ddf1bf028c79985576d0e52cf92b349c4d",
+        "size_in_bytes": 206
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "13bb0943904eb07d1da9c418bd682967fe9ccdbbe7d01d5a2adf7b2f0938f5b7",
+  "size": 9202,
+  "subdir": "linux-64",
+  "timestamp": 1531785886896,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-io-zlib-1.10-pl526_2.tar.bz2",
+  "version": "1.10"
+}

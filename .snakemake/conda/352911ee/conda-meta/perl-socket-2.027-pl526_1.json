@@ -1,0 +1,61 @@
+{
+  "build": "pl526_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-socket-2.027-pl526_1",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Socket.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Socket/.packlist",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Socket/Socket.so"
+  ],
+  "fn": "perl-socket-2.027-pl526_1.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-socket-2.027-pl526_1",
+    "type": 1
+  },
+  "md5": "bbce777723970c529b99e0beaa09ec1c",
+  "name": "perl-socket",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-socket-2.027-pl526_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/Socket.pm",
+        "path_type": "hardlink",
+        "sha256": "df59b658655a46adbf9beb80e4c0d0771cc5c7c4bae2e4a3728345192fa3bfbb",
+        "sha256_in_prefix": "df59b658655a46adbf9beb80e4c0d0771cc5c7c4bae2e4a3728345192fa3bfbb",
+        "size_in_bytes": 37062
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Socket/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "0fb2af6c136fb48ca6596b22a595377483ad2311f44c887cc80ff1471a13587d",
+        "sha256_in_prefix": "6fbdf7b05d4aaeba4d587dd4b577482ab32e9a3de3e8b4e3df7c22f6b71409ac",
+        "size_in_bytes": 341
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Socket/Socket.so",
+        "path_type": "hardlink",
+        "sha256": "777020e118e2b95cf7a17bc796592b9873e18fcc3ddc8fb229035bc3d7b534af",
+        "sha256_in_prefix": "777020e118e2b95cf7a17bc796592b9873e18fcc3ddc8fb229035bc3d7b534af",
+        "size_in_bytes": 47655
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "21e09aeb71ca7519d19429b5c95f3e52af309823c10991dc99607b2d4ebde61a",
+  "size": 31612,
+  "subdir": "linux-64",
+  "timestamp": 1531631306688,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-socket-2.027-pl526_1.tar.bz2",
+  "version": "2.027"
+}

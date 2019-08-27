@@ -1,0 +1,448 @@
+#!/usr/bin/env perl
+
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#            National Center for Biotechnology Information (NCBI)
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government do not place any restriction on its use or reproduction.
+#  We would, however, appreciate having the NCBI and the author cited in
+#  any work or product based on this material.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+# ===========================================================================
+#
+# File Name:  transmute
+#
+# Author:  Jonathan Kans
+#
+# Version Creation Date:   9/27/18
+#
+# ==========================================================================
+
+# Entrez Direct - EDirect
+
+# use strict;
+use warnings;
+
+my ($LibDir, $ScriptName);
+
+use File::Spec;
+
+# transmute version number
+
+$version = "11.0";
+
+BEGIN
+{
+  my $Volume;
+  ($Volume, $LibDir, $ScriptName) = File::Spec->splitpath($0);
+  $LibDir = File::Spec->catpath($Volume, $LibDir, '');
+  if (my $RealPathname = eval {readlink $0}) {
+    do {
+      $RealPathname = File::Spec->rel2abs($RealPathname, $LibDir);
+      ($Volume, $LibDir, undef) = File::Spec->splitpath($RealPathname);
+      $LibDir = File::Spec->catpath($Volume, $LibDir, '')
+    } while ($RealPathname = eval {readlink $RealPathname});
+  } else {
+    $LibDir = File::Spec->rel2abs($LibDir)
+  }
+  $LibDir .= '/aux/lib/perl5';
+}
+use lib $LibDir;
+
+use JSON::PP;
+use MIME::Base64;
+use URI::Escape;
+use XML::Simple;
+
+# convert_json based on convert_bool from:
+#
+# https://stackoverflow.com/questions/41039792correct-and-easy-way-convert-jsonppboolean-to-0-1-with-perl/41040316#41040316
+#
+# with hash section improvements by Aaron Ucko to convert non-XML-legal element characters to underscore.
+
+sub convert_json {
+  my %unrecognized;
+
+  local *_convert_json = sub {
+    my $ref_type = ref($_[0]);
+    if (!$ref_type) {
+      # Nothing.
+    }
+    elsif ($ref_type eq 'HASH') {
+      my %converted = ();
+      while (my ($k, $v) = each %{ $_[0] }) {
+        $k =~ s/[^[:alnum:]_:.-]|^[0-9.-]/_/g;
+        _convert_json($v);
+        $converted{$k} = $v;
+      }
+      %{ $_[0] } = %converted;
+    }
+    elsif ($ref_type eq 'ARRAY') {
+      _convert_json($_) for @{ $_[0] };
+    }
+    elsif (
+       $ref_type eq 'JSON::PP::Boolean' || $ref_type eq 'Types::Serialiser::Boolean'
+    ) {
+      $_[0] = $_[0] ? 1 : 0;
+    }
+    else {
+      ++$unrecognized{$ref_type};
+    }
+  };
+
+  &_convert_json;
+}
+
+my $transmute_help = qq{
+Transformation Commands
+
+  -j2x    Convert JSON to XML
+  -x2j    Convert XML to JSON
+
+};
+
+# read required function argument
+my $type = shift or die "Must supply conversion type on command line\n";
+
+# read optional parent object name
+my $obj = shift;
+
+sub transmute {
+
+  if ( $type eq "-version" ) {
+    print "$version\n";
+    return;
+  }
+
+  if ( $type eq "-help" ) {
+    print "transmute $version\n";
+      print $transmute_help;
+    return;
+  }
+
+  # read entire XML input stream into a single string
+
+  my $holdTerminator = $/;
+  undef $/;
+  my $data = <STDIN>;
+  $/ = $holdTerminator;
+
+  # exit on empty data
+  if ( $data eq "" ) {
+    exit 1;
+  }
+
+  # perform specific conversions
+
+  if ( $type eq "unescape" || $type eq "-unescape" ) {
+
+    $data = uri_unescape($data);
+
+    # convert plus signs to spaces
+    $data =~ s/\+/ /g;
+
+    # compress runs of spaces
+    $data =~ s/ +/ /g;
+
+    print "$data";
+  }
+
+  if ( $type eq "escape" || $type eq "-escape" ) {
+
+    # compress runs of spaces
+    $data =~ s/ +/ /g;
+
+    $data = uri_escape($data);
+
+    print "$data";
+  }
+
+  if ( $type eq "decode64" || $type eq "-decode64" ) {
+
+    $data = decode_base64($data);
+
+    print "$data";
+  }
+
+  if ( $type eq "encode64" || $type eq "-encode64" ) {
+
+    $data = encode_base64($data);
+
+    print "$data";
+  }
+
+  if ( $type eq "plain" || $type eq "-plain" ) {
+
+    # remove embedded mixed-content tags
+    $data =~ s/<[^>]*>//g;
+
+    # compress runs of spaces
+    $data =~ s/ +/ /g;
+
+    print "$data";
+  }
+
+  if ( $type eq "simple" || $type eq "-simple" ) {
+
+    # remove embedded mixed-content tags and everything in between
+    $data =~ s,<[^>]*/>,,g;
+    $data =~ s,<(\S+)[^>]*>.*?</\1>,,g;
+
+    # compress runs of spaces
+    $data =~ s/ +/ /g;
+
+    print "$data";
+  }
+
+  if ( $type eq "script" || $type eq "-script" ) {
+
+    # remove newlines, tabs, space between tokens, compress runs of spaces
+    $data =~ s/\r/ /g;
+    $data =~ s/\n/ /g;
+    $data =~ s/\t//g;
+    $data =~ s/ +/ /g;
+    $data =~ s/> +</></g;
+
+    # remove embedded script tags
+    $data =~ s|<script.*?</script>||g;
+
+    # compress runs of spaces
+    $data =~ s/ +/ /g;
+
+    # restore newlines between objects
+    $data =~ s/> *?</>\n</g;
+
+    print "$data";
+  }
+
+  if ( $type eq "pubmed" || $type eq "-pubmed" ) {
+
+    # remove newlines, tabs, space between tokens, compress runs of spaces
+    $data =~ s/\r/ /g;
+    $data =~ s/\n/ /g;
+    $data =~ s/\t//g;
+    $data =~ s/ +/ /g;
+    $data =~ s/> +</></g;
+
+    # my $markup = '(?:[biu]|su[bp])';
+    # my $attrs = ' ?';
+    my $markup = '(?:[\w.:_-]*:)?[[:lower:]-]+';
+    my $attrs = '(?:\s[\w.:_-]+=[^>]*)?';
+
+    # check for possible newline artifact
+    $data =~ s|</$markup>\n||g;
+    $data =~ s|\n<$markup$attrs>||g;
+
+    # remove mixed content tags
+    $data =~ s|</$markup>||g;
+    $data =~ s|<$markup$attrs/?>||g;
+    $data =~ s|</?DispFormula$attrs>| |g;
+
+    # check for encoded tags
+    if ( $data =~ /\&amp\;/ || $data =~ /\&lt\;/ || $data =~ /\&gt\;/ ) {
+      # remove runs of amp
+      $data =~ s|&amp;(?:amp;)+|&amp;|g;
+      # fix secondary encoding
+      $data =~ s|&amp;lt;|&lt;|g;
+      $data =~ s|&amp;gt;|&gt;|g;
+      $data =~ s|&amp;#(\d+);|&#$1;|g;
+      # temporarily protect encoded scientific symbols, e.g., PMID 9698410 and 21892341
+      $data =~ s|(?<= )(&lt;)(=*$markup&gt;)(?= )|$1=$2|g;
+      # remove encoded markup
+      $data =~ s|&lt;/$markup&gt;||g;
+      $data =~ s|&lt;$markup$attrs/?&gt;||g;
+      # undo temporary protection of scientific symbols adjacent to space
+      $data =~ s|(?<= )(&lt;)=(=*$markup&gt;)(?= )|$1$2|g;
+    }
+
+    # compress runs of horizontal whitespace
+    $data =~ s/\h+/ /g;
+
+    # remove lines with just space
+    $data =~ s/\n \n/\n/g;
+
+    # remove spaces just outside of angle brackets
+    $data =~ s|> |>|g;
+    $data =~ s| <|<|g;
+
+    # remove spaces just inside of parentheses
+    $data =~ s|\( |\(|g;
+    $data =~ s| \)|\)|g;
+
+    # remove newlines flanking spaces
+    $data =~ s|\n ||g;
+    $data =~ s| \n| |g;
+
+    # restore newlines between objects
+    $data =~ s/> *?</>\n</g;
+
+    print "$data\n";
+  }
+
+  if ( $type eq "docsum" || $type eq "-docsum" ) {
+
+    # remove newlines, tabs, space between tokens, compress runs of spaces
+    $data =~ s/\r/ /g;
+    $data =~ s/\n/ /g;
+    $data =~ s/\t//g;
+    $data =~ s/ +/ /g;
+    $data =~ s/> +</></g;
+
+    # move UID from attribute to object
+    if ($data !~ /<Id>\d+<\/Id>/i) {
+      $data =~ s/<DocumentSummary uid=\"(\d+)\">/<DocumentSummary><Id>$1<\/Id>/g;
+    }
+    $data =~ s/<DocumentSummary uid=\"\d+\">/<DocumentSummary>/g;
+
+    # fix bad encoding
+    my @accum = ();
+    my @working = ();
+    my $prefix = "";
+    my $suffix = "";
+    my $docsumset_attrs = '';
+
+    if ( $data =~ /(.+?)<DocumentSummarySet(\s+.+?)?>(.+)<\/DocumentSummarySet>(.+)/s ) {
+      $prefix = $1;
+      $docsumset_attrs = $2;
+      my $docset = $3;
+      $suffix = $4;
+
+      my @vals = ($docset =~ /<DocumentSummary>(.+?)<\/DocumentSummary>/sg);
+      foreach $val (@vals) {
+        push (@working, "<DocumentSummary>");
+        if ( $val =~ /<Title>(.+?)<\/Title>/ ) {
+          my $x = $1;
+          if ( $x =~ /\&amp\;/ || $x =~ /\&lt\;/ || $x =~ /\&gt\;/ || $x =~ /\</ || $x =~ /\>/ ) {
+            while ( $x =~ /\&amp\;/ || $x =~ /\&lt\;/ || $x =~ /\&gt\;/ ) {
+              HTML::Entities::decode_entities($x);
+            }
+            # removed mixed content tags
+            $x =~ s|<b>||g;
+            $x =~ s|<i>||g;
+            $x =~ s|<u>||g;
+            $x =~ s|<sup>||g;
+            $x =~ s|<sub>||g;
+            $x =~ s|</b>||g;
+            $x =~ s|</i>||g;
+            $x =~ s|</u>||g;
+            $x =~ s|</sup>||g;
+            $x =~ s|</sub>||g;
+            $x =~ s|<b/>||g;
+            $x =~ s|<i/>||g;
+            $x =~ s|<u/>||g;
+            $x =~ s|<sup/>||g;
+            $x =~ s|<sub/>||g;
+            # Reencode any resulting less-than or greater-than entities to avoid breaking the XML.
+            $x =~ s/</&lt;/g;
+            $x =~ s/>/&gt;/g;
+            $val =~ s/<Title>(.+?)<\/Title>/<Title>$x<\/Title>/;
+          }
+        }
+        if ( $val =~ /<Summary>(.+?)<\/Summary>/ ) {
+          my $x = $1;
+          if ( $x =~ /\&amp\;/ ) {
+            HTML::Entities::decode_entities($x);
+            # Reencode any resulting less-than or greater-than entities to avoid breaking the XML.
+            $x =~ s/</&lt;/g;
+            $x =~ s/>/&gt;/g;
+            $val =~ s/<Summary>(.+?)<\/Summary>/<Summary>$x<\/Summary>/;
+          }
+        }
+        push (@working, $val );
+        push (@working, "</DocumentSummary>");
+      }
+    }
+
+    if ( scalar @working > 0 ) {
+      push (@accum, $prefix);
+      push (@accum, "<DocumentSummarySet$docsumset_attrs>");
+      push (@accum, @working);
+      push (@accum, "</DocumentSummarySet>");
+      push (@accum, $suffix);
+      $data = join ("\n", @accum);
+      $data =~ s/\n\n/\n/g;
+    }
+
+    # restore newlines between objects
+    $data =~ s/> *?</>\n</g;
+
+    print "$data\n";
+  }
+
+  if ( $type eq "json2xml" || $type eq "-json2xml" || $type eq "j2x" || $type eq "-j2x" ) {
+
+    # convert JSON to XML
+
+    my $jc = JSON::PP->new->ascii->pretty->allow_nonref;
+    my $conv = $jc->decode($data);
+    convert_json($conv);
+    my $result = XMLout($conv, SuppressEmpty => undef);
+
+    # remove newlines, tabs, space between tokens, compress runs of spaces
+    $result =~ s/\r/ /g;
+    $result =~ s/\n/ /g;
+    $result =~ s/\t//g;
+    $result =~ s/ +/ /g;
+    $result =~ s/> +</></g;
+
+    # remove <opt> flanking object
+    if ( $result =~ /<opt>\s*?</ and $result =~ />\s*?<\/opt>/ ) {
+      $result =~ s/<opt>\s*?</</g;
+      $result =~ s/>\s*?<\/opt>/>/g;
+    }
+
+    if ( defined($obj) && $obj ne "" ) {
+
+      my $xml = '<?xml version="1.0" encoding="UTF-8"?>';
+      $data = "$xml<!DOCTYPE $obj><$obj>$result</$obj>";
+
+    } else {
+      $data = "$result";
+    }
+
+    # restore newlines between objects
+    $data =~ s/> *?</>\n</g;
+
+    binmode(STDOUT, ":utf8");
+    print "$data\n";
+  }
+
+  if ( $type eq "xml2json" || $type eq "-xml2json" || $type eq "x2j" || $type eq "-x2j" ) {
+
+    # convert XML to JSON
+
+    my $xc = new XML::Simple(KeepRoot => 1);
+    my $conv = $xc->XMLin($data);
+    convert_json($conv);
+    my $jc = JSON::PP->new->ascii->pretty->allow_nonref;
+    my $result = $jc->encode($conv);
+
+    $data = "$result";
+
+    print "$data\n";
+  }
+}
+
+# execute command
+
+transmute ();
+
+# close input and output files
+
+close (STDIN);
+close (STDOUT);
+close (STDERR);

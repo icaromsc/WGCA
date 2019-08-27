@@ -1,0 +1,2 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/XML/Filter/BufferText.pm relocate_as=../../../../../XML/Filter/BufferText.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/XML::Filter::BufferText.3 relocate_as=../../../../../../../../man/man3/XML::Filter::BufferText.3

@@ -1,0 +1,51 @@
+{
+  "build": "h6bb024c_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/clustalw-2.1-h6bb024c_4",
+  "features": "",
+  "files": [
+    "bin/clustalw",
+    "bin/clustalw2"
+  ],
+  "fn": "clustalw-2.1-h6bb024c_4.tar.bz2",
+  "license": "GNU Lesser GPL",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/clustalw-2.1-h6bb024c_4",
+    "type": 1
+  },
+  "md5": "6d433b345b1b299b0a2b2527b9e583cd",
+  "name": "clustalw",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/clustalw-2.1-h6bb024c_4.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/clustalw",
+        "path_type": "softlink",
+        "sha256": "07ed46f044fa690f5f5122169dd0fb13f0308a9ade299e94e0353880805b3b16",
+        "size_in_bytes": 847720
+      },
+      {
+        "_path": "bin/clustalw2",
+        "path_type": "hardlink",
+        "sha256": "07ed46f044fa690f5f5122169dd0fb13f0308a9ade299e94e0353880805b3b16",
+        "sha256_in_prefix": "07ed46f044fa690f5f5122169dd0fb13f0308a9ade299e94e0353880805b3b16",
+        "size_in_bytes": 847720
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b4b6077c4922584961d3e6e95f0eb706446cb6330cf6f8281d3b98c77108d0b5",
+  "size": 342338,
+  "subdir": "linux-64",
+  "timestamp": 1556885031065,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/clustalw-2.1-h6bb024c_4.tar.bz2",
+  "version": "2.1"
+}

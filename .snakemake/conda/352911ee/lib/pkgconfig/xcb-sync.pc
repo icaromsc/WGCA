@@ -1,0 +1,11 @@
+prefix=/home/icaro/WGCA/.snakemake/conda/352911ee
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: XCB Sync
+Description: XCB Sync Extension
+Version: 1.13
+Requires.private: xcb
+Libs: -L${libdir} -lxcb-sync
+Cflags: -I${includedir}

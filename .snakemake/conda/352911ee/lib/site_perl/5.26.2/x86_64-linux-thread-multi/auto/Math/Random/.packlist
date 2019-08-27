@@ -1,0 +1,7 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/Random.pm relocate_as=../../../Math/Random.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/example.pl relocate_as=../../../Math/example.pl
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/test1.pl relocate_as=../../../Math/test1.pl
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Math/test2.pl relocate_as=../../../Math/test2.pl
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/Random.so relocate_as=Random.so
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Random/autosplit.ix relocate_as=autosplit.ix
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Math::Random.3 relocate_as=../../../../../../../man/man3/Math::Random.3

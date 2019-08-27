@@ -1,0 +1,132 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0",
+    "perl-base",
+    "perl-carp",
+    "perl-data-dumper",
+    "perl-encode",
+    "perl-font-afm",
+    "perl-html-tree",
+    "perl-parent"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-html-formatter-2.16-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/HTML/FormatMarkdown.pm",
+    "lib/site_perl/5.26.2/HTML/FormatPS.pm",
+    "lib/site_perl/5.26.2/HTML/FormatRTF.pm",
+    "lib/site_perl/5.26.2/HTML/FormatText.pm",
+    "lib/site_perl/5.26.2/HTML/Formatter.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Formatter/.packlist",
+    "man/man3/HTML::FormatMarkdown.3",
+    "man/man3/HTML::FormatPS.3",
+    "man/man3/HTML::FormatRTF.3",
+    "man/man3/HTML::FormatText.3",
+    "man/man3/HTML::Formatter.3"
+  ],
+  "fn": "perl-html-formatter-2.16-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-html-formatter-2.16-pl526_0",
+    "type": 1
+  },
+  "md5": "d6b3ce13b92712f81096c89ea8f454d3",
+  "name": "perl-html-formatter",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-html-formatter-2.16-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/HTML/FormatMarkdown.pm",
+        "path_type": "hardlink",
+        "sha256": "35648ec170c75d9ae5f8dbf090f87f27dcf1206fe7d6405d68cea83c04b99266",
+        "sha256_in_prefix": "35648ec170c75d9ae5f8dbf090f87f27dcf1206fe7d6405d68cea83c04b99266",
+        "size_in_bytes": 6298
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/HTML/FormatPS.pm",
+        "path_type": "hardlink",
+        "sha256": "1b268de51722528f2f0ef1601d7534ca9b9d7821c3679653d34f3d56d2f648b2",
+        "sha256_in_prefix": "1b268de51722528f2f0ef1601d7534ca9b9d7821c3679653d34f3d56d2f648b2",
+        "size_in_bytes": 30562
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/HTML/FormatRTF.pm",
+        "path_type": "hardlink",
+        "sha256": "e16e8bbad0780651d742ab2fb885ebd97efe0f74d5caa2d240d386967231cc91",
+        "sha256_in_prefix": "e16e8bbad0780651d742ab2fb885ebd97efe0f74d5caa2d240d386967231cc91",
+        "size_in_bytes": 19237
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/HTML/FormatText.pm",
+        "path_type": "hardlink",
+        "sha256": "88a8fbf6cd13ebf927e3b84bf11d6680bceec994d0c477514032193f8b4d636c",
+        "sha256_in_prefix": "88a8fbf6cd13ebf927e3b84bf11d6680bceec994d0c477514032193f8b4d636c",
+        "size_in_bytes": 6755
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/HTML/Formatter.pm",
+        "path_type": "hardlink",
+        "sha256": "1a44e20a514191620a93cb898bf7b9c66ef03b80d857af1631f39706f902d5e8",
+        "sha256_in_prefix": "1a44e20a514191620a93cb898bf7b9c66ef03b80d857af1631f39706f902d5e8",
+        "size_in_bytes": 28399
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/HTML/Formatter/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "b11651252f362e559d011e5bfe3f5a3eb70693f0f46c349b6d09586dd6eed99a",
+        "sha256_in_prefix": "952671d9da5e2d0168ffadb3c309a65dc9f805a4a9f7c5d90ae720c69d348675",
+        "size_in_bytes": 1190
+      },
+      {
+        "_path": "man/man3/HTML::FormatMarkdown.3",
+        "path_type": "hardlink",
+        "sha256": "6192707f6ff521b3a62bef06298038e25f495f780cc35dbe2ded7c2a0e03a78b",
+        "sha256_in_prefix": "6192707f6ff521b3a62bef06298038e25f495f780cc35dbe2ded7c2a0e03a78b",
+        "size_in_bytes": 3339
+      },
+      {
+        "_path": "man/man3/HTML::FormatPS.3",
+        "path_type": "hardlink",
+        "sha256": "304210158f69260053efa56728bdd9fed316ad3eb0becdf8858fc95f4249512e",
+        "sha256_in_prefix": "304210158f69260053efa56728bdd9fed316ad3eb0becdf8858fc95f4249512e",
+        "size_in_bytes": 7811
+      },
+      {
+        "_path": "man/man3/HTML::FormatRTF.3",
+        "path_type": "hardlink",
+        "sha256": "e3b5b2779f1809b049303b255a3be68372bfe5b004a69f47cf15fc809b18b204",
+        "sha256_in_prefix": "e3b5b2779f1809b049303b255a3be68372bfe5b004a69f47cf15fc809b18b204",
+        "size_in_bytes": 7462
+      },
+      {
+        "_path": "man/man3/HTML::FormatText.3",
+        "path_type": "hardlink",
+        "sha256": "6604f51ad8a056bacd9e1b8c46d469f5a52b08064e47360fed141382dab0cbee",
+        "sha256_in_prefix": "6604f51ad8a056bacd9e1b8c46d469f5a52b08064e47360fed141382dab0cbee",
+        "size_in_bytes": 4055
+      },
+      {
+        "_path": "man/man3/HTML::Formatter.3",
+        "path_type": "hardlink",
+        "sha256": "ca1318144542c7a84895bfe6c1095605f5ce1ebd4943701fb77725420f645c27",
+        "sha256_in_prefix": "ca1318144542c7a84895bfe6c1095605f5ce1ebd4943701fb77725420f645c27",
+        "size_in_bytes": 7672
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4172436ba5720d0673013fb7a2036c1ab702e280e55cb7d240930864ef05ce68",
+  "size": 31015,
+  "subdir": "linux-64",
+  "timestamp": 1545064822220,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-html-formatter-2.16-pl526_0.tar.bz2",
+  "version": "2.16"
+}

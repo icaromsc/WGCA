@@ -1,0 +1,5 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MLDBM.pm relocate_as=../../../MLDBM.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MLDBM/Serializer/Data/Dumper.pm relocate_as=../../../MLDBM/Serializer/Data/Dumper.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MLDBM/Serializer/FreezeThaw.pm relocate_as=../../../MLDBM/Serializer/FreezeThaw.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MLDBM/Serializer/Storable.pm relocate_as=../../../MLDBM/Serializer/Storable.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/MLDBM.3 relocate_as=../../../../../../man/man3/MLDBM.3

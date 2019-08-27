@@ -1,0 +1,3 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/List/MoreUtils/XS.pm relocate_as=../../../../List/MoreUtils/XS.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/List/MoreUtils/XS/XS.so relocate_as=XS.so
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/List::MoreUtils::XS.3 relocate_as=../../../../../../../../man/man3/List::MoreUtils::XS.3

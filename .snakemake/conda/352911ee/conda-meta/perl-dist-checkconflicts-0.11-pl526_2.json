@@ -1,0 +1,65 @@
+{
+  "build": "pl526_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.27.0a0",
+    "perl-base",
+    "perl-carp",
+    "perl-exporter",
+    "perl-module-runtime"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-dist-checkconflicts-0.11-pl526_2",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Dist/CheckConflicts.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Dist/CheckConflicts/.packlist",
+    "man/man3/Dist::CheckConflicts.3"
+  ],
+  "fn": "perl-dist-checkconflicts-0.11-pl526_2.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-dist-checkconflicts-0.11-pl526_2",
+    "type": 1
+  },
+  "md5": "f3af49e2ec0ebc45c8eeed12212a295f",
+  "name": "perl-dist-checkconflicts",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-dist-checkconflicts-0.11-pl526_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Dist/CheckConflicts.pm",
+        "path_type": "hardlink",
+        "sha256": "912c02b40a5945deb52cfe0ef7702707d21b7331281a4699e9b3d21d82b4852e",
+        "sha256_in_prefix": "912c02b40a5945deb52cfe0ef7702707d21b7331281a4699e9b3d21d82b4852e",
+        "size_in_bytes": 9715
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Dist/CheckConflicts/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "90c271e726114bd42c7611991fec71060419bf09d09270db8c6060c95fcb2c75",
+        "sha256_in_prefix": "dd42106542b227234eb249d321435038cedb91020cf634a1f9ce425707c130e3",
+        "size_in_bytes": 254
+      },
+      {
+        "_path": "man/man3/Dist::CheckConflicts.3",
+        "path_type": "hardlink",
+        "sha256": "a44233a1a263829bd7826cd1a619e5e3ac3e1348f901249559997951d877cfe1",
+        "sha256_in_prefix": "a44233a1a263829bd7826cd1a619e5e3ac3e1348f901249559997951d877cfe1",
+        "size_in_bytes": 7648
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "03d097a9e3374f86f63642574ef8c84e158e926cd2e25f7277ac872d8d93e8f7",
+  "size": 9820,
+  "subdir": "linux-64",
+  "timestamp": 1531867674428,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-dist-checkconflicts-0.11-pl526_2.tar.bz2",
+  "version": "0.11"
+}

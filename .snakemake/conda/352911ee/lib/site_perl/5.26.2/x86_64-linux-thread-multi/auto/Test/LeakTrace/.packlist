@@ -1,0 +1,7 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace.pm relocate_as=../../../Test/LeakTrace.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace/JA.pod relocate_as=../../../Test/LeakTrace/JA.pod
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Test/LeakTrace/Script.pm relocate_as=../../../Test/LeakTrace/Script.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Test/LeakTrace/LeakTrace.so relocate_as=LeakTrace.so
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Test::LeakTrace.3 relocate_as=../../../../../../../man/man3/Test::LeakTrace.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Test::LeakTrace::JA.3 relocate_as=../../../../../../../man/man3/Test::LeakTrace::JA.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Test::LeakTrace::Script.3 relocate_as=../../../../../../../man/man3/Test::LeakTrace::Script.3

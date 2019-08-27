@@ -1,0 +1,3 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/LWP/MediaTypes.pm relocate_as=../../../../LWP/MediaTypes.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/LWP/media.types relocate_as=../../../../LWP/media.types
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/LWP::MediaTypes.3 relocate_as=../../../../../../../man/man3/LWP::MediaTypes.3

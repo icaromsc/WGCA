@@ -1,0 +1,4 @@
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Exception/Class.pm relocate_as=../../../../Exception/Class.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Exception/Class/Base.pm relocate_as=../../../../Exception/Class/Base.pm
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Exception::Class.3 relocate_as=../../../../../../../man/man3/Exception::Class.3
+/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Exception::Class::Base.3 relocate_as=../../../../../../../man/man3/Exception::Class::Base.3

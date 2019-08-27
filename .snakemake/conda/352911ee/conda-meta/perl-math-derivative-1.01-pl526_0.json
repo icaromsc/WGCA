@@ -1,0 +1,61 @@
+{
+  "build": "pl526_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.26.2,<5.26.3.0a0"
+  ],
+  "extracted_package_dir": "/home/icaro/miniconda3/pkgs/perl-math-derivative-1.01-pl526_0",
+  "features": "",
+  "files": [
+    "lib/site_perl/5.26.2/Math/Derivative.pm",
+    "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Derivative/.packlist",
+    "man/man3/Math::Derivative.3"
+  ],
+  "fn": "perl-math-derivative-1.01-pl526_0.tar.bz2",
+  "license": "perl_5",
+  "link": {
+    "source": "/home/icaro/miniconda3/pkgs/perl-math-derivative-1.01-pl526_0",
+    "type": 1
+  },
+  "md5": "5c33680301345795f36e328ab1326c92",
+  "name": "perl-math-derivative",
+  "package_tarball_full_path": "/home/icaro/miniconda3/pkgs/perl-math-derivative-1.01-pl526_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/site_perl/5.26.2/Math/Derivative.pm",
+        "path_type": "hardlink",
+        "sha256": "dc1de857ef634a109d7532fdf610de41e0e9963a234211b588490d27951c7161",
+        "sha256_in_prefix": "dc1de857ef634a109d7532fdf610de41e0e9963a234211b588490d27951c7161",
+        "size_in_bytes": 4841
+      },
+      {
+        "_path": "lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Math/Derivative/.packlist",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f1cfd26a5e2f81b9a4e77245cab1d885f46282b4cbe882ed74df9375b100c4b2",
+        "sha256_in_prefix": "a5c0e4f753f7ee9d18925087e7839ee1ecdb9dfa6921ae3531d3fd34f13d52b4",
+        "size_in_bytes": 238
+      },
+      {
+        "_path": "man/man3/Math::Derivative.3",
+        "path_type": "hardlink",
+        "sha256": "76da758dc9f75c8ba2c191cc515ea4127ab4503804e6e91af71bed0c1e0dea99",
+        "sha256_in_prefix": "76da758dc9f75c8ba2c191cc515ea4127ab4503804e6e91af71bed0c1e0dea99",
+        "size_in_bytes": 7072
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ecd641b501d72c8ad7af28a95ee5cb9ed938560c23dc0ec333d7f043544dd21a",
+  "size": 9109,
+  "subdir": "linux-64",
+  "timestamp": 1545086227236,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/perl-math-derivative-1.01-pl526_0.tar.bz2",
+  "version": "1.01"
+}

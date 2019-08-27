@@ -1,0 +1,14 @@
+prefix=/home/icaro/WGCA/.snakemake/conda/352911ee
+exec_prefix=/home/icaro/WGCA/.snakemake/conda/352911ee
+libdir=/home/icaro/WGCA/.snakemake/conda/352911ee/lib
+includedir=/home/icaro/WGCA/.snakemake/conda/352911ee/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 23.0.17
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -L/home/icaro/WGCA/.snakemake/conda/352911ee/lib -lpng16 -lm -lz -lm
+Cflags: -I${includedir}/freetype2
