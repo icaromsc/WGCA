@@ -8,3 +8,5 @@ snakemake --dag WGCA_analysis_result/plasmid_summary.tsv WGCA_analysis_result/vi
 snakemake virulence_genes/summary.tsv --use-conda
 #just plasmid prediction
 snakemake plasmid_prediction/summary.tsv --use-conda
+#just resistome prediction
+snakemake resistome_prediction/B9 -j 4 

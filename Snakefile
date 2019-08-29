@@ -60,6 +60,48 @@ rule summarize_plasmid_prediction:
     shell:
         "abricate --summary {input} > {output}"
 
+# rule resistome_prediction:
+#     input:
+#         "data/samples/{sample}.fasta"
+#     output:
+#         #out = temp("resistome_prediction/{sample}"),
+#         txt = "resistome_prediction/{sample}.txt",
+#         json = "resistome_prediction/{sample}.json"
+#     shell:
+#         "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{input} -o data/resistome_prediction/{wildcards.sample} -t contig --clean"
+
+# rule resistome:
+#     input:
+#         "data/samples/{sample}.fasta"
+#     output:
+#         #out = temp("resistome_prediction/{sample}"),
+#         txt = "resistome/{sample}.txt",
+#         json = "resistome/{sample}.json"
+#     singularity:
+#         "docker://quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1"
+#     shell:
+#         "rgi main -i {input} -o resistome/{wildcards.sample} -t contig --clean"
+
+rule resistome_prediction:
+    input:
+        "data/samples/{sample}.fasta"
+    output:
+        log = temp("resistome_prediction/{sample}")
+        #txt = "resistome_prediction/{sample}.txt",
+        #json = "resistome_prediction/{sample}.json"
+    shell:
+        "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{input} -o data/resistome_prediction/{wildcards.sample} -t contig --clean --debug > {output.log}"
+
+
+rule generate_resistome_heatmap:
+    input:
+        "resistome_prediction/"
+    output:
+        log = temp("resistome_prediction/RGI_heatmap")
+    shell:
+        "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi heatmap --input data/{input} --output data/{output} --category drug_class --cluster samples -d text > {output}"
+
+
 rule summary_results:
     input:
         r="plasmid_prediction/summary.tsv",

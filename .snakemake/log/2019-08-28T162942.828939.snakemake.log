@@ -1,0 +1,27 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	resistome_prediction
+	1
+
+[Wed Aug 28 16:29:42 2019]
+rule resistome_prediction:
+    input: data/samples/V583.fasta
+    output: resistome_prediction/V583, resistome_prediction/V583.txt, resistome_prediction/V583.json
+    jobid: 0
+    wildcards: sample=V583
+
+docker run -v $PWD:/data -i -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/data/samples/V583.fasta -o data/resistome_prediction/V583 -t contig --clean
+Waiting at most 20 seconds for missing files.
+MissingOutputException in line 63 of /home/icaro/WGCA/Snakefile:
+Missing files after 20 seconds:
+resistome_prediction/V583
+This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait.
+Removing output files of failed job resistome_prediction since they might be corrupted:
+resistome_prediction/V583.txt, resistome_prediction/V583.json
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-08-28T162942.828939.snakemake.log

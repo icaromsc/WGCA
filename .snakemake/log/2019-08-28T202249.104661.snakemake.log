@@ -1,0 +1,21 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	resistome_prediction
+	1
+
+[Wed Aug 28 20:22:49 2019]
+rule resistome_prediction:
+    input: data/samples/B9.fasta
+    output: resistome_prediction/B9
+    jobid: 0
+    wildcards: sample=B9
+
+docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/data/samples/B9.fasta -o data/resistome_prediction/B9 -t contig --clean --debug > resistome_prediction/B9
+[Wed Aug 28 20:24:34 2019]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-08-28T202249.104661.snakemake.log

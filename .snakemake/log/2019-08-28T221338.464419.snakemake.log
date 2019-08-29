@@ -1,0 +1,20 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	generate_resistome_heatmap
+	1
+
+[Wed Aug 28 22:13:38 2019]
+rule generate_resistome_heatmap:
+    input: resistome_prediction/
+    output: resistome_prediction/RGI_heatmap
+    jobid: 0
+
+docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi heatmap --input data/resistome_prediction/ --output data/resistome_prediction/RGI_heatmap --category drug_class --cluster samples -d text > resistome_prediction/RGI_heatmap
+[Wed Aug 28 22:13:48 2019]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-08-28T221338.464419.snakemake.log

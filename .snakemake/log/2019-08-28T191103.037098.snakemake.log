@@ -1,0 +1,30 @@
+Building DAG of jobs...
+Pulling singularity image docker://quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1.
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	resistome
+	1
+
+[Wed Aug 28 19:13:14 2019]
+rule resistome:
+    input: data/samples/V583.fasta
+    output: resistome/V583.txt, resistome/V583.json
+    jobid: 0
+    wildcards: sample=V583
+
+rgi main -i data/samples/V583.fasta -o resistome/V583 -t contig --clean
+Activating singularity image /home/icaro/WGCA/singularity_images/6d908dca48a70090deed55f017f31428.simg
+[Wed Aug 28 19:13:16 2019]
+Error in rule resistome:
+    jobid: 0
+    output: resistome/V583.txt, resistome/V583.json
+    shell:
+        rgi main -i data/samples/V583.fasta -o resistome/V583 -t contig --clean
+        (exited with non-zero exit code)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-08-28T191103.037098.snakemake.log
