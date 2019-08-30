@@ -1,0 +1,23 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	generate_resistome_heatmap_v2
+	1
+
+[Fri Aug 30 14:48:22 2019]
+rule generate_resistome_heatmap_v2:
+    input: resistome_prediction/C7, resistome_prediction/D2, resistome_prediction/B9, resistome_prediction/DMW1-1, resistome_summary/
+    output: resistome_summary/RGI_heatmap
+    jobid: 0
+
+Removing temporary output file resistome_prediction/C7.
+Removing temporary output file resistome_prediction/D2.
+Removing temporary output file resistome_prediction/B9.
+Removing temporary output file resistome_prediction/DMW1-1.
+[Fri Aug 30 14:48:28 2019]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-08-30T144822.613568.snakemake.log

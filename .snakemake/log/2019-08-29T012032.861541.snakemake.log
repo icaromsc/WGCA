@@ -1,0 +1,5 @@
+Building DAG of jobs...
+ChildIOException:
+File/directory is a child to another output:
+/home/icaro/WGCA/res_prediction
+/home/icaro/WGCA/res_prediction/RGI_heatmap

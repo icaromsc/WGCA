@@ -86,20 +86,43 @@ rule resistome_prediction:
     input:
         "data/samples/{sample}.fasta"
     output:
-        log = temp("resistome_prediction/{sample}")
+        log = "resistome_prediction/{sample}"
         #txt = "resistome_prediction/{sample}.txt",
         #json = "resistome_prediction/{sample}.json"
     shell:
         "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{input} -o data/resistome_prediction/{wildcards.sample} -t contig --clean --debug > {output.log}"
 
+rule resistome_all:
+    input:
+        expand("data/samples/{sample}.fasta", sample=SAMPLES)
+    output:
+        directory("res_prediction/")
+    run:
+        for i,s in zip(input,SAMPLES):
+             #print("input file:",i,"\n name:",s)
+             shell("docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{i} -o data/res_prediction/{s} -t contig --clean --debug > res_prediction/{s}")
+
+# rule generate_resistome_heatmap:
+#     input:
+#         "resistome_prediction/"
+#     output:
+#         log = temp("resistome_prediction/RGI_heatmap")
+#     shell:
+#         "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi heatmap --input data/{input} --output data/{output} --category drug_class --cluster samples -d text > {output}"
+
 
 rule generate_resistome_heatmap:
     input:
-        "resistome_prediction/"
+        logs = expand("resistome_prediction/{sample}", sample=SAMPLES),
+        #jsons = expand("resistome_prediction/{sample}.json", sample=SAMPLES),
+        #tabs = expand("resistome_prediction/{sample}.txt", sample=SAMPLES),
+        dir = "resistome_summary/"
     output:
-        log = temp("resistome_prediction/RGI_heatmap")
-    shell:
-        "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi heatmap --input data/{input} --output data/{output} --category drug_class --cluster samples -d text > {output}"
+        log = temp("resistome_summary/RGI_heatmap")
+    run:
+        shell("cp {input.logs} resistome_summary/")
+        shell("cp -r resistome_prediction/.  resistome_summary")
+        shell("docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi heatmap --input data/{input.dir} --output data/{output} --category drug_class --cluster samples -d text > {output}")
 
 
 rule summary_results:

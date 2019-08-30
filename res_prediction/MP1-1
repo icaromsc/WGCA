@@ -1,0 +1,838 @@
+INFO 2019-08-29 03:45:40,362 : /data/data/samples/MP1-1.fasta => None
+INFO 2019-08-29 03:45:40,614 : create blast DB.
+INFO 2019-08-29 03:45:40,715 : create diamond DB.
+INFO 2019-08-29 03:45:40,968 : minimum sequence length: 4897, maximun sequence length 1000397
+INFO 2019-08-29 03:45:40,968 : prodigal -q -m -a /data/res_prediction/MP1-1.fasta.temp.contig.fsa -i /data/data/samples/MP1-1.fasta -o  /data/res_prediction/MP1-1.fasta.temp.draft -d /data/res_prediction/MP1-1.fasta.temp.contigToORF.fsa -s /data/res_prediction/MP1-1.fasta.temp.potentialGenes -p meta 2> /dev/null
+INFO 2019-08-29 03:45:53,968 : work with file /data/res_prediction/MP1-1.fasta.temp.contig.fsa
+INFO 2019-08-29 03:45:53,969 : run blast
+INFO 2019-08-29 03:46:40,383 : set blast xml file: [/data/res_prediction/MP1-1.fasta.temp.contig.fsa.blastRes.xml]
+INFO 2019-08-29 03:46:40,383 : run filter
+INFO 2019-08-29 03:46:40,390 : None -> Process-1:1
+INFO 2019-08-29 03:46:40,390 : None -> Process-1:2
+INFO 2019-08-29 03:46:40,391 : None -> Process-1:3
+INFO 2019-08-29 03:46:40,391 : None -> Process-1:4
+INFO 2019-08-29 03:46:40,396 : homolog_worker started...
+INFO 2019-08-29 03:46:40,401 : variant_worker started...
+INFO 2019-08-29 03:46:40,404 : overexpression_worker started...
+INFO 2019-08-29 03:46:40,416 : rRNA process: contig
+INFO 2019-08-29 03:46:40,416 : rRNA process
+INFO 2019-08-29 03:46:40,515 : create_db_query
+INFO 2019-08-29 03:46:40,515 : DB from user query
+INFO 2019-08-29 03:46:40,626 : blast_reference_to_db_query
+INFO 2019-08-29 03:46:40,814 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:40,814 : pass_evalue: n/a
+INFO 2019-08-29 03:46:40,815 : pass_bitscore: 270
+INFO 2019-08-29 03:46:40,816 : Loose hits
+INFO 2019-08-29 03:46:41,020 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,020 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,020 : pass_bitscore: 310
+INFO 2019-08-29 03:46:41,022 : Loose hits
+INFO 2019-08-29 03:46:41,023 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,025 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,025 : pass_bitscore: 310
+INFO 2019-08-29 03:46:41,026 : Loose hits
+INFO 2019-08-29 03:46:41,031 : done running blastn -> /data/res_prediction/MP1-1.fasta.temp.db
+INFO 2019-08-29 03:46:41,122 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:41,146 : runBlast | Model:1001 pos:295 | change: L=L AND wildtype: S=S
+INFO 2019-08-29 03:46:41,267 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,268 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,268 : pass_bitscore: 500
+INFO 2019-08-29 03:46:41,269 : Loose hits
+INFO 2019-08-29 03:46:41,324 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,325 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,325 : pass_bitscore: 500
+INFO 2019-08-29 03:46:41,325 : Loose hits
+INFO 2019-08-29 03:46:41,334 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,334 : model_id: 2141
+INFO 2019-08-29 03:46:41,334 : pass_value: 2700
+INFO 2019-08-29 03:46:41,334 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,335 : model_id: 2141
+INFO 2019-08-29 03:46:41,335 : pass_value: 2700
+INFO 2019-08-29 03:46:41,337 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,337 : model_id: 2070
+INFO 2019-08-29 03:46:41,337 : pass_value: 2700
+INFO 2019-08-29 03:46:41,338 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,338 : model_id: 2070
+INFO 2019-08-29 03:46:41,338 : pass_value: 2700
+INFO 2019-08-29 03:46:41,349 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,349 : model_id: 2482
+INFO 2019-08-29 03:46:41,349 : pass_value: 2500
+INFO 2019-08-29 03:46:41,350 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,350 : model_id: 2482
+INFO 2019-08-29 03:46:41,350 : pass_value: 2500
+INFO 2019-08-29 03:46:41,350 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,351 : model_id: 2482
+INFO 2019-08-29 03:46:41,351 : pass_value: 2500
+INFO 2019-08-29 03:46:41,352 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,353 : model_id: 2099
+INFO 2019-08-29 03:46:41,353 : pass_value: 2700
+INFO 2019-08-29 03:46:41,353 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,353 : model_id: 2099
+INFO 2019-08-29 03:46:41,353 : pass_value: 2700
+INFO 2019-08-29 03:46:41,356 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,356 : model_id: 2084
+INFO 2019-08-29 03:46:41,356 : pass_value: 2600
+INFO 2019-08-29 03:46:41,356 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,356 : model_id: 2084
+INFO 2019-08-29 03:46:41,357 : pass_value: 2600
+INFO 2019-08-29 03:46:41,362 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,362 : model_id: 2128
+INFO 2019-08-29 03:46:41,363 : pass_value: 2600
+INFO 2019-08-29 03:46:41,363 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,364 : model_id: 2128
+INFO 2019-08-29 03:46:41,364 : pass_value: 2600
+INFO 2019-08-29 03:46:41,366 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,367 : model_id: 2105
+INFO 2019-08-29 03:46:41,367 : pass_value: 2600
+INFO 2019-08-29 03:46:41,367 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,368 : model_id: 2105
+INFO 2019-08-29 03:46:41,369 : pass_value: 2600
+INFO 2019-08-29 03:46:41,371 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,371 : model_id: 2126
+INFO 2019-08-29 03:46:41,372 : pass_value: 2600
+INFO 2019-08-29 03:46:41,372 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,373 : model_id: 2126
+INFO 2019-08-29 03:46:41,374 : pass_value: 2600
+INFO 2019-08-29 03:46:41,381 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,382 : model_id: 2088
+INFO 2019-08-29 03:46:41,382 : pass_value: 2700
+INFO 2019-08-29 03:46:41,383 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,383 : model_id: 2088
+INFO 2019-08-29 03:46:41,383 : pass_value: 2700
+INFO 2019-08-29 03:46:41,386 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,387 : model_id: 2090
+INFO 2019-08-29 03:46:41,387 : pass_value: 2600
+INFO 2019-08-29 03:46:41,388 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,389 : model_id: 2090
+INFO 2019-08-29 03:46:41,389 : pass_value: 2600
+INFO 2019-08-29 03:46:41,391 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,392 : model_id: 2132
+INFO 2019-08-29 03:46:41,392 : pass_value: 2700
+INFO 2019-08-29 03:46:41,392 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,393 : model_id: 2132
+INFO 2019-08-29 03:46:41,395 : pass_value: 2700
+INFO 2019-08-29 03:46:41,399 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,399 : model_id: 2133
+INFO 2019-08-29 03:46:41,400 : pass_value: 2700
+INFO 2019-08-29 03:46:41,400 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,400 : model_id: 2133
+INFO 2019-08-29 03:46:41,400 : pass_value: 2700
+INFO 2019-08-29 03:46:41,402 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,402 : model_id: 2155
+INFO 2019-08-29 03:46:41,403 : pass_value: 2600
+INFO 2019-08-29 03:46:41,403 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,403 : model_id: 2155
+INFO 2019-08-29 03:46:41,404 : pass_value: 2600
+INFO 2019-08-29 03:46:41,409 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,409 : model_id: 2098
+INFO 2019-08-29 03:46:41,410 : pass_value: 2700
+INFO 2019-08-29 03:46:41,410 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,410 : model_id: 2098
+INFO 2019-08-29 03:46:41,411 : pass_value: 2700
+INFO 2019-08-29 03:46:41,414 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,414 : model_id: 2131
+INFO 2019-08-29 03:46:41,415 : pass_value: 2700
+INFO 2019-08-29 03:46:41,415 : model_type_id: 40295 
+INFO 2019-08-29 03:46:41,416 : model_id: 2131
+INFO 2019-08-29 03:46:41,416 : pass_value: 2700
+INFO 2019-08-29 03:46:41,438 : rRNA process Done.
+INFO 2019-08-29 03:46:41,448 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,448 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,449 : pass_bitscore: 310
+INFO 2019-08-29 03:46:41,449 : Loose hits
+INFO 2019-08-29 03:46:41,450 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,450 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,450 : pass_bitscore: 310
+INFO 2019-08-29 03:46:41,451 : Loose hits
+INFO 2019-08-29 03:46:41,483 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:41,564 : runBlast | Model:1989 pos:114 | change: F=F AND wildtype: Y=Y
+INFO 2019-08-29 03:46:41,614 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,614 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,614 : pass_bitscore: 660
+INFO 2019-08-29 03:46:41,616 : Loose hits
+INFO 2019-08-29 03:46:41,622 : runBlast | Model:90 pos:473 | change: T=T AND wildtype: A=A
+INFO 2019-08-29 03:46:41,647 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,647 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,647 : pass_bitscore: 375
+INFO 2019-08-29 03:46:41,648 : Loose hits
+INFO 2019-08-29 03:46:41,651 : runBlast | Model:1237 pos:526 | change: T=T AND wildtype: T=H
+INFO 2019-08-29 03:46:41,666 : runBlast | Model:1237 pos:516 | change: G=G AND wildtype: G=D
+INFO 2019-08-29 03:46:41,674 : runBlast | Model:1237 pos:512 | change: R=R AND wildtype: K=S
+INFO 2019-08-29 03:46:41,685 : runBlast | Model:1237 pos:511 | change: R=R AND wildtype: R=L
+INFO 2019-08-29 03:46:41,697 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,698 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,698 : pass_bitscore: 390
+INFO 2019-08-29 03:46:41,699 : Loose hits
+INFO 2019-08-29 03:46:41,730 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,730 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,730 : pass_bitscore: 400
+INFO 2019-08-29 03:46:41,731 : Loose hits
+INFO 2019-08-29 03:46:41,755 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,756 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,756 : pass_bitscore: 270
+INFO 2019-08-29 03:46:41,756 : Loose hits
+INFO 2019-08-29 03:46:41,783 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,783 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,783 : pass_bitscore: 210
+INFO 2019-08-29 03:46:41,784 : Loose hits
+INFO 2019-08-29 03:46:41,816 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,816 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,817 : pass_bitscore: 270
+INFO 2019-08-29 03:46:41,817 : Loose hits
+INFO 2019-08-29 03:46:41,953 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:41,953 : pass_evalue: n/a
+INFO 2019-08-29 03:46:41,954 : pass_bitscore: 200
+INFO 2019-08-29 03:46:41,955 : Loose hits
+INFO 2019-08-29 03:46:41,981 : runBlast | Model:2287 pos:84 | change: D=D AND wildtype: C=G
+INFO 2019-08-29 03:46:42,047 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,047 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,048 : pass_bitscore: 400
+INFO 2019-08-29 03:46:42,051 : Loose hits
+INFO 2019-08-29 03:46:42,053 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,054 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,054 : pass_bitscore: 270
+INFO 2019-08-29 03:46:42,057 : Loose hits
+INFO 2019-08-29 03:46:42,099 : runBlast | Model:2254 pos:90 | change: A=A AND wildtype: V=V
+INFO 2019-08-29 03:46:42,118 : runBlast | Model:2254 pos:457 | change: Q=Q AND wildtype: H=H
+INFO 2019-08-29 03:46:42,144 : runBlast | Model:2254 pos:464 | change: L=L AND wildtype: R=R
+INFO 2019-08-29 03:46:42,150 : runBlast | Model:2137 pos:125 | change: K=K AND wildtype: Q=Q
+INFO 2019-08-29 03:46:42,168 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,168 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,168 : pass_bitscore: 400
+INFO 2019-08-29 03:46:42,169 : Loose hits
+INFO 2019-08-29 03:46:42,170 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,170 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,170 : pass_bitscore: 375
+INFO 2019-08-29 03:46:42,170 : Loose hits
+INFO 2019-08-29 03:46:42,171 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,171 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,171 : pass_bitscore: 375
+INFO 2019-08-29 03:46:42,172 : Loose hits
+INFO 2019-08-29 03:46:42,173 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,173 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,173 : pass_bitscore: 390
+INFO 2019-08-29 03:46:42,173 : Loose hits
+INFO 2019-08-29 03:46:42,496 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,496 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,496 : pass_bitscore: 270
+INFO 2019-08-29 03:46:42,497 : Loose hits
+INFO 2019-08-29 03:46:42,763 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:42,820 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,820 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,820 : pass_bitscore: 400
+INFO 2019-08-29 03:46:42,821 : Loose hits
+INFO 2019-08-29 03:46:42,886 : runBlast | Model:2257 pos:279 | change: A=A AND wildtype: A=G
+INFO 2019-08-29 03:46:42,901 : runBlast | Model:2137 pos:125 | change: E=E AND wildtype: Q=Q
+INFO 2019-08-29 03:46:42,915 : runBlast | Model:1175 pos:27 | change: N=N AND wildtype: D=D
+INFO 2019-08-29 03:46:42,948 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:42,948 : pass_evalue: n/a
+INFO 2019-08-29 03:46:42,948 : pass_bitscore: 500
+INFO 2019-08-29 03:46:42,949 : Loose hits
+INFO 2019-08-29 03:46:43,041 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,042 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,042 : pass_bitscore: 375
+INFO 2019-08-29 03:46:43,042 : Loose hits
+INFO 2019-08-29 03:46:43,046 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,046 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,046 : pass_bitscore: 390
+INFO 2019-08-29 03:46:43,047 : Loose hits
+INFO 2019-08-29 03:46:43,086 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,086 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,086 : pass_bitscore: 300
+INFO 2019-08-29 03:46:43,088 : Loose hits
+INFO 2019-08-29 03:46:43,202 : runBlast | Model:1001 pos:314 | change: L=L AND wildtype: P=P
+INFO 2019-08-29 03:46:43,237 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,237 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,237 : pass_bitscore: 210
+INFO 2019-08-29 03:46:43,238 : Loose hits
+INFO 2019-08-29 03:46:43,238 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,238 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,238 : pass_bitscore: 270
+INFO 2019-08-29 03:46:43,239 : Loose hits
+INFO 2019-08-29 03:46:43,265 : runBlast | Model:2287 pos:84 | change: D=D AND wildtype: C=G
+INFO 2019-08-29 03:46:43,292 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,293 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,293 : pass_bitscore: 210
+INFO 2019-08-29 03:46:43,294 : Loose hits
+INFO 2019-08-29 03:46:43,359 : runBlast | Model:2666 pos:93 | change: A=A AND wildtype: G=G
+INFO 2019-08-29 03:46:43,365 : runBlast | Model:1574 pos:78 | change: A=A AND wildtype: V=V
+INFO 2019-08-29 03:46:43,368 : runBlast | Model:1574 pos:94 | change: A=A AND wildtype: S=S
+INFO 2019-08-29 03:46:43,459 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,459 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,459 : pass_bitscore: 400
+INFO 2019-08-29 03:46:43,460 : Loose hits
+INFO 2019-08-29 03:46:43,535 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,535 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,535 : pass_bitscore: 375
+INFO 2019-08-29 03:46:43,536 : Loose hits
+INFO 2019-08-29 03:46:43,542 : runBlast | Model:2287 pos:115 | change: T=T AND wildtype: A=A
+INFO 2019-08-29 03:46:43,576 : runBlast | Model:2409 pos:312 | change: M=M AND wildtype: I=I
+INFO 2019-08-29 03:46:43,585 : runBlast | Model:2409 pos:316 | change: T=T AND wildtype: V=V
+INFO 2019-08-29 03:46:43,683 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,683 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,683 : pass_bitscore: 200
+INFO 2019-08-29 03:46:43,684 : Loose hits
+INFO 2019-08-29 03:46:43,687 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,687 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,688 : pass_bitscore: 375
+INFO 2019-08-29 03:46:43,689 : Loose hits
+INFO 2019-08-29 03:46:43,704 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,704 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,704 : pass_bitscore: 200
+INFO 2019-08-29 03:46:43,705 : Loose hits
+INFO 2019-08-29 03:46:43,719 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,720 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,720 : pass_bitscore: 300
+INFO 2019-08-29 03:46:43,721 : Loose hits
+INFO 2019-08-29 03:46:43,806 : loose hit with at least 95 percent identity push to Strict: tet(L) #partial_gene
+INFO 2019-08-29 03:46:43,918 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,918 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,918 : pass_bitscore: 375
+INFO 2019-08-29 03:46:43,919 : Loose hits
+INFO 2019-08-29 03:46:43,943 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,943 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,943 : pass_bitscore: 200
+INFO 2019-08-29 03:46:43,944 : Loose hits
+INFO 2019-08-29 03:46:43,992 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:43,993 : pass_evalue: n/a
+INFO 2019-08-29 03:46:43,993 : pass_bitscore: 200
+INFO 2019-08-29 03:46:43,994 : Loose hits
+INFO 2019-08-29 03:46:44,013 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,013 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,013 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,013 : Loose hits
+INFO 2019-08-29 03:46:44,014 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,014 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,014 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,015 : Loose hits
+INFO 2019-08-29 03:46:44,023 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,024 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,024 : pass_bitscore: 660
+INFO 2019-08-29 03:46:44,024 : Loose hits
+INFO 2019-08-29 03:46:44,055 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,055 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,055 : pass_bitscore: 375
+INFO 2019-08-29 03:46:44,056 : Loose hits
+INFO 2019-08-29 03:46:44,125 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,126 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,126 : pass_bitscore: 500
+INFO 2019-08-29 03:46:44,126 : Loose hits
+INFO 2019-08-29 03:46:44,153 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,153 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,154 : pass_bitscore: 390
+INFO 2019-08-29 03:46:44,154 : Loose hits
+INFO 2019-08-29 03:46:44,182 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,182 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,182 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,183 : Loose hits
+INFO 2019-08-29 03:46:44,184 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,184 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,184 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,185 : Loose hits
+INFO 2019-08-29 03:46:44,259 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,259 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,259 : pass_bitscore: 300
+INFO 2019-08-29 03:46:44,260 : Loose hits
+INFO 2019-08-29 03:46:44,265 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,266 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,266 : pass_bitscore: 400
+INFO 2019-08-29 03:46:44,266 : Loose hits
+INFO 2019-08-29 03:46:44,267 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,267 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,267 : pass_bitscore: 375
+INFO 2019-08-29 03:46:44,268 : Loose hits
+INFO 2019-08-29 03:46:44,268 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,268 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,268 : pass_bitscore: 390
+INFO 2019-08-29 03:46:44,269 : Loose hits
+INFO 2019-08-29 03:46:44,362 : runBlast | Model:2409 pos:316 | change: T=T AND wildtype: V=V
+INFO 2019-08-29 03:46:44,381 : runBlast | Model:320 pos:339 | change: F=F AND wildtype: M=M
+INFO 2019-08-29 03:46:44,407 : runBlast | Model:2267 pos:133 | change: S=S AND wildtype: R=R
+INFO 2019-08-29 03:46:44,446 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,446 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,446 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,447 : Loose hits
+INFO 2019-08-29 03:46:44,447 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,447 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,447 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,448 : Loose hits
+INFO 2019-08-29 03:46:44,451 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,451 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,451 : pass_bitscore: 300
+INFO 2019-08-29 03:46:44,451 : Loose hits
+INFO 2019-08-29 03:46:44,508 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,508 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,509 : pass_bitscore: 210
+INFO 2019-08-29 03:46:44,509 : Loose hits
+INFO 2019-08-29 03:46:44,510 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,510 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,510 : pass_bitscore: 270
+INFO 2019-08-29 03:46:44,511 : Loose hits
+INFO 2019-08-29 03:46:44,565 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,565 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,565 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,565 : Loose hits
+INFO 2019-08-29 03:46:44,566 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,566 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,566 : pass_bitscore: 310
+INFO 2019-08-29 03:46:44,567 : Loose hits
+INFO 2019-08-29 03:46:44,571 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,571 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,571 : pass_bitscore: 300
+INFO 2019-08-29 03:46:44,571 : Loose hits
+INFO 2019-08-29 03:46:44,706 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,706 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,706 : pass_bitscore: 375
+INFO 2019-08-29 03:46:44,706 : Loose hits
+INFO 2019-08-29 03:46:44,761 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,761 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,761 : pass_bitscore: 400
+INFO 2019-08-29 03:46:44,762 : Loose hits
+INFO 2019-08-29 03:46:44,838 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,838 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,838 : pass_bitscore: 375
+INFO 2019-08-29 03:46:44,839 : Loose hits
+INFO 2019-08-29 03:46:44,852 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:44,855 : runBlast | Model:1671 pos:52 | change: K=K AND wildtype: E=E
+INFO 2019-08-29 03:46:44,879 : runBlast | Model:2075 pos:121 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:44,942 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:44,942 : pass_evalue: n/a
+INFO 2019-08-29 03:46:44,942 : pass_bitscore: 660
+INFO 2019-08-29 03:46:44,942 : Loose hits
+INFO 2019-08-29 03:46:45,159 : runBlast | Model:1671 pos:52 | change: K=K AND wildtype: E=E
+INFO 2019-08-29 03:46:45,233 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:45,319 : runBlast | Model:2147 pos:124 | change: K=K AND wildtype: R=Q
+INFO 2019-08-29 03:46:45,348 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,348 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,348 : pass_bitscore: 375
+INFO 2019-08-29 03:46:45,349 : Loose hits
+INFO 2019-08-29 03:46:45,350 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,350 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,350 : pass_bitscore: 375
+INFO 2019-08-29 03:46:45,351 : Loose hits
+INFO 2019-08-29 03:46:45,351 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,351 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,351 : pass_bitscore: 400
+INFO 2019-08-29 03:46:45,352 : Loose hits
+INFO 2019-08-29 03:46:45,353 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,353 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,353 : pass_bitscore: 400
+INFO 2019-08-29 03:46:45,353 : Loose hits
+INFO 2019-08-29 03:46:45,354 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,354 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,354 : pass_bitscore: 390
+INFO 2019-08-29 03:46:45,355 : Loose hits
+INFO 2019-08-29 03:46:45,355 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,355 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,355 : pass_bitscore: 310
+INFO 2019-08-29 03:46:45,356 : Loose hits
+INFO 2019-08-29 03:46:45,357 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,357 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,357 : pass_bitscore: 310
+INFO 2019-08-29 03:46:45,358 : Loose hits
+INFO 2019-08-29 03:46:45,483 : runBlast | Model:2257 pos:278 | change: A=A AND wildtype: A=V
+INFO 2019-08-29 03:46:45,523 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,523 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,524 : pass_bitscore: 300
+INFO 2019-08-29 03:46:45,524 : Loose hits
+INFO 2019-08-29 03:46:45,599 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:45,910 : runBlast | Model:2411 pos:57 | change: K=K AND wildtype: N=N
+INFO 2019-08-29 03:46:45,929 : runBlast | Model:2104 pos:83 | change: L=L AND wildtype: S=S
+INFO 2019-08-29 03:46:45,947 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:45,947 : pass_evalue: n/a
+INFO 2019-08-29 03:46:45,948 : pass_bitscore: 375
+INFO 2019-08-29 03:46:45,948 : Loose hits
+INFO 2019-08-29 03:46:45,996 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:46,070 : runBlast | Model:2272 pos:215 | change: R=R AND wildtype: H=H
+INFO 2019-08-29 03:46:46,210 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:46,282 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,283 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,283 : pass_bitscore: 300
+INFO 2019-08-29 03:46:46,283 : Loose hits
+INFO 2019-08-29 03:46:46,302 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:46,307 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,308 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,308 : pass_bitscore: 310
+INFO 2019-08-29 03:46:46,309 : Loose hits
+INFO 2019-08-29 03:46:46,311 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,311 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,311 : pass_bitscore: 310
+INFO 2019-08-29 03:46:46,313 : Loose hits
+INFO 2019-08-29 03:46:46,339 : runBlast | Model:2803 pos:207 | change: R=R AND wildtype: H=H
+INFO 2019-08-29 03:46:46,340 : runBlast | Model:2803 pos:211 | change: V=V AND wildtype: N=I
+INFO 2019-08-29 03:46:46,400 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,400 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,400 : pass_bitscore: 375
+INFO 2019-08-29 03:46:46,401 : Loose hits
+INFO 2019-08-29 03:46:46,401 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,402 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,402 : pass_bitscore: 375
+INFO 2019-08-29 03:46:46,402 : Loose hits
+INFO 2019-08-29 03:46:46,403 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,403 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,403 : pass_bitscore: 400
+INFO 2019-08-29 03:46:46,404 : Loose hits
+INFO 2019-08-29 03:46:46,405 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,405 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,405 : pass_bitscore: 390
+INFO 2019-08-29 03:46:46,406 : Loose hits
+INFO 2019-08-29 03:46:46,519 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,519 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,519 : pass_bitscore: 660
+INFO 2019-08-29 03:46:46,520 : Loose hits
+INFO 2019-08-29 03:46:46,555 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,555 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,555 : pass_bitscore: 660
+INFO 2019-08-29 03:46:46,556 : Loose hits
+INFO 2019-08-29 03:46:46,571 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,571 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,571 : pass_bitscore: 210
+INFO 2019-08-29 03:46:46,572 : Loose hits
+INFO 2019-08-29 03:46:46,572 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,572 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,572 : pass_bitscore: 270
+INFO 2019-08-29 03:46:46,573 : Loose hits
+INFO 2019-08-29 03:46:46,685 : runBlast | Model:1175 pos:215 | change: R=R AND wildtype: H=H
+INFO 2019-08-29 03:46:46,701 : runBlast | Model:2272 pos:215 | change: R=R AND wildtype: H=H
+INFO 2019-08-29 03:46:46,745 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:46,776 : runBlast | Model:851 pos:66 | change: P=P AND wildtype: S=S
+INFO 2019-08-29 03:46:46,779 : runBlast | Model:851 pos:102 | change: T=T AND wildtype: A=A
+INFO 2019-08-29 03:46:46,792 : runBlast | Model:2285 pos:257 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:46,809 : runBlast | Model:2286 pos:116 | change: C=C AND wildtype: D=D
+INFO 2019-08-29 03:46:46,942 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:46,943 : pass_evalue: n/a
+INFO 2019-08-29 03:46:46,943 : pass_bitscore: 375
+INFO 2019-08-29 03:46:46,943 : Loose hits
+INFO 2019-08-29 03:46:47,005 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,005 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,005 : pass_bitscore: 270
+INFO 2019-08-29 03:46:47,006 : Loose hits
+INFO 2019-08-29 03:46:47,030 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,030 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,030 : pass_bitscore: 200
+INFO 2019-08-29 03:46:47,031 : Loose hits
+INFO 2019-08-29 03:46:47,041 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,042 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,042 : pass_bitscore: 200
+INFO 2019-08-29 03:46:47,043 : Loose hits
+INFO 2019-08-29 03:46:47,043 : runBlast | Model:851 pos:51 | change: Y=Y AND wildtype: H=H
+INFO 2019-08-29 03:46:47,048 : runBlast | Model:851 pos:10 | change: K=K AND wildtype: Q=Q
+INFO 2019-08-29 03:46:47,060 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,061 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,061 : pass_bitscore: 300
+INFO 2019-08-29 03:46:47,061 : Loose hits
+INFO 2019-08-29 03:46:47,067 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,067 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,067 : pass_bitscore: 660
+INFO 2019-08-29 03:46:47,068 : Loose hits
+INFO 2019-08-29 03:46:47,135 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:47,412 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,412 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,412 : pass_bitscore: 300
+INFO 2019-08-29 03:46:47,413 : Loose hits
+INFO 2019-08-29 03:46:47,457 : runBlast | Model:2286 pos:116 | change: C=C AND wildtype: D=D
+INFO 2019-08-29 03:46:47,525 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,525 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,525 : pass_bitscore: 375
+INFO 2019-08-29 03:46:47,526 : Loose hits
+INFO 2019-08-29 03:46:47,578 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:47,579 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,579 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,579 : pass_bitscore: 660
+INFO 2019-08-29 03:46:47,580 : Loose hits
+INFO 2019-08-29 03:46:47,584 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,584 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,585 : pass_bitscore: 310
+INFO 2019-08-29 03:46:47,585 : Loose hits
+INFO 2019-08-29 03:46:47,586 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,586 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,586 : pass_bitscore: 310
+INFO 2019-08-29 03:46:47,587 : Loose hits
+INFO 2019-08-29 03:46:47,598 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,598 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,598 : pass_bitscore: 200
+INFO 2019-08-29 03:46:47,599 : Loose hits
+INFO 2019-08-29 03:46:47,606 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:47,616 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,616 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,616 : pass_bitscore: 375
+INFO 2019-08-29 03:46:47,617 : Loose hits
+INFO 2019-08-29 03:46:47,688 : runBlast | Model:2804 pos:420 | change: V=V AND wildtype: A=A
+INFO 2019-08-29 03:46:47,760 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:47,838 : runBlast | Model:489 pos:49 | change: F=F AND wildtype: L=L
+INFO 2019-08-29 03:46:47,867 : runBlast | Model:2254 pos:115 | change: L=L AND wildtype: Q=Q
+INFO 2019-08-29 03:46:47,892 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,892 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,892 : pass_bitscore: 375
+INFO 2019-08-29 03:46:47,892 : Loose hits
+INFO 2019-08-29 03:46:47,916 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,916 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,916 : pass_bitscore: 500
+INFO 2019-08-29 03:46:47,917 : Loose hits
+INFO 2019-08-29 03:46:47,968 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,969 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,969 : pass_bitscore: 310
+INFO 2019-08-29 03:46:47,969 : Loose hits
+INFO 2019-08-29 03:46:47,970 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:47,970 : pass_evalue: n/a
+INFO 2019-08-29 03:46:47,970 : pass_bitscore: 310
+INFO 2019-08-29 03:46:47,971 : Loose hits
+INFO 2019-08-29 03:46:47,987 : runBlast | Model:535 pos:463 | change: A=A AND wildtype: A=S
+INFO 2019-08-29 03:46:48,014 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,014 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,014 : pass_bitscore: 660
+INFO 2019-08-29 03:46:48,014 : Loose hits
+INFO 2019-08-29 03:46:48,022 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,022 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,022 : pass_bitscore: 375
+INFO 2019-08-29 03:46:48,023 : Loose hits
+INFO 2019-08-29 03:46:48,088 : runBlast | Model:1545 pos:106 | change: H=H AND wildtype: Q=Q
+INFO 2019-08-29 03:46:48,196 : runBlast | Model:2083 pos:134 | change: R=R AND wildtype: R=K
+INFO 2019-08-29 03:46:48,272 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,272 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,272 : pass_bitscore: 210
+INFO 2019-08-29 03:46:48,272 : Loose hits
+INFO 2019-08-29 03:46:48,384 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:48,458 : runBlast | Model:2254 pos:90 | change: I=I AND wildtype: V=V
+INFO 2019-08-29 03:46:48,486 : runBlast | Model:2137 pos:125 | change: E=E AND wildtype: Q=Q
+INFO 2019-08-29 03:46:48,518 : runBlast | Model:2137 pos:376 | change: S=S AND wildtype: A=A
+INFO 2019-08-29 03:46:48,543 : runBlast | Model:2158 pos:234 | change: F=F AND wildtype: F=R
+INFO 2019-08-29 03:46:48,654 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,654 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,654 : pass_bitscore: 660
+INFO 2019-08-29 03:46:48,655 : Loose hits
+INFO 2019-08-29 03:46:48,661 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,662 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,662 : pass_bitscore: 400
+INFO 2019-08-29 03:46:48,662 : Loose hits
+INFO 2019-08-29 03:46:48,669 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,669 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,670 : pass_bitscore: 660
+INFO 2019-08-29 03:46:48,670 : Loose hits
+INFO 2019-08-29 03:46:48,698 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:48,708 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,708 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,708 : pass_bitscore: 270
+INFO 2019-08-29 03:46:48,708 : Loose hits
+INFO 2019-08-29 03:46:48,709 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:48,709 : pass_evalue: n/a
+INFO 2019-08-29 03:46:48,709 : pass_bitscore: 210
+INFO 2019-08-29 03:46:48,710 : Loose hits
+INFO 2019-08-29 03:46:48,772 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:49,284 : runBlast | Model:2109 pos:539 | change: N=N AND wildtype: T=T
+INFO 2019-08-29 03:46:49,359 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,359 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,359 : pass_bitscore: 210
+INFO 2019-08-29 03:46:49,359 : Loose hits
+INFO 2019-08-29 03:46:49,360 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,360 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,360 : pass_bitscore: 270
+INFO 2019-08-29 03:46:49,361 : Loose hits
+INFO 2019-08-29 03:46:49,422 : runBlast | Model:2409 pos:510 | change: V=V AND wildtype: A=A
+INFO 2019-08-29 03:46:49,450 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,450 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,450 : pass_bitscore: 310
+INFO 2019-08-29 03:46:49,451 : Loose hits
+INFO 2019-08-29 03:46:49,452 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,452 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,452 : pass_bitscore: 310
+INFO 2019-08-29 03:46:49,453 : Loose hits
+INFO 2019-08-29 03:46:49,504 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,504 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,504 : pass_bitscore: 400
+INFO 2019-08-29 03:46:49,504 : Loose hits
+INFO 2019-08-29 03:46:49,555 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,555 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,555 : pass_bitscore: 660
+INFO 2019-08-29 03:46:49,556 : Loose hits
+INFO 2019-08-29 03:46:49,674 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:49,880 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,881 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,881 : pass_bitscore: 200
+INFO 2019-08-29 03:46:49,883 : Loose hits
+INFO 2019-08-29 03:46:49,889 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,889 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,889 : pass_bitscore: 210
+INFO 2019-08-29 03:46:49,890 : Loose hits
+INFO 2019-08-29 03:46:49,898 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,898 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,898 : pass_bitscore: 660
+INFO 2019-08-29 03:46:49,899 : Loose hits
+INFO 2019-08-29 03:46:49,901 : runBlast | Model:2257 pos:279 | change: A=A AND wildtype: A=G
+INFO 2019-08-29 03:46:49,904 : runBlast | Model:2257 pos:278 | change: A=A AND wildtype: A=V
+INFO 2019-08-29 03:46:49,920 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,920 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,920 : pass_bitscore: 375
+INFO 2019-08-29 03:46:49,921 : Loose hits
+INFO 2019-08-29 03:46:49,923 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:49,923 : pass_evalue: n/a
+INFO 2019-08-29 03:46:49,923 : pass_bitscore: 660
+INFO 2019-08-29 03:46:49,924 : Loose hits
+INFO 2019-08-29 03:46:49,931 : runBlast | Model:1822 pos:173 | change: A=A AND wildtype: T=T
+INFO 2019-08-29 03:46:49,963 : runBlast | Model:1395 pos:121 | change: D=D AND wildtype: A=A
+INFO 2019-08-29 03:46:49,982 : runBlast | Model:2380 pos:100 | change: V=V AND wildtype: V=A
+INFO 2019-08-29 03:46:50,022 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,023 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,023 : pass_bitscore: 400
+INFO 2019-08-29 03:46:50,023 : Loose hits
+INFO 2019-08-29 03:46:50,046 : runBlast | Model:2284 pos:370 | change: I=I AND wildtype: L=L
+INFO 2019-08-29 03:46:50,096 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,096 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,097 : pass_bitscore: 300
+INFO 2019-08-29 03:46:50,097 : Loose hits
+INFO 2019-08-29 03:46:50,223 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,223 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,223 : pass_bitscore: 500
+INFO 2019-08-29 03:46:50,224 : Loose hits
+INFO 2019-08-29 03:46:50,228 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,228 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,228 : pass_bitscore: 375
+INFO 2019-08-29 03:46:50,229 : Loose hits
+INFO 2019-08-29 03:46:50,311 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,311 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,311 : pass_bitscore: 500
+INFO 2019-08-29 03:46:50,312 : Loose hits
+INFO 2019-08-29 03:46:50,322 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,322 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,322 : pass_bitscore: 375
+INFO 2019-08-29 03:46:50,322 : Loose hits
+INFO 2019-08-29 03:46:50,323 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,323 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,323 : pass_bitscore: 375
+INFO 2019-08-29 03:46:50,324 : Loose hits
+INFO 2019-08-29 03:46:50,324 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,324 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,324 : pass_bitscore: 390
+INFO 2019-08-29 03:46:50,325 : Loose hits
+INFO 2019-08-29 03:46:50,331 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,331 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,331 : pass_bitscore: 400
+INFO 2019-08-29 03:46:50,332 : Loose hits
+INFO 2019-08-29 03:46:50,362 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:50,374 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,375 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,375 : pass_bitscore: 400
+INFO 2019-08-29 03:46:50,376 : Loose hits
+INFO 2019-08-29 03:46:50,441 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,442 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,442 : pass_bitscore: 200
+INFO 2019-08-29 03:46:50,443 : Loose hits
+INFO 2019-08-29 03:46:50,505 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:50,616 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,616 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,616 : pass_bitscore: 400
+INFO 2019-08-29 03:46:50,616 : Loose hits
+INFO 2019-08-29 03:46:50,617 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,617 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,617 : pass_bitscore: 375
+INFO 2019-08-29 03:46:50,618 : Loose hits
+INFO 2019-08-29 03:46:50,618 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,618 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,619 : pass_bitscore: 390
+INFO 2019-08-29 03:46:50,619 : Loose hits
+INFO 2019-08-29 03:46:50,620 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,620 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,620 : pass_bitscore: 375
+INFO 2019-08-29 03:46:50,620 : Loose hits
+INFO 2019-08-29 03:46:50,651 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,651 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,651 : pass_bitscore: 270
+INFO 2019-08-29 03:46:50,652 : Loose hits
+INFO 2019-08-29 03:46:50,669 : runBlast | Model:2666 pos:203 | change: V=V AND wildtype: F=F
+INFO 2019-08-29 03:46:50,764 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,764 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,764 : pass_bitscore: 310
+INFO 2019-08-29 03:46:50,765 : Loose hits
+INFO 2019-08-29 03:46:50,766 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,766 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,766 : pass_bitscore: 310
+INFO 2019-08-29 03:46:50,767 : Loose hits
+INFO 2019-08-29 03:46:50,819 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,819 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,819 : pass_bitscore: 375
+INFO 2019-08-29 03:46:50,820 : Loose hits
+INFO 2019-08-29 03:46:50,855 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:50,855 : pass_evalue: n/a
+INFO 2019-08-29 03:46:50,855 : pass_bitscore: 200
+INFO 2019-08-29 03:46:50,856 : Loose hits
+INFO 2019-08-29 03:46:51,091 : runBlast | Model:196 pos:378 | change: A=A AND wildtype: E=E
+INFO 2019-08-29 03:46:51,114 : runBlast | Model:320 pos:384 | change: G=G AND wildtype: G=R
+INFO 2019-08-29 03:46:51,201 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:51,368 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:51,378 : runBlast | Model:212 pos:80 | change: F=F AND wildtype: F=S
+INFO 2019-08-29 03:46:51,444 : modelTypeID: 41091 
+INFO 2019-08-29 03:46:51,444 : pass_evalue: n/a
+INFO 2019-08-29 03:46:51,444 : pass_bitscore: 400
+INFO 2019-08-29 03:46:51,445 : Loose hits
+INFO 2019-08-29 03:46:51,468 : save overexpression results...
+INFO 2019-08-29 03:46:51,767 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:51,777 : runBlast | Model:2803 pos:77 | change: F=F AND wildtype: V=V
+INFO 2019-08-29 03:46:52,033 : runBlast | Model:1822 pos:85 | change: S=S AND wildtype: G=G
+INFO 2019-08-29 03:46:52,057 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:52,106 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:52,110 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:52,319 : runBlast | Model:1822 pos:173 | change: A=A AND wildtype: T=T
+INFO 2019-08-29 03:46:52,370 : runBlast | Model:320 pos:384 | change: G=G AND wildtype: G=R
+INFO 2019-08-29 03:46:52,376 : runBlast | Model:2409 pos:312 | change: M=M AND wildtype: I=I
+INFO 2019-08-29 03:46:52,382 : runBlast | Model:2409 pos:316 | change: T=T AND wildtype: V=V
+INFO 2019-08-29 03:46:52,522 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:52,543 : runBlast | Model:100 pos:392 | change: A=A AND wildtype: T=T
+INFO 2019-08-29 03:46:52,672 : runBlast | Model:1354 pos:201 | change: T=T AND wildtype: A=A
+INFO 2019-08-29 03:46:52,743 : runBlast | Model:2254 pos:461 | change: F=F AND wildtype: L=L
+INFO 2019-08-29 03:46:52,753 : runBlast | Model:2254 pos:457 | change: Q=Q AND wildtype: H=H
+INFO 2019-08-29 03:46:52,774 : runBlast | Model:2137 pos:125 | change: K=K AND wildtype: Q=Q
+INFO 2019-08-29 03:46:52,777 : runBlast | Model:2137 pos:121 | change: Q=Q AND wildtype: L=L
+INFO 2019-08-29 03:46:52,783 : runBlast | Model:2147 pos:124 | change: K=K AND wildtype: R=Q
+INFO 2019-08-29 03:46:52,849 : runBlast | Model:2436 pos:99 | change: R=R AND wildtype: T=G
+INFO 2019-08-29 03:46:52,851 : runBlast | Model:2436 pos:295 | change: G=G AND wildtype: N=D
+INFO 2019-08-29 03:46:52,933 : runBlast | Model:2409 pos:316 | change: T=T AND wildtype: V=V
+INFO 2019-08-29 03:46:52,963 : runBlast | Model:1175 pos:218 | change: Q=Q AND wildtype: R=R
+INFO 2019-08-29 03:46:53,012 : runBlast | Model:1108 pos:192 | change: G=G AND wildtype: E=E
+INFO 2019-08-29 03:46:53,025 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:53,212 : runBlast | Model:2137 pos:376 | change: S=S AND wildtype: A=A
+INFO 2019-08-29 03:46:53,230 : runBlast | Model:2158 pos:234 | change: F=F AND wildtype: F=R
+INFO 2019-08-29 03:46:53,343 : runBlast | Model:2254 pos:88 | change: L=L AND wildtype: F=F
+INFO 2019-08-29 03:46:53,413 : runBlast | Model:2803 pos:75 | change: N=N AND wildtype: H=H
+INFO 2019-08-29 03:46:53,437 : runBlast | Model:1237 pos:526 | change: T=T AND wildtype: T=H
+INFO 2019-08-29 03:46:53,600 : runBlast | Model:2083 pos:134 | change: R=R AND wildtype: R=K
+INFO 2019-08-29 03:46:53,624 : runBlast | Model:1545 pos:106 | change: H=H AND wildtype: Q=Q
+INFO 2019-08-29 03:46:53,715 : runBlast | Model:1671 pos:52 | change: K=K AND wildtype: E=E
+INFO 2019-08-29 03:46:53,943 : runBlast | Model:1237 pos:518 | change: I=I AND wildtype: V=N
+INFO 2019-08-29 03:46:53,957 : runBlast | Model:1237 pos:517 | change: L=L AND wildtype: V=Q
+INFO 2019-08-29 03:46:53,990 : runBlast | Model:2254 pos:457 | change: Y=Y AND wildtype: H=H
+INFO 2019-08-29 03:46:54,060 : runBlast | Model:2436 pos:295 | change: G=G AND wildtype: N=D
+INFO 2019-08-29 03:46:54,147 : runBlast | Model:2287 pos:246 | change: A=A AND wildtype: V=V
+INFO 2019-08-29 03:46:54,149 : runBlast | Model:2287 pos:335 | change: H=H AND wildtype: Q=Q
+INFO 2019-08-29 03:46:54,267 : runBlast | Model:2409 pos:316 | change: T=T AND wildtype: V=V
+INFO 2019-08-29 03:46:54,324 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:54,454 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:54,474 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:54,635 : runBlast | Model:851 pos:17 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:54,656 : runBlast | Model:851 pos:119 | change: R=R AND wildtype: W=W
+INFO 2019-08-29 03:46:54,670 : runBlast | Model:851 pos:47 | change: A=A AND wildtype: T=T
+INFO 2019-08-29 03:46:54,718 : runBlast | Model:2374 pos:97 | change: D=D AND wildtype: G=G
+INFO 2019-08-29 03:46:54,929 : runBlast | Model:2268 pos:450 | change: I=I AND wildtype: I=T
+INFO 2019-08-29 03:46:55,063 : runBlast | Model:1166 pos:84 | change: L=L AND wildtype: L=S
+INFO 2019-08-29 03:46:55,108 : runBlast | Model:2109 pos:539 | change: N=N AND wildtype: T=T
+INFO 2019-08-29 03:46:55,283 : runBlast | Model:1607 pos:575 | change: T=T AND wildtype: S=S
+INFO 2019-08-29 03:46:55,334 : save variant results...
+INFO 2019-08-29 03:47:22,981 : save homolog results...
+INFO 2019-08-29 03:47:22,999 : prepare output(s) for input: /data/data/samples/MP1-1.fasta
+INFO 2019-08-29 03:47:23,035 : Total running time 102.673s
+INFO 2019-08-29 03:47:23,036 : Cleaning up temporary files...MP1-1
+INFO 2019-08-29 03:47:23,036 : /data/res_prediction
+INFO 2019-08-29 03:47:23,037 : Removed file: /data/res_prediction/MP1-1.fasta.temp.contig.fsa.blastRes.xml
+INFO 2019-08-29 03:47:23,042 : Removed file: /data/res_prediction/MP1-1.fasta.temp.predictedGenes.json
+INFO 2019-08-29 03:47:23,042 : Removed file: /data/res_prediction/MP1-1.fasta.temp.overexpression.json
+INFO 2019-08-29 03:47:23,043 : Removed file: /data/res_prediction/MP1-1.fasta.temp.contigToORF.fsa
+INFO 2019-08-29 03:47:23,043 : Removed file: /data/res_prediction/MP1-1.fasta.temp
+INFO 2019-08-29 03:47:23,044 : Removed file: /data/res_prediction/MP1-1.fasta.temp.db.nin
+INFO 2019-08-29 03:47:23,044 : Removed file: /data/res_prediction/MP1-1.fasta.temp.contig.fsa
+INFO 2019-08-29 03:47:23,044 : Removed file: /data/res_prediction/MP1-1.fasta.temp.potentialGenes
+INFO 2019-08-29 03:47:23,046 : Removed file: /data/res_prediction/MP1-1.fasta.temp.blastRes.rrna.xml
+INFO 2019-08-29 03:47:23,046 : Removed file: /data/res_prediction/MP1-1.fasta.temp.rrna.json
+INFO 2019-08-29 03:47:23,046 : Removed file: /data/res_prediction/MP1-1.fasta.temp.db.nsq
+INFO 2019-08-29 03:47:23,046 : Removed file: /data/res_prediction/MP1-1.fasta.temp.db.nhr
+INFO 2019-08-29 03:47:23,046 : Removed file: /data/res_prediction/MP1-1.fasta.temp.variant.json
+INFO 2019-08-29 03:47:23,047 : Removed file: /data/res_prediction/MP1-1.fasta.temp.homolog.json
+INFO 2019-08-29 03:47:23,047 : /data/res_prediction
