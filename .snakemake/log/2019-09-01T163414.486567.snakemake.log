@@ -1,0 +1,40 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	generate_resistome_heatmap
+	1	summary_results
+	3
+
+[Sun Sep  1 16:34:14 2019]
+rule generate_resistome_heatmap:
+    input: resistome_prediction/C7, resistome_prediction/D2, resistome_prediction/B9, resistome_prediction/DMW1-1, resistome_summary/
+    output: resistome_summary/RGI_heatmap
+    jobid: 4
+
+[Sun Sep  1 16:34:22 2019]
+Finished job 4.
+1 of 3 steps (33%) done
+
+[Sun Sep  1 16:34:22 2019]
+rule summary_results:
+    input: plasmid_prediction/summary.tsv, virulence_genes/summary.tsv, resistome_summary/RGI_heatmap
+    output: WGCA_analysis_result/RGI_heatmap, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/RGI_heatmap-4.eps
+    jobid: 1
+
+[Sun Sep  1 16:34:22 2019]
+Finished job 1.
+2 of 3 steps (67%) done
+
+[Sun Sep  1 16:34:22 2019]
+localrule all:
+    input: WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/RGI_heatmap
+    jobid: 0
+
+[Sun Sep  1 16:34:22 2019]
+Finished job 0.
+3 of 3 steps (100%) done
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-09-01T163414.486567.snakemake.log

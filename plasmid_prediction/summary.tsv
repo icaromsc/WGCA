@@ -1,5 +1,5 @@
-#FILE	NUM_FOUND	rep11_1_repA(pB82)	rep11_3_rep(pEFR)	rep2_1_ORF(E.faeciumContig1183)_JDOE	repUS11__CDS16(pTEF3)
-plasmid_prediction/B9.tsv	0	.	.	.	.
-plasmid_prediction/C7.tsv	2	.	100.00	79.18	.
-plasmid_prediction/D2.tsv	1	.	.	.	87.72
-plasmid_prediction/DMW1-1.tsv	2	99.26;99.26	.	80.12;80.12	.
+#FILE	NUM_FOUND	rep11_1_repA(pB82)	rep11_3_rep(pEFR)
+plasmid_prediction/B9.tsv	0	.	.
+plasmid_prediction/C7.tsv	1	.	100.00
+plasmid_prediction/D2.tsv	0	.	.
+plasmid_prediction/DMW1-1.tsv	1	99.26;99.26	.

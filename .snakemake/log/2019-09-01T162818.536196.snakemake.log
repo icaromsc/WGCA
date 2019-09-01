@@ -1,0 +1,23 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	generate_resistome_heatmap
+	1	summary_results
+	3
+
+[Sun Sep  1 16:28:18 2019]
+rule generate_resistome_heatmap:
+    input: resistome_prediction/C7, resistome_prediction/D2, resistome_prediction/B9, resistome_prediction/DMW1-1, resistome_summary/
+    output: resistome_summary/RGI_heatmap
+    jobid: 4
+
+[Sun Sep  1 16:28:26 2019]
+Finished job 4.
+1 of 3 steps (33%) done
+ProtectedOutputException in line 141 of /home/icaro/WGCA/Snakefile:
+Write-protected output files for rule summary_results:
+resistome_summary/RGI_heatmap-4.png

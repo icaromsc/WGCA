@@ -1,3 +1,2 @@
 #FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
-data/samples/C7.fasta	C7_MSG4815_contig_35	49243	50426	rep2_1_ORF(E.faeciumContig1183)_JDOE	31-1214/1494	========/====..	2/2	79.18	75.53	plasmidfinder		plasmidfinder~~~rep2_1_ORF(E.faeciumContig1183)_JDOE~~~ rep2_1_ORF(E.faeciumContig1183)_JDOE
 data/samples/C7.fasta	C7_MSG4815_contig_43	1909	2883	rep11_3_rep(pEFR)	1-975/975	===============	0/0	100.00	99.80	plasmidfinder	AF511037	plasmidfinder~~~rep11_3_rep(pEFR)~~~AF511037 rep11_3_rep(pEFR)_AF511037

@@ -1,0 +1,221 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	generate_resistome_heatmap
+	4	plasmid_prediction
+	4	resistome_prediction
+	1	summarize_plasmid_prediction
+	1	summarize_virulence
+	1	summary_results
+	4	virulence_identification
+	17
+
+[Sun Sep  1 17:09:15 2019]
+rule plasmid_prediction:
+    input: data/samples/DMW1-1.fasta
+    output: plasmid_prediction/DMW1-1.tsv
+    jobid: 8
+    wildcards: sample=DMW1-1
+
+abricate --minid=60 --mincov=90 --db=plasmidfinder data/samples/DMW1-1.fasta > plasmid_prediction/DMW1-1.tsv
+
+[Sun Sep  1 17:09:15 2019]
+rule virulence_identification:
+    input: data/samples/C7.fasta
+    output: virulence_genes/C7.tsv
+    jobid: 9
+    wildcards: sample=C7
+
+abricate --minid=90 --mincov=60 --db=vfdb data/samples/C7.fasta > virulence_genes/C7.tsv
+
+[Sun Sep  1 17:09:15 2019]
+rule resistome_prediction:
+    input: data/samples/C7.fasta
+    output: resistome_prediction/C7
+    jobid: 13
+    wildcards: sample=C7
+
+docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/data/samples/C7.fasta -o data/resistome_prediction/C7 -t contig --clean --debug > resistome_prediction/C7
+
+[Sun Sep  1 17:09:15 2019]
+rule plasmid_prediction:
+    input: data/samples/C7.fasta
+    output: plasmid_prediction/C7.tsv
+    jobid: 5
+    wildcards: sample=C7
+
+abricate --minid=60 --mincov=90 --db=plasmidfinder data/samples/C7.fasta > plasmid_prediction/C7.tsv
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:09:18 2019]
+Finished job 8.
+1 of 17 steps (6%) done
+
+[Sun Sep  1 17:09:18 2019]
+rule virulence_identification:
+    input: data/samples/DMW1-1.fasta
+    output: virulence_genes/DMW1-1.tsv
+    jobid: 12
+    wildcards: sample=DMW1-1
+
+abricate --minid=90 --mincov=60 --db=vfdb data/samples/DMW1-1.fasta > virulence_genes/DMW1-1.tsv
+[Sun Sep  1 17:09:18 2019]
+Finished job 5.
+2 of 17 steps (12%) done
+
+[Sun Sep  1 17:09:18 2019]
+rule resistome_prediction:
+    input: data/samples/DMW1-1.fasta
+    output: resistome_prediction/DMW1-1
+    jobid: 16
+    wildcards: sample=DMW1-1
+
+docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/data/samples/DMW1-1.fasta -o data/resistome_prediction/DMW1-1 -t contig --clean --debug > resistome_prediction/DMW1-1
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:09:23 2019]
+Finished job 9.
+3 of 17 steps (18%) done
+
+[Sun Sep  1 17:09:23 2019]
+rule virulence_identification:
+    input: data/samples/D2.fasta
+    output: virulence_genes/D2.tsv
+    jobid: 10
+    wildcards: sample=D2
+
+abricate --minid=90 --mincov=60 --db=vfdb data/samples/D2.fasta > virulence_genes/D2.tsv
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:09:26 2019]
+Finished job 12.
+4 of 17 steps (24%) done
+
+[Sun Sep  1 17:09:26 2019]
+rule resistome_prediction:
+    input: data/samples/D2.fasta
+    output: resistome_prediction/D2
+    jobid: 14
+    wildcards: sample=D2
+
+docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/data/samples/D2.fasta -o data/resistome_prediction/D2 -t contig --clean --debug > resistome_prediction/D2
+[Sun Sep  1 17:09:31 2019]
+Finished job 10.
+5 of 17 steps (29%) done
+
+[Sun Sep  1 17:09:31 2019]
+rule plasmid_prediction:
+    input: data/samples/D2.fasta
+    output: plasmid_prediction/D2.tsv
+    jobid: 6
+    wildcards: sample=D2
+
+abricate --minid=60 --mincov=90 --db=plasmidfinder data/samples/D2.fasta > plasmid_prediction/D2.tsv
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:09:33 2019]
+Finished job 6.
+6 of 17 steps (35%) done
+
+[Sun Sep  1 17:09:33 2019]
+rule virulence_identification:
+    input: data/samples/B9.fasta
+    output: virulence_genes/B9.tsv
+    jobid: 11
+    wildcards: sample=B9
+
+abricate --minid=90 --mincov=60 --db=vfdb data/samples/B9.fasta > virulence_genes/B9.tsv
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:09:41 2019]
+Finished job 11.
+7 of 17 steps (41%) done
+
+[Sun Sep  1 17:09:41 2019]
+rule resistome_prediction:
+    input: data/samples/B9.fasta
+    output: resistome_prediction/B9
+    jobid: 15
+    wildcards: sample=B9
+
+docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/data/samples/B9.fasta -o data/resistome_prediction/B9 -t contig --clean --debug > resistome_prediction/B9
+[Sun Sep  1 17:14:06 2019]
+Finished job 13.
+8 of 17 steps (47%) done
+
+[Sun Sep  1 17:14:06 2019]
+rule plasmid_prediction:
+    input: data/samples/B9.fasta
+    output: plasmid_prediction/B9.tsv
+    jobid: 7
+    wildcards: sample=B9
+
+abricate --minid=60 --mincov=90 --db=plasmidfinder data/samples/B9.fasta > plasmid_prediction/B9.tsv
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:14:08 2019]
+Finished job 7.
+9 of 17 steps (53%) done
+
+[Sun Sep  1 17:14:08 2019]
+rule summarize_virulence:
+    input: virulence_genes/C7.tsv, virulence_genes/D2.tsv, virulence_genes/B9.tsv, virulence_genes/DMW1-1.tsv
+    output: virulence_genes/summary.tsv
+    jobid: 3
+
+abricate --summary virulence_genes/C7.tsv virulence_genes/D2.tsv virulence_genes/B9.tsv virulence_genes/DMW1-1.tsv > virulence_genes/summary.tsv
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:14:09 2019]
+Finished job 3.
+10 of 17 steps (59%) done
+
+[Sun Sep  1 17:14:09 2019]
+rule summarize_plasmid_prediction:
+    input: plasmid_prediction/C7.tsv, plasmid_prediction/D2.tsv, plasmid_prediction/B9.tsv, plasmid_prediction/DMW1-1.tsv
+    output: plasmid_prediction/summary.tsv
+    jobid: 2
+
+abricate --summary plasmid_prediction/C7.tsv plasmid_prediction/D2.tsv plasmid_prediction/B9.tsv plasmid_prediction/DMW1-1.tsv > plasmid_prediction/summary.tsv
+Activating conda environment: /home/icaro/WGCA/.snakemake/conda/352911ee
+[Sun Sep  1 17:14:10 2019]
+Finished job 2.
+11 of 17 steps (65%) done
+[Sun Sep  1 17:14:11 2019]
+Finished job 16.
+12 of 17 steps (71%) done
+[Sun Sep  1 17:14:21 2019]
+Finished job 15.
+13 of 17 steps (76%) done
+[Sun Sep  1 17:14:25 2019]
+Finished job 14.
+14 of 17 steps (82%) done
+
+[Sun Sep  1 17:14:25 2019]
+rule generate_resistome_heatmap:
+    input: resistome_prediction/C7, resistome_prediction/D2, resistome_prediction/B9, resistome_prediction/DMW1-1, resistome_summary/
+    output: resistome_summary/RGI_heatmap
+    jobid: 4
+
+[Sun Sep  1 17:14:32 2019]
+Finished job 4.
+15 of 17 steps (88%) done
+
+[Sun Sep  1 17:14:32 2019]
+rule summary_results:
+    input: plasmid_prediction/summary.tsv, virulence_genes/summary.tsv, resistome_summary/RGI_heatmap
+    output: WGCA_analysis_result/RGI_heatmap, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/RGI_heatmap-4.png
+    jobid: 1
+
+[Sun Sep  1 17:14:32 2019]
+Finished job 1.
+16 of 17 steps (94%) done
+
+[Sun Sep  1 17:14:32 2019]
+localrule all:
+    input: WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/RGI_heatmap
+    jobid: 0
+
+[Sun Sep  1 17:14:32 2019]
+Finished job 0.
+17 of 17 steps (100%) done
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-09-01T170915.238428.snakemake.log

@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	summary_results
+	2
+
+[Sun Sep  1 16:25:43 2019]
+rule summary_results:
+    input: plasmid_prediction/summary.tsv, virulence_genes/summary.tsv, resistome_summary/RGI_heatmap
+    output: WGCA_analysis_result/RGI_heatmap, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/plasmid_summary.tsv, resistome_summary/RGI_heatmap-4.png
+    jobid: 1
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-09-01T162543.208555.snakemake.log
