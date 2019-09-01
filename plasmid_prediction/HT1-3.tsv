@@ -1,6 +1,0 @@
-#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
-data/samples/HT1-3.fasta	HT1_3_contig_13	37212	38711	repUS1__ORF(E.faeciumContig1258)_JDOE	1-1500/1500	===============	0/0	100.00	97.13	plasmidfinder		plasmidfinder~~~repUS1__ORF(E.faeciumContig1258)_JDOE~~~ repUS1__ORF(E.faeciumContig1258)_JDOE
-data/samples/HT1-3.fasta	HT1_3_contig_14	5577	6529	rep17_1_CDS29(pRUM)	1-959/1041	========/=====.	6/14	91.16	75.39	plasmidfinder	AF507977	plasmidfinder~~~rep17_1_CDS29(pRUM)~~~AF507977 rep17_1_CDS29(pRUM)_AF507977
-data/samples/HT1-3.fasta	HT1_3_contig_15	5126	6063	rep17_1_CDS29(pRUM)	16-959/1041	========/=====.	6/14	89.72	73.63	plasmidfinder	AF507977	plasmidfinder~~~rep17_1_CDS29(pRUM)~~~AF507977 rep17_1_CDS29(pRUM)_AF507977
-data/samples/HT1-3.fasta	HT1_3_contig_18	6750	7582	rep18_1_repA(p200B)	1-827/933	========/=====.	4/14	88.21	76.22	plasmidfinder	AB158402	plasmidfinder~~~rep18_1_repA(p200B)~~~AB158402 rep18_1_repA(p200B)_AB158402
-data/samples/HT1-3.fasta	HT1_3_contig_7	29394	30864	repUS1__ORF(E.faeciumContig1258)_JDOE	1-1471/1500	========/======	2/2	98.00	77.85	plasmidfinder		plasmidfinder~~~repUS1__ORF(E.faeciumContig1258)_JDOE~~~ repUS1__ORF(E.faeciumContig1258)_JDOE

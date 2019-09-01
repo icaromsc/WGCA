@@ -1,0 +1,20 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	summary_results_v2
+	1
+
+[Sun Sep  1 14:17:05 2019]
+rule summary_results_v2:
+    input: plasmid_prediction/summary.tsv, virulence_genes/summary.tsv, resistome_summary/RGI_heatmap
+    output: WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/RGI_heatmap
+    jobid: 0
+
+Removing temporary output file resistome_summary/RGI_heatmap.
+[Sun Sep  1 14:17:05 2019]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /home/icaro/WGCA/.snakemake/log/2019-09-01T141705.512236.snakemake.log

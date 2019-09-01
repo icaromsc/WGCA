@@ -1,2 +1,0 @@
-#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
-data/samples/MP1-5.fasta	MP1_5_contig_9	17164	18347	rep2_1_ORF(E.faeciumContig1183)_JDOE	31-1214/1494	========/====..	2/2	79.18	75.61	plasmidfinder		plasmidfinder~~~rep2_1_ORF(E.faeciumContig1183)_JDOE~~~ rep2_1_ORF(E.faeciumContig1183)_JDOE

@@ -18,7 +18,8 @@ SAMPLES = list_files()
 rule all:
     input:
         "WGCA_analysis_result/plasmid_summary.tsv",
-        "WGCA_analysis_result/virulence_summary.tsv"
+        "WGCA_analysis_result/virulence_summary.tsv",
+        "WGCA_analysis_result/RGI_heatmap"
 
 
 rule virulence_identification:
@@ -36,6 +37,8 @@ rule summarize_virulence:
         expand("virulence_genes/{sample}.tsv", sample=SAMPLES)
     output:
         "virulence_genes/summary.tsv"
+    conda:
+        "envs/abricate.yaml"
     shell:
         "abricate --summary {input} > {output}"
 
@@ -118,19 +121,34 @@ rule generate_resistome_heatmap:
         #tabs = expand("resistome_prediction/{sample}.txt", sample=SAMPLES),
         dir = "resistome_summary/"
     output:
-        log = temp("resistome_summary/RGI_heatmap")
+        log = "resistome_summary/RGI_heatmap"
     run:
         shell("cp {input.logs} resistome_summary/")
         shell("cp -r resistome_prediction/.  resistome_summary")
         shell("docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi heatmap --input data/{input.dir} --output data/{output} --category drug_class --cluster samples -d text > {output}")
 
 
+# rule summary_results:
+#     input:
+#         r="plasmid_prediction/summary.tsv",
+#         v="virulence_genes/summary.tsv"
+#     output:
+#         v="WGCA_analysis_result/virulence_summary.tsv",
+#         r="WGCA_analysis_result/plasmid_summary.tsv"
+#     shell:
+#         "cp {input.r} {output.r} ; cp {input.v} {output.v}"
+
 rule summary_results:
     input:
-        r="plasmid_prediction/summary.tsv",
-        v="virulence_genes/summary.tsv"
+        p="plasmid_prediction/summary.tsv",
+        v="virulence_genes/summary.tsv",
+        r="resistome_summary/RGI_heatmap"
     output:
         v="WGCA_analysis_result/virulence_summary.tsv",
-        r="WGCA_analysis_result/plasmid_summary.tsv"
-    shell:
-        "cp {input.r} {output.r} ; cp {input.v} {output.v}"
+        p="WGCA_analysis_result/plasmid_summary.tsv",
+        r="WGCA_analysis_result/RGI_heatmap"
+    run:
+        shell("cp {input.p} {output.p}")
+        shell("cp {input.v} {output.v}")
+        shell("cp {input.r} {output.r}")
+        shell("cp resistome_summary/RGI_* WGCA_analysis_result/")

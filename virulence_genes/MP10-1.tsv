@@ -1,4 +1,0 @@
-#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
-data/samples/MP10-1.fasta	MP10_1_4870.1_contig_32	5268	6215	sgrA	1-975/975	========/======	1/27	97.23	92.31	vfdb	ZP_00602747	vfdb~~~sgrA~~~ZP_00602747 (sgrA) cell wall anchored protein SgrA [SgrA (VF0540)] [Enterococcus faecium DO]
-data/samples/MP10-1.fasta	MP10_1_4870.1_contig_37	395	2258	acm	1-1865/2166	========/=====.	1/1	86.06	96.89	vfdb	AAN12397	vfdb~~~acm~~~AAN12397 (acm) collagen adhesin precursor Acm [Acm (VF0419)] [Enterococcus faecium str. TX2555]
-data/samples/MP10-1.fasta	MP10_1_4870.1_contig_37	2554	3120	acm	1600-2166/2166	...........====	0/0	26.18	96.47	vfdb	AAN12397	vfdb~~~acm~~~AAN12397 (acm) collagen adhesin precursor Acm [Acm (VF0419)] [Enterococcus faecium str. TX2555]
