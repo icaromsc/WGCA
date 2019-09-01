@@ -26,7 +26,7 @@ rule virulence_identification:
     input:
         "data/samples/{sample}.fasta"
     output:
-        "virulence_genes/{sample}.tsv"
+        report("virulence_genes/{sample}.tsv", category="Virulence factors")
     conda:
         "envs/abricate.yaml"
     shell:
@@ -46,7 +46,7 @@ rule plasmid_prediction:
     input:
         "data/samples/{sample}.fasta"
     output:
-        "plasmid_prediction/{sample}.tsv"
+        report("plasmid_prediction/{sample}.tsv", category="Plasmid Prediction")
     conda:
         "envs/abricate.yaml"
     shell:
