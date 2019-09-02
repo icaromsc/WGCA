@@ -1,4 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Business/ISBN/Data.pm relocate_as=../../../../../Business/ISBN/Data.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Business/ISBN/RangeMessage.xml relocate_as=../../../../../Business/ISBN/RangeMessage.xml
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Business/ISBN/make_data.pl relocate_as=../../../../../Business/ISBN/make_data.pl
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Business::ISBN::Data.3 relocate_as=../../../../../../../../man/man3/Business::ISBN::Data.3

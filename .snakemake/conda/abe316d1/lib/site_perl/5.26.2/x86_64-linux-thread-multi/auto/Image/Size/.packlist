@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/bin/imgsize relocate_as=../../../../../../../bin/imgsize
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Image/Size.pm relocate_as=../../../../Image/Size.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man1/imgsize.1 relocate_as=../../../../../../../man/man1/imgsize.1
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Image::Size.3 relocate_as=../../../../../../../man/man3/Image::Size.3

@@ -1,1 +1,0 @@
-{"dist":"WWW-RobotRules-6.02","provides":{"WWW::RobotRules::AnyDBM_File":{"version":"6.00","file":"WWW/RobotRules/AnyDBM_File.pm"},"WWW::RobotRules":{"version":"6.02","file":"WWW/RobotRules.pm"},"WWW::RobotRules::InCore":{"file":"WWW/RobotRules.pm"}},"name":"WWW::RobotRules","version":"6.02","target":"WWW::RobotRules","pathname":"G/GA/GAAS/WWW-RobotRules-6.02.tar.gz"}

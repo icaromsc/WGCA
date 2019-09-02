@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Class/Inspector.pm relocate_as=../../../../Class/Inspector.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Class/Inspector/Functions.pm relocate_as=../../../../Class/Inspector/Functions.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Class::Inspector.3 relocate_as=../../../../../../../man/man3/Class::Inspector.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Class::Inspector::Functions.3 relocate_as=../../../../../../../man/man3/Class::Inspector::Functions.3

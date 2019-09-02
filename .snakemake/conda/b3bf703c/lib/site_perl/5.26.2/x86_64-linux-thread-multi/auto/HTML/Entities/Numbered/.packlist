@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTML/Entities/Numbered.pm relocate_as=../../../../../HTML/Entities/Numbered.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTML/Entities/Numbered/Table.pm relocate_as=../../../../../HTML/Entities/Numbered/Table.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTML::Entities::Numbered.3 relocate_as=../../../../../../../../man/man3/HTML::Entities::Numbered.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTML::Entities::Numbered::Table.3 relocate_as=../../../../../../../../man/man3/HTML::Entities::Numbered::Table.3

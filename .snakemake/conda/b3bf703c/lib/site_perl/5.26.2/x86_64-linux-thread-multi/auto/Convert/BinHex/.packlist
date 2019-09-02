@@ -1,6 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/binhex.pl relocate_as=../../../../../../../bin/binhex.pl
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/debinhex.pl relocate_as=../../../../../../../bin/debinhex.pl
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Convert/BinHex.pm relocate_as=../../../../Convert/BinHex.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/binhex.pl.1 relocate_as=../../../../../../../man/man1/binhex.pl.1
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/debinhex.pl.1 relocate_as=../../../../../../../man/man1/debinhex.pl.1
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Convert::BinHex.3 relocate_as=../../../../../../../man/man3/Convert::BinHex.3

@@ -1,7 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/bin/package-stash-conflicts relocate_as=../../../../../../../bin/package-stash-conflicts
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Package/Stash.pm relocate_as=../../../../Package/Stash.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Package/Stash/Conflicts.pm relocate_as=../../../../Package/Stash/Conflicts.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Package/Stash/PP.pm relocate_as=../../../../Package/Stash/PP.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man1/package-stash-conflicts.1 relocate_as=../../../../../../../man/man1/package-stash-conflicts.1
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Package::Stash.3 relocate_as=../../../../../../../man/man3/Package::Stash.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Package::Stash::PP.3 relocate_as=../../../../../../../man/man3/Package::Stash::PP.3

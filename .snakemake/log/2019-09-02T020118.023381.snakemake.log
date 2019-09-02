@@ -1,0 +1,4 @@
+Building DAG of jobs...
+Conda environment envs/island_path.yaml will be created.
+WorkflowError:
+Conda env file does not exist: /home/icaro/Documentos/WGCA/envs/prokka.yaml

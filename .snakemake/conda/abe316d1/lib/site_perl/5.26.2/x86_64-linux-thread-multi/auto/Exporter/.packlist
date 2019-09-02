@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Exporter.pm relocate_as=../../../Exporter.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Exporter/Heavy.pm relocate_as=../../../Exporter/Heavy.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Exporter.3 relocate_as=../../../../../../man/man3/Exporter.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Exporter::Heavy.3 relocate_as=../../../../../../man/man3/Exporter::Heavy.3

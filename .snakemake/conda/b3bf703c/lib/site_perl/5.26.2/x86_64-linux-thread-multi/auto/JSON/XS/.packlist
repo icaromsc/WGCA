@@ -1,7 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/json_xs relocate_as=../../../../../../../bin/json_xs
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/x86_64-linux-thread-multi/JSON/XS.pm relocate_as=../../../JSON/XS.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/x86_64-linux-thread-multi/JSON/XS/Boolean.pm relocate_as=../../../JSON/XS/Boolean.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/JSON/XS/XS.so relocate_as=XS.so
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/json_xs.1 relocate_as=../../../../../../../man/man1/json_xs.1
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/JSON::XS.3 relocate_as=../../../../../../../man/man3/JSON::XS.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/JSON::XS::Boolean.3 relocate_as=../../../../../../../man/man3/JSON::XS::Boolean.3

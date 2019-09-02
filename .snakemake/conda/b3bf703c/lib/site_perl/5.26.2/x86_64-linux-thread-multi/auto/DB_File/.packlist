@@ -1,3 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/x86_64-linux-thread-multi/DB_File.pm relocate_as=../../DB_File.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/DB_File/DB_File.so relocate_as=DB_File.so
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/DB_File.3 relocate_as=../../../../../../man/man3/DB_File.3

@@ -1,8 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTML/ElementGlob.pm relocate_as=../../../HTML/ElementGlob.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTML/ElementRaw.pm relocate_as=../../../HTML/ElementRaw.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTML/ElementSuper.pm relocate_as=../../../HTML/ElementSuper.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTML/ElementTable.pm relocate_as=../../../HTML/ElementTable.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTML::ElementGlob.3 relocate_as=../../../../../../man/man3/HTML::ElementGlob.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTML::ElementRaw.3 relocate_as=../../../../../../man/man3/HTML::ElementRaw.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTML::ElementSuper.3 relocate_as=../../../../../../man/man3/HTML::ElementSuper.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTML::ElementTable.3 relocate_as=../../../../../../man/man3/HTML::ElementTable.3

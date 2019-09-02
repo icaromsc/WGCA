@@ -1,7 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/IO/Pty.pm relocate_as=../../../IO/Pty.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/IO/Tty.pm relocate_as=../../../IO/Tty.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/IO/Tty/Constant.pm relocate_as=../../../IO/Tty/Constant.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/IO/Tty/Tty.so relocate_as=Tty.so
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/IO::Pty.3 relocate_as=../../../../../../../man/man3/IO::Pty.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/IO::Tty.3 relocate_as=../../../../../../../man/man3/IO::Tty.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/IO::Tty::Constant.3 relocate_as=../../../../../../../man/man3/IO::Tty::Constant.3

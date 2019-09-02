@@ -1,4 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/bin/pod2usage relocate_as=../../../../../../../bin/pod2usage
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Pod/Usage.pm relocate_as=../../../../Pod/Usage.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man1/pod2usage.1 relocate_as=../../../../../../../man/man1/pod2usage.1
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Pod::Usage.3 relocate_as=../../../../../../../man/man3/Pod::Usage.3

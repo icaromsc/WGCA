@@ -1,4 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Class/Inspector.pm relocate_as=../../../../Class/Inspector.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Class/Inspector/Functions.pm relocate_as=../../../../Class/Inspector/Functions.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Class::Inspector.3 relocate_as=../../../../../../../man/man3/Class::Inspector.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Class::Inspector::Functions.3 relocate_as=../../../../../../../man/man3/Class::Inspector::Functions.3

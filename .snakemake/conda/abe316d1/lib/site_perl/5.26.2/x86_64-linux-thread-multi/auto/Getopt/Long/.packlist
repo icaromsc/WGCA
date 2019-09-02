@@ -1,3 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Getopt/Long.pm relocate_as=../../../../Getopt/Long.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/newgetopt.pl relocate_as=../../../../newgetopt.pl
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Getopt::Long.3 relocate_as=../../../../../../../man/man3/Getopt::Long.3

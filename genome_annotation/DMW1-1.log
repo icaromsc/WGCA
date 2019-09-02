@@ -1,0 +1,341 @@
+[02:06:02] This is prokka 1.14.0
+[02:06:02] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[02:06:02] Homepage is https://github.com/tseemann/prokka
+[02:06:02] Local time is Mon Sep  2 02:06:02 2019
+[02:06:02] You are icaro
+[02:06:02] Operating system is linux
+[02:06:02] You have BioPerl 1.007002
+[02:06:02] System has 4 cores.
+[02:06:02] Option --cpu asked for 8 cores, but system only has 4
+[02:06:02] Will use maximum of 4 cores.
+[02:06:02] Annotating as >>> Bacteria <<<
+[02:06:02] Generating locus_tag from 'data/samples/DMW1-1.fasta' contents.
+[02:06:02] Setting --locustag CIDCOKEI from MD5 c2dc84e247718ac7ce5cdbdcd9e54d77
+[02:06:02] Re-using existing --outdir genome_annotation/
+[02:06:02] Using filename prefix: DMW1-1.XXX
+[02:06:02] Setting HMMER_NCPU=1
+[02:06:02] Writing log to: genome_annotation//DMW1-1.log
+[02:06:02] Command: /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/prokka --force --outdir genome_annotation/ --usegenus --Genus Enterococcus --prefix DMW1-1 data/samples/DMW1-1.fasta
+[02:06:02] Appending to PATH: /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin
+[02:06:02] Looking for 'aragorn' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/aragorn
+[02:06:02] Determined aragorn version is 1.2
+[02:06:02] Looking for 'barrnap' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/barrnap
+[02:06:02] Determined barrnap version is 0.9
+[02:06:02] Looking for 'blastp' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/blastp
+[02:06:02] Determined blastp version is 2.9
+[02:06:02] Looking for 'cmpress' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/cmpress
+[02:06:02] Determined cmpress version is 1.1
+[02:06:02] Looking for 'cmscan' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/cmscan
+[02:06:02] Determined cmscan version is 1.1
+[02:06:02] Looking for 'egrep' - found /bin/egrep
+[02:06:02] Looking for 'find' - found /usr/bin/find
+[02:06:02] Looking for 'grep' - found /bin/grep
+[02:06:02] Looking for 'hmmpress' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/hmmpress
+[02:06:02] Determined hmmpress version is 3.2
+[02:06:02] Looking for 'hmmscan' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/hmmscan
+[02:06:02] Determined hmmscan version is 3.2
+[02:06:02] Looking for 'java' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/java
+[02:06:02] Looking for 'less' - found /usr/bin/less
+[02:06:02] Looking for 'makeblastdb' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/makeblastdb
+[02:06:02] Determined makeblastdb version is 2.9
+[02:06:02] Looking for 'minced' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/minced
+[02:06:02] Determined minced version is 4.0
+[02:06:02] Looking for 'parallel' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/parallel
+[02:06:02] Determined parallel version is 20190722
+[02:06:02] Looking for 'prodigal' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/prodigal
+[02:06:02] Determined prodigal version is 2.6
+[02:06:02] Looking for 'prokka-genbank_to_fasta_db' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/prokka-genbank_to_fasta_db
+[02:06:02] Looking for 'sed' - found /bin/sed
+[02:06:02] Looking for 'tbl2asn' - found /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/bin/tbl2asn
+[02:06:02] Determined tbl2asn version is 25.7
+[02:06:02] Using genetic code table 11.
+[02:06:02] Loading and checking input file: data/samples/DMW1-1.fasta
+[02:06:02] Wrote 63 contigs totalling 3081981 bp.
+[02:06:02] Predicting tRNAs and tmRNAs
+[02:06:02] Running: aragorn -l -gc11  -w genome_annotation\/\/DMW1\-1\.fna
+[02:06:03] 1 tRNA-Ser c[248744,248831] 33 (cga)
+[02:06:03] 2 tmRNA [274597,274961] 92,130 AKNENNSYALAA*
+[02:06:03] 3 tRNA-Met c[276230,276305] 36 (cat)
+[02:06:03] 1 tRNA-Leu c[1171,1253] 34 (gag)
+[02:06:03] 2 tRNA-Met [83878,83953] 36 (cat)
+[02:06:03] 1 tRNA-Ser [60,150] 36 (gga)
+[02:06:03] 2 tRNA-Glu [161,234] 35 (ttc)
+[02:06:03] 3 tRNA-Val [246,320] 35 (tac)
+[02:06:03] 4 tRNA-Asp [328,403] 35 (gtc)
+[02:06:03] 5 tRNA-Phe [435,510] 34 (gaa)
+[02:06:03] 6 tRNA-Tyr [511,593] 36 (gta)
+[02:06:03] 7 tRNA-Trp [599,672] 33 (cca)
+[02:06:03] 8 tRNA-His [675,748] 34 (gtg)
+[02:06:03] 9 tRNA-Gln [756,829] 34 (ttg)
+[02:06:03] 10 tRNA-Cys [866,936] 33 (gca)
+[02:06:03] 11 tRNA-Leu [957,1044] 36 (caa)
+[02:06:03] 1 tRNA-Glu c[125748,125821] 35 (ttc)
+[02:06:03] 2 tRNA-Ile c[125832,125906] 35 (gat)
+[02:06:03] 3 tRNA-Gly c[125922,125992] 33 (tcc)
+[02:06:03] 4 tRNA-Phe c[125996,126070] 35 (gaa)
+[02:06:03] 5 tRNA-Asp c[126072,126147] 36 (gtc)
+[02:06:03] 6 tRNA-Met c[126189,126264] 36 (cat)
+[02:06:03] 7 tRNA-Ser c[126310,126399] 37 (tga)
+[02:06:03] 8 tRNA-Glu c[126417,126490] 35 (ttc)
+[02:06:03] 9 tRNA-Ser c[126505,126594] 36 (gct)
+[02:06:03] 10 tRNA-Ile c[126617,126692] 36 (gat)
+[02:06:03] 11 tRNA-Gly c[126707,126777] 33 (tcc)
+[02:06:03] 12 tRNA-Asp c[126779,126855] 35 (gtc)
+[02:06:03] 13 tRNA-Met c[126901,126976] 36 (cat)
+[02:06:03] 14 tRNA-Ser c[127022,127111] 37 (tga)
+[02:06:03] 15 tRNA-Met c[127135,127210] 36 (cat)
+[02:06:03] 16 tRNA-Met c[127223,127298] 36 (cat)
+[02:06:03] 17 tRNA-Ala c[127326,127398] 34 (tgc)
+[02:06:03] 18 tRNA-Pro c[127418,127491] 35 (tgg)
+[02:06:03] 19 tRNA-Arg c[127501,127576] 36 (acg)
+[02:06:03] 20 tRNA-Leu c[127586,127671] 35 (taa)
+[02:06:03] 21 tRNA-Gly c[127688,127759] 33 (gcc)
+[02:06:03] 22 tRNA-Thr c[127768,127843] 35 (tgt)
+[02:06:03] 23 tRNA-Leu c[127865,127948] 36 (tag)
+[02:06:03] 1 tRNA-Asn [108,183] 36 (gtt)
+[02:06:03] 2 tRNA-Thr c[1228,1300] 34 (ggt)
+[02:06:03] 3 tRNA-Asn [1507,1582] 36 (gtt)
+[02:06:03] 4 tRNA-Gly [75741,75811] 33 (ccc)
+[02:06:03] 5 tRNA-Arg c[135140,135214] 35 (ccg)
+[02:06:03] 6 tRNA-Tyr [167031,167111] 35 (gta)
+[02:06:03] 7 tRNA-Gln [167117,167190] 34 (ttg)
+[02:06:03] 1 tRNA-Arg c[133020,133095] 36 (cct)
+[02:06:03] 2 tRNA-Arg c[190306,190381] 36 (tct)
+[02:06:03] 3 tRNA-Thr c[420848,420920] 34 (cgt)
+[02:06:03] 1 tRNA-Gln c[3018,3092] 35 (ctg)
+[02:06:03] 1 tRNA-Leu [27,110] 36 (tag)
+[02:06:03] 2 tRNA-Thr [132,207] 35 (tgt)
+[02:06:03] 3 tRNA-Gly [216,287] 33 (gcc)
+[02:06:03] 4 tRNA-Leu [304,389] 35 (taa)
+[02:06:03] 5 tRNA-Arg [399,474] 36 (acg)
+[02:06:03] 6 tRNA-Pro [491,566] 36 (tgg)
+[02:06:03] 7 tRNA-Arg [624,699] 36 (acg)
+[02:06:03] 1 tRNA-Lys [73970,74044] 35 (ctt)
+[02:06:03] 1 tRNA-Met [37241,37316] 36 (cat)
+[02:06:04] 1 tRNA-Val c[37,111] 35 (tac)
+[02:06:04] Found 60 tRNAs
+[02:06:04] Predicting Ribosomal RNAs
+[02:06:04] Running Barrnap with 4 threads
+[02:06:05] 1 DMW1_1_contig_36 127 5S ribosomal RNA
+[02:06:05] 2 DMW1_1_contig_36 335 23S ribosomal RNA
+[02:06:05] 3 DMW1_1_contig_36 3463 16S ribosomal RNA
+[02:06:05] 4 DMW1_1_contig_42 15997 5S ribosomal RNA
+[02:06:05] Found 4 rRNAs
+[02:06:05] Skipping ncRNA search, enable with --rfam if desired.
+[02:06:05] Total of 63 tRNA + rRNA features
+[02:06:05] Searching for CRISPR repeats
+[02:06:06] Found 0 CRISPRs
+[02:06:06] Predicting coding sequences
+[02:06:06] Contigs total 3081981 bp, so using single mode
+[02:06:06] Running: prodigal -i genome_annotation\/\/DMW1\-1\.fna -c -m -g 11 -p single -f sco -q
+[02:06:09] Found 2890 CDS
+[02:06:09] Connecting features back to sequences
+[02:06:09] Using custom Enterococcus database for annotation
+[02:06:09] Annotating CDS, please be patient.
+[02:06:09] Will use 4 CPUs for similarity searching.
+[02:06:10] There are still 2890 unannotated CDS left (started with 2890)
+[02:06:10] Will use blast to search against /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/genus/Enterococcus with 4 CPUs
+[02:06:10] Running: cat genome_annotation\/\/Enterococcus\.faa | parallel --gnu --plain -j 4 --block 107905 --recstart '>' --pipe blastp -query - -db /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/genus/Enterococcus -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > genome_annotation\/\/Enterococcus\.blast 2> /dev/null
+[02:06:27] Modify product: site-specific tyrosine recombinase XerD-family => site-specific tyrosine recombinase XerD-family protein
+[02:06:27] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[02:06:27] Modify product: Sporulation Regulator WhiA N terminal => hypothetical protein
+[02:06:27] Modify product: excisionase family DNA binding domain => excisionase family DNA binding domain protein
+[02:06:27] Modify product: radical SAM protein family => radical SAM protein family protein
+[02:06:28] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[02:06:28] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[02:06:28] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[02:06:28] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[02:06:28] Modify product: putative RNA-binding protein containing a PIN domain => putative RNA-binding protein containing a PIN domain protein
+[02:06:28] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[02:06:28] Modify product: transcriptional regulator Spx-family => transcriptional regulator Spx-family protein
+[02:06:29] Modify product: transcriptional regulator Spx-family => transcriptional regulator Spx-family protein
+[02:06:29] Cleaned 13 /product names
+[02:06:29] Deleting unwanted file: genome_annotation//Enterococcus.faa
+[02:06:29] Deleting unwanted file: genome_annotation//Enterococcus.blast
+[02:06:29] There are still 1154 unannotated CDS left (started with 2890)
+[02:06:29] Will use blast to search against /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/kingdom/Bacteria/IS with 4 CPUs
+[02:06:29] Running: cat genome_annotation\/\/IS\.faa | parallel --gnu --plain -j 4 --block 35284 --recstart '>' --pipe blastp -query - -db /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > genome_annotation\/\/IS\.blast 2> /dev/null
+[02:06:37] Deleting unwanted file: genome_annotation//IS.faa
+[02:06:37] Deleting unwanted file: genome_annotation//IS.blast
+[02:06:37] There are still 1152 unannotated CDS left (started with 2890)
+[02:06:37] Will use blast to search against /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/kingdom/Bacteria/AMR with 4 CPUs
+[02:06:37] Running: cat genome_annotation\/\/AMR\.faa | parallel --gnu --plain -j 4 --block 35211 --recstart '>' --pipe blastp -query - -db /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > genome_annotation\/\/AMR\.blast 2> /dev/null
+[02:06:43] Deleting unwanted file: genome_annotation//AMR.faa
+[02:06:43] Deleting unwanted file: genome_annotation//AMR.blast
+[02:06:43] There are still 1152 unannotated CDS left (started with 2890)
+[02:06:43] Will use blast to search against /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/kingdom/Bacteria/sprot with 4 CPUs
+[02:06:43] Running: cat genome_annotation\/\/sprot\.faa | parallel --gnu --plain -j 4 --block 35211 --recstart '>' --pipe blastp -query - -db /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > genome_annotation\/\/sprot\.blast 2> /dev/null
+[02:07:08] Modify product: Uncharacterized protein YbdM => putative protein YbdM
+[02:07:08] Modify product: Uncharacterized membrane protein YuaF => putative membrane protein YuaF
+[02:07:08] Modify product: Uncharacterized protein NMB0459 => putative protein
+[02:07:08] Modify product: UPF0223 protein BH2638 => hypothetical protein
+[02:07:08] Modify product: UPF0358 protein EF_2458 => hypothetical protein
+[02:07:08] Modify product: UPF0302 protein BA_1542/GBAA_1542/BAS1430 => hypothetical protein
+[02:07:08] Modify product: UPF0346 protein YozE => hypothetical protein
+[02:07:08] Modify product: Putative trans-acting regulator SP_1800 => Putative trans-acting regulator
+[02:07:08] Modify product: Putative trans-acting regulator SP_1800 => Putative trans-acting regulator
+[02:07:08] Modify product: UPF0342 protein SA1663 => hypothetical protein
+[02:07:08] Modify product: UPF0356 protein M6_Spy1605 => hypothetical protein
+[02:07:08] Modify product: Nucleoid-associated protein Cthe_2143 => Nucleoid-associated protein
+[02:07:08] Modify product: Uncharacterized protein YaaQ => putative protein YaaQ
+[02:07:08] Modify product: UPF0297 protein EF_1202 => hypothetical protein
+[02:07:08] Modify product: UPF0473 protein SP_0194 => hypothetical protein
+[02:07:08] Modify product: UPF0154 protein SA1178 => hypothetical protein
+[02:07:08] Modify product: Probable transcriptional regulatory protein YeeN => putative transcriptional regulatory protein YeeN
+[02:07:08] Modify product: Uncharacterized protein YkuJ => putative protein YkuJ
+[02:07:08] Modify product: UPF0374 protein SP_1903 => hypothetical protein
+[02:07:08] Modify product: Uncharacterized protein Spy1535 => putative protein
+[02:07:08] Modify product: Deacetylase EF_0837 => Deacetylase
+[02:07:08] Modify product: Uncharacterized HTH-type transcriptional regulator YtcD => putative HTH-type transcriptional regulator YtcD
+[02:07:08] Modify product: Uncharacterized protein YqgQ => putative protein YqgQ
+[02:07:08] Modify product: Putative acetyltransferase SA2342 => Putative acetyltransferase
+[02:07:08] Modify product: Uncharacterized protein PA2218 => putative protein
+[02:07:08] Modify product: Uncharacterized transmembrane protein YxlG => putative transmembrane protein YxlG
+[02:07:08] Modify product: Probable formate transporter 1 => putative formate transporter 1
+[02:07:08] Modify product: Probable type I restriction enzyme BthVORF4518P M protein => putative type I restriction enzymeP M protein
+[02:07:08] Modify product: UPF0145 protein YbjQ => hypothetical protein
+[02:07:08] Modify product: Uncharacterized protein YmcA => putative protein YmcA
+[02:07:08] Modify product: Uncharacterized protein YueI => putative protein YueI
+[02:07:08] Modify product: Putative trans-acting regulator SP_1800 => Putative trans-acting regulator
+[02:07:08] Modify product: UPF0291 protein SP_1473 => hypothetical protein
+[02:07:08] Modify product: UPF0398 protein YpsA => hypothetical protein
+[02:07:08] Modify product: UPF0340 protein YwlG => hypothetical protein
+[02:07:08] Modify product: UPF0701 protein HI_0467 => hypothetical protein
+[02:07:09] Cleaned 36 /product names
+[02:07:09] Deleting unwanted file: genome_annotation//sprot.faa
+[02:07:09] Deleting unwanted file: genome_annotation//sprot.blast
+[02:07:09] There are still 1027 unannotated CDS left (started with 2890)
+[02:07:09] Will use hmmer3 to search against /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/hmm/HAMAP.hmm with 4 CPUs
+[02:07:09] Running: cat genome_annotation\/\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 4 --block 30525 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd/db/hmm/HAMAP.hmm /dev/stdin > genome_annotation\/\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[02:07:25] Deleting unwanted file: genome_annotation//HAMAP.hmm.faa
+[02:07:25] Deleting unwanted file: genome_annotation//HAMAP.hmm.hmmer3
+[02:07:25] Labelling remaining 1006 proteins as 'hypothetical protein'
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_1 position 55937
+[02:07:25] Possible /pseudo 'ABC transporter ATP-binding protein' at DMW1_1_contig_1 position 70909
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_1 position 165943
+[02:07:25] Possible /pseudo 'oxidoreductase, aldo/keto reductase family protein' at DMW1_1_contig_1 position 198341
+[02:07:25] Possible /pseudo 'ribosomal-protein-alanine acetyltransferase' at DMW1_1_contig_1 position 225841
+[02:07:25] Possible /pseudo 'Galactose-6-phosphate isomerase subunit LacB' at DMW1_1_contig_1 position 321674
+[02:07:25] Possible /pseudo 'copper-translocating P-type ATPase' at DMW1_1_contig_1 position 358359
+[02:07:25] Possible /pseudo 'tagatose 1,6-diphosphate aldolase' at DMW1_1_contig_1 position 387110
+[02:07:25] Possible /pseudo '1-phosphofructokinase' at DMW1_1_contig_1 position 389819
+[02:07:25] Possible /pseudo 'acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative' at DMW1_1_contig_4 position 65277
+[02:07:25] Possible /pseudo 'membrane protein' at DMW1_1_contig_4 position 80162
+[02:07:25] Possible /pseudo 'SMR family multidrug resistance protein' at DMW1_1_contig_4 position 126099
+[02:07:25] Possible /pseudo 'Putative trans-acting regulator' at DMW1_1_contig_4 position 178105
+[02:07:25] Possible /pseudo 'coenzyme A disulfide reductase' at DMW1_1_contig_5 position 20464
+[02:07:25] Possible /pseudo 'amino acid permease' at DMW1_1_contig_5 position 51368
+[02:07:25] Possible /pseudo 'membrane protein' at DMW1_1_contig_5 position 57456
+[02:07:25] Possible /pseudo 'CRISPR-associated endonuclease Cas9' at DMW1_1_contig_5 position 63302
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_5 position 83286
+[02:07:25] Possible /pseudo 'LPXTG-motif protein cell wall anchor domain protein' at DMW1_1_contig_5 position 110063
+[02:07:25] Possible /pseudo 'ABC transporter ATP-binding protein' at DMW1_1_contig_5 position 118231
+[02:07:25] Possible /pseudo 'ISEf1, transposase' at DMW1_1_contig_7 position 31008
+[02:07:25] Possible /pseudo 'ISEfa8, transposase' at DMW1_1_contig_7 position 33806
+[02:07:25] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at DMW1_1_contig_9 position 28724
+[02:07:25] Possible /pseudo 'phosphate ABC transporter ATP-binding protein' at DMW1_1_contig_9 position 184532
+[02:07:25] Possible /pseudo 'glycosyl transferase family protein' at DMW1_1_contig_11 position 53699
+[02:07:25] Possible /pseudo 'glycosyl transferase family protein' at DMW1_1_contig_11 position 124863
+[02:07:25] Possible /pseudo 'glycosyl transferase family protein' at DMW1_1_contig_11 position 125684
+[02:07:25] Possible /pseudo 'efflux ABC transporter permease' at DMW1_1_contig_11 position 204221
+[02:07:25] Possible /pseudo 'ABC transporter, ATP-binding protein/permease' at DMW1_1_contig_11 position 241372
+[02:07:25] Possible /pseudo 'PTS system, sugar-specific IIBC component' at DMW1_1_contig_11 position 274415
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_11 position 313148
+[02:07:25] Possible /pseudo 'Vitamin B12 import ATP-binding protein BtuD' at DMW1_1_contig_11 position 345737
+[02:07:25] Possible /pseudo 'PTS system, trehalose/maltose-specific, IIBCA component' at DMW1_1_contig_13 position 158683
+[02:07:25] Possible /pseudo 'iron ABC transporter system permease' at DMW1_1_contig_13 position 183687
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_13 position 202091
+[02:07:25] Possible /pseudo 'peptide ABC transporter ATP-binding protein' at DMW1_1_contig_13 position 203998
+[02:07:25] Possible /pseudo 'fructose-1,6-bisphosphate aldolase' at DMW1_1_contig_13 position 240930
+[02:07:25] Possible /pseudo 'purine nucleoside phosphorylase' at DMW1_1_contig_13 position 256604
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_13 position 259858
+[02:07:25] Possible /pseudo 'helix-turn-helix domain-containing protein' at DMW1_1_contig_13 position 324623
+[02:07:25] Possible /pseudo 'translation-associated GTPase' at DMW1_1_contig_13 position 338342
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_16 position 26585
+[02:07:25] Possible /pseudo 'peptidase, U32 family' at DMW1_1_contig_22 position 4921
+[02:07:25] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at DMW1_1_contig_23 position 40923
+[02:07:25] Possible /pseudo 'YycH protein' at DMW1_1_contig_23 position 65835
+[02:07:25] Possible /pseudo 'DNA directed DNA polymerase' at DMW1_1_contig_23 position 151274
+[02:07:25] Possible /pseudo 'LPXTG-motif protein cell wall anchor domain protein' at DMW1_1_contig_23 position 176797
+[02:07:25] Possible /pseudo 'alpha3-beta1 integrin-binding family protein' at DMW1_1_contig_24 position 20530
+[02:07:25] Possible /pseudo 'glycosyl transferase family protein' at DMW1_1_contig_24 position 40126
+[02:07:25] Possible /pseudo 'major facilitator superfamily transporter' at DMW1_1_contig_24 position 70495
+[02:07:25] Possible /pseudo 'M protein trans-acting positive regulator' at DMW1_1_contig_24 position 77297
+[02:07:25] Possible /pseudo 'ABC transporter permease' at DMW1_1_contig_24 position 97003
+[02:07:25] Possible /pseudo 'DNA-3-methyladenine glycosylase' at DMW1_1_contig_29 position 7836
+[02:07:25] Possible /pseudo 'Cytochrome P450' at DMW1_1_contig_29 position 13576
+[02:07:25] Possible /pseudo 'ABC transporter ATP-binding protein' at DMW1_1_contig_29 position 122288
+[02:07:25] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at DMW1_1_contig_29 position 149655
+[02:07:25] Possible /pseudo 'SIS domain-containing protein' at DMW1_1_contig_29 position 158175
+[02:07:25] Possible /pseudo 'chitin binding protein' at DMW1_1_contig_29 position 160335
+[02:07:25] Found 554 unique /gene codes.
+[02:07:25] Fixed 2 duplicate /gene - agrB_1 agrB_2
+[02:07:25] Fixed 3 duplicate /gene - btuD_1 btuD_2 btuD_3
+[02:07:25] Fixed 2 duplicate /gene - cas9_1 cas9_2
+[02:07:25] Fixed 2 duplicate /gene - cbiO_1 cbiO_2
+[02:07:25] Fixed 2 duplicate /gene - yozG_1 yozG_2
+[02:07:25] Fixed 2 duplicate /gene - clpX_1 clpX_2
+[02:07:25] Fixed 2 duplicate /gene - lacB_1 lacB_2
+[02:07:25] Fixed 2 duplicate /gene - prgN_1 prgN_2
+[02:07:25] Fixed 2 duplicate /gene - ligA_1 ligA_2
+[02:07:25] Fixed 2 duplicate /gene - metN2_1 metN2_2
+[02:07:25] Fixed 2 duplicate /gene - msmK_1 msmK_2
+[02:07:25] Fixed 2 duplicate /gene - nox_1 nox_2
+[02:07:25] Fixed 2 duplicate /gene - pepV_1 pepV_2
+[02:07:25] Fixed 2 duplicate /gene - lacG_1 lacG_2
+[02:07:25] Fixed 2 duplicate /gene - metB_1 metB_2
+[02:07:25] Fixed 2 duplicate /gene - essB_1 essB_2
+[02:07:25] Fixed 7 duplicate /gene - xerC_1 xerC_2 xerC_3 xerC_4 xerC_5 xerC_6 xerC_7
+[02:07:25] Fixed 2 duplicate /gene - lexA_1 lexA_2
+[02:07:25] Fixed 2 duplicate /gene - cspLA_1 cspLA_2
+[02:07:25] Fixed 2 duplicate /gene - tkt_1 tkt_2
+[02:07:25] Fixed 2 duplicate /gene - dfrD_1 dfrD_2
+[02:07:25] Fixed 2 duplicate /gene - rhaR_1 rhaR_2
+[02:07:25] Fixed 2 duplicate /gene - metQ_1 metQ_2
+[02:07:25] Fixed 2 duplicate /gene - lacD1_1 lacD1_2
+[02:07:25] Fixed 3 duplicate /gene - esxA_1 esxA_2 esxA_3
+[02:07:25] Fixed 2 duplicate /gene - msrA_1 msrA_2
+[02:07:25] Fixed 2 duplicate /gene - soj_1 soj_2
+[02:07:25] Fixed 2 duplicate /gene - yafQ_1 yafQ_2
+[02:07:25] Fixed 2 duplicate /gene - repB_1 repB_2
+[02:07:25] Fixed 4 duplicate /gene - rep_1 rep_2 rep_3 rep_4
+[02:07:25] Fixed 3 duplicate /gene - bin3_1 bin3_2 bin3_3
+[02:07:25] Fixed 2 duplicate /gene - dnaB_1 dnaB_2
+[02:07:25] Fixed 2 duplicate /gene - artM_1 artM_2
+[02:07:25] Fixed 2 duplicate /gene - arcB_1 arcB_2
+[02:07:25] Fixed 2 duplicate /gene - pglF_1 pglF_2
+[02:07:25] Fixed 2 duplicate /gene - tuf_1 tuf_2
+[02:07:25] Fixed 36 colliding /gene names.
+[02:07:25] Adding /locus_tag identifiers
+[02:07:25] Assigned 2954 locus_tags to CDS and RNA features.
+[02:07:25] Writing outputs to genome_annotation//
+[02:07:26] Generating annotation statistics file
+[02:07:26] Generating Genbank and Sequin files
+[02:07:26] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka' -Z genome_annotation\/\/DMW1\-1\.err -i genome_annotation\/\/DMW1\-1\.fsa 2> /dev/null
+[02:07:32] Deleting unwanted file: genome_annotation//errorsummary.val
+[02:07:32] Deleting unwanted file: genome_annotation//DMW1-1.dr
+[02:07:32] Deleting unwanted file: genome_annotation//DMW1-1.fixedproducts
+[02:07:32] Deleting unwanted file: genome_annotation//DMW1-1.ecn
+[02:07:32] Deleting unwanted file: genome_annotation//DMW1-1.val
+[02:07:32] Repairing broken .GBK output that tbl2asn produces...
+[02:07:32] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < genome_annotation\/\/DMW1\-1\.gbf > genome_annotation\/\/DMW1\-1\.gbk
+[02:07:32] Deleting unwanted file: genome_annotation//DMW1-1.gbf
+[02:07:32] Output files:
+[02:07:32] genome_annotation/DMW1-1.tbl
+[02:07:32] genome_annotation/DMW1-1.faa
+[02:07:32] genome_annotation/DMW1-1.sqn
+[02:07:32] genome_annotation/DMW1-1.tsv
+[02:07:32] genome_annotation/DMW1-1.txt
+[02:07:32] genome_annotation/DMW1-1.ffn
+[02:07:32] genome_annotation/DMW1-1.fna
+[02:07:32] genome_annotation/DMW1-1.fsa
+[02:07:32] genome_annotation/DMW1-1.log
+[02:07:32] genome_annotation/DMW1-1.gff
+[02:07:32] genome_annotation/DMW1-1.gbk
+[02:07:32] genome_annotation/DMW1-1.err
+[02:07:32] Annotation finished successfully.
+[02:07:32] Walltime used: 1.50 minutes
+[02:07:32] If you use this result please cite the Prokka paper:
+[02:07:32] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[02:07:32] Type 'prokka --citation' for more details.
+[02:07:32] Thank you, come again.

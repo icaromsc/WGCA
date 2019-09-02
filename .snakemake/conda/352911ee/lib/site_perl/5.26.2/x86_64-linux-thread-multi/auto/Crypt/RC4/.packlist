@@ -1,2 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Crypt/RC4.pm relocate_as=../../../../Crypt/RC4.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Crypt::RC4.3 relocate_as=../../../../../../../man/man3/Crypt::RC4.3

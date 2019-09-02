@@ -1,2 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/HTTP/Negotiate.pm relocate_as=../../../../HTTP/Negotiate.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/HTTP::Negotiate.3 relocate_as=../../../../../../../man/man3/HTTP::Negotiate.3

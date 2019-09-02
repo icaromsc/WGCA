@@ -1,0 +1,784 @@
+[DEBUG] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 96) Logging initialized
+[INFO] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 122) This is the /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[DEBUG] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7, gbk
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7.gbk has been read.
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 201) We have 108 contigs
+[DEBUG] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7, gbk
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7.gbk has been read.
+[INFO] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:43 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7
+[INFO] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7, found formats: .faa .ffn .ptt
+[DEBUG] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2019/09/02 02:05:44 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/C7.faa >/home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMoFnnwCl20/blasttmpWRQS0Du_gN
+[DEBUG] 2019/09/02 02:05:50 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2019/09/02 02:05:50 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2019/09/02 02:05:51 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2019/09/02 02:05:51 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2019/09/02 02:06:01 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2019/09/02 02:06:01 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2019/09/02 02:06:01 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2019/09/02 02:06:01 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 137) Printing results
+[INFO] 2019/09/02 02:06:01 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 167) Removing tmp files
+[DEBUG] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 96) Logging initialized
+[INFO] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 122) This is the /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[DEBUG] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1, gbk
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1.gbk has been read.
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 201) We have 63 contigs
+[DEBUG] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1, gbk
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1.gbk has been read.
+[INFO] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:35 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1
+[INFO] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1, found formats: .faa .ffn .ptt
+[DEBUG] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2019/09/02 02:07:36 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/DMW1-1.faa >/home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpMWPaFzoWED/blasttmpToHlR0uclN
+[DEBUG] 2019/09/02 02:07:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2019/09/02 02:07:41 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2019/09/02 02:07:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2019/09/02 02:07:42 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2019/09/02 02:07:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2019/09/02 02:07:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2019/09/02 02:07:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2019/09/02 02:07:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 137) Printing results
+[INFO] 2019/09/02 02:07:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 167) Removing tmp files
+[DEBUG] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 96) Logging initialized
+[INFO] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 122) This is the /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[DEBUG] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2, gbk
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2.gbk has been read.
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:31 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 201) We have 42 contigs
+[DEBUG] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2, gbk
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2.gbk has been read.
+[INFO] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:32 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2
+[INFO] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2, found formats: .faa .ffn .ptt
+[DEBUG] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2019/09/02 02:09:33 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/D2.faa >/home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpSVPak3g81m/blasttmptKCTLpnDj9
+[DEBUG] 2019/09/02 02:09:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2019/09/02 02:09:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2019/09/02 02:09:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2019/09/02 02:09:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2019/09/02 02:09:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2019/09/02 02:09:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2019/09/02 02:09:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2019/09/02 02:09:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 137) Printing results
+[INFO] 2019/09/02 02:09:52 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 167) Removing tmp files
+[DEBUG] 2019/09/02 02:11:21 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 96) Logging initialized
+[INFO] 2019/09/02 02:11:21 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2019/09/02 02:11:21 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 122) This is the /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[DEBUG] 2019/09/02 02:11:21 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9, gbk
+[TRACE] 2019/09/02 02:11:21 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2019/09/02 02:11:21 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9.gbk has been read.
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 201) We have 15 contigs
+[DEBUG] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9.gbk got /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9, gbk
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9.gbk has been read.
+[INFO] 2019/09/02 02:11:22 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2019/09/02 02:11:23 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:23 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:23 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:23 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:23 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:23 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9
+[INFO] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9, found formats: .faa .ffn .ptt
+[DEBUG] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2019/09/02 02:11:24 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/B9.faa >/home/icaro/Documentos/WGCA/genome_annotation/dimob_tmpr3HmJYvffI/blasttmp8L1bZkL29Z
+[DEBUG] 2019/09/02 02:11:29 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2019/09/02 02:11:29 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2019/09/02 02:11:30 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2019/09/02 02:11:30 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2019/09/02 02:11:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2019/09/02 02:11:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2019/09/02 02:11:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2019/09/02 02:11:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 137) Printing results
+[INFO] 2019/09/02 02:11:40 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 167) Removing tmp files

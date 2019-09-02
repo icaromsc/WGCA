@@ -1,6 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/bin/cpanm relocate_as=../../../../../../../bin/cpanm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/App/cpanminus.pm relocate_as=../../../../App/cpanminus.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/App/cpanminus/fatscript.pm relocate_as=../../../../App/cpanminus/fatscript.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man1/cpanm.1 relocate_as=../../../../../../../man/man1/cpanm.1
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/App::cpanminus.3 relocate_as=../../../../../../../man/man3/App::cpanminus.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/App::cpanminus::fatscript.3 relocate_as=../../../../../../../man/man3/App::cpanminus::fatscript.3

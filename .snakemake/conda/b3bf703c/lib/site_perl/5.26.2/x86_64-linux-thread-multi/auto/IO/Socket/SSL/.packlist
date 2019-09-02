@@ -1,9 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/IO/Socket/SSL.pm relocate_as=../../../../../IO/Socket/SSL.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/IO/Socket/SSL.pod relocate_as=../../../../../IO/Socket/SSL.pod
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/IO/Socket/SSL/Intercept.pm relocate_as=../../../../../IO/Socket/SSL/Intercept.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/IO/Socket/SSL/PublicSuffix.pm relocate_as=../../../../../IO/Socket/SSL/PublicSuffix.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/IO/Socket/SSL/Utils.pm relocate_as=../../../../../IO/Socket/SSL/Utils.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/IO::Socket::SSL.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/IO::Socket::SSL::Intercept.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL::Intercept.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/IO::Socket::SSL::PublicSuffix.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL::PublicSuffix.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/IO::Socket::SSL::Utils.3 relocate_as=../../../../../../../../man/man3/IO::Socket::SSL::Utils.3

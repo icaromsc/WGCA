@@ -1,8 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Sub/Exporter.pm relocate_as=../../../../Sub/Exporter.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Sub/Exporter/Cookbook.pod relocate_as=../../../../Sub/Exporter/Cookbook.pod
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Sub/Exporter/Tutorial.pod relocate_as=../../../../Sub/Exporter/Tutorial.pod
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Sub/Exporter/Util.pm relocate_as=../../../../Sub/Exporter/Util.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Sub::Exporter.3 relocate_as=../../../../../../../man/man3/Sub::Exporter.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Sub::Exporter::Cookbook.3 relocate_as=../../../../../../../man/man3/Sub::Exporter::Cookbook.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Sub::Exporter::Tutorial.3 relocate_as=../../../../../../../man/man3/Sub::Exporter::Tutorial.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Sub::Exporter::Util.3 relocate_as=../../../../../../../man/man3/Sub::Exporter::Util.3

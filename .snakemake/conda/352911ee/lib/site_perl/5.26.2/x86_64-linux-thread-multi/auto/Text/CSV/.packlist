@@ -1,4 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Text/CSV.pm relocate_as=../../../../Text/CSV.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Text/CSV_PP.pm relocate_as=../../../../Text/CSV_PP.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Text::CSV.3 relocate_as=../../../../../../../man/man3/Text::CSV.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Text::CSV_PP.3 relocate_as=../../../../../../../man/man3/Text::CSV_PP.3

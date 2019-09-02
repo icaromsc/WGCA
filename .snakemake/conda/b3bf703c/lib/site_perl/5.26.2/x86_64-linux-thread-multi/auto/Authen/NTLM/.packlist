@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Authen/NTLM.pm relocate_as=../../../../Authen/NTLM.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Authen/NTLM/DES.pm relocate_as=../../../../Authen/NTLM/DES.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Authen/NTLM/MD4.pm relocate_as=../../../../Authen/NTLM/MD4.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Authen::NTLM.3 relocate_as=../../../../../../../man/man3/Authen::NTLM.3

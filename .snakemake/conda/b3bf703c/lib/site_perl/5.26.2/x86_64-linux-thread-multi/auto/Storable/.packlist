@@ -1,3 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Storable.pm relocate_as=../../Storable.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Storable/Storable.so relocate_as=Storable.so
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Storable.3 relocate_as=../../../../../../man/man3/Storable.3

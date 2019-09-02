@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Types/Serialiser.pm relocate_as=../../../../Types/Serialiser.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Types/Serialiser/Error.pm relocate_as=../../../../Types/Serialiser/Error.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Types::Serialiser.3 relocate_as=../../../../../../../man/man3/Types::Serialiser.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Types::Serialiser::Error.3 relocate_as=../../../../../../../man/man3/Types::Serialiser::Error.3

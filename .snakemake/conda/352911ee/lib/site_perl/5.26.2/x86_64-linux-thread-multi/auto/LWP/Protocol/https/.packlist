@@ -1,2 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/LWP/Protocol/https.pm relocate_as=../../../../../LWP/Protocol/https.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/LWP::Protocol::https.3 relocate_as=../../../../../../../../man/man3/LWP::Protocol::https.3

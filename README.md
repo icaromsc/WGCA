@@ -1,6 +1,7 @@
 # WGCA
 Bioinformatics Workflow for Whole Genome Clinical annotation of bacterias including: Virulence and resistance genes
 
+[![Snakemake](https://img.shields.io/badge/snakemake-≥5.5.4-brightgreen.svg?style=flat-square)](https://snakemake.bitbucket.io)
 
 ## Getting Started
 

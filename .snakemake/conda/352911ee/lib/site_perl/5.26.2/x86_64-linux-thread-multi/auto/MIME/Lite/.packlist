@@ -1,4 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MIME/Lite.pm relocate_as=../../../../MIME/Lite.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/MIME/changes.pod relocate_as=../../../../MIME/changes.pod
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/MIME::Lite.3 relocate_as=../../../../../../../man/man3/MIME::Lite.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/MIME::changes.3 relocate_as=../../../../../../../man/man3/MIME::changes.3

@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Test/Most.pm relocate_as=../../../../Test/Most.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/Test/Most/Exception.pm relocate_as=../../../../Test/Most/Exception.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Test::Most.3 relocate_as=../../../../../../../man/man3/Test::Most.3
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/Test::Most::Exception.3 relocate_as=../../../../../../../man/man3/Test::Most::Exception.3

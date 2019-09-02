@@ -1,6 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Business/ISBN.pm relocate_as=../../../../Business/ISBN.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Business/ISBN10.pm relocate_as=../../../../Business/ISBN10.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Business/ISBN13.pm relocate_as=../../../../Business/ISBN13.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Business::ISBN.3 relocate_as=../../../../../../../man/man3/Business::ISBN.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Business::ISBN10.3 relocate_as=../../../../../../../man/man3/Business::ISBN10.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Business::ISBN13.3 relocate_as=../../../../../../../man/man3/Business::ISBN13.3

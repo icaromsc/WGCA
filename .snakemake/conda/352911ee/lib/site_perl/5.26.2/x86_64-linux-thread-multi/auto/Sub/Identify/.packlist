@@ -1,3 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/Sub/Identify.pm relocate_as=../../../Sub/Identify.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/x86_64-linux-thread-multi/auto/Sub/Identify/Identify.so relocate_as=Identify.so
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Sub::Identify.3 relocate_as=../../../../../../../man/man3/Sub::Identify.3

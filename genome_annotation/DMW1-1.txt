@@ -1,0 +1,7 @@
+organism: Enterococcus species strain 
+contigs: 63
+bases: 3081981
+CDS: 2890
+rRNA: 4
+tRNA: 59
+tmRNA: 1

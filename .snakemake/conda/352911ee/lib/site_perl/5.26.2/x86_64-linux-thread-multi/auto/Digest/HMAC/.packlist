@@ -1,6 +1,0 @@
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Digest/HMAC.pm relocate_as=../../../../Digest/HMAC.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Digest/HMAC_MD5.pm relocate_as=../../../../Digest/HMAC_MD5.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/lib/site_perl/5.26.2/Digest/HMAC_SHA1.pm relocate_as=../../../../Digest/HMAC_SHA1.pm
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Digest::HMAC.3 relocate_as=../../../../../../../man/man3/Digest::HMAC.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Digest::HMAC_MD5.3 relocate_as=../../../../../../../man/man3/Digest::HMAC_MD5.3
-/home/icaro/WGCA/.snakemake/conda/352911ee/man/man3/Digest::HMAC_SHA1.3 relocate_as=../../../../../../../man/man3/Digest::HMAC_SHA1.3

@@ -1,4 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Exception/Class.pm relocate_as=../../../../Exception/Class.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/lib/site_perl/5.26.2/Exception/Class/Base.pm relocate_as=../../../../Exception/Class/Base.pm
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Exception::Class.3 relocate_as=../../../../../../../man/man3/Exception::Class.3
-/home/bioinfo/WGCA/.snakemake/conda/abe316d1/man/man3/Exception::Class::Base.3 relocate_as=../../../../../../../man/man3/Exception::Class::Base.3

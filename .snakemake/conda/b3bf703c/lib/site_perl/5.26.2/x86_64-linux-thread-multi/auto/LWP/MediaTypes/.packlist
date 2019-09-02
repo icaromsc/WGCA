@@ -1,3 +1,0 @@
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/LWP/MediaTypes.pm relocate_as=../../../../LWP/MediaTypes.pm
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/lib/site_perl/5.26.2/LWP/media.types relocate_as=../../../../LWP/media.types
-/home/bioinfo/WGCA/.snakemake/conda/b3bf703c/man/man3/LWP::MediaTypes.3 relocate_as=../../../../../../../man/man3/LWP::MediaTypes.3
