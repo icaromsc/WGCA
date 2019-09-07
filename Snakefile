@@ -22,6 +22,7 @@ rule all:
         "WGCA_analysis_result/RGI_heatmap"
 
 
+
 rule virulence_identification:
     input:
         "data/samples/{sample}.fasta"
@@ -102,18 +103,24 @@ rule summary_results:
         p="plasmid_prediction/summary.tsv",
         v="virulence_genes/summary.tsv",
         r="resistome_summary/RGI_heatmap",
-        gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES)
+        gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
+        rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES)
+
     output:
         r="WGCA_analysis_result/RGI_heatmap",
         v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="Virulence factors"),
         p=report("WGCA_analysis_result/plasmid_summary.tsv", caption="report_description/plasmid.rst", category="Plasmid Prediction"),
-        t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="Antimicrobial Resistance")
+        t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="Antimicrobial Resistance"),
+        rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Antimicrobial Resistance")
+
     run:
         shell("cp {input.p} {output.p}")
         shell("cp {input.v} {output.v}")
         shell("cp {input.r} {output.r}")
         shell("cp resistome_summary/RGI_* WGCA_analysis_result/")
         shell("cp {input.gi} WGCA_analysis_result/")
+        shell("cp {input.rt} WGCA_analysis_result/")
+        shell("cd WGCA_analysis_result/ ; rename 's/.txt/.tsv/' *")
 
 rule genome_annotation:
     input:
@@ -123,7 +130,7 @@ rule genome_annotation:
     conda:
         "envs/prokka.yaml"
     shell:
-        "prokka --force --outdir genome_annotation/ --usegenus --Genus Enterococcus --prefix {wildcards.sample} {input}"
+        "prokka --force --outdir genome_annotation/ --usegenus --Genus Enterococcus --compliant --prefix {wildcards.sample} {input}"
 
 # rule genomic_island_prediction_docker:
 #     input:

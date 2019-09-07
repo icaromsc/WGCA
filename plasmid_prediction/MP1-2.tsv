@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+data/samples/MP1-2.fasta	MP1_2_contig_20	10643	11614	repUS15__ORF(E.faecium287)	1-972/1041	========/======	3/16	92.60	90.41	plasmidfinder	NZAAAK010000287	plasmidfinder~~~repUS15__ORF(E.faecium287)~~~NZAAAK010000287 repUS15__ORF(E.faecium287)_NZAAAK010000287
+data/samples/MP1-2.fasta	MP1_2_contig_26	15599	16956	rep2_1_ORF(E.faeciumContig1183)_JDOE	1-1357/1494	========/=====.	3/7	90.63	79.72	plasmidfinder		plasmidfinder~~~rep2_1_ORF(E.faeciumContig1183)_JDOE~~~ rep2_1_ORF(E.faeciumContig1183)_JDOE

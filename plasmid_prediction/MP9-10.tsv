@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+data/samples/MP9-10.fasta	MP9_10_DIV1229A_trimmed_(paired)_contig_27	1	938	rep11_1_repA(pB82)	1-938/945	===============	0/0	99.26	80.92	plasmidfinder	AB178871	plasmidfinder~~~rep11_1_repA(pB82)~~~AB178871 rep11_1_repA(pB82)_AB178871

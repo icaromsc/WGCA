@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	summary_results
+	2
+
+[Fri Sep  6 01:25:18 2019]
+rule summary_results:
+    input: plasmid_prediction/summary.tsv, virulence_genes/summary.tsv, resistome_summary/RGI_heatmap, genomic_islands/MP2-6_GI.gff3, genomic_islands/MP7-18_GI.gff3, genomic_islands/MP10-1_GI.gff3, genomic_islands/J2_GI.gff3, genomic_islands/C7_GI.gff3, genomic_islands/MP5-1_GI.gff3, genomic_islands/OG1RF_GI.gff3, genomic_islands/GT3-2_GI.gff3, genomic_islands/WS1-5_GI.gff3, genomic_islands/GT4-4_GI.gff3, genomic_islands/HT1-12_GI.gff3, genomic_islands/MP9-10_GI.gff3, genomic_islands/MP1-5_GI.gff3, genomic_islands/HT2-4_GI.gff3, genomic_islands/D2_GI.gff3, genomic_islands/B9_GI.gff3, genomic_islands/MP8-1_GI.gff3, genomic_islands/MP1-1_GI.gff3, genomic_islands/J4_GI.gff3, genomic_islands/GT6-1_GI.gff3, genomic_islands/MP8-17_GI.gff3, genomic_islands/HT1-3_GI.gff3, genomic_islands/MP1-2_GI.gff3, genomic_islands/MP1-4_GI.gff3, genomic_islands/DMW1-1_GI.gff3, genomic_islands/GT5-1_GI.gff3, genomic_islands/V583_GI.gff3, genomic_islands/RD1-1_GI.gff3, genomic_islands/HW1-1_GI.gff3, genomic_islands/ST1-20_GI.gff3, genomic_islands/L8_GI.gff3, resistome_summary/MP2-6.txt, resistome_summary/MP7-18.txt, resistome_summary/MP10-1.txt, resistome_summary/J2.txt, resistome_summary/C7.txt, resistome_summary/MP5-1.txt, resistome_summary/OG1RF.txt, resistome_summary/GT3-2.txt, resistome_summary/WS1-5.txt, resistome_summary/GT4-4.txt, resistome_summary/HT1-12.txt, resistome_summary/MP9-10.txt, resistome_summary/MP1-5.txt, resistome_summary/HT2-4.txt, resistome_summary/D2.txt, resistome_summary/B9.txt, resistome_summary/MP8-1.txt, resistome_summary/MP1-1.txt, resistome_summary/J4.txt, resistome_summary/GT6-1.txt, resistome_summary/MP8-17.txt, resistome_summary/HT1-3.txt, resistome_summary/MP1-2.txt, resistome_summary/MP1-4.txt, resistome_summary/DMW1-1.txt, resistome_summary/GT5-1.txt, resistome_summary/V583.txt, resistome_summary/RD1-1.txt, resistome_summary/HW1-1.txt, resistome_summary/ST1-20.txt, resistome_summary/L8.txt
+    output: WGCA_analysis_result/RGI_heatmap, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/RGI_heatmap-31.png, WGCA_analysis_result/V583.tsv
+    jobid: 1
+
+[Fri Sep  6 01:25:19 2019]
+Finished job 1.
+1 of 2 steps (50%) done
+
+[Fri Sep  6 01:25:19 2019]
+localrule all:
+    input: WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/RGI_heatmap
+    jobid: 0
+
+[Fri Sep  6 01:25:19 2019]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: /home/icaro/Documentos/WGCA/.snakemake/log/2019-09-06T012518.620672.snakemake.log

@@ -1,0 +1,129 @@
+Building DAG of jobs...
+Creating conda environment envs/abricate.yaml...
+Downloading remote packages.
+Environment for envs/abricate.yaml created (location: .snakemake/conda/f4ce689f)
+Creating conda environment envs/island_path.yaml...
+Downloading remote packages.
+Environment for envs/island_path.yaml created (location: .snakemake/conda/8cd2193e)
+Creating conda environment envs/prokka.yaml...
+Downloading remote packages.
+Environment for envs/prokka.yaml created (location: .snakemake/conda/349eb0fd)
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	generate_resistome_heatmap
+	31	genome_annotation
+	31	genomic_island_prediction
+	31	plasmid_prediction
+	31	resistome_prediction
+	1	summarize_plasmid_prediction
+	1	summarize_virulence
+	1	summary_results
+	31	virulence_identification
+	160
+
+[Thu Sep  5 22:03:26 2019]
+rule plasmid_prediction:
+    input: data/samples/L8.fasta
+    output: plasmid_prediction/L8.tsv
+    jobid: 66
+    wildcards: sample=L8
+
+
+[Thu Sep  5 22:03:26 2019]
+rule virulence_identification:
+    input: data/samples/L8.fasta
+    output: virulence_genes/L8.tsv
+    jobid: 97
+    wildcards: sample=L8
+
+
+[Thu Sep  5 22:03:26 2019]
+rule genome_annotation:
+    input: data/samples/L8.fasta
+    output: genome_annotation/L8.gbk
+    jobid: 159
+    wildcards: sample=L8
+
+
+[Thu Sep  5 22:03:26 2019]
+rule resistome_prediction:
+    input: data/samples/L8.fasta
+    output: resistome_prediction/L8
+    jobid: 128
+    wildcards: sample=L8
+
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/f4ce689f
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/f4ce689f
+[Thu Sep  5 22:03:42 2019]
+Finished job 66.
+1 of 160 steps (0.62%) done
+
+[Thu Sep  5 22:03:42 2019]
+rule virulence_identification:
+    input: data/samples/HT1-3.fasta
+    output: virulence_genes/HT1-3.tsv
+    jobid: 88
+    wildcards: sample=HT1-3
+
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/f4ce689f
+[Thu Sep  5 22:03:46 2019]
+Finished job 97.
+2 of 160 steps (1%) done
+
+[Thu Sep  5 22:03:46 2019]
+rule plasmid_prediction:
+    input: data/samples/HT1-3.fasta
+    output: plasmid_prediction/HT1-3.tsv
+    jobid: 57
+    wildcards: sample=HT1-3
+
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/f4ce689f
+[Thu Sep  5 22:03:48 2019]
+Finished job 88.
+3 of 160 steps (2%) done
+
+[Thu Sep  5 22:03:48 2019]
+rule resistome_prediction:
+    input: data/samples/HT1-3.fasta
+    output: resistome_prediction/HT1-3
+    jobid: 119
+    wildcards: sample=HT1-3
+
+[Thu Sep  5 22:03:49 2019]
+Finished job 57.
+4 of 160 steps (2%) done
+
+[Thu Sep  5 22:03:49 2019]
+rule genome_annotation:
+    input: data/samples/HT1-3.fasta
+    output: genome_annotation/HT1-3.gbk
+    jobid: 150
+    wildcards: sample=HT1-3
+
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd
+[Thu Sep  5 22:06:29 2019]
+Error in rule genome_annotation:
+    jobid: 159
+    output: genome_annotation/L8.gbk
+    conda-env: /home/icaro/Documentos/WGCA/.snakemake/conda/349eb0fd
+    shell:
+        prokka --force --outdir genome_annotation/ --usegenus --Genus Enterococcus --compliant --prefix L8 data/samples/L8.fasta
+        (exited with non-zero exit code)
+
+[Thu Sep  5 22:09:14 2019]
+Finished job 150.
+5 of 160 steps (3%) done
+[Thu Sep  5 22:09:52 2019]
+Finished job 119.
+6 of 160 steps (4%) done
+[Thu Sep  5 22:10:08 2019]
+Finished job 128.
+7 of 160 steps (4%) done
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/icaro/Documentos/WGCA/.snakemake/log/2019-09-05T220040.696459.snakemake.log
