@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 163 of /home/icaro/Documentos/WGCA/Snakefile:
+Missing input files for rule prophage_prediction:
+seeds/V583

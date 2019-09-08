@@ -1,0 +1,3022 @@
+GNDDNANJ_00001	cell division protein FtsK
+GNDDNANJ_00002	GntR family transcriptional regulator
+GNDDNANJ_00003	ABC transporter ATP-binding protein
+GNDDNANJ_00004	peptide ABC transporter permease/transmembrane protein
+GNDDNANJ_00005	ribosomal RNA large subunit methyltransferase N
+GNDDNANJ_00006	amino acid permease family protein
+GNDDNANJ_00007	type II/IV secretion system protein
+GNDDNANJ_00008	type II secretion system F domain protein
+GNDDNANJ_00009	prepilin-type cleavage/methylation domain protein
+GNDDNANJ_00010	hypothetical protein
+GNDDNANJ_00011	site-specific tyrosine recombinase XerC-family protein
+GNDDNANJ_00012	hypothetical protein
+GNDDNANJ_00013	hypothetical protein
+GNDDNANJ_00014	hypothetical protein
+GNDDNANJ_00015	hypothetical protein
+GNDDNANJ_00016	hypothetical protein
+GNDDNANJ_00017	hypothetical protein
+GNDDNANJ_00018	phage anti-repressor protein
+GNDDNANJ_00019	hypothetical protein
+GNDDNANJ_00020	hypothetical protein
+GNDDNANJ_00021	hypothetical protein
+GNDDNANJ_00022	hypothetical protein
+GNDDNANJ_00023	hypothetical protein
+GNDDNANJ_00024	hypothetical protein
+GNDDNANJ_00025	hypothetical protein
+GNDDNANJ_00026	hypothetical protein
+GNDDNANJ_00027	hypothetical protein
+GNDDNANJ_00028	hypothetical protein
+GNDDNANJ_00029	hypothetical protein
+GNDDNANJ_00030	hypothetical protein
+GNDDNANJ_00031	hypothetical protein
+GNDDNANJ_00032	hypothetical protein
+GNDDNANJ_00033	YopX protein
+GNDDNANJ_00034	hypothetical protein
+GNDDNANJ_00035	putative phage protein YopX
+GNDDNANJ_00036	hypothetical protein
+GNDDNANJ_00037	hypothetical protein
+GNDDNANJ_00038	hypothetical protein
+GNDDNANJ_00039	hypothetical protein
+GNDDNANJ_00040	hypothetical protein
+GNDDNANJ_00041	hypothetical protein
+GNDDNANJ_00042	ArpU family transcriptional regulator
+GNDDNANJ_00043	tRNA-Trp
+GNDDNANJ_00044	hypothetical protein
+GNDDNANJ_00045	hypothetical protein
+GNDDNANJ_00046	hypothetical protein
+GNDDNANJ_00047	hypothetical protein
+GNDDNANJ_00048	hypothetical protein
+GNDDNANJ_00049	hypothetical protein
+GNDDNANJ_00050	phage portal protein
+GNDDNANJ_00051	hypothetical protein
+GNDDNANJ_00052	hypothetical protein
+GNDDNANJ_00053	hypothetical protein
+GNDDNANJ_00054	hypothetical protein
+GNDDNANJ_00055	hypothetical protein
+GNDDNANJ_00056	hypothetical protein
+GNDDNANJ_00057	hypothetical protein
+GNDDNANJ_00058	hypothetical protein
+GNDDNANJ_00059	hypothetical protein
+GNDDNANJ_00060	hypothetical protein
+GNDDNANJ_00061	hypothetical protein
+GNDDNANJ_00062	hypothetical protein
+GNDDNANJ_00063	hypothetical protein
+GNDDNANJ_00064	phage putative tail component protein
+GNDDNANJ_00065	phage minor structural protein
+GNDDNANJ_00066	hypothetical protein
+GNDDNANJ_00067	hypothetical protein
+GNDDNANJ_00068	hypothetical protein
+GNDDNANJ_00069	hypothetical protein
+GNDDNANJ_00070	hypothetical protein
+GNDDNANJ_00071	hypothetical protein
+GNDDNANJ_00072	hypothetical protein
+GNDDNANJ_00073	hypothetical protein
+GNDDNANJ_00074	tRNA-Met
+GNDDNANJ_00075	hypothetical protein
+GNDDNANJ_00076	Competence protein ComGF
+GNDDNANJ_00077	hypothetical protein
+GNDDNANJ_00078	adenine-specific methyltransferase
+GNDDNANJ_00079	acetate kinase
+GNDDNANJ_00080	universal stress protein
+GNDDNANJ_00081	hypothetical protein
+GNDDNANJ_00082	recombination factor protein RarA
+GNDDNANJ_00083	DNA-3-methyladenine glycosylase
+GNDDNANJ_00084	DNA-3-methyladenine glycosylase
+GNDDNANJ_00085	50S ribosomal protein L11 methyltransferase
+GNDDNANJ_00086	16S ribosomal RNA methyltransferase RsmE
+GNDDNANJ_00087	GTP diphosphokinase
+GNDDNANJ_00088	D-tyrosyl-tRNA(Tyr) deacylase
+GNDDNANJ_00089	histidyl-tRNA synthetase
+GNDDNANJ_00090	aspartyl-tRNA synthetase
+GNDDNANJ_00091	phosphomethylpyrimidine kinase
+GNDDNANJ_00092	Thiamine precursor transporter HmpT
+GNDDNANJ_00093	hypothetical protein
+GNDDNANJ_00094	integral membrane protein
+GNDDNANJ_00095	SorC family transcriptional regulator
+GNDDNANJ_00096	glyceraldehyde-3-phosphate dehydrogenase
+GNDDNANJ_00097	phosphoglycerate kinase
+GNDDNANJ_00098	triosephosphate isomerase
+GNDDNANJ_00099	enolase
+GNDDNANJ_00100	hypothetical protein
+GNDDNANJ_00101	Deoxyguanosinetriphosphate triphosphohydrolase
+GNDDNANJ_00102	transcriptional antiterminator bglG:Sigma-54 factor
+GNDDNANJ_00103	PTS system, mannose/fructose/sorbose-specific IIA component
+GNDDNANJ_00104	PTS system, mannose/fructose/sorbose-specific IIB component
+GNDDNANJ_00105	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_00106	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_00107	SIS domain-containing protein
+GNDDNANJ_00108	SIS domain-containing protein
+GNDDNANJ_00109	hypothetical protein
+GNDDNANJ_00110	hypothetical protein
+GNDDNANJ_00111	hypothetical protein
+GNDDNANJ_00112	arylsulfatase
+GNDDNANJ_00113	Multidrug resistance protein MdtL
+GNDDNANJ_00114	hypothetical protein
+GNDDNANJ_00115	Regulatory protein YeiL
+GNDDNANJ_00116	hypothetical protein
+GNDDNANJ_00117	calcium-translocating P-type ATPase
+GNDDNANJ_00118	hypothetical protein
+GNDDNANJ_00119	hypothetical protein
+GNDDNANJ_00120	hypothetical protein
+GNDDNANJ_00121	hypothetical protein
+GNDDNANJ_00122	pyridine nucleotide-disulfide oxidoreductase
+GNDDNANJ_00123	helix-turn-helix domain-containing protein
+GNDDNANJ_00124	glycerol kinase
+GNDDNANJ_00125	alpha-glycerophosphate oxidase
+GNDDNANJ_00126	glycerol uptake facilitator protein
+GNDDNANJ_00127	hypothetical protein
+GNDDNANJ_00128	hypothetical protein
+GNDDNANJ_00129	M protein trans-acting positive regulator
+GNDDNANJ_00130	Sulfofructose kinase
+GNDDNANJ_00131	inosine-uridine preferring nucleoside hydrolase
+GNDDNANJ_00132	Putative cryptic C4-dicarboxylate transporter DcuD
+GNDDNANJ_00133	hypothetical protein
+GNDDNANJ_00134	3-carboxymuconate cyclase
+GNDDNANJ_00135	ATP-dependent protease ATP-binding protein ClpX
+GNDDNANJ_00136	ribosome biogenesis GTP-binding protein YsxC
+GNDDNANJ_00137	hypothetical protein
+GNDDNANJ_00138	Putative membrane protein insertion efficiency factor
+GNDDNANJ_00139	ROK family protein
+GNDDNANJ_00140	membrane protein
+GNDDNANJ_00141	membrane spanning protein
+GNDDNANJ_00142	hypothetical protein
+GNDDNANJ_00143	UDP-N-acetylmuramate--L-alanine ligase
+GNDDNANJ_00144	MaoC like domain-containing protein
+GNDDNANJ_00145	Inhibitor of apoptosis-promoting Bax1
+GNDDNANJ_00146	glycerophosphodiester phosphodiesterase family protein
+GNDDNANJ_00147	hypothetical protein
+GNDDNANJ_00148	hypothetical protein
+GNDDNANJ_00149	metal ion transporter
+GNDDNANJ_00150	16S rRNA processing protein RimM
+GNDDNANJ_00151	tRNA (guanine-N1)-methyltransferase
+GNDDNANJ_00152	50S ribosomal protein L19
+GNDDNANJ_00153	hypothetical protein
+GNDDNANJ_00154	hypothetical protein
+GNDDNANJ_00155	polysaccharide deacetylase family protein
+GNDDNANJ_00156	HD domain-containing protein
+GNDDNANJ_00157	hypothetical protein
+GNDDNANJ_00158	DeoR-like helix-turn-helix protein
+GNDDNANJ_00159	PTS system galactitol-specific transporter subunit IIC
+GNDDNANJ_00160	hypothetical protein
+GNDDNANJ_00161	hypothetical protein
+GNDDNANJ_00162	Galactose-6-phosphate isomerase subunit LacA
+GNDDNANJ_00163	Galactose-6-phosphate isomerase subunit LacB
+GNDDNANJ_00164	hypothetical protein
+GNDDNANJ_00165	PTS system, mannose/fructose/sorbose-specific IIAB component
+GNDDNANJ_00166	PTS system mannose-specific transporter subunit IIAB
+GNDDNANJ_00167	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_00168	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_00169	Hydroxypyruvate reductase
+GNDDNANJ_00170	glycerol uptake facilitator protein
+GNDDNANJ_00171	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+GNDDNANJ_00172	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+GNDDNANJ_00173	Lactate racemase
+GNDDNANJ_00174	CarD family transcriptional regulator
+GNDDNANJ_00175	putative fused nickel transport protein LarMN
+GNDDNANJ_00176	Nickel permease LarQ
+GNDDNANJ_00177	cobalt import ATP-binding protein CbiO 2
+GNDDNANJ_00178	Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase
+GNDDNANJ_00179	hypothetical protein
+GNDDNANJ_00180	M protein trans-acting positive regulator
+GNDDNANJ_00181	hypothetical protein
+GNDDNANJ_00182	hypothetical protein
+GNDDNANJ_00183	hypothetical protein
+GNDDNANJ_00184	cell wall surface anchor family protein
+GNDDNANJ_00185	Alcohol dehydrogenase 1
+GNDDNANJ_00186	hypothetical protein
+GNDDNANJ_00187	hypothetical protein
+GNDDNANJ_00188	hypothetical protein
+GNDDNANJ_00189	Accessory gene regulator A
+GNDDNANJ_00190	Accessory gene regulator protein B
+GNDDNANJ_00191	hypothetical protein
+GNDDNANJ_00192	Gelatinase
+GNDDNANJ_00193	Glutamyl endopeptidase
+GNDDNANJ_00194	hypothetical protein
+GNDDNANJ_00195	hypothetical protein
+GNDDNANJ_00196	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+GNDDNANJ_00197	sulfatase
+GNDDNANJ_00198	hypothetical protein
+GNDDNANJ_00199	hypothetical protein
+GNDDNANJ_00200	hypothetical protein
+GNDDNANJ_00201	cell wall surface anchor family protein
+GNDDNANJ_00202	hypothetical protein
+GNDDNANJ_00203	hypothetical protein
+GNDDNANJ_00204	LytTR family transcriptional regulator
+GNDDNANJ_00205	hypothetical protein
+GNDDNANJ_00206	hypothetical protein
+GNDDNANJ_00207	cell wall surface anchor family protein
+GNDDNANJ_00208	hypothetical protein
+GNDDNANJ_00209	glycosyl transferase family protein
+GNDDNANJ_00210	glycosyl transferase family protein
+GNDDNANJ_00211	Mg2+ cation transporter
+GNDDNANJ_00212	Manganese containing catalase
+GNDDNANJ_00213	transcriptional regulator, GntR family
+GNDDNANJ_00214	sugar isomerase
+GNDDNANJ_00215	tagatose 1,6-diphosphate aldolase
+GNDDNANJ_00216	Tagatose-6-phosphate kinase
+GNDDNANJ_00217	Beta-galactosidase
+GNDDNANJ_00218	PTS system, mannose/fructose/sorbose-specific IIB component
+GNDDNANJ_00219	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_00220	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_00221	PTS system, mannose/fructose/sorbose-specific IIA component
+GNDDNANJ_00222	hypothetical protein
+GNDDNANJ_00223	hypothetical protein
+GNDDNANJ_00224	hypothetical protein
+GNDDNANJ_00225	hypothetical protein
+GNDDNANJ_00226	hypothetical protein
+GNDDNANJ_00227	branched-chain amino acid aminotransferase
+GNDDNANJ_00228	hypothetical protein
+GNDDNANJ_00229	hypothetical protein
+GNDDNANJ_00230	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_00231	YjeF protein
+GNDDNANJ_00232	SPFH domain / Band 7 family protein
+GNDDNANJ_00233	phosphoribosylaminoimidazole carboxylase catalytic subunit
+GNDDNANJ_00234	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+GNDDNANJ_00235	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GNDDNANJ_00236	phosphoribosylformylglycinamidine synthase subunit PurS
+GNDDNANJ_00237	Phosphoribosylformylglycinamidine synthase I
+GNDDNANJ_00238	Phosphoribosylformylglycinamidine synthase II
+GNDDNANJ_00239	Amidophosphoribosyltransferase
+GNDDNANJ_00240	Phosphoribosylformylglycinamidine cyclo-ligase
+GNDDNANJ_00241	Phosphoribosylglycinamide formyltransferase
+GNDDNANJ_00242	bifunctional purine biosynthesis protein PurH
+GNDDNANJ_00243	Phosphoribosylamine--glycine ligase
+GNDDNANJ_00244	hypothetical protein
+GNDDNANJ_00245	Tim44-like domain-containing protein
+GNDDNANJ_00246	membrane protein
+GNDDNANJ_00247	aldose dehydrogenase
+GNDDNANJ_00248	aldose dehydrogenase
+GNDDNANJ_00249	hypothetical protein
+GNDDNANJ_00250	IMPACT family member YigZ
+GNDDNANJ_00251	hypothetical protein
+GNDDNANJ_00252	PTS system cellobiose-specific transporter subunit IIB
+GNDDNANJ_00253	helicase
+GNDDNANJ_00254	competence protein ComFC
+GNDDNANJ_00255	ribosomal subunit interface protein
+GNDDNANJ_00256	preprotein translocase, SecA subunit
+GNDDNANJ_00257	peptide chain release factor 2
+GNDDNANJ_00258	cell division ATP-binding protein FtsE
+GNDDNANJ_00259	efflux ABC transporter, permease protein
+GNDDNANJ_00260	phosphate binding protein
+GNDDNANJ_00261	phosphate ABC transporter permease PstC
+GNDDNANJ_00262	phosphate ABC transporter, permease protein PstA
+GNDDNANJ_00263	phosphate ABC transporter ATP-binding protein
+GNDDNANJ_00264	phosphate ABC transporter ATP-binding protein
+GNDDNANJ_00265	phosphate transport system regulatory protein PhoU
+GNDDNANJ_00266	hypothetical protein
+GNDDNANJ_00267	PspC domain protein
+GNDDNANJ_00268	integral membrane protein
+GNDDNANJ_00269	excinuclease ABC
+GNDDNANJ_00270	HPr kinase/phosphorylase
+GNDDNANJ_00271	Prolipoprotein diacylglyceryl transferase
+GNDDNANJ_00272	glycerol-3-phosphate dehydrogenase
+GNDDNANJ_00273	UTP-glucose-1-phosphate uridylyltransferase
+GNDDNANJ_00274	extracellular protein
+GNDDNANJ_00275	general stress protein
+GNDDNANJ_00276	Xaa-Pro dipeptidase
+GNDDNANJ_00277	catabolite control protein A
+GNDDNANJ_00278	ABC transporter ATP-binding protein
+GNDDNANJ_00279	ABC-2 family transporter protein
+GNDDNANJ_00280	hypothetical protein
+GNDDNANJ_00281	hypothetical protein
+GNDDNANJ_00282	hypothetical protein
+GNDDNANJ_00283	hypothetical protein
+GNDDNANJ_00284	hypothetical protein
+GNDDNANJ_00285	hypothetical protein
+GNDDNANJ_00286	hypothetical protein
+GNDDNANJ_00287	hypothetical protein
+GNDDNANJ_00288	hypothetical protein
+GNDDNANJ_00289	major facilitator superfamily transporter
+GNDDNANJ_00290	esterase
+GNDDNANJ_00291	TetR family transcriptional regulator
+GNDDNANJ_00292	ABC transporter ATP-binding protein
+GNDDNANJ_00293	ABC transporter ATP-binding protein
+GNDDNANJ_00294	TetR family transcriptional regulator
+GNDDNANJ_00295	efflux ABC transporter permease
+GNDDNANJ_00296	ABC transporter ATP-binding protein
+GNDDNANJ_00297	rRNA methylase family protein
+GNDDNANJ_00298	radical SAM protein family protein
+GNDDNANJ_00299	PAP2 family protein
+GNDDNANJ_00300	hypothetical protein
+GNDDNANJ_00301	hypothetical protein
+GNDDNANJ_00302	aspartate aminotransferase
+GNDDNANJ_00303	amino acid ABC transporter ATP-binding protein
+GNDDNANJ_00304	amino acid ABC transporter permease
+GNDDNANJ_00305	Hydroxycarboxylate dehydrogenase A
+GNDDNANJ_00306	queuine tRNA-ribosyltransferase
+GNDDNANJ_00307	hypothetical protein
+GNDDNANJ_00308	hypothetical protein
+GNDDNANJ_00309	aldehyde-alcohol dehydrogenase
+GNDDNANJ_00310	isopentenyl-diphosphate delta-isomerase
+GNDDNANJ_00311	phosphomevalonate kinase
+GNDDNANJ_00312	diphosphomevalonate decarboxylase
+GNDDNANJ_00313	mevalonate kinase
+GNDDNANJ_00314	pentapeptide repeat-containing protein
+GNDDNANJ_00315	hypothetical protein
+GNDDNANJ_00316	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_00317	hypothetical protein
+GNDDNANJ_00318	oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein
+GNDDNANJ_00319	oligopeptide ABC transporter, permease protein OppC family protein
+GNDDNANJ_00320	ABC transporter ATP-binding protein
+GNDDNANJ_00321	ABC transporter ATP-binding protein
+GNDDNANJ_00322	transposase
+GNDDNANJ_00323	translation initiation factor IF-3
+GNDDNANJ_00324	50S ribosomal protein L35
+GNDDNANJ_00325	50S ribosomal protein L20
+GNDDNANJ_00326	hypothetical protein
+GNDDNANJ_00327	membrane protein
+GNDDNANJ_00328	putative N-acetyltransferase YjaB
+GNDDNANJ_00329	hypothetical protein
+GNDDNANJ_00330	sulfate transporter/STAS domain-containing protein
+GNDDNANJ_00331	membrane protein
+GNDDNANJ_00332	LysR family transcriptional regulator
+GNDDNANJ_00333	hypothetical protein
+GNDDNANJ_00334	hypothetical protein
+GNDDNANJ_00335	hypothetical protein
+GNDDNANJ_00336	DNA-binding response regulator
+GNDDNANJ_00337	sensor histidine kinase
+GNDDNANJ_00338	glucose uptake protein
+GNDDNANJ_00339	amino acid permease
+GNDDNANJ_00340	methionyl-tRNA synthetase
+GNDDNANJ_00341	hypothetical protein
+GNDDNANJ_00342	hypothetical protein
+GNDDNANJ_00343	ATP-dependent DNA helicase IV
+GNDDNANJ_00344	TatD family hydrolase
+GNDDNANJ_00345	ribonuclease M5
+GNDDNANJ_00346	ribosomal RNA small subunit methyltransferase A
+GNDDNANJ_00347	Niacin transporter NiaX
+GNDDNANJ_00348	ABC transporter ATP-binding protein
+GNDDNANJ_00349	methylglyoxal synthase
+GNDDNANJ_00350	membrane protein
+GNDDNANJ_00351	ABC transporter ATP-binding protein/permease
+GNDDNANJ_00352	ABC transporter ATP-binding protein/permease
+GNDDNANJ_00353	hypothetical protein
+GNDDNANJ_00354	hypothetical protein
+GNDDNANJ_00355	GNAT family acetyltransferase
+GNDDNANJ_00356	hypothetical protein
+GNDDNANJ_00357	HAD superfamily hydrolase
+GNDDNANJ_00358	uracil-DNA glycosylase
+GNDDNANJ_00359	phosphate acetyltransferase
+GNDDNANJ_00360	ATPase
+GNDDNANJ_00361	GNAT family acetyltransferase
+GNDDNANJ_00362	hypothetical protein
+GNDDNANJ_00363	LacI family sugar-binding transcriptional regulator
+GNDDNANJ_00364	aldose 1-epimerase
+GNDDNANJ_00365	beta-phosphoglucomutase
+GNDDNANJ_00366	glycoside hydrolase, family 65
+GNDDNANJ_00367	PTS system glucose-specific transporter subunit IIABC
+GNDDNANJ_00368	endonuclease/exonuclease/phosphatase family protein
+GNDDNANJ_00369	delta 1-pyrroline-5-carboxylate reductase
+GNDDNANJ_00370	HTH-type transcriptional activator RhaS
+GNDDNANJ_00371	hypothetical protein
+GNDDNANJ_00372	MazG nucleotide pyrophosphohydrolase
+GNDDNANJ_00373	MerR family transcriptional regulator
+GNDDNANJ_00374	hypothetical protein
+GNDDNANJ_00375	hypothetical protein
+GNDDNANJ_00376	hypothetical protein
+GNDDNANJ_00377	hypothetical protein
+GNDDNANJ_00378	hypothetical protein
+GNDDNANJ_00379	hypothetical protein
+GNDDNANJ_00380	hypothetical protein
+GNDDNANJ_00381	hypothetical protein
+GNDDNANJ_00382	tRNA-Arg
+GNDDNANJ_00383	50S ribosomal protein L21
+GNDDNANJ_00384	putative ribosomal protein
+GNDDNANJ_00385	50S ribosomal protein L27
+GNDDNANJ_00386	Protein PsiE
+GNDDNANJ_00387	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+GNDDNANJ_00388	Xaa-Pro dipeptidase
+GNDDNANJ_00389	hypothetical protein
+GNDDNANJ_00390	alkaline-shock protein
+GNDDNANJ_00391	transcription antitermination factor NusB
+GNDDNANJ_00392	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+GNDDNANJ_00393	exodeoxyribonuclease VII large subunit
+GNDDNANJ_00394	exodeoxyribonuclease VII small subunit
+GNDDNANJ_00395	geranyltranstransferase
+GNDDNANJ_00396	hemolysin A
+GNDDNANJ_00397	arginine repressor protein
+GNDDNANJ_00398	DNA repair protein RecN
+GNDDNANJ_00399	hypothetical protein
+GNDDNANJ_00400	CorA-like Mg2+ transporter protein
+GNDDNANJ_00401	hypothetical protein
+GNDDNANJ_00402	cell division protein MraZ
+GNDDNANJ_00403	S-adenosyl-methyltransferase MraW
+GNDDNANJ_00404	cell division protein FtsL
+GNDDNANJ_00405	peptidoglycan glycosyltransferase
+GNDDNANJ_00406	phospho-N-acetylmuramoyl-pentapeptide- transferase
+GNDDNANJ_00407	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GNDDNANJ_00408	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+GNDDNANJ_00409	cell division protein FtsQ
+GNDDNANJ_00410	cell division protein FtsA
+GNDDNANJ_00411	cell division protein FtsZ
+GNDDNANJ_00412	alanine racemase
+GNDDNANJ_00413	Cell division protein SepF
+GNDDNANJ_00414	hypothetical protein
+GNDDNANJ_00415	S4 domain-containing protein
+GNDDNANJ_00416	cell division protein DivIVA
+GNDDNANJ_00417	isoleucyl-tRNA synthetase
+GNDDNANJ_00418	glucose-6-phosphate 1-dehydrogenase
+GNDDNANJ_00419	iron dependent repressor, DNA binding domain protein
+GNDDNANJ_00420	hypothetical protein
+GNDDNANJ_00421	sugar fermentation stimulation protein
+GNDDNANJ_00422	oxidoreductase family, NAD-binding Rossmann fold protein
+GNDDNANJ_00423	DEAD/DEAH box helicase
+GNDDNANJ_00424	transcriptional antiterminator bglG:Sigma-54 factor
+GNDDNANJ_00425	PTS system cellobiose-specific transporter subunit IIB
+GNDDNANJ_00426	PTS system lactose/cellobiose-specific transporter subunit IIC
+GNDDNANJ_00427	hypothetical protein
+GNDDNANJ_00428	hypothetical protein
+GNDDNANJ_00429	hypothetical protein
+GNDDNANJ_00430	PTS system cellobiose-specific transporter subunit IIB
+GNDDNANJ_00431	PTS system, lactose/cellobiose-specific IIA component
+GNDDNANJ_00432	PTS system lactose/cellobiose-specific transporter subunit IIC
+GNDDNANJ_00433	putative 6-phospho-beta-glucosidase
+GNDDNANJ_00434	acetyltransferase
+GNDDNANJ_00435	hypothetical protein
+GNDDNANJ_00436	tRNA-Arg
+GNDDNANJ_00437	antibiotic biosynthesis monooxygenase
+GNDDNANJ_00438	Pyruvate, phosphate dikinase
+GNDDNANJ_00439	Transcriptional repressor CcpN
+GNDDNANJ_00440	Putative phosphotransferase
+GNDDNANJ_00441	ysyl-tRNA synthetase
+GNDDNANJ_00442	alpha/beta hydrolase
+GNDDNANJ_00443	hypothetical protein
+GNDDNANJ_00444	hypothetical protein
+GNDDNANJ_00445	excinuclease ABC subunit A
+GNDDNANJ_00446	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GNDDNANJ_00447	hypothetical protein
+GNDDNANJ_00448	hypothetical protein
+GNDDNANJ_00449	nucleoside diphosphate kinase
+GNDDNANJ_00450	Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+GNDDNANJ_00451	hypothetical protein
+GNDDNANJ_00452	HAD superfamily hydrolase
+GNDDNANJ_00453	hypothetical protein
+GNDDNANJ_00454	xanthine/uracil/vitamin C permease
+GNDDNANJ_00455	transporter, major facilitator family protein
+GNDDNANJ_00456	hypothetical protein
+GNDDNANJ_00457	DNA polymerase III subunit alpha
+GNDDNANJ_00458	6-phosphofructokinase
+GNDDNANJ_00459	Pyruvate kinase
+GNDDNANJ_00460	nucleic acid-binding protein
+GNDDNANJ_00461	50S ribosomal protein L32
+GNDDNANJ_00462	6-phosphogluconate dehydrogenase
+GNDDNANJ_00463	DNA-binding response regulator
+GNDDNANJ_00464	sensor histidine kinase
+GNDDNANJ_00465	ABC transporter, ATP-binding protein/permease
+GNDDNANJ_00466	hypothetical protein
+GNDDNANJ_00467	hypothetical protein
+GNDDNANJ_00468	hypothetical protein
+GNDDNANJ_00469	hypothetical protein
+GNDDNANJ_00470	hypothetical protein
+GNDDNANJ_00471	hypothetical protein
+GNDDNANJ_00472	hypothetical protein
+GNDDNANJ_00473	hypothetical protein
+GNDDNANJ_00474	hypothetical protein
+GNDDNANJ_00475	hypothetical protein
+GNDDNANJ_00476	hypothetical protein
+GNDDNANJ_00477	Lactococcin A secretion protein LcnD
+GNDDNANJ_00478	Lactococcin A secretion protein LcnD
+GNDDNANJ_00479	ABC transporter, ATP-binding protein/permease
+GNDDNANJ_00480	GntR family transcriptional regulator
+GNDDNANJ_00481	hypothetical protein
+GNDDNANJ_00482	hypothetical protein
+GNDDNANJ_00483	hypothetical protein
+GNDDNANJ_00484	hypothetical protein
+GNDDNANJ_00485	hypothetical protein
+GNDDNANJ_00486	hypothetical protein
+GNDDNANJ_00487	hypothetical protein
+GNDDNANJ_00488	hypothetical protein
+GNDDNANJ_00489	ATP/GTP-binding protein
+GNDDNANJ_00490	hypothetical protein
+GNDDNANJ_00491	hypothetical protein
+GNDDNANJ_00492	hypothetical protein
+GNDDNANJ_00493	hypothetical protein
+GNDDNANJ_00494	hypothetical protein
+GNDDNANJ_00495	hypothetical protein
+GNDDNANJ_00496	hypothetical protein
+GNDDNANJ_00497	hypothetical protein
+GNDDNANJ_00498	hypothetical protein
+GNDDNANJ_00499	hypothetical protein
+GNDDNANJ_00500	Cro/CI family transcriptional regulator
+GNDDNANJ_00501	hypothetical protein
+GNDDNANJ_00502	hypothetical protein
+GNDDNANJ_00503	hypothetical protein
+GNDDNANJ_00504	FtsK/SpoIIIE family protein
+GNDDNANJ_00505	hypothetical protein
+GNDDNANJ_00506	hypothetical protein
+GNDDNANJ_00507	hypothetical protein
+GNDDNANJ_00508	hypothetical protein
+GNDDNANJ_00509	hypothetical protein
+GNDDNANJ_00510	hypothetical protein
+GNDDNANJ_00511	hypothetical protein
+GNDDNANJ_00512	hypothetical protein
+GNDDNANJ_00513	hypothetical protein
+GNDDNANJ_00514	hypothetical protein
+GNDDNANJ_00515	hypothetical protein
+GNDDNANJ_00516	replication-associated protein
+GNDDNANJ_00517	hypothetical protein
+GNDDNANJ_00518	Lactococcin A secretion protein LcnD
+GNDDNANJ_00519	ABC transporter, ATP-binding protein/permease
+GNDDNANJ_00520	hypothetical protein
+GNDDNANJ_00521	hypothetical protein
+GNDDNANJ_00522	hypothetical protein
+GNDDNANJ_00523	hypothetical protein
+GNDDNANJ_00524	hypothetical protein
+GNDDNANJ_00525	hypothetical protein
+GNDDNANJ_00526	Lactococcin A secretion protein LcnD
+GNDDNANJ_00527	type I restriction-modification system, M subunit
+GNDDNANJ_00528	helix-turn-helix domain-containing protein
+GNDDNANJ_00529	calcium-translocating P-type ATPase, PMCA-type
+GNDDNANJ_00530	transporter, dicarboxylate/amino acid:cation symporter family protein
+GNDDNANJ_00531	hypothetical protein
+GNDDNANJ_00532	tRNA pseudouridine synthase A
+GNDDNANJ_00533	hypothetical protein
+GNDDNANJ_00534	hypothetical protein
+GNDDNANJ_00535	RNA polymerase sigma factor YlaC
+GNDDNANJ_00536	hypothetical protein
+GNDDNANJ_00537	sodium/dicarboxylate symporter family protein
+GNDDNANJ_00538	ribosomal RNA large subunit methyltransferase H
+GNDDNANJ_00539	Serine protease do-like htrA
+GNDDNANJ_00540	tRNA-binding domain-containing protein
+GNDDNANJ_00541	universal stress family protein
+GNDDNANJ_00542	thioredoxin
+GNDDNANJ_00543	glutamyl aminopeptidase
+GNDDNANJ_00544	small secreted protein
+GNDDNANJ_00545	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_00546	DNA-3-methyladenine glycosylase I
+GNDDNANJ_00547	hypothetical protein
+GNDDNANJ_00548	hypothetical protein
+GNDDNANJ_00549	hypothetical protein
+GNDDNANJ_00550	membrane protein
+GNDDNANJ_00551	hypothetical protein
+GNDDNANJ_00552	hypothetical protein
+GNDDNANJ_00553	sortase family protein
+GNDDNANJ_00554	hypothetical protein
+GNDDNANJ_00555	phosphotyrosine protein phosphatase
+GNDDNANJ_00556	TetR family dihydroxyacetone kinase regulator
+GNDDNANJ_00557	hypothetical protein
+GNDDNANJ_00558	rod shape-determining protein MreD
+GNDDNANJ_00559	rod shape-determining protein MreC
+GNDDNANJ_00560	Polyribonucleotide nucleotidyltransferase
+GNDDNANJ_00561	30S ribosomal protein S15
+GNDDNANJ_00562	peptide deformylase
+GNDDNANJ_00563	HAD superfamily hydrolase
+GNDDNANJ_00564	DNA alkylation repair protein
+GNDDNANJ_00565	formate/nitrite transporter
+GNDDNANJ_00566	30S ribosomal protein S4
+GNDDNANJ_00567	BioY family protein
+GNDDNANJ_00568	signal peptidase I
+GNDDNANJ_00569	hypothetical protein
+GNDDNANJ_00570	hypothetical protein
+GNDDNANJ_00571	hypothetical protein
+GNDDNANJ_00572	hypothetical protein
+GNDDNANJ_00573	hypothetical protein
+GNDDNANJ_00574	hypothetical protein
+GNDDNANJ_00575	peptidase T
+GNDDNANJ_00576	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_00577	iron ABC transporter substrate-binding protein
+GNDDNANJ_00578	iron ABC transporter ATP-binding protein
+GNDDNANJ_00579	iron ABC transporter system permease
+GNDDNANJ_00580	iron ABC transporter system permease
+GNDDNANJ_00581	putative protein YueI
+GNDDNANJ_00582	bifunctional glutamate--cysteine ligase/glutathione synthetase
+GNDDNANJ_00583	isochorismatase family hydrolase
+GNDDNANJ_00584	integral membrane protein
+GNDDNANJ_00585	glyoxalase family protein
+GNDDNANJ_00586	hypothetical protein
+GNDDNANJ_00587	Signal recognition particle receptor FtsY
+GNDDNANJ_00588	HAD superfamily hydrolase
+GNDDNANJ_00589	chromosome partition protein SMC
+GNDDNANJ_00590	ribonuclease III
+GNDDNANJ_00591	family 5 extracellular solute-binding protein
+GNDDNANJ_00592	ABC transporter permease
+GNDDNANJ_00593	ABC transporter permease
+GNDDNANJ_00594	peptide ABC transporter ATP-binding protein
+GNDDNANJ_00595	peptide ABC transporter ATP-binding protein
+GNDDNANJ_00596	acyl carrier protein
+GNDDNANJ_00597	fatty acid/phospholipid synthesis protein PlsX
+GNDDNANJ_00598	ATP-dependent DNA helicase RecG
+GNDDNANJ_00599	DAK2 domain fusion protein YloV
+GNDDNANJ_00600	alkaline-shock protein
+GNDDNANJ_00601	50S ribosomal protein L28
+GNDDNANJ_00602	thiamin pyrophosphokinase family protein
+GNDDNANJ_00603	Ribulose-phosphate 3-epimerase
+GNDDNANJ_00604	Putative ribosome biogenesis GTPase RsgA
+GNDDNANJ_00605	serine/threonine-protein kinase
+GNDDNANJ_00606	serine/threonine phosphatase
+GNDDNANJ_00607	Ribosomal RNA small subunit methyltransferase B
+GNDDNANJ_00608	Methionyl-tRNA formyltransferase
+GNDDNANJ_00609	Peptide deformylase
+GNDDNANJ_00610	Primosomal protein N'
+GNDDNANJ_00611	DNA-directed RNA polymerase subunit omega
+GNDDNANJ_00612	guanylate kinase
+GNDDNANJ_00613	hypothetical protein
+GNDDNANJ_00614	hypothetical protein
+GNDDNANJ_00615	hypothetical protein
+GNDDNANJ_00616	hypothetical protein
+GNDDNANJ_00617	hypothetical protein
+GNDDNANJ_00618	Putative KHG/KDPG aldolase
+GNDDNANJ_00619	D-mannonate dehydratase, UxuA_1
+GNDDNANJ_00620	PTS system, mannose/fructose/sorbose-specific IIA component
+GNDDNANJ_00621	PTS system, mannose/fructose/sorbose-specific IIB component
+GNDDNANJ_00622	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_00623	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_00624	Hydroxycarboxylate dehydrogenase A
+GNDDNANJ_00625	4-phosphoerythronate dehydrogenase
+GNDDNANJ_00626	6-phosphogluconate dehydrogenase
+GNDDNANJ_00627	phosphosugar isomerase transcriptional regulator
+GNDDNANJ_00628	ABC transporter ATP-binding protein/permease
+GNDDNANJ_00629	hypothetical protein
+GNDDNANJ_00630	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GNDDNANJ_00631	hypothetical protein
+GNDDNANJ_00632	peptidase M16 inactive domain protein
+GNDDNANJ_00633	Peptidase M16 inactive domain protein
+GNDDNANJ_00634	large conductance mechanosensitive channel protein
+GNDDNANJ_00635	hypothetical protein
+GNDDNANJ_00636	GntR family transcriptional regulator
+GNDDNANJ_00637	glycosyl hydrolase family protein
+GNDDNANJ_00638	beta-phosphoglucomutase
+GNDDNANJ_00639	Ribose-phosphate pyrophosphokinase 1
+GNDDNANJ_00640	peptide methionine sulfoxide reductase MsrB
+GNDDNANJ_00641	maf protein
+GNDDNANJ_00642	DNA mismatch repair protein
+GNDDNANJ_00643	DNA mismatch repair protein MutS
+GNDDNANJ_00644	putative protein YmcA
+GNDDNANJ_00645	calcineurin-like phosphoesterase
+GNDDNANJ_00646	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+GNDDNANJ_00647	DNA recombination protein RecA
+GNDDNANJ_00648	competence/damage-inducible protein CinA protein
+GNDDNANJ_00649	hypothetical protein
+GNDDNANJ_00650	NADH-flavin reductase
+GNDDNANJ_00651	Rrf2 family protein
+GNDDNANJ_00652	Inner membrane protein YccF
+GNDDNANJ_00653	hypothetical protein
+GNDDNANJ_00654	succinyl-diaminopimelate desuccinylase
+GNDDNANJ_00655	Anti-sigma-V factor RsiV
+GNDDNANJ_00656	ECF subfamily RNA polymerase sigma-70 region 2
+GNDDNANJ_00657	M protein trans-acting positive regulator
+GNDDNANJ_00658	hypothetical protein
+GNDDNANJ_00659	cell wall surface anchor family protein
+GNDDNANJ_00660	hypothetical protein
+GNDDNANJ_00661	hypothetical protein
+GNDDNANJ_00662	hypothetical protein
+GNDDNANJ_00663	hypothetical protein
+GNDDNANJ_00664	hypothetical protein
+GNDDNANJ_00665	FMN reductase (NADPH)
+GNDDNANJ_00666	S-ribosylhomocysteinase
+GNDDNANJ_00667	aspartate-semialdehyde dehydrogenase
+GNDDNANJ_00668	dihydrodipicolinate synthase
+GNDDNANJ_00669	Ribonuclease J 2
+GNDDNANJ_00670	Ser/Thr protein phosphatase family protein
+GNDDNANJ_00671	hypothetical protein
+GNDDNANJ_00672	HAD superfamily hydrolase
+GNDDNANJ_00673	integral membrane protein
+GNDDNANJ_00674	hypothetical protein
+GNDDNANJ_00675	EDD domain protein, DegV family
+GNDDNANJ_00676	glycerol uptake facilitator protein
+GNDDNANJ_00677	DNA-binding response regulator
+GNDDNANJ_00678	PAS domain sensory box histidine kinase
+GNDDNANJ_00679	YycH protein
+GNDDNANJ_00680	YycH protein
+GNDDNANJ_00681	metallo-beta-lactamase YycJ
+GNDDNANJ_00682	putative permease
+GNDDNANJ_00683	membrane protein
+GNDDNANJ_00684	hypothetical protein
+GNDDNANJ_00685	hypothetical protein
+GNDDNANJ_00686	hypothetical protein
+GNDDNANJ_00687	Holliday junction resolvase-like protein
+GNDDNANJ_00688	hypothetical protein
+GNDDNANJ_00689	helix-turn-helix domain-containing protein
+GNDDNANJ_00690	NADP-dependent malic enzyme
+GNDDNANJ_00691	Na+/citrate symporter
+GNDDNANJ_00692	Sensor histidine kinase DcuS
+GNDDNANJ_00693	response regulator receiver domain-containing protein
+GNDDNANJ_00694	NADH peroxidase
+GNDDNANJ_00695	transcriptional regulator
+GNDDNANJ_00696	acetolactate synthase
+GNDDNANJ_00697	alpha-acetolactate decarboxylase
+GNDDNANJ_00698	hypothetical protein
+GNDDNANJ_00699	hypothetical protein
+GNDDNANJ_00700	hypothetical protein
+GNDDNANJ_00701	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+GNDDNANJ_00702	spermidine/putrescine transport system permease protein PotC
+GNDDNANJ_00703	Sulfate/thiosulfate import ATP-binding protein CysA
+GNDDNANJ_00704	Putrescine-binding periplasmic protein SpuD
+GNDDNANJ_00705	adenine deaminase
+GNDDNANJ_00706	Melamine deaminase
+GNDDNANJ_00707	helix-turn-helix domain-containing protein
+GNDDNANJ_00708	ApbE family protein
+GNDDNANJ_00709	hypothetical protein
+GNDDNANJ_00710	hypothetical protein
+GNDDNANJ_00711	M protein trans-acting positive regulator
+GNDDNANJ_00712	hypothetical protein
+GNDDNANJ_00713	hypothetical protein
+GNDDNANJ_00714	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+GNDDNANJ_00715	ABC transporter permease
+GNDDNANJ_00716	ABC transporter permease
+GNDDNANJ_00717	hypothetical protein
+GNDDNANJ_00718	hypothetical protein
+GNDDNANJ_00719	Cephalosporin-C deacetylase
+GNDDNANJ_00720	hypothetical protein
+GNDDNANJ_00721	Beta-glucosidase BoGH3B
+GNDDNANJ_00722	1,2-beta-oligoglucan phosphorylase
+GNDDNANJ_00723	LacI family transcriptional regulator
+GNDDNANJ_00724	hypothetical protein
+GNDDNANJ_00725	GntR family transcriptional regulator
+GNDDNANJ_00726	6-phospho-beta-galactosidase
+GNDDNANJ_00727	oxidoreductase family, NAD-binding Rossmann fold protein
+GNDDNANJ_00728	hypothetical protein
+GNDDNANJ_00729	hypothetical protein
+GNDDNANJ_00730	hypothetical protein
+GNDDNANJ_00731	fibronectin-binding protein A
+GNDDNANJ_00732	hypothetical protein
+GNDDNANJ_00733	hypothetical protein
+GNDDNANJ_00734	ABC transporter substrate binding protein
+GNDDNANJ_00735	amino acid or sugar ABC transport system, permease protein
+GNDDNANJ_00736	ABC transporter ATP-binding protein
+GNDDNANJ_00737	hypothetical protein
+GNDDNANJ_00738	hypothetical protein
+GNDDNANJ_00739	HAD superfamily hydrolase
+GNDDNANJ_00740	response regulator receiver domain-containing protein
+GNDDNANJ_00741	sensor histidine kinase
+GNDDNANJ_00742	hypothetical protein
+GNDDNANJ_00743	hypothetical protein
+GNDDNANJ_00744	sulfatase
+GNDDNANJ_00745	SAM-dependent methyltransferase
+GNDDNANJ_00746	ribonuclease HIII
+GNDDNANJ_00747	cation transporter E1-E2 family ATPase
+GNDDNANJ_00748	hypothetical protein
+GNDDNANJ_00749	ribosome maturation protein RimP
+GNDDNANJ_00750	transcription termination factor NusA
+GNDDNANJ_00751	cytosolic protein YlxR
+GNDDNANJ_00752	50S ribosomal protein L7Ae
+GNDDNANJ_00753	translation initiation factor IF-2
+GNDDNANJ_00754	ribosome-binding factor A
+GNDDNANJ_00755	hypothetical protein
+GNDDNANJ_00756	hypothetical protein
+GNDDNANJ_00757	hypothetical protein
+GNDDNANJ_00758	hypothetical protein
+GNDDNANJ_00759	hypothetical protein
+GNDDNANJ_00760	DNA replication protein
+GNDDNANJ_00761	hypothetical protein
+GNDDNANJ_00762	hypothetical protein
+GNDDNANJ_00763	hypothetical protein
+GNDDNANJ_00764	hypothetical protein
+GNDDNANJ_00765	hypothetical protein
+GNDDNANJ_00766	hypothetical protein
+GNDDNANJ_00767	hypothetical protein
+GNDDNANJ_00768	hypothetical protein
+GNDDNANJ_00769	hypothetical protein
+GNDDNANJ_00770	hypothetical protein
+GNDDNANJ_00771	hypothetical protein
+GNDDNANJ_00772	holin
+GNDDNANJ_00773	hypothetical protein
+GNDDNANJ_00774	tRNA pseudouridine synthase B
+GNDDNANJ_00775	riboflavin biosynthesis protein RibF
+GNDDNANJ_00776	hypothetical protein
+GNDDNANJ_00777	PadR family transcriptional regulator
+GNDDNANJ_00778	hypothetical protein
+GNDDNANJ_00779	transcriptional regulator
+GNDDNANJ_00780	FtsW/RodA/SpoVE family cell cycle protein
+GNDDNANJ_00781	FtsW/RodA/SpoVE family cell cycle protein
+GNDDNANJ_00782	HTH-type transcriptional regulator CynR
+GNDDNANJ_00783	HTH-type transcriptional regulator CynR
+GNDDNANJ_00784	magnesium-translocating P-type ATPase
+GNDDNANJ_00785	putative oxygen-independent coproporphyrinogen III oxidase
+GNDDNANJ_00786	heat-inducible transcription repressor HrcA
+GNDDNANJ_00787	co-chaperone GrpE
+GNDDNANJ_00788	chaperone protein DnaK
+GNDDNANJ_00789	chaperone protein DnaJ
+GNDDNANJ_00790	metallophosphoesterase
+GNDDNANJ_00791	RNA binding protein S1
+GNDDNANJ_00792	SprT-like family protein
+GNDDNANJ_00793	tRNA-Leu
+GNDDNANJ_00794	aminotransferase AlaT
+GNDDNANJ_00795	hypothetical protein
+GNDDNANJ_00796	helix-turn-helix domain-containing protein
+GNDDNANJ_00797	N-acetylglucosamine-6-phosphate deacetylase
+GNDDNANJ_00798	hypothetical protein
+GNDDNANJ_00799	DNA-entry nuclease
+GNDDNANJ_00800	ABC transporter ATP-binding protein
+GNDDNANJ_00801	efflux ABC transporter permease
+GNDDNANJ_00802	putative membrane protein YuaF
+GNDDNANJ_00803	SPFH domain / Band 7 family protein
+GNDDNANJ_00804	hypothetical protein
+GNDDNANJ_00805	tRNA-Tyr
+GNDDNANJ_00806	tRNA-Gln
+GNDDNANJ_00807	hypothetical protein
+GNDDNANJ_00808	hypothetical protein
+GNDDNANJ_00809	hypothetical protein
+GNDDNANJ_00810	GntR family transcriptional regulator
+GNDDNANJ_00811	ESAT-6 secretion system extracellular protein A
+GNDDNANJ_00812	hypothetical protein
+GNDDNANJ_00813	hypothetical protein
+GNDDNANJ_00814	hypothetical protein
+GNDDNANJ_00815	hypothetical protein
+GNDDNANJ_00816	ESAT-6 secretion machinery protein EssC
+GNDDNANJ_00817	hypothetical protein
+GNDDNANJ_00818	hypothetical protein
+GNDDNANJ_00819	hypothetical protein
+GNDDNANJ_00820	hypothetical protein
+GNDDNANJ_00821	hypothetical protein
+GNDDNANJ_00822	hypothetical protein
+GNDDNANJ_00823	hypothetical protein
+GNDDNANJ_00824	hypothetical protein
+GNDDNANJ_00825	hypothetical protein
+GNDDNANJ_00826	hypothetical protein
+GNDDNANJ_00827	hypothetical protein
+GNDDNANJ_00828	hypothetical protein
+GNDDNANJ_00829	hypothetical protein
+GNDDNANJ_00830	hypothetical protein
+GNDDNANJ_00831	thioredoxin reductase
+GNDDNANJ_00832	hypothetical protein
+GNDDNANJ_00833	hypothetical protein
+GNDDNANJ_00834	hypothetical protein
+GNDDNANJ_00835	ABC transporter ATP-binding protein/permease
+GNDDNANJ_00836	hypothetical protein
+GNDDNANJ_00837	ABC transporter permease
+GNDDNANJ_00838	ABC transporter permease
+GNDDNANJ_00839	extracellular solute-binding protein
+GNDDNANJ_00840	alpha amylase
+GNDDNANJ_00841	glucan 1,6-alpha-glucosidase
+GNDDNANJ_00842	alpha amylase
+GNDDNANJ_00843	integral membrane protein
+GNDDNANJ_00844	magnesium-translocating P-type ATPase
+GNDDNANJ_00845	pyruvate dehydrogenase E1 component subunit alpha
+GNDDNANJ_00846	transketolase
+GNDDNANJ_00847	dihydrolipoamide S-succinyltransferase
+GNDDNANJ_00848	Dihydrolipoyl dehydrogenase
+GNDDNANJ_00849	HTH-type transcriptional activator RhaR
+GNDDNANJ_00850	glycerol dehydrogenase
+GNDDNANJ_00851	dihydroxyacetone kinase, phosphotransfer subunit
+GNDDNANJ_00852	dihydroxyacetone kinase subunit DhaK
+GNDDNANJ_00853	dihydroxyacetone kinase, DhaL subunit
+GNDDNANJ_00854	hypothetical protein
+GNDDNANJ_00855	hydroxymethylglutaryl-CoA synthase
+GNDDNANJ_00856	acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+GNDDNANJ_00857	permease
+GNDDNANJ_00858	integral membrane protein
+GNDDNANJ_00859	major cold shock protein CspA
+GNDDNANJ_00860	hypothetical protein
+GNDDNANJ_00861	ABC-2 family transporter protein
+GNDDNANJ_00862	ABC transporter ATP-binding protein
+GNDDNANJ_00863	hypothetical protein
+GNDDNANJ_00864	hypothetical protein
+GNDDNANJ_00865	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+GNDDNANJ_00866	metallo-beta-lactamase domain-containing protein
+GNDDNANJ_00867	DRTGG domain-containing protein
+GNDDNANJ_00868	DHHA1 domain protein
+GNDDNANJ_00869	putative alkylphosphonate utilization operon protein PhnA
+GNDDNANJ_00870	hypothetical protein
+GNDDNANJ_00871	VanZ/RDD domain protein
+GNDDNANJ_00872	DEAD/DEAH box helicase
+GNDDNANJ_00873	hypothetical protein
+GNDDNANJ_00874	alanyl-tRNA synthetase
+GNDDNANJ_00875	SAM-dependent methyltransferase family protein
+GNDDNANJ_00876	NIF3-related protein
+GNDDNANJ_00877	peptidase T
+GNDDNANJ_00878	membrane protein
+GNDDNANJ_00879	integral membrane protein
+GNDDNANJ_00880	putative molybdenum cofactor guanylyltransferase
+GNDDNANJ_00881	formate/nitrite transporter
+GNDDNANJ_00882	hypothetical protein
+GNDDNANJ_00883	NADP-reducing hydrogenase subunit HndA
+GNDDNANJ_00884	NADP-reducing hydrogenase subunit HndC
+GNDDNANJ_00885	Nitrate reductase
+GNDDNANJ_00886	Molybdopterin molybdenumtransferase
+GNDDNANJ_00887	Cyclic pyranopterin monophosphate synthase
+GNDDNANJ_00888	GTP 3',8-cyclase
+GNDDNANJ_00889	hypothetical protein
+GNDDNANJ_00890	Molybdopterin adenylyltransferase
+GNDDNANJ_00891	hypothetical protein
+GNDDNANJ_00892	Molybdate-binding protein ModA
+GNDDNANJ_00893	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+GNDDNANJ_00894	Vitamin B12 import ATP-binding protein BtuD
+GNDDNANJ_00895	cadmium-translocating P-type ATPase
+GNDDNANJ_00896	cell division protein ZapA
+GNDDNANJ_00897	CvpA family protein
+GNDDNANJ_00898	recombination and DNA strand exchange inhibitor protein
+GNDDNANJ_00899	thioredoxin
+GNDDNANJ_00900	excinuclease ABC subunit C
+GNDDNANJ_00901	hypothetical protein
+GNDDNANJ_00902	ABC transporter ATP-binding protein
+GNDDNANJ_00903	putative type IV conjugative transfer system protein TraL
+GNDDNANJ_00904	hypothetical protein
+GNDDNANJ_00905	LacI family sugar-binding transcriptional regulator
+GNDDNANJ_00906	alpha-galactosidase
+GNDDNANJ_00907	hypothetical protein
+GNDDNANJ_00908	ABC transporter ATP-binding protein
+GNDDNANJ_00909	HI0933-like protein
+GNDDNANJ_00910	NADP-specific glutamate dehydrogenase
+GNDDNANJ_00911	glucose-6-phosphate isomerase
+GNDDNANJ_00912	hypothetical protein
+GNDDNANJ_00913	putative flavoprotein NrdI
+GNDDNANJ_00914	hypothetical protein
+GNDDNANJ_00915	V-type ATP synthase subunit I
+GNDDNANJ_00916	V-type ATP synthase subunit K
+GNDDNANJ_00917	V-type ATPase subunit E
+GNDDNANJ_00918	V-type ATPase subunit C
+GNDDNANJ_00919	V-type ATP synthase subunit G
+GNDDNANJ_00920	V-type ATP synthase subunit A
+GNDDNANJ_00921	V-type ATP synthase subunit B
+GNDDNANJ_00922	V-type ATP synthase subunit D
+GNDDNANJ_00923	hypothetical protein
+GNDDNANJ_00924	hypothetical protein
+GNDDNANJ_00925	fructose-1,6-bisphosphatase
+GNDDNANJ_00926	diaminopimelate decarboxylase
+GNDDNANJ_00927	Alpha/beta hydrolase family protein
+GNDDNANJ_00928	metal-sulfur cluster biosynthetic enzyme
+GNDDNANJ_00929	Hydrophobic dipeptide epimerase
+GNDDNANJ_00930	hypothetical protein
+GNDDNANJ_00931	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_00932	BglG family transcriptional antiterminator
+GNDDNANJ_00933	PTS system, N-acetylglucosamine-specific IICBA component
+GNDDNANJ_00934	transcriptional antiterminator bglG
+GNDDNANJ_00935	Multiphosphoryl transfer protein 1
+GNDDNANJ_00936	PTS system, fructose-specific IIBC component
+GNDDNANJ_00937	PTS system, fructose-specific IIA component
+GNDDNANJ_00938	PTS system fructose-specific transporter subunit IIBC
+GNDDNANJ_00939	Ribulose-phosphate 3-epimerase
+GNDDNANJ_00940	hypothetical protein
+GNDDNANJ_00941	cation transporter E1-E2 family ATPase
+GNDDNANJ_00942	DNA primase
+GNDDNANJ_00943	RNA polymerase sigma factor RpoD
+GNDDNANJ_00944	Mid-cell-anchored protein Z
+GNDDNANJ_00945	Conserved virulence factor B
+GNDDNANJ_00946	transcriptional regulator, FUR family
+GNDDNANJ_00947	glyceraldehyde 3-phosphate dehydrogenase
+GNDDNANJ_00948	Obg family GTPase CgtA
+GNDDNANJ_00949	hypothetical protein
+GNDDNANJ_00950	PTS system transporter subunit IIC
+GNDDNANJ_00951	TetR family transcriptional regulator
+GNDDNANJ_00952	hypothetical protein
+GNDDNANJ_00953	cyclophilin type peptidyl-prolyl cis-trans isomerase
+GNDDNANJ_00954	alpha3-beta1 integrin-binding family protein
+GNDDNANJ_00955	x-Pro dipeptidyl-peptidase
+GNDDNANJ_00956	site-specific tyrosine recombinase XerD-family protein
+GNDDNANJ_00957	segregation and condensation protein A
+GNDDNANJ_00958	segregation and condensation protein B
+GNDDNANJ_00959	16S rRNA pseudouridine synthase A
+GNDDNANJ_00960	membrane protein
+GNDDNANJ_00961	hypothetical protein
+GNDDNANJ_00962	ferredoxin
+GNDDNANJ_00963	hypothetical protein
+GNDDNANJ_00964	RecQ familyATP-dependent DNA helicase
+GNDDNANJ_00965	LysM domain-containing protein
+GNDDNANJ_00966	cytidylate kinase
+GNDDNANJ_00967	30S ribosomal protein S1
+GNDDNANJ_00968	ribosome-associated GTPase EngA
+GNDDNANJ_00969	DNA-binding protein HU
+GNDDNANJ_00970	hypothetical protein
+GNDDNANJ_00971	tetratricopeptide repeat protein
+GNDDNANJ_00972	hypothetical protein
+GNDDNANJ_00973	integral membrane protein
+GNDDNANJ_00974	MazG nucleotide pyrophosphohydrolase domain-containing protein
+GNDDNANJ_00975	dihydrodipicolinate reductase
+GNDDNANJ_00976	tRNA nucleotidyltransferase/poly(A) polymerase family protein
+GNDDNANJ_00977	hypothetical protein
+GNDDNANJ_00978	hypothetical protein
+GNDDNANJ_00979	shikimate 5-dehydrogenase
+GNDDNANJ_00980	phospho-2-dehydro-3-deoxyheptonate aldolase
+GNDDNANJ_00981	3-dehydroquinate synthase
+GNDDNANJ_00982	chorismate synthase
+GNDDNANJ_00983	prephenate dehydrogenase
+GNDDNANJ_00984	3-phosphoshikimate 1-carboxyvinyltransferase
+GNDDNANJ_00985	shikimate kinase
+GNDDNANJ_00986	prephenate dehydratase
+GNDDNANJ_00987	transcriptional regulator, PSR protein
+GNDDNANJ_00988	EDD domain-containing protein, DegV family
+GNDDNANJ_00989	hypothetical protein
+GNDDNANJ_00990	hypothetical protein
+GNDDNANJ_00991	hypothetical protein
+GNDDNANJ_00992	Na+/H+ antiporter
+GNDDNANJ_00993	ABC transporter ATP-binding protein
+GNDDNANJ_00994	thymidylate synthase
+GNDDNANJ_00995	dihydrofolate reductase
+GNDDNANJ_00996	iron-sulfur cluster-binding protein
+GNDDNANJ_00997	LexA repressor
+GNDDNANJ_00998	hypothetical protein
+GNDDNANJ_00999	transketolase
+GNDDNANJ_01000	major facilitator family transporter
+GNDDNANJ_01001	N-acetylmuramoyl-L-alanine amidase
+GNDDNANJ_01002	cysteine synthase A
+GNDDNANJ_01003	Fur family transcriptional regulator
+GNDDNANJ_01004	NADH oxidase
+GNDDNANJ_01005	NUDIX family hydrolase
+GNDDNANJ_01006	hypothetical protein
+GNDDNANJ_01007	GNAT family acetyltransferase
+GNDDNANJ_01008	AraC family transcriptional regulator
+GNDDNANJ_01009	ABC transporter ATP-binding protein/permease
+GNDDNANJ_01010	ABC transporter ATP-binding protein/permease
+GNDDNANJ_01011	RNA pyrophosphohydrolase
+GNDDNANJ_01012	hypothetical protein
+GNDDNANJ_01013	Vegetative catalase
+GNDDNANJ_01014	Deoxyribodipyrimidine photo-lyase
+GNDDNANJ_01015	helix-turn-helix domain-containing protein
+GNDDNANJ_01016	6-phospho-beta-glucosidase
+GNDDNANJ_01017	PTS system beta-glucoside-specific transporter subunit IIABC
+GNDDNANJ_01018	BglG family transcriptional antiterminator
+GNDDNANJ_01019	hypothetical protein
+GNDDNANJ_01020	6-phospho-beta-glucosidase
+GNDDNANJ_01021	PTS system, beta-glucoside-specific IIABC component
+GNDDNANJ_01022	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GNDDNANJ_01023	hypothetical protein
+GNDDNANJ_01024	Phosphate-import permease protein PhnE
+GNDDNANJ_01025	amino acid ABC transporter ATP-binding protein
+GNDDNANJ_01026	Phosphate-import protein PhnD
+GNDDNANJ_01027	Regulatory protein YeiL
+GNDDNANJ_01028	cardiolipin synthetase
+GNDDNANJ_01029	hypothetical protein
+GNDDNANJ_01030	hypothetical protein
+GNDDNANJ_01031	manganese-dependent inorganic pyrophosphatase
+GNDDNANJ_01032	pyruvate formate-lyase activating enzyme
+GNDDNANJ_01033	formate acetyltransferase
+GNDDNANJ_01034	DNA topoisomerase IV subunit A
+GNDDNANJ_01035	DNA topoisomerase IV subunit B
+GNDDNANJ_01036	CoA-binding protein
+GNDDNANJ_01037	Ethanolamine utilization protein EutQ
+GNDDNANJ_01038	hypothetical protein
+GNDDNANJ_01039	Carbon dioxide concentrating mechanism protein CcmL
+GNDDNANJ_01040	hypothetical protein
+GNDDNANJ_01041	Phosphate propanoyltransferase
+GNDDNANJ_01042	hypothetical protein
+GNDDNANJ_01043	Propanediol utilization protein PduA
+GNDDNANJ_01044	aldehyde-alcohol dehydrogenase
+GNDDNANJ_01045	hypothetical protein
+GNDDNANJ_01046	Ethanolamine utilization protein EutL
+GNDDNANJ_01047	Ethanolamine ammonia-lyase light chain
+GNDDNANJ_01048	Ethanolamine ammonia-lyase heavy chain
+GNDDNANJ_01049	hypothetical protein
+GNDDNANJ_01050	hypothetical protein
+GNDDNANJ_01051	putative transcriptional regulatory protein pdtaR
+GNDDNANJ_01052	Propanediol utilization protein PduU
+GNDDNANJ_01053	aldehyde-alcohol dehydrogenase
+GNDDNANJ_01054	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+GNDDNANJ_01055	Propanediol utilization protein PduV
+GNDDNANJ_01056	iron ABC transporter ATP-binding protein
+GNDDNANJ_01057	ferrichrome transport system permease FhuB
+GNDDNANJ_01058	Vitamin B12-binding protein
+GNDDNANJ_01059	acyl-phosphate glycerol 3-phosphate acyltransferase
+GNDDNANJ_01060	aldose 1-epimerase
+GNDDNANJ_01061	GTP-sensing transcriptional pleiotropic repressor CodY
+GNDDNANJ_01062	ATP-dependent carboxylate-amine ligase
+GNDDNANJ_01063	ATP-dependent protease HslVU, peptidase subunit
+GNDDNANJ_01064	site-specific tyrosine recombinase XerC-family protein
+GNDDNANJ_01065	glucose inhibited division protein
+GNDDNANJ_01066	DNA topoisomerase I
+GNDDNANJ_01067	hypothetical protein
+GNDDNANJ_01068	DNA processing protein DprA
+GNDDNANJ_01069	ribonuclease HII
+GNDDNANJ_01070	ribosome biogenesis GTP-binding protein YlqF
+GNDDNANJ_01071	2-dehydropantoate 2-reductase
+GNDDNANJ_01072	LysR family transcriptional regulator
+GNDDNANJ_01073	membrane protein
+GNDDNANJ_01074	dihydrolipoamide S-succinyltransferase
+GNDDNANJ_01075	transketolase
+GNDDNANJ_01076	pyruvate dehydrogenase E1 component subunit alpha
+GNDDNANJ_01077	Dihydrolipoyl dehydrogenase
+GNDDNANJ_01078	putative butyrate kinase 2
+GNDDNANJ_01079	Phosphate acetyltransferase
+GNDDNANJ_01080	integral membrane protein
+GNDDNANJ_01081	hypothetical protein
+GNDDNANJ_01082	hypothetical protein
+GNDDNANJ_01083	3-oxoacyl-ACP reductase
+GNDDNANJ_01084	HTH-type transcriptional regulator MhqR
+GNDDNANJ_01085	glyoxalase family protein
+GNDDNANJ_01086	phospholipase/carboxylesterase
+GNDDNANJ_01087	NAD(P)H quinone oxidoreductase
+GNDDNANJ_01088	hypothetical protein
+GNDDNANJ_01089	bacitracin transport ATP-binding protein BcrA
+GNDDNANJ_01090	hypothetical protein
+GNDDNANJ_01091	hypothetical protein
+GNDDNANJ_01092	signal peptidase I
+GNDDNANJ_01093	Carboxy-terminal processing protease CtpA
+GNDDNANJ_01094	hypothetical protein
+GNDDNANJ_01095	methionine sulfoxide reductase MsrA
+GNDDNANJ_01096	hypothetical protein
+GNDDNANJ_01097	GDSL-like lipase/acylhydrolase
+GNDDNANJ_01098	DegV family protein
+GNDDNANJ_01099	hemolysin III family channel protein
+GNDDNANJ_01100	hypothetical protein
+GNDDNANJ_01101	adenine phosphoribosyltransferase
+GNDDNANJ_01102	single-stranded-DNA-specific exonuclease RecJ
+GNDDNANJ_01103	hypothetical protein
+GNDDNANJ_01104	short chain dehydrogenase/reductase family oxidoreductase
+GNDDNANJ_01105	Ribonuclease Z
+GNDDNANJ_01106	hypothetical protein
+GNDDNANJ_01107	RNA-binding protein
+GNDDNANJ_01108	30S ribosomal protein S16
+GNDDNANJ_01109	Mycothiol acetyltransferase
+GNDDNANJ_01110	flavin reductase
+GNDDNANJ_01111	transcriptional regulator, MerR family
+GNDDNANJ_01112	signal recognition particle protein
+GNDDNANJ_01113	DNA-binding protein
+GNDDNANJ_01114	hypothetical protein
+GNDDNANJ_01115	response regulator receiver domain-containing protein
+GNDDNANJ_01116	sensory box histidine kinase
+GNDDNANJ_01117	phosphate-binding protein
+GNDDNANJ_01118	aromatic amino acid aminotransferase
+GNDDNANJ_01119	glycosyl hydrolase family 38 protein
+GNDDNANJ_01120	hypothetical protein
+GNDDNANJ_01121	GntR family transcriptional regulator
+GNDDNANJ_01122	LysR family transcriptional regulator
+GNDDNANJ_01123	carbonic anhydrase
+GNDDNANJ_01124	orotate phosphoribosyltransferase
+GNDDNANJ_01125	Orotidine 5'-phosphate decarboxylase
+GNDDNANJ_01126	Dihydroorotate dehydrogenase 1B
+GNDDNANJ_01127	dihydroorotate dehydrogenase, electron transfer subunit
+GNDDNANJ_01128	carbamoyl-phosphate synthase large subunit
+GNDDNANJ_01129	carbamoyl-phosphate synthase small subunit
+GNDDNANJ_01130	Dihydroorotase
+GNDDNANJ_01131	aspartate carbamoyltransferase
+GNDDNANJ_01132	uracil permease
+GNDDNANJ_01133	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR
+GNDDNANJ_01134	RluA family pseudouridine synthase
+GNDDNANJ_01135	lipoprotein signal peptidase
+GNDDNANJ_01136	CBS domain pair protein
+GNDDNANJ_01137	Formate--tetrahydrofolate ligase
+GNDDNANJ_01138	cold shock domain-containing protein
+GNDDNANJ_01139	hypothetical protein
+GNDDNANJ_01140	ribonuclease HI
+GNDDNANJ_01141	YbaK/ebsC protein
+GNDDNANJ_01142	3-dehydroquinate dehydratase
+GNDDNANJ_01143	ABC transporter ATP-binding protein
+GNDDNANJ_01144	Multidrug resistance-like ATP-binding protein mdlA
+GNDDNANJ_01145	hypothetical protein
+GNDDNANJ_01146	endonuclease IV
+GNDDNANJ_01147	hypothetical protein
+GNDDNANJ_01148	hypothetical protein
+GNDDNANJ_01149	hypothetical protein
+GNDDNANJ_01150	tyrosyl-tRNA synthetase
+GNDDNANJ_01151	glycosyl transferase
+GNDDNANJ_01152	hypothetical protein
+GNDDNANJ_01153	hypothetical protein
+GNDDNANJ_01154	hypothetical protein
+GNDDNANJ_01155	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GNDDNANJ_01156	hypothetical protein
+GNDDNANJ_01157	hypothetical protein
+GNDDNANJ_01158	hypothetical protein
+GNDDNANJ_01159	primosomal protein DnaI
+GNDDNANJ_01160	replication initiation and membrane attachment protein
+GNDDNANJ_01161	transcriptional repressor NrdR
+GNDDNANJ_01162	Dephospho-CoA kinase
+GNDDNANJ_01163	Formamidopyrimidine-DNA glycosylase
+GNDDNANJ_01164	DNA polymerase I
+GNDDNANJ_01165	oxidoreductase, aldo/keto reductase family protein
+GNDDNANJ_01166	hypothetical protein
+GNDDNANJ_01167	copper-translocating P-type ATPase
+GNDDNANJ_01168	hypothetical protein
+GNDDNANJ_01169	K+ uptake transporter
+GNDDNANJ_01170	calcium-translocating P-type ATPase
+GNDDNANJ_01171	hypothetical protein
+GNDDNANJ_01172	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+GNDDNANJ_01173	glyoxalase family protein
+GNDDNANJ_01174	glycine betaine/carnitine/choline transporter ATP-binding protein
+GNDDNANJ_01175	glycine betaine/carnitine/choline ABC transporter permease
+GNDDNANJ_01176	glycine betaine/carnitine/choline ABC transporter
+GNDDNANJ_01177	ABC transporter permease
+GNDDNANJ_01178	GNAT family acetyltransferase
+GNDDNANJ_01179	amino acid permease
+GNDDNANJ_01180	cation diffusion facilitator family transporter
+GNDDNANJ_01181	phage infection protein
+GNDDNANJ_01182	hypothetical protein
+GNDDNANJ_01183	Tyrosine-protein phosphatase
+GNDDNANJ_01184	helix-turn-helix domain-containing protein
+GNDDNANJ_01185	Signal peptidase IB
+GNDDNANJ_01186	hypothetical protein
+GNDDNANJ_01187	hypothetical protein
+GNDDNANJ_01188	hypothetical protein
+GNDDNANJ_01189	toxin-antitoxin system, toxin component, MazF family
+GNDDNANJ_01190	alanine racemase
+GNDDNANJ_01191	holo-[acyl-carrier-protein] synthase
+GNDDNANJ_01192	DEAD/DEAH box helicase
+GNDDNANJ_01193	hypothetical protein
+GNDDNANJ_01194	hypothetical protein
+GNDDNANJ_01195	hypothetical protein
+GNDDNANJ_01196	hypothetical protein
+GNDDNANJ_01197	hypothetical protein
+GNDDNANJ_01198	hypothetical protein
+GNDDNANJ_01199	hypothetical protein
+GNDDNANJ_01200	putative formate transporter 1
+GNDDNANJ_01201	hypothetical protein
+GNDDNANJ_01202	hypothetical protein
+GNDDNANJ_01203	hypothetical protein
+GNDDNANJ_01204	L-serine dehydratase, iron-sulfur-dependent subunit beta
+GNDDNANJ_01205	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+GNDDNANJ_01206	seryl-tRNA synthetase
+GNDDNANJ_01207	Monoacylglycerol lipase
+GNDDNANJ_01208	arginine repressor protein
+GNDDNANJ_01209	arginine repressor protein
+GNDDNANJ_01210	arginine deiminase
+GNDDNANJ_01211	ornithine carbamoyltransferase
+GNDDNANJ_01212	Carbamate kinase
+GNDDNANJ_01213	cyclic nucleotide-binding domain-containing protein
+GNDDNANJ_01214	C4-dicarboxylate anaerobic carrier
+GNDDNANJ_01215	DJ-1/PfpI family protein
+GNDDNANJ_01216	hypothetical protein
+GNDDNANJ_01217	zinc-binding alcohol dehydrogenase family protein
+GNDDNANJ_01218	hypothetical protein
+GNDDNANJ_01219	Putative aminoacrylate peracid reductase RutC
+GNDDNANJ_01220	hypothetical protein
+GNDDNANJ_01221	hypothetical protein
+GNDDNANJ_01222	GMP synthase
+GNDDNANJ_01223	pantothenate kinase
+GNDDNANJ_01224	hypothetical protein
+GNDDNANJ_01225	16S rRNA small subunit methyltransferase C
+GNDDNANJ_01226	Adenosine deaminase
+GNDDNANJ_01227	LacI family transcriptional regulator
+GNDDNANJ_01228	pyrimidine-nucleoside phosphorylase
+GNDDNANJ_01229	deoxyribose-phosphate aldolase
+GNDDNANJ_01230	cytidine deaminase
+GNDDNANJ_01231	hypothetical protein
+GNDDNANJ_01232	ABC transporter ATP-binding protein
+GNDDNANJ_01233	ABC transporter permease
+GNDDNANJ_01234	ABC transporter permease
+GNDDNANJ_01235	hypothetical protein
+GNDDNANJ_01236	lipase
+GNDDNANJ_01237	hypothetical protein
+GNDDNANJ_01238	hypothetical protein
+GNDDNANJ_01239	phosphopentomutase
+GNDDNANJ_01240	purine nucleoside phosphorylase
+GNDDNANJ_01241	purine nucleoside phosphorylase
+GNDDNANJ_01242	periplasmic binding protein
+GNDDNANJ_01243	ferrichrome transport ATP-binding protein FhuC
+GNDDNANJ_01244	ferrichrome transport system permease FhuB
+GNDDNANJ_01245	ferrichrome transport system permease FhuG
+GNDDNANJ_01246	aldehyde-alcohol dehydrogenase
+GNDDNANJ_01247	phosphoglycerate mutase
+GNDDNANJ_01248	resolvase family site-specific recombinase
+GNDDNANJ_01249	ribose 5-phosphate isomerase A
+GNDDNANJ_01250	30S ribosomal protein S12
+GNDDNANJ_01251	30S ribosomal protein S7
+GNDDNANJ_01252	translation elongation factor G
+GNDDNANJ_01253	elongation factor Tu
+GNDDNANJ_01254	phosphomethylpyrimidine kinase
+GNDDNANJ_01255	cyclopropane-fatty-acyl-phospholipid synthase
+GNDDNANJ_01256	30S ribosomal protein S10
+GNDDNANJ_01257	50S ribosomal protein L3
+GNDDNANJ_01258	50S ribosomal protein L4
+GNDDNANJ_01259	50S ribosomal protein L23
+GNDDNANJ_01260	50S ribosomal protein L2
+GNDDNANJ_01261	30S ribosomal protein S19
+GNDDNANJ_01262	50S ribosomal protein L22
+GNDDNANJ_01263	30S ribosomal protein S3
+GNDDNANJ_01264	50S ribosomal protein L16
+GNDDNANJ_01265	50S ribosomal protein L29
+GNDDNANJ_01266	30S ribosomal protein S17
+GNDDNANJ_01267	50S ribosomal protein L14
+GNDDNANJ_01268	50S ribosomal protein L24
+GNDDNANJ_01269	50S ribosomal protein L5
+GNDDNANJ_01270	30S ribosomal protein S14
+GNDDNANJ_01271	30S ribosomal protein S8
+GNDDNANJ_01272	50S ribosomal protein L6
+GNDDNANJ_01273	50S ribosomal protein L18
+GNDDNANJ_01274	30S ribosomal protein S5
+GNDDNANJ_01275	50S ribosomal protein L30
+GNDDNANJ_01276	50S ribosomal protein L15
+GNDDNANJ_01277	preprotein translocase subunit SecY
+GNDDNANJ_01278	adenylate kinase
+GNDDNANJ_01279	translation initiation factor IF-1
+GNDDNANJ_01280	50S ribosomal protein L36
+GNDDNANJ_01281	30S ribosomal protein S13
+GNDDNANJ_01282	30S ribosomal protein S11
+GNDDNANJ_01283	DNA-directed RNA polymerase subunit alpha
+GNDDNANJ_01284	50S ribosomal protein L17
+GNDDNANJ_01285	hypothetical protein
+GNDDNANJ_01286	peptidase M20D
+GNDDNANJ_01287	site-specific tyrosine recombinase XerC-family protein
+GNDDNANJ_01288	hypothetical protein
+GNDDNANJ_01289	hypothetical protein
+GNDDNANJ_01290	hypothetical protein
+GNDDNANJ_01291	hypothetical protein
+GNDDNANJ_01292	LexA repressor
+GNDDNANJ_01293	hypothetical protein
+GNDDNANJ_01294	hypothetical protein
+GNDDNANJ_01295	hypothetical protein
+GNDDNANJ_01296	hypothetical protein
+GNDDNANJ_01297	hypothetical protein
+GNDDNANJ_01298	prophage Lp2 protein 14
+GNDDNANJ_01299	hypothetical protein
+GNDDNANJ_01300	hypothetical protein
+GNDDNANJ_01301	hypothetical protein
+GNDDNANJ_01302	hypothetical protein
+GNDDNANJ_01303	hypothetical protein
+GNDDNANJ_01304	hypothetical protein
+GNDDNANJ_01305	hypothetical protein
+GNDDNANJ_01306	hypothetical protein
+GNDDNANJ_01307	hypothetical protein
+GNDDNANJ_01308	MazG nucleotide pyrophosphohydrolase domain protein
+GNDDNANJ_01309	hypothetical protein
+GNDDNANJ_01310	hypothetical protein
+GNDDNANJ_01311	SPFH domain / Band 7 family protein
+GNDDNANJ_01312	hypothetical protein
+GNDDNANJ_01313	hypothetical protein
+GNDDNANJ_01314	hypothetical protein
+GNDDNANJ_01315	hypothetical protein
+GNDDNANJ_01316	hypothetical protein
+GNDDNANJ_01317	hypothetical protein
+GNDDNANJ_01318	hypothetical protein
+GNDDNANJ_01319	hypothetical protein
+GNDDNANJ_01320	hypothetical protein
+GNDDNANJ_01321	phage transcriptional regulator, ArpU family
+GNDDNANJ_01322	tRNA-Trp
+GNDDNANJ_01323	hypothetical protein
+GNDDNANJ_01324	hypothetical protein
+GNDDNANJ_01325	hypothetical protein
+GNDDNANJ_01326	hypothetical protein
+GNDDNANJ_01327	hypothetical protein
+GNDDNANJ_01328	Phage Terminase
+GNDDNANJ_01329	hypothetical protein
+GNDDNANJ_01330	phage portal protein, HK97 family
+GNDDNANJ_01331	ATP-dependent Clp protease proteolytic subunit
+GNDDNANJ_01332	Major phage capsid protein
+GNDDNANJ_01333	hypothetical protein
+GNDDNANJ_01334	hypothetical protein
+GNDDNANJ_01335	hypothetical protein
+GNDDNANJ_01336	hypothetical protein
+GNDDNANJ_01337	hypothetical protein
+GNDDNANJ_01338	hypothetical protein
+GNDDNANJ_01339	hypothetical protein
+GNDDNANJ_01340	hypothetical protein
+GNDDNANJ_01341	hypothetical protein
+GNDDNANJ_01342	hypothetical protein
+GNDDNANJ_01343	hypothetical protein
+GNDDNANJ_01344	hypothetical protein
+GNDDNANJ_01345	hypothetical protein
+GNDDNANJ_01346	hypothetical protein
+GNDDNANJ_01347	hypothetical protein
+GNDDNANJ_01348	hypothetical protein
+GNDDNANJ_01349	hypothetical protein
+GNDDNANJ_01350	hypothetical protein
+GNDDNANJ_01351	hypothetical protein
+GNDDNANJ_01352	hypothetical protein
+GNDDNANJ_01353	cobalt import ATP-binding protein CbiO
+GNDDNANJ_01354	cobalt import ATP-binding protein CbiO 2
+GNDDNANJ_01355	cobalt transport family protein
+GNDDNANJ_01356	tRNA pseudouridine synthase A
+GNDDNANJ_01357	hypothetical protein
+GNDDNANJ_01358	branched-chain amino acid transport system II carrier protein
+GNDDNANJ_01359	Spermidine N(1)-acetyltransferase
+GNDDNANJ_01360	putative lysine decarboxylase
+GNDDNANJ_01361	amino acid ABC transporter ATP-binding protein
+GNDDNANJ_01362	amino acid ABC transporter permease
+GNDDNANJ_01363	hypothetical protein
+GNDDNANJ_01364	NAD-dependent deacetylase
+GNDDNANJ_01365	maltose O-acetyltransferase
+GNDDNANJ_01366	transcriptional regulator
+GNDDNANJ_01367	hypothetical protein
+GNDDNANJ_01368	methylmalonate-semialdehyde dehydrogenase
+GNDDNANJ_01369	L-lactate dehydrogenase
+GNDDNANJ_01370	Peptidyl-tRNA hydrolase
+GNDDNANJ_01371	transcription-repair coupling factor
+GNDDNANJ_01372	polysaccharide biosynthesis family protein
+GNDDNANJ_01373	S4 RNA-binding domain-containing protein
+GNDDNANJ_01374	septum formation initiator
+GNDDNANJ_01375	S1 RNA binding domain-containing protein
+GNDDNANJ_01376	tRNA(Ile)-lysidine synthase
+GNDDNANJ_01377	Hypoxanthine-guanine phosphoribosyltransferase
+GNDDNANJ_01378	ATP-dependent metalloprotease
+GNDDNANJ_01379	chaperonin HslO
+GNDDNANJ_01380	tRNA-dihydrouridine synthase
+GNDDNANJ_01381	lysyl-tRNA synthetase
+GNDDNANJ_01382	hypothetical protein
+GNDDNANJ_01383	hypothetical protein
+GNDDNANJ_01384	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+GNDDNANJ_01385	undecaprenyl-phosphate galactosephosphotransferase
+GNDDNANJ_01386	hypothetical protein
+GNDDNANJ_01387	hypothetical protein
+GNDDNANJ_01388	glycosyl transferase family protein
+GNDDNANJ_01389	hypothetical protein
+GNDDNANJ_01390	ABC transporter ATP-binding protein
+GNDDNANJ_01391	ABC transporter
+GNDDNANJ_01392	hypothetical protein
+GNDDNANJ_01393	hypothetical protein
+GNDDNANJ_01394	glycosyl transferase family protein
+GNDDNANJ_01395	dTDP-4-dehydrorhamnose reductase
+GNDDNANJ_01396	dTDP-glucose 4,6-dehydratase
+GNDDNANJ_01397	dTDP-4-dehydrorhamnose 3,5-epimerase
+GNDDNANJ_01398	glucose-1-phosphate thymidylyltransferase
+GNDDNANJ_01399	glycosyl transferase family protein
+GNDDNANJ_01400	glycosyl transferase family protein
+GNDDNANJ_01401	glycosyl transferase family protein
+GNDDNANJ_01402	glycoside hydrolase family protein
+GNDDNANJ_01403	ribonuclease BN
+GNDDNANJ_01404	Methionine aminopeptidase, type I
+GNDDNANJ_01405	flavodoxin
+GNDDNANJ_01406	TspO/MBR family protein
+GNDDNANJ_01407	TetR family transcriptional regulator
+GNDDNANJ_01408	aminopeptidase PepS
+GNDDNANJ_01409	hypothetical protein
+GNDDNANJ_01410	cytidine/deoxycytidylate deaminase family protein
+GNDDNANJ_01411	transcriptional regulator, Fis family
+GNDDNANJ_01412	phenazine biosynthesis protein PhzF family protein
+GNDDNANJ_01413	hypothetical protein
+GNDDNANJ_01414	Zn-dependent protease
+GNDDNANJ_01415	hypothetical protein
+GNDDNANJ_01416	hypothetical protein
+GNDDNANJ_01417	PTS system, trehalose/maltose-specific, IIBCA component
+GNDDNANJ_01418	glyoxylase
+GNDDNANJ_01419	hypothetical protein
+GNDDNANJ_01420	hypothetical protein
+GNDDNANJ_01421	alpha-1,2-mannosidase
+GNDDNANJ_01422	AraC family transcriptional regulator
+GNDDNANJ_01423	sensor histidine kinase
+GNDDNANJ_01424	integral membrane protein
+GNDDNANJ_01425	extracellular solute-binding protein
+GNDDNANJ_01426	ABC transporter permease
+GNDDNANJ_01427	ABC transporter permease
+GNDDNANJ_01428	hypothetical protein
+GNDDNANJ_01429	hypothetical protein
+GNDDNANJ_01430	MerR family transcriptional regulator
+GNDDNANJ_01431	ABC transporter ATP-binding protein
+GNDDNANJ_01432	ABC transporter ATP-binding protein
+GNDDNANJ_01433	ABC transporter ATP-binding protein
+GNDDNANJ_01434	Tryptophanyl-tRNA synthetase II
+GNDDNANJ_01435	Tyrosine recombinase XerC
+GNDDNANJ_01436	hypothetical protein
+GNDDNANJ_01437	Helix-turn-helix domain protein
+GNDDNANJ_01438	RNA polymerase sigma-70 factor, region 4
+GNDDNANJ_01439	Beta-glucuronidase
+GNDDNANJ_01440	Beta-N-acetylglucosaminidase/beta-glucosidase
+GNDDNANJ_01441	putative phosphatase
+GNDDNANJ_01442	transporter, major facilitator family protein
+GNDDNANJ_01443	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+GNDDNANJ_01444	glucuronate isomerase
+GNDDNANJ_01445	mannonate dehydratase, UxuA_2
+GNDDNANJ_01446	mannitol dehydrogenase protein
+GNDDNANJ_01447	GntR family transcriptional regulator
+GNDDNANJ_01448	hypothetical protein
+GNDDNANJ_01449	hypothetical protein
+GNDDNANJ_01450	hypothetical protein
+GNDDNANJ_01451	hypothetical protein
+GNDDNANJ_01452	hypothetical protein
+GNDDNANJ_01453	hypothetical protein
+GNDDNANJ_01454	mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+GNDDNANJ_01455	hypothetical protein
+GNDDNANJ_01456	ATP/GTP-binding protein
+GNDDNANJ_01457	hypothetical protein
+GNDDNANJ_01458	hypothetical protein
+GNDDNANJ_01459	hypothetical protein
+GNDDNANJ_01460	cell wall surface anchor family protein
+GNDDNANJ_01461	hypothetical protein
+GNDDNANJ_01462	hypothetical protein
+GNDDNANJ_01463	hypothetical protein
+GNDDNANJ_01464	hypothetical protein
+GNDDNANJ_01465	helix-turn-helix protein
+GNDDNANJ_01466	hypothetical protein
+GNDDNANJ_01467	FtsK/SpoIIIE family protein
+GNDDNANJ_01468	hypothetical protein
+GNDDNANJ_01469	hypothetical protein
+GNDDNANJ_01470	hypothetical protein
+GNDDNANJ_01471	hypothetical protein
+GNDDNANJ_01472	hypothetical protein
+GNDDNANJ_01473	hypothetical protein
+GNDDNANJ_01474	hypothetical protein
+GNDDNANJ_01475	hypothetical protein
+GNDDNANJ_01476	helix-turn-helix protein
+GNDDNANJ_01477	GTP-binding protein LepA
+GNDDNANJ_01478	GNAT family acetyltransferase
+GNDDNANJ_01479	Nucleoside 2-deoxyribosyltransferase
+GNDDNANJ_01480	ATP-dependent chaperone protein ClpB
+GNDDNANJ_01481	Putative oxidoreductase CatD
+GNDDNANJ_01482	hypothetical protein
+GNDDNANJ_01483	cell wall surface anchor family protein
+GNDDNANJ_01484	Adenylosuccinate lyase
+GNDDNANJ_01485	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+GNDDNANJ_01486	xanthine permease
+GNDDNANJ_01487	xanthine phosphoribosyltransferase
+GNDDNANJ_01488	hypothetical protein
+GNDDNANJ_01489	N-acetylmuramoyl-L-alanine amidase
+GNDDNANJ_01490	hypothetical protein
+GNDDNANJ_01491	hypothetical protein
+GNDDNANJ_01492	oxidoreductase family, NAD-binding Rossmann fold protein
+GNDDNANJ_01493	hypothetical protein
+GNDDNANJ_01494	hypothetical protein
+GNDDNANJ_01495	asparaginyl-tRNA synthetase
+GNDDNANJ_01496	aspartate aminotransferase
+GNDDNANJ_01497	hypothetical protein
+GNDDNANJ_01498	DnaQ family exonuclease/DinG family helicase
+GNDDNANJ_01499	hypothetical protein
+GNDDNANJ_01500	amino acid permease family protein
+GNDDNANJ_01501	DNA polymerase III PolC-type
+GNDDNANJ_01502	hypothetical protein
+GNDDNANJ_01503	hypothetical protein
+GNDDNANJ_01504	hypothetical protein
+GNDDNANJ_01505	hypothetical protein
+GNDDNANJ_01506	hypothetical protein
+GNDDNANJ_01507	hypothetical protein
+GNDDNANJ_01508	prolyl-tRNA synthetase
+GNDDNANJ_01509	membrane-associated zinc metalloprotease
+GNDDNANJ_01510	hypothetical protein
+GNDDNANJ_01511	hypothetical protein
+GNDDNANJ_01512	hypothetical protein
+GNDDNANJ_01513	FeS assembly protein SufB
+GNDDNANJ_01514	NifU family SUF system FeS assembly protein
+GNDDNANJ_01515	cysteine desulfurase
+GNDDNANJ_01516	FeS assembly protein SufD
+GNDDNANJ_01517	ABC transporter ATP-binding protein
+GNDDNANJ_01518	ribosome recycling factor
+GNDDNANJ_01519	uridylate kinase
+GNDDNANJ_01520	translation elongation factor Ts
+GNDDNANJ_01521	30S ribosomal protein S2
+GNDDNANJ_01522	GNAT family acetyltransferase
+GNDDNANJ_01523	RNA methyltransferase
+GNDDNANJ_01524	acylphosphatase
+GNDDNANJ_01525	putative OxaA-like protein
+GNDDNANJ_01526	hypothetical protein
+GNDDNANJ_01527	glycyl-tRNA synthetase subunit beta
+GNDDNANJ_01528	Glycyl-tRNA synthetase alpha subunit
+GNDDNANJ_01529	DNA repair protein RecO
+GNDDNANJ_01530	GTP-binding protein Era
+GNDDNANJ_01531	diacylglycerol kinase
+GNDDNANJ_01532	Putative metalloprotease
+GNDDNANJ_01533	HD domain-containing protein
+GNDDNANJ_01534	KH domain-containing protein
+GNDDNANJ_01535	Glutamyl-tRNA(Gln) amidotransferase subunit E
+GNDDNANJ_01536	30S ribosomal protein S21
+GNDDNANJ_01537	Fur family transcriptional regulator
+GNDDNANJ_01538	Putative phosphotransferase
+GNDDNANJ_01539	Homoserine kinase
+GNDDNANJ_01540	Threonine synthase
+GNDDNANJ_01541	Homoserine dehydrogenase
+GNDDNANJ_01542	Homoserine dehydrogenase
+GNDDNANJ_01543	ArsR family transcriptional regulator
+GNDDNANJ_01544	delta 1-pyrroline-5-carboxylate reductase
+GNDDNANJ_01545	phosphoglucomutase/phosphomannomutase family protein
+GNDDNANJ_01546	GntR family transcriptional regulator
+GNDDNANJ_01547	GntR family transcriptional regulator
+GNDDNANJ_01548	hypothetical protein
+GNDDNANJ_01549	PadR family transcriptional regulator
+GNDDNANJ_01550	guanosine 5'-monophosphate oxidoreductase
+GNDDNANJ_01551	xanthine permease
+GNDDNANJ_01552	hypothetical protein
+GNDDNANJ_01553	5'-deoxyadenosine deaminase
+GNDDNANJ_01554	Metallo-beta-lactamase superfamily protein
+GNDDNANJ_01555	phosphoglycerate mutase family protein
+GNDDNANJ_01556	RpiR family transcriptional regulator
+GNDDNANJ_01557	PTS system, sugar-specific IIBC component
+GNDDNANJ_01558	N-acetylmuramic acid 6-phosphate etherase
+GNDDNANJ_01559	N-acetylmuramic acid 6-phosphate etherase
+GNDDNANJ_01560	alpha3-beta1 integrin-binding family protein
+GNDDNANJ_01561	PTS system, sugar-specific IIBC component
+GNDDNANJ_01562	undecaprenyl-diphosphatase
+GNDDNANJ_01563	protein YebG
+GNDDNANJ_01564	hypothetical protein
+GNDDNANJ_01565	hypothetical protein
+GNDDNANJ_01566	30S ribosomal protein S20
+GNDDNANJ_01567	hypothetical protein
+GNDDNANJ_01568	2-dehydropantoate 2-reductase
+GNDDNANJ_01569	DNA polymerase III subunit delta
+GNDDNANJ_01570	DNA internalization-related competence protein ComEC/Rec2
+GNDDNANJ_01571	ComE operon protein 2
+GNDDNANJ_01572	competence protein, ComEA
+GNDDNANJ_01573	PDZ domain protein
+GNDDNANJ_01574	Phosphopantetheine adenylyltransferase, CoaD
+GNDDNANJ_01575	RsmD family RNA methyltransferase
+GNDDNANJ_01576	hypothetical protein
+GNDDNANJ_01577	hypothetical protein
+GNDDNANJ_01578	hypothetical protein
+GNDDNANJ_01579	pyruvate carboxylase
+GNDDNANJ_01580	cell cycle protein FtsW
+GNDDNANJ_01581	hypothetical protein
+GNDDNANJ_01582	ATP-dependent DNA helicase RecQ
+GNDDNANJ_01583	GTP-binding protein TypA/BipA
+GNDDNANJ_01584	inositol monophosphatase family protein
+GNDDNANJ_01585	hypothetical protein
+GNDDNANJ_01586	voltage-gated chloride channel family protein
+GNDDNANJ_01587	hypothetical protein
+GNDDNANJ_01588	hypothetical protein
+GNDDNANJ_01589	HD domain-containing protein
+GNDDNANJ_01590	arginyl-tRNA synthetase
+GNDDNANJ_01591	O-sialoglycoprotein endopeptidase
+GNDDNANJ_01592	ribosomal-protein-alanine acetyltransferase
+GNDDNANJ_01593	ribosomal-protein-alanine acetyltransferase
+GNDDNANJ_01594	universal bacterial protein YeaZ
+GNDDNANJ_01595	penicillin binding protein transpeptidase domain protein
+GNDDNANJ_01596	Putative virion core protein
+GNDDNANJ_01597	hypothetical protein
+GNDDNANJ_01598	hypothetical protein
+GNDDNANJ_01599	hypothetical protein
+GNDDNANJ_01600	hypothetical protein
+GNDDNANJ_01601	Phosphoglycolate phosphatase
+GNDDNANJ_01602	hypothetical protein
+GNDDNANJ_01603	hypothetical protein
+GNDDNANJ_01604	phosphatidate cytidylyltransferase
+GNDDNANJ_01605	undecaprenyl diphosphate synthase
+GNDDNANJ_01606	putative D-methionine-binding lipoprotein MetQ
+GNDDNANJ_01607	ABC transporter permease
+GNDDNANJ_01608	ABC transporter ATP-binding protein
+GNDDNANJ_01609	glycine cleavage H-protein
+GNDDNANJ_01610	ArsC family protein
+GNDDNANJ_01611	FtsW/RodA/SpoVE family cell cycle protein
+GNDDNANJ_01612	hypothetical protein
+GNDDNANJ_01613	M protein trans-acting positive regulator
+GNDDNANJ_01614	hypothetical protein
+GNDDNANJ_01615	hypothetical protein
+GNDDNANJ_01616	hypothetical protein
+GNDDNANJ_01617	helix-turn-helix domain-containing protein
+GNDDNANJ_01618	azaleucine resistance protein AzlC_1
+GNDDNANJ_01619	Branched-chain amino acid transport protein
+GNDDNANJ_01620	tRNA-Thr
+GNDDNANJ_01621	hypothetical protein
+GNDDNANJ_01622	hypothetical protein
+GNDDNANJ_01623	uracil phosphoribosyltransferase
+GNDDNANJ_01624	serine hydroxymethyltransferase
+GNDDNANJ_01625	Sua5/YciO/YrdC/YwlC family protein
+GNDDNANJ_01626	modification methylase HemK
+GNDDNANJ_01627	peptide chain release factor 1
+GNDDNANJ_01628	Thymidine kinase
+GNDDNANJ_01629	fumarate reductase flavoprotein subunit
+GNDDNANJ_01630	cation transporter
+GNDDNANJ_01631	pyruvate flavodoxin oxidoreductase subunit alpha
+GNDDNANJ_01632	Glutamate synthase [NADPH] small chain
+GNDDNANJ_01633	dihydroorotate dehydrogenase, electron transfer subunit
+GNDDNANJ_01634	flavodoxin
+GNDDNANJ_01635	hypothetical protein
+GNDDNANJ_01636	hypothetical protein
+GNDDNANJ_01637	hypothetical protein
+GNDDNANJ_01638	hypothetical protein
+GNDDNANJ_01639	Selenide, water dikinase
+GNDDNANJ_01640	cysteine desulfurase
+GNDDNANJ_01641	Molybdenum cofactor guanylyltransferase
+GNDDNANJ_01642	hypothetical protein
+GNDDNANJ_01643	putative xanthine dehydrogenase subunit A
+GNDDNANJ_01644	hypothetical protein
+GNDDNANJ_01645	xanthine permease
+GNDDNANJ_01646	2-iminobutanoate/2-iminopropanoate deaminase
+GNDDNANJ_01647	Carbamate kinase
+GNDDNANJ_01648	Putative carbamoyltransferase YgeW
+GNDDNANJ_01649	Putative dipeptidase
+GNDDNANJ_01650	Diaminopropionate ammonia-lyase
+GNDDNANJ_01651	Dihydroorotase
+GNDDNANJ_01652	Putative oxidoreductase YgfK
+GNDDNANJ_01653	Putative aminohydrolase SsnA
+GNDDNANJ_01654	Transcriptional regulator DauR
+GNDDNANJ_01655	Mur ligase middle domain-containing protein
+GNDDNANJ_01656	CobB/CobQ-like glutamine amidotransferase domain protein
+GNDDNANJ_01657	inosine-uridine preferring nucleoside hydrolase
+GNDDNANJ_01658	integral membrane protein
+GNDDNANJ_01659	mannose-6-phosphate isomerase
+GNDDNANJ_01660	Beta-lactamase
+GNDDNANJ_01661	glyoxalase family protein
+GNDDNANJ_01662	ABC transporter ATP-binding protein/permease
+GNDDNANJ_01663	ABC transporter ATP-binding protein/permease
+GNDDNANJ_01664	TetR family transcriptional regulator
+GNDDNANJ_01665	guanylate kinase
+GNDDNANJ_01666	6-phospho-beta-glucosidase
+GNDDNANJ_01667	PTS system beta-glucoside-specific transporter subunit IIABC
+GNDDNANJ_01668	BglG family transcriptional antiterminator
+GNDDNANJ_01669	azoreductase
+GNDDNANJ_01670	permease
+GNDDNANJ_01671	PTS system, glucitol/sorbitol-specific IIA component
+GNDDNANJ_01672	hypothetical protein
+GNDDNANJ_01673	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GNDDNANJ_01674	membrane protein
+GNDDNANJ_01675	ATP synthase F1 subunit epsilon
+GNDDNANJ_01676	ATP synthase F1 subunit beta
+GNDDNANJ_01677	ATP synthase F1 subunit gamma
+GNDDNANJ_01678	ATP synthase F1 subunit alpha
+GNDDNANJ_01679	ATP synthase F1, delta subunit
+GNDDNANJ_01680	ATP synthase F0, B subunit
+GNDDNANJ_01681	ATP synthase subunit c
+GNDDNANJ_01682	ATP synthase subunit C
+GNDDNANJ_01683	SsrA-binding protein
+GNDDNANJ_01684	ribonuclease R
+GNDDNANJ_01685	carboxylesterase
+GNDDNANJ_01686	preprotein translocase, SecG subunit
+GNDDNANJ_01687	GNAT family acetyltransferase
+GNDDNANJ_01688	hypothetical protein
+GNDDNANJ_01689	cadmium-translocating P-type ATPase
+GNDDNANJ_01690	NH(3)-dependent NAD(+) synthetase
+GNDDNANJ_01691	Nicotinate phosphoribosyltransferase
+GNDDNANJ_01692	cell wall teichoic acid glycosylation protein GtcA family protein
+GNDDNANJ_01693	hypothetical protein
+GNDDNANJ_01694	hypothetical protein
+GNDDNANJ_01695	hypothetical protein
+GNDDNANJ_01696	hypothetical protein
+GNDDNANJ_01697	chaperonin GroL
+GNDDNANJ_01698	chaperonin GroS
+GNDDNANJ_01699	hypothetical protein
+GNDDNANJ_01700	CAAX amino terminal protease
+GNDDNANJ_01701	redox-sensitive transcriptional regulator
+GNDDNANJ_01702	ABC transporter ATP-binding protein
+GNDDNANJ_01703	GntR family transcriptional regulator
+GNDDNANJ_01704	glycine betaine transporter ATP-binding subunit
+GNDDNANJ_01705	Substrate binding domain of ABC-type glycine betaine transport system
+GNDDNANJ_01706	hypothetical protein
+GNDDNANJ_01707	diacylglycerol kinase catalytic subunit
+GNDDNANJ_01708	hypothetical protein
+GNDDNANJ_01709	glycerate kinase
+GNDDNANJ_01710	High-affinity gluconate transporter
+GNDDNANJ_01711	hypothetical protein
+GNDDNANJ_01712	spermidine/putrescine-binding periplasmic protein PotD
+GNDDNANJ_01713	spermidine/putrescine transport system permease protein PotC
+GNDDNANJ_01714	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+GNDDNANJ_01715	Spermidine/putrescine import ATP-binding protein PotA
+GNDDNANJ_01716	helix-turn-helix domain-containing protein
+GNDDNANJ_01717	YhdH/YhfP family quinone oxidoreductase
+GNDDNANJ_01718	phosphopantothenate--cysteine ligase
+GNDDNANJ_01719	phosphopantothenoylcysteine decarboxylase
+GNDDNANJ_01720	integral membrane protein
+GNDDNANJ_01721	Aminoacyltransferase FemB
+GNDDNANJ_01722	integral membrane protein
+GNDDNANJ_01723	diacylglycerol kinase catalytic subunit
+GNDDNANJ_01724	RecD/TraA family helicase
+GNDDNANJ_01725	phosphoglycerate mutase family protein
+GNDDNANJ_01726	TrmH family RNA methyltransferase
+GNDDNANJ_01727	methyltransferase domain protein
+GNDDNANJ_01728	copper homeostasis protein CutC
+GNDDNANJ_01729	magnesium transporter
+GNDDNANJ_01730	ribosomal large subunit pseudouridine synthase
+GNDDNANJ_01731	inorganic polyphosphate/ATP-NAD kinase
+GNDDNANJ_01732	GTP diphosphokinase
+GNDDNANJ_01733	adenylate cyclase
+GNDDNANJ_01734	dithiol-disulfide isomerase
+GNDDNANJ_01735	hypothetical protein
+GNDDNANJ_01736	hypothetical protein
+GNDDNANJ_01737	oligoendopeptidase F
+GNDDNANJ_01738	hypothetical protein
+GNDDNANJ_01739	MecA negative regulator of genetic competence
+GNDDNANJ_01740	transcriptional regulator Spx
+GNDDNANJ_01741	Tryptophanyl-tRNA synthetase II
+GNDDNANJ_01742	ABC transporter ATP-binding protein
+GNDDNANJ_01743	HAD superfamily hydrolase
+GNDDNANJ_01744	Snf2 family protein
+GNDDNANJ_01745	exonuclease SbcC
+GNDDNANJ_01746	exonuclease SbcD
+GNDDNANJ_01747	acyltransferase
+GNDDNANJ_01748	methyltransferase small domain-containing protein
+GNDDNANJ_01749	GIY-YIG nuclease superfamily protein
+GNDDNANJ_01750	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+GNDDNANJ_01751	hypothetical protein
+GNDDNANJ_01752	nudix hydrolase, YffH family
+GNDDNANJ_01753	hypothetical protein
+GNDDNANJ_01754	tellurite resistance protein
+GNDDNANJ_01755	NUDIX family hydrolase
+GNDDNANJ_01756	acetyltransferase, GNAT family
+GNDDNANJ_01757	hypothetical protein
+GNDDNANJ_01758	transcriptional regulator
+GNDDNANJ_01759	A/G-specific adenine glycosylase
+GNDDNANJ_01760	recombination regulator RecX
+GNDDNANJ_01761	23S rRNA (uracil-5-)-methyltransferase
+GNDDNANJ_01762	transglycosylase associated protein
+GNDDNANJ_01763	Evolved beta-galactosidase subunit alpha
+GNDDNANJ_01764	amino acid permease family protein
+GNDDNANJ_01765	AraC-like ligand binding domain protein
+GNDDNANJ_01766	hypothetical protein
+GNDDNANJ_01767	50S ribosomal protein L7/L12
+GNDDNANJ_01768	50S ribosomal protein L10
+GNDDNANJ_01769	50S ribosomal protein L1
+GNDDNANJ_01770	50S ribosomal protein L11
+GNDDNANJ_01771	ABC transporter ATP-binding protein
+GNDDNANJ_01772	L-serine dehydratase, iron-sulfur-dependent subunit beta
+GNDDNANJ_01773	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+GNDDNANJ_01774	D-aminopeptidase
+GNDDNANJ_01775	glutamyl aminopeptidase
+GNDDNANJ_01776	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_01777	hypothetical protein
+GNDDNANJ_01778	hypothetical protein
+GNDDNANJ_01779	transcription termination/antitermination factor NusG
+GNDDNANJ_01780	Preprotein translocase subunit SecE
+GNDDNANJ_01781	50S ribosomal protein L33
+GNDDNANJ_01782	transcriptional regulator
+GNDDNANJ_01783	UDP-N-acetylenolpyruvoylglucosamine reductase
+GNDDNANJ_01784	oxidoreductase family, NAD-binding Rossmann fold protein
+GNDDNANJ_01785	exodeoxyribonuclease III
+GNDDNANJ_01786	exonuclease, DNA polymerase III, epsilon subunit family protein
+GNDDNANJ_01787	hypothetical protein
+GNDDNANJ_01788	Ferredoxin--NADP reductase
+GNDDNANJ_01789	alkyl hydroperoxide reductase subunit C
+GNDDNANJ_01790	O-methyltransferase
+GNDDNANJ_01791	lipoyltransferase and lipoate-protein ligase A
+GNDDNANJ_01792	metallo-beta-lactamase domain-containing protein
+GNDDNANJ_01793	integral membrane protein
+GNDDNANJ_01794	M42 glutamyl aminopeptidase
+GNDDNANJ_01795	D-alanyl-lipoteichoic acid synthetase, DltD
+GNDDNANJ_01796	D-alanine--poly(phosphoribitol) ligase subunit 2
+GNDDNANJ_01797	membrane bound O-acyl transferase
+GNDDNANJ_01798	D-alanine--poly(phosphoribitol) ligase subunit 1
+GNDDNANJ_01799	hypothetical protein
+GNDDNANJ_01800	efflux ABC transporter permease
+GNDDNANJ_01801	ABC transporter ATP-binding protein
+GNDDNANJ_01802	anaerobic ribonucleoside triphosphate reductase
+GNDDNANJ_01803	anaerobic ribonucleoside-triphosphate reductase activating protein
+GNDDNANJ_01804	DNA polymerase IV
+GNDDNANJ_01805	putative iron export permease protein FetB
+GNDDNANJ_01806	ABC transporter ATP-binding protein
+GNDDNANJ_01807	tetrapyrrole methylase family protein
+GNDDNANJ_01808	DNA replication initiation control protein YabA
+GNDDNANJ_01809	stage 0 sporulation family protein
+GNDDNANJ_01810	DNA polymerase III subunit delta'
+GNDDNANJ_01811	putative protein YaaQ
+GNDDNANJ_01812	thymidylate kinase
+GNDDNANJ_01813	recombination protein RecR
+GNDDNANJ_01814	Aminopyrimidine aminohydrolase
+GNDDNANJ_01815	hypothetical protein
+GNDDNANJ_01816	ABC transporter ATP-binding protein
+GNDDNANJ_01817	Putative HMP/thiamine permease protein YkoE
+GNDDNANJ_01818	hypothetical protein
+GNDDNANJ_01819	hypothetical protein
+GNDDNANJ_01820	major facilitator superfamily transporter
+GNDDNANJ_01821	Inner membrane transport protein YdhP
+GNDDNANJ_01822	putative HTH-type transcriptional regulator YtcD
+GNDDNANJ_01823	phosphomethylpyrimidine kinase
+GNDDNANJ_01824	Thiamine-phosphate synthase
+GNDDNANJ_01825	Hydroxyethylthiazole kinase
+GNDDNANJ_01826	hypothetical protein
+GNDDNANJ_01827	Nucleoid-associated protein
+GNDDNANJ_01828	DNA polymerase III subunits gamma and tau
+GNDDNANJ_01829	galactose-1-phosphate uridylyltransferase
+GNDDNANJ_01830	UDP-glucose 4-epimerase
+GNDDNANJ_01831	hypothetical protein
+GNDDNANJ_01832	FAD(NAD)-dependent oxidoreductase
+GNDDNANJ_01833	hypothetical protein
+GNDDNANJ_01834	rhodanese family protein
+GNDDNANJ_01835	glucokinase
+GNDDNANJ_01836	putative protein YqgQ
+GNDDNANJ_01837	peptidase, S54 family protein
+GNDDNANJ_01838	5-formyltetrahydrofolate cyclo-ligase
+GNDDNANJ_01839	putative lipase/esterase
+GNDDNANJ_01840	hypothetical protein
+GNDDNANJ_01841	hypothetical protein
+GNDDNANJ_01842	hypothetical protein
+GNDDNANJ_01843	hypothetical protein
+GNDDNANJ_01844	hypothetical protein
+GNDDNANJ_01845	hypothetical protein
+GNDDNANJ_01846	tRNA-Ser
+GNDDNANJ_01847	50S ribosomal protein L33
+GNDDNANJ_01848	Penicillin binding protein transpeptidase domain protein
+GNDDNANJ_01849	threonyl-tRNA synthetase
+GNDDNANJ_01850	4-oxalocrotonate tautomerase
+GNDDNANJ_01851	ErfK/YbiS/YcfS/YnhG family protein
+GNDDNANJ_01852	Streptomycin adenyltransferase
+GNDDNANJ_01853	integral membrane protein
+GNDDNANJ_01854	Endo-beta-N-acetylglucosaminidase H
+GNDDNANJ_01855	hypothetical protein
+GNDDNANJ_01856	putative transcriptional regulatory protein
+GNDDNANJ_01857	nucleotidyltransferase
+GNDDNANJ_01858	methyltransferase domain protein
+GNDDNANJ_01859	HD domain-containing protein
+GNDDNANJ_01860	nicotinic acid mononucleotide adenylyltransferase
+GNDDNANJ_01861	RNA-binding protein YhbY
+GNDDNANJ_01862	ribosome biogenesis GTPase YqeH
+GNDDNANJ_01863	HAD superfamily hydrolase
+GNDDNANJ_01864	acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+GNDDNANJ_01865	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+GNDDNANJ_01866	acetyl-CoA carboxylase, biotin carboxylase subunit
+GNDDNANJ_01867	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+GNDDNANJ_01868	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+GNDDNANJ_01869	beta-ketoacyl-acyl-carrier-protein synthase II
+GNDDNANJ_01870	3-oxoacyl-ACP reductase
+GNDDNANJ_01871	Malonyl CoA-acyl carrier protein transacylase
+GNDDNANJ_01872	Nitronate monooxygenase
+GNDDNANJ_01873	acyl carrier protein
+GNDDNANJ_01874	3-oxoacyl-ACP synthase
+GNDDNANJ_01875	MarR family transcriptional regulator
+GNDDNANJ_01876	putative protein YkuJ
+GNDDNANJ_01877	2-hydroxy-3-oxopropionate reductase
+GNDDNANJ_01878	glycosyl transferase family protein
+GNDDNANJ_01879	glycosyl transferase family protein
+GNDDNANJ_01880	tRNA-Asn
+GNDDNANJ_01881	2-dehydro-3-deoxy-phosphogluconate aldolase
+GNDDNANJ_01882	kinase, PfkB family
+GNDDNANJ_01883	DNA gyrase subunit B, GyrB
+GNDDNANJ_01884	YaiI/YqxD family protein
+GNDDNANJ_01885	D-alanine--D-alanine ligase
+GNDDNANJ_01886	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+GNDDNANJ_01887	replication protein
+GNDDNANJ_01888	hypothetical protein
+GNDDNANJ_01889	hypothetical protein
+GNDDNANJ_01890	hypothetical protein
+GNDDNANJ_01891	hypothetical protein
+GNDDNANJ_01892	hypothetical protein
+GNDDNANJ_01893	hypothetical protein
+GNDDNANJ_01894	hypothetical protein
+GNDDNANJ_01895	hypothetical protein
+GNDDNANJ_01896	hypothetical protein
+GNDDNANJ_01897	hypothetical protein
+GNDDNANJ_01898	hypothetical protein
+GNDDNANJ_01899	hypothetical protein
+GNDDNANJ_01900	hypothetical protein
+GNDDNANJ_01901	hypothetical protein
+GNDDNANJ_01902	hypothetical protein
+GNDDNANJ_01903	hypothetical protein
+GNDDNANJ_01904	TraG/TraD family protein
+GNDDNANJ_01905	hypothetical protein
+GNDDNANJ_01906	hypothetical protein
+GNDDNANJ_01907	hypothetical protein
+GNDDNANJ_01908	Type IV secretory pathway, VirB4 component
+GNDDNANJ_01909	hypothetical protein
+GNDDNANJ_01910	hypothetical protein
+GNDDNANJ_01911	hypothetical protein
+GNDDNANJ_01912	hypothetical protein
+GNDDNANJ_01913	hypothetical protein
+GNDDNANJ_01914	hypothetical protein
+GNDDNANJ_01915	hypothetical protein
+GNDDNANJ_01916	hypothetical protein
+GNDDNANJ_01917	hypothetical protein
+GNDDNANJ_01918	hypothetical protein
+GNDDNANJ_01919	hypothetical protein
+GNDDNANJ_01920	hypothetical protein
+GNDDNANJ_01921	ArpU family transcriptional regulator
+GNDDNANJ_01922	putative regulatory protein VanR
+GNDDNANJ_01923	histidine kinase
+GNDDNANJ_01924	seryl-tRNA synthetase
+GNDDNANJ_01925	Inosine-5'-monophosphate dehydrogenase
+GNDDNANJ_01926	integral membrane protein
+GNDDNANJ_01927	hypothetical protein
+GNDDNANJ_01928	translation-associated GTPase
+GNDDNANJ_01929	translation-associated GTPase
+GNDDNANJ_01930	ParB family chromosome partitioning protein
+GNDDNANJ_01931	sporulation initiation inhibitor protein Soj
+GNDDNANJ_01932	Ribosomal RNA small subunit methyltransferase G
+GNDDNANJ_01933	hypothetical protein
+GNDDNANJ_01934	myosin-cross-reactive antigen-like protein
+GNDDNANJ_01935	fructose-6-phosphate aldolase
+GNDDNANJ_01936	PTS system glucitol/sorbitol-specific transporter subunit IIA
+GNDDNANJ_01937	PTS system, glucitol/sorbitol-specific, IIBC component
+GNDDNANJ_01938	PTS system, glucitol/sorbitol-specific IIC component
+GNDDNANJ_01939	glucitol operon activator protein
+GNDDNANJ_01940	PRD domain-containing protein
+GNDDNANJ_01941	short chain dehydrogenase/reductase family oxidoreductase
+GNDDNANJ_01942	hypothetical protein
+GNDDNANJ_01943	Type-2 restriction enzyme Sau3AI
+GNDDNANJ_01944	hypothetical protein
+GNDDNANJ_01945	hypothetical protein
+GNDDNANJ_01946	hypothetical protein
+GNDDNANJ_01947	hypothetical protein
+GNDDNANJ_01948	helix-turn-helix domain-containing protein
+GNDDNANJ_01949	helix-turn-helix domain-containing protein
+GNDDNANJ_01950	hypothetical protein
+GNDDNANJ_01951	Helix-turn-helix domain protein
+GNDDNANJ_01952	Helix-turn-helix domain protein
+GNDDNANJ_01953	site-specific tyrosine recombinase XerC-family protein
+GNDDNANJ_01954	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+GNDDNANJ_01955	tRNA modification GTPase MnmE
+GNDDNANJ_01956	hypothetical protein
+GNDDNANJ_01957	triphosphoribosyl-dephospho-CoA synthase
+GNDDNANJ_01958	NADP-dependent malic enzyme
+GNDDNANJ_01959	pyruvate carboxylase
+GNDDNANJ_01960	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+GNDDNANJ_01961	Citrate lyase alpha chain
+GNDDNANJ_01962	Citrate lyase subunit beta
+GNDDNANJ_01963	Citrate lyase gamma chain
+GNDDNANJ_01964	[Citrate [pro-3S]-lyase] ligase
+GNDDNANJ_01965	hypothetical protein
+GNDDNANJ_01966	Glutaconyl-CoA decarboxylase subunit beta
+GNDDNANJ_01967	Glutaconyl-CoA decarboxylase subunit gamma
+GNDDNANJ_01968	hypothetical protein
+GNDDNANJ_01969	Citrate transporter
+GNDDNANJ_01970	GntR family transcriptional regulator
+GNDDNANJ_01971	DNA-binding response regulator
+GNDDNANJ_01972	r3H domain protein
+GNDDNANJ_01973	putative stage III sporulation protein J
+GNDDNANJ_01974	Ribonuclease P protein component
+GNDDNANJ_01975	50S ribosomal protein L34
+GNDDNANJ_01976	chromosomal replication initiation protein, DnaA
+GNDDNANJ_01977	DNA polymerase III subunit beta, DnaB
+GNDDNANJ_01978	S4 domain protein, YaaA
+GNDDNANJ_01979	recombination protein F, RecF
+GNDDNANJ_01980	DNA gyrase subunit B, GyrB
+GNDDNANJ_01981	DNA gyrase, A subunit, GyrA
+GNDDNANJ_01982	30S ribosomal protein S6
+GNDDNANJ_01983	single-strand binding protein
+GNDDNANJ_01984	30S ribosomal protein S18
+GNDDNANJ_01985	DHH family protein
+GNDDNANJ_01986	50S ribosomal protein L9
+GNDDNANJ_01987	replicative DNA helicase
+GNDDNANJ_01988	adenylosuccinate synthetase
+GNDDNANJ_01989	DegV family protein
+GNDDNANJ_01990	ABC transporter ATP-binding protein
+GNDDNANJ_01991	transcriptional antiterminator bglG:Sigma-54 factor
+GNDDNANJ_01992	PTS system, mannose/fructose/sorbose-specific IIB component
+GNDDNANJ_01993	PTS system, mannose/fructose/sorbose-specific IIAB component
+GNDDNANJ_01994	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_01995	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_01996	hypothetical protein
+GNDDNANJ_01997	acid-resistance membrane protein
+GNDDNANJ_01998	hypothetical protein
+GNDDNANJ_01999	phosphosugar isomerase transcriptional regulator
+GNDDNANJ_02000	PTS system, N-acetylglucosamine-specific IICBA component
+GNDDNANJ_02001	class II aminotransferase
+GNDDNANJ_02002	2-iminobutanoate/2-iminopropanoate deaminase
+GNDDNANJ_02003	ysyl-tRNA synthetase
+GNDDNANJ_02004	Bacterial membrane protein YfhO
+GNDDNANJ_02005	hypothetical protein
+GNDDNANJ_02006	hypothetical protein
+GNDDNANJ_02007	hypothetical protein
+GNDDNANJ_02008	Gamma-glutamyl phosphate reductase
+GNDDNANJ_02009	glutamate 5-kinase
+GNDDNANJ_02010	deoxyuridine 5'-triphosphate nucleotidohydrolase
+GNDDNANJ_02011	DNA repair protein RadA
+GNDDNANJ_02012	Integral membrane protein
+GNDDNANJ_02013	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+GNDDNANJ_02014	glutamyl-tRNA synthetase
+GNDDNANJ_02015	Serine O-acetyltransferase
+GNDDNANJ_02016	cysteinyl-tRNA synthetase
+GNDDNANJ_02017	ribonuclease III
+GNDDNANJ_02018	trmH family tRNA/rRNA methyltransferase
+GNDDNANJ_02019	putative RNA-binding protein containing a PIN domain protein
+GNDDNANJ_02020	RNA polymerase sigma-70 factor family protein
+GNDDNANJ_02021	veg family protein
+GNDDNANJ_02022	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GNDDNANJ_02023	periplasmic solute binding family protein
+GNDDNANJ_02024	ABC transporter ATP-binding protein
+GNDDNANJ_02025	ABC transporter permease
+GNDDNANJ_02026	pur operon repressor
+GNDDNANJ_02027	bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase
+GNDDNANJ_02028	Trifunctional nucleotide phosphoesterase protein YfkN
+GNDDNANJ_02029	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_02030	hypothetical protein
+GNDDNANJ_02031	F420-dependent glucose-6-phosphate dehydrogenase
+GNDDNANJ_02032	Holliday junction DNA helicase RuvA
+GNDDNANJ_02033	Holliday junction DNA helicase RuvB
+GNDDNANJ_02034	N-acetylmannosamine-6-phosphate 2-epimerase
+GNDDNANJ_02035	Glucosidase YgjK
+GNDDNANJ_02036	hypothetical protein
+GNDDNANJ_02037	CarD family transcriptional regulator
+GNDDNANJ_02038	putative oxidoreductase YghA
+GNDDNANJ_02039	short chain dehydrogenase/reductase family oxidoreductase
+GNDDNANJ_02040	hypothetical protein
+GNDDNANJ_02041	small integral membrane protein
+GNDDNANJ_02042	alkaline shock protein 23 family protein
+GNDDNANJ_02043	alkaline shock protein 23 family protein
+GNDDNANJ_02044	transglycosylase associated protein
+GNDDNANJ_02045	hypothetical protein
+GNDDNANJ_02046	hypothetical protein
+GNDDNANJ_02047	hypothetical protein
+GNDDNANJ_02048	hypothetical protein
+GNDDNANJ_02049	hypothetical protein
+GNDDNANJ_02050	transporter, major facilitator family protein
+GNDDNANJ_02051	hypothetical protein
+GNDDNANJ_02052	hypothetical protein
+GNDDNANJ_02053	hypothetical protein
+GNDDNANJ_02054	hypothetical protein
+GNDDNANJ_02055	diacylglycerol kinase catalytic subunit
+GNDDNANJ_02056	M protein trans-acting positive regulator
+GNDDNANJ_02057	hypothetical protein
+GNDDNANJ_02058	hypothetical protein
+GNDDNANJ_02059	hypothetical protein
+GNDDNANJ_02060	hypothetical protein
+GNDDNANJ_02061	hypothetical protein
+GNDDNANJ_02062	hypothetical protein
+GNDDNANJ_02063	hypothetical protein
+GNDDNANJ_02064	hypothetical protein
+GNDDNANJ_02065	hypothetical protein
+GNDDNANJ_02066	hypothetical protein
+GNDDNANJ_02067	hypothetical protein
+GNDDNANJ_02068	hypothetical protein
+GNDDNANJ_02069	hypothetical protein
+GNDDNANJ_02070	hypothetical protein
+GNDDNANJ_02071	hypothetical protein
+GNDDNANJ_02072	hypothetical protein
+GNDDNANJ_02073	hypothetical protein
+GNDDNANJ_02074	hypothetical protein
+GNDDNANJ_02075	hypothetical protein
+GNDDNANJ_02076	hypothetical protein
+GNDDNANJ_02077	hypothetical protein
+GNDDNANJ_02078	hypothetical protein
+GNDDNANJ_02079	putative lipoprotein YehR
+GNDDNANJ_02080	phosphatidylglycerophosphatase A
+GNDDNANJ_02081	L-lactate dehydrogenase
+GNDDNANJ_02082	hypothetical protein
+GNDDNANJ_02083	hypothetical protein
+GNDDNANJ_02084	LysR family transcriptional regulator
+GNDDNANJ_02085	C4-dicarboxylate transporter/malic acid transport protein
+GNDDNANJ_02086	NAD-dependent epimerase/dehydratase
+GNDDNANJ_02087	putative HTH-type transcriptional regulator YtcD
+GNDDNANJ_02088	nitroreductase family protein
+GNDDNANJ_02089	lipoyltransferase and lipoate-protein ligase A
+GNDDNANJ_02090	Protease HtpX
+GNDDNANJ_02091	hypothetical protein
+GNDDNANJ_02092	hypothetical protein
+GNDDNANJ_02093	LacI family sugar-binding transcriptional regulator
+GNDDNANJ_02094	nitroreductase family protein
+GNDDNANJ_02095	glyoxalase family protein
+GNDDNANJ_02096	DeoR-like helix-turn-helix protein
+GNDDNANJ_02097	hypothetical protein
+GNDDNANJ_02098	uracil-DNA glycosylase, family 4
+GNDDNANJ_02099	Multidrug export protein MepA
+GNDDNANJ_02100	oligoendopeptidase, PepF/M3 family
+GNDDNANJ_02101	integral membrane protein
+GNDDNANJ_02102	putative transcriptional regulatory protein
+GNDDNANJ_02103	hypothetical protein
+GNDDNANJ_02104	hypothetical protein
+GNDDNANJ_02105	glyoxalase family protein
+GNDDNANJ_02106	phospholipase/carboxylesterase
+GNDDNANJ_02107	UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase
+GNDDNANJ_02108	polysaccharide biosynthesis family protein
+GNDDNANJ_02109	16S rRNA pseudouridylate synthase A
+GNDDNANJ_02110	dipeptidase PepV
+GNDDNANJ_02111	hypothetical protein
+GNDDNANJ_02112	hypothetical protein
+GNDDNANJ_02113	ABC transporter ATP-binding protein
+GNDDNANJ_02114	glycine betaine/carnitine/choline ABC transporter
+GNDDNANJ_02115	arginine repressor protein
+GNDDNANJ_02116	phosphoglucomutase/phosphomannomutase family protein
+GNDDNANJ_02117	hypothetical protein
+GNDDNANJ_02118	23S rRNA pseudouridine synthase D
+GNDDNANJ_02119	penicillin-binding protein, 1A family
+GNDDNANJ_02120	hypothetical protein
+GNDDNANJ_02121	excisionase family DNA binding domain protein
+GNDDNANJ_02122	ABC transporter, ATP-binding protein/permease
+GNDDNANJ_02123	hypothetical protein
+GNDDNANJ_02124	hypothetical protein
+GNDDNANJ_02125	hypothetical protein
+GNDDNANJ_02126	hypothetical protein
+GNDDNANJ_02127	hypothetical protein
+GNDDNANJ_02128	Ser/Thr protein phosphatase family protein
+GNDDNANJ_02129	putative protein YhaN
+GNDDNANJ_02130	3'-5' exoribonuclease yhaM
+GNDDNANJ_02131	Foldase protein prsA
+GNDDNANJ_02132	YtxH-like protein
+GNDDNANJ_02133	histidine triad protein
+GNDDNANJ_02134	ABC transporter ATP-binding protein
+GNDDNANJ_02135	Bacterial ABC transporter protein EcsB
+GNDDNANJ_02136	Phosphotransferase
+GNDDNANJ_02137	tRNA (guanine-N(7)-)-methyltransferase
+GNDDNANJ_02138	HTH-type transcriptional regulator MurR
+GNDDNANJ_02139	1-phosphofructokinase
+GNDDNANJ_02140	PTS system fructose-specific transporter subunit IIBC
+GNDDNANJ_02141	PTS system fructose-specific transporter subunit IIA
+GNDDNANJ_02142	tagatose 1,6-diphosphate aldolase
+GNDDNANJ_02143	hypothetical protein
+GNDDNANJ_02144	GNAT family acetyltransferase
+GNDDNANJ_02145	permease
+GNDDNANJ_02146	hemolysin
+GNDDNANJ_02147	peptide chain release factor 3
+GNDDNANJ_02148	hypothetical protein
+GNDDNANJ_02149	membrane protein
+GNDDNANJ_02150	hypothetical protein
+GNDDNANJ_02151	hypothetical protein
+GNDDNANJ_02152	UvrB/UvrC protein/AAA ATPase
+GNDDNANJ_02153	hypothetical protein
+GNDDNANJ_02154	phosphocarrier protein HPr
+GNDDNANJ_02155	Phosphoenolpyruvate-protein phosphotransferase
+GNDDNANJ_02156	cell wall surface anchor family protein
+GNDDNANJ_02157	hypothetical protein
+GNDDNANJ_02158	hypothetical protein
+GNDDNANJ_02159	trigger factor
+GNDDNANJ_02160	hypothetical protein
+GNDDNANJ_02161	PTS system fructose-specific transporter subunit IIABC
+GNDDNANJ_02162	hexose kinase, 1-phosphofructokinase family protein
+GNDDNANJ_02163	DeoR-like helix-turn-helix protein
+GNDDNANJ_02164	voltage-gated cchloride transporter, chloride channel family protein
+GNDDNANJ_02165	ATP-dependent DNA helicase
+GNDDNANJ_02166	NAD-dependent DNA ligase
+GNDDNANJ_02167	aspartyl/glutamyl-tRNA amidotransferase subunit C
+GNDDNANJ_02168	glutamyl-tRNA(Gln) amidotransferase subunit A
+GNDDNANJ_02169	aspartyl/glutamyl-tRNA amidotransferase subunit B
+GNDDNANJ_02170	Diacylglycerol kinase
+GNDDNANJ_02171	23S rRNA (uracil-5-)-methyltransferase
+GNDDNANJ_02172	hypothetical protein
+GNDDNANJ_02173	thioredoxin domain-containing protein
+GNDDNANJ_02174	HTH-type transcriptional regulator MalT
+GNDDNANJ_02175	ornithine carbamoyltransferase
+GNDDNANJ_02176	amino acid permease family protein
+GNDDNANJ_02177	Putative agmatine deiminase
+GNDDNANJ_02178	Carbamate kinase
+GNDDNANJ_02179	glutamyl-tRNA(Gln) amidotransferase subunit A
+GNDDNANJ_02180	nicotinamide mononucleotide transporter PnuC
+GNDDNANJ_02181	deoxynucleoside kinase
+GNDDNANJ_02182	hypothetical protein
+GNDDNANJ_02183	hypothetical protein
+GNDDNANJ_02184	esterase
+GNDDNANJ_02185	isochorismatase family protein
+GNDDNANJ_02186	LrgB family protein
+GNDDNANJ_02187	Antiholin-like protein LrgA
+GNDDNANJ_02188	Sensory transduction protein LytR
+GNDDNANJ_02189	Sensor histidine kinase YpdA
+GNDDNANJ_02190	putative D-methionine-binding lipoprotein MetQ
+GNDDNANJ_02191	ABC transporter permease
+GNDDNANJ_02192	ABC transporter ATP-binding protein
+GNDDNANJ_02193	hypothetical protein
+GNDDNANJ_02194	30S ribosomal protein S14
+GNDDNANJ_02195	50S ribosomal protein L33
+GNDDNANJ_02196	cobalamin synthesis protein
+GNDDNANJ_02197	hypothetical protein
+GNDDNANJ_02198	periplasmic solute binding family protein
+GNDDNANJ_02199	tRNA-dihydrouridine synthase
+GNDDNANJ_02200	ABC transporter permease
+GNDDNANJ_02201	ABC transporter, ATP-binding protein
+GNDDNANJ_02202	PTS system, mannose/fructose/sorbose-specific IIA component
+GNDDNANJ_02203	PTS system, mannose/fructose/sorbose-specific IIB component
+GNDDNANJ_02204	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_02205	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_02206	PRD domain-containing protein
+GNDDNANJ_02207	C-5 cytosine-specific DNA methylase
+GNDDNANJ_02208	hypothetical protein
+GNDDNANJ_02209	hypothetical protein
+GNDDNANJ_02210	hypothetical protein
+GNDDNANJ_02211	hypothetical protein
+GNDDNANJ_02212	hypothetical protein
+GNDDNANJ_02213	Tat-linked quality control protein TatD
+GNDDNANJ_02214	hypothetical protein
+GNDDNANJ_02215	hypothetical protein
+GNDDNANJ_02216	hypothetical protein
+GNDDNANJ_02217	hypothetical protein
+GNDDNANJ_02218	hypothetical protein
+GNDDNANJ_02219	FtsK/SpoIIIE family protein
+GNDDNANJ_02220	hypothetical protein
+GNDDNANJ_02221	hypothetical protein
+GNDDNANJ_02222	hypothetical protein
+GNDDNANJ_02223	hypothetical protein
+GNDDNANJ_02224	hypothetical protein
+GNDDNANJ_02225	site-specific tyrosine recombinase XerC-family protein
+GNDDNANJ_02226	30S ribosomal protein S9
+GNDDNANJ_02227	50S ribosomal protein L13
+GNDDNANJ_02228	DNA protection during starvation protein 1
+GNDDNANJ_02229	hypothetical protein
+GNDDNANJ_02230	gluconate kinase
+GNDDNANJ_02231	bacterial Peptidase A24 protein
+GNDDNANJ_02232	DNA-directed RNA polymerase subunit beta'
+GNDDNANJ_02233	DNA-directed RNA polymerase subunit beta
+GNDDNANJ_02234	hypothetical protein
+GNDDNANJ_02235	biotin-[acetyl-CoA-carboxylase] ligase
+GNDDNANJ_02236	chitin binding protein
+GNDDNANJ_02237	Transcriptional regulator LytR
+GNDDNANJ_02238	hypothetical protein
+GNDDNANJ_02239	hypothetical protein
+GNDDNANJ_02240	hypothetical protein
+GNDDNANJ_02241	hypothetical protein
+GNDDNANJ_02242	prenyltransferase, UbiA family
+GNDDNANJ_02243	ApbE family protein
+GNDDNANJ_02244	FMN-binding domain-containing protein
+GNDDNANJ_02245	pyridine nucleotide-disulfide family oxidoreductase
+GNDDNANJ_02246	CobW/P47K family protein
+GNDDNANJ_02247	Heptaprenyl diphosphate synthase component I
+GNDDNANJ_02248	polyprenyl synthetase
+GNDDNANJ_02249	hypothetical protein
+GNDDNANJ_02250	hypothetical protein
+GNDDNANJ_02251	Dihydropteroate synthase
+GNDDNANJ_02252	Ribonuclease PH/Ham1 protein
+GNDDNANJ_02253	GTP cyclohydrolase 1
+GNDDNANJ_02254	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+GNDDNANJ_02255	Dihydroneopterin aldolase
+GNDDNANJ_02256	hypothetical protein
+GNDDNANJ_02257	Glutathione reductase
+GNDDNANJ_02258	hypothetical protein
+GNDDNANJ_02259	hydantoinase/oxoprolinase
+GNDDNANJ_02260	hypothetical protein
+GNDDNANJ_02261	Cytosine permease
+GNDDNANJ_02262	hypothetical protein
+GNDDNANJ_02263	peptidase, U32 family
+GNDDNANJ_02264	peptidase, U32 family
+GNDDNANJ_02265	hypothetical protein
+GNDDNANJ_02266	negative regulator of genetic competence ClpC/MecB
+GNDDNANJ_02267	firmicute transcriptional repressor of class III stress
+GNDDNANJ_02268	cystathionine gamma-synthase
+GNDDNANJ_02269	PTS system, lactose/cellobiose IIC component
+GNDDNANJ_02270	RpiR family transcriptional regulator
+GNDDNANJ_02271	tRNA-Pro
+GNDDNANJ_02272	S-adenosylmethionine synthetase
+GNDDNANJ_02273	acyltransferase
+GNDDNANJ_02274	RNA polymerase factor sigma-54
+GNDDNANJ_02275	tRNA-Arg
+GNDDNANJ_02276	major cold shock protein CspA
+GNDDNANJ_02277	hypothetical protein
+GNDDNANJ_02278	hypothetical protein
+GNDDNANJ_02279	cell wall surface anchor family protein
+GNDDNANJ_02280	hypothetical protein
+GNDDNANJ_02281	hypothetical protein
+GNDDNANJ_02282	hypothetical protein
+GNDDNANJ_02283	hypothetical protein
+GNDDNANJ_02284	glycerophosphodiester phosphodiesterase family protein
+GNDDNANJ_02285	hypothetical protein
+GNDDNANJ_02286	hypothetical protein
+GNDDNANJ_02287	hypothetical protein
+GNDDNANJ_02288	membrane protein
+GNDDNANJ_02289	hypothetical protein
+GNDDNANJ_02290	ATP-dependent Clp protease proteolytic subunit
+GNDDNANJ_02291	bifunctional disulfide isomerase/thiol-disulfide oxidase
+GNDDNANJ_02292	hypothetical protein
+GNDDNANJ_02293	hypothetical protein
+GNDDNANJ_02294	Putative gluconeogenesis factor
+GNDDNANJ_02295	ATP-binding protein
+GNDDNANJ_02296	hypothetical protein
+GNDDNANJ_02297	excinuclease ABC subunit A
+GNDDNANJ_02298	excinuclease ABC subunit B
+GNDDNANJ_02299	Membrane-bound lytic murein transglycosylase F
+GNDDNANJ_02300	amino acid ABC transporter ATP-binding protein
+GNDDNANJ_02301	Protein SapB
+GNDDNANJ_02302	cadmium-translocating P-type ATPase
+GNDDNANJ_02303	hypothetical protein
+GNDDNANJ_02304	hypothetical protein
+GNDDNANJ_02305	cell wall surface anchor family protein
+GNDDNANJ_02306	hypothetical protein
+GNDDNANJ_02307	hypothetical protein
+GNDDNANJ_02308	hypothetical protein
+GNDDNANJ_02309	hypothetical protein
+GNDDNANJ_02310	hypothetical protein
+GNDDNANJ_02311	hypothetical protein
+GNDDNANJ_02312	PTS system, trehalose/maltose-specific, IIBCA component
+GNDDNANJ_02313	PTS system, N-acetylglucosamine-specific IIABC component
+GNDDNANJ_02314	N-acetylmannosamine-6-phosphate 2-epimerase
+GNDDNANJ_02315	phosphosugar isomerase transcriptional regulator
+GNDDNANJ_02316	putative protein YbdM
+GNDDNANJ_02317	hypothetical protein
+GNDDNANJ_02318	hypothetical protein
+GNDDNANJ_02319	hypothetical protein
+GNDDNANJ_02320	cell wall surface anchor family protein
+GNDDNANJ_02321	hypothetical protein
+GNDDNANJ_02322	hypothetical protein
+GNDDNANJ_02323	hypothetical protein
+GNDDNANJ_02324	hypothetical protein
+GNDDNANJ_02325	replication protein
+GNDDNANJ_02326	hypothetical protein
+GNDDNANJ_02327	hypothetical protein
+GNDDNANJ_02328	hypothetical protein
+GNDDNANJ_02329	hypothetical protein
+GNDDNANJ_02330	ArpU family transcriptional regulator
+GNDDNANJ_02331	C-5 cytosine-specific DNA methylase
+GNDDNANJ_02332	DNA adenine methyltransferase YhdJ
+GNDDNANJ_02333	hypothetical protein
+GNDDNANJ_02334	hypothetical protein
+GNDDNANJ_02335	hypothetical protein
+GNDDNANJ_02336	hypothetical protein
+GNDDNANJ_02337	hypothetical protein
+GNDDNANJ_02338	hypothetical protein
+GNDDNANJ_02339	ABC transporter, ATP-binding protein/permease
+GNDDNANJ_02340	hypothetical protein
+GNDDNANJ_02341	hypothetical protein
+GNDDNANJ_02342	hypothetical protein
+GNDDNANJ_02343	hypothetical protein
+GNDDNANJ_02344	hypothetical protein
+GNDDNANJ_02345	hypothetical protein
+GNDDNANJ_02346	Resolvase protein
+GNDDNANJ_02347	hypothetical protein
+GNDDNANJ_02348	16S ribosomal RNA
+GNDDNANJ_02349	23S ribosomal RNA
+GNDDNANJ_02350	5S ribosomal RNA
+GNDDNANJ_02351	tRNA-Pro
+GNDDNANJ_02352	tRNA-Ala
+GNDDNANJ_02353	tRNA-Met
+GNDDNANJ_02354	tRNA-Met
+GNDDNANJ_02355	tRNA-Ser
+GNDDNANJ_02356	tRNA-Met
+GNDDNANJ_02357	tRNA-Asp
+GNDDNANJ_02358	tRNA-Gly
+GNDDNANJ_02359	tRNA-Ile
+GNDDNANJ_02360	tRNA-Glu
+GNDDNANJ_02361	tRNA-Ser
+GNDDNANJ_02362	tRNA-Met
+GNDDNANJ_02363	tRNA-Asp
+GNDDNANJ_02364	tRNA-Phe
+GNDDNANJ_02365	tRNA-Gly
+GNDDNANJ_02366	tRNA-Ile
+GNDDNANJ_02367	tRNA-Ser
+GNDDNANJ_02368	tRNA-Glu
+GNDDNANJ_02369	transcriptional antiterminator bglG/CAT RNA-binding protein
+GNDDNANJ_02370	PTS system, beta-glucoside-specific IIABC component
+GNDDNANJ_02371	6-phospho-beta-glucosidase
+GNDDNANJ_02372	6-phospho-beta-glucosidase
+GNDDNANJ_02373	phosphoglycerate mutase family protein
+GNDDNANJ_02374	hydrolase
+GNDDNANJ_02375	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+GNDDNANJ_02376	Methylated-DNA--protein-cysteine methyltransferase, inducible
+GNDDNANJ_02377	DNA-3-methyladenine glycosylase I
+GNDDNANJ_02378	HD domain-containing protein
+GNDDNANJ_02379	cation diffusion facilitator family transporter
+GNDDNANJ_02380	hypothetical protein
+GNDDNANJ_02381	Enoyl-[acyl-carrier-protein] reductase
+GNDDNANJ_02382	beta-ketoacyl-acyl-carrier-protein synthase II
+GNDDNANJ_02383	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+GNDDNANJ_02384	dihydroorotate dehydrogenase 1A
+GNDDNANJ_02385	fibronectin-binding protein
+GNDDNANJ_02386	translation elongation factor P
+GNDDNANJ_02387	hypothetical protein
+GNDDNANJ_02388	cysteine synthase A
+GNDDNANJ_02389	cystathionine gamma-synthase
+GNDDNANJ_02390	6-phospho-beta-glucosidase
+GNDDNANJ_02391	PTS system, lactose/cellobiose IIC component
+GNDDNANJ_02392	HTH-type transcriptional regulator MurR
+GNDDNANJ_02393	riboflavin biosynthesis protein RibD protein
+GNDDNANJ_02394	V-type sodium ATP synthase subunit J
+GNDDNANJ_02395	transporter, monovalent cation:proton antiporter-2 family protein
+GNDDNANJ_02396	CopY/TcrY family copper transport repressor
+GNDDNANJ_02397	copper-translocating P-type ATPase
+GNDDNANJ_02398	hypothetical protein
+GNDDNANJ_02399	hypothetical protein
+GNDDNANJ_02400	hypothetical protein
+GNDDNANJ_02401	Aminopeptidase C
+GNDDNANJ_02402	Flavin reductase-like domain protein
+GNDDNANJ_02403	glyoxalase family protein
+GNDDNANJ_02404	SMR family multidrug resistance protein
+GNDDNANJ_02405	SMR family multidrug resistance protein
+GNDDNANJ_02406	Chitinase D
+GNDDNANJ_02407	chitin binding protein
+GNDDNANJ_02408	Acyl-ACP thioesterase
+GNDDNANJ_02409	hypothetical protein
+GNDDNANJ_02410	hypothetical protein
+GNDDNANJ_02411	aspartate kinase
+GNDDNANJ_02412	HAD superfamily hydrolase
+GNDDNANJ_02413	septation ring formation regulator EzrA
+GNDDNANJ_02414	class V aminotransferase
+GNDDNANJ_02415	IS200/IS605 family transposase ISAac3
+GNDDNANJ_02416	hypothetical protein
+GNDDNANJ_02417	Putative transposon Tn552 DNA-invertase bin3
+GNDDNANJ_02418	hypothetical protein
+GNDDNANJ_02419	hypothetical protein
+GNDDNANJ_02420	hypothetical protein
+GNDDNANJ_02421	hypothetical protein
+GNDDNANJ_02422	hypothetical protein
+GNDDNANJ_02423	hypothetical protein
+GNDDNANJ_02424	Toxin YoeB
+GNDDNANJ_02425	toxin-antitoxin system, antitoxin component
+GNDDNANJ_02426	hypothetical protein
+GNDDNANJ_02427	hypothetical protein
+GNDDNANJ_02428	hypothetical protein
+GNDDNANJ_02429	hypothetical protein
+GNDDNANJ_02430	hypothetical protein
+GNDDNANJ_02431	hypothetical protein
+GNDDNANJ_02432	hypothetical protein
+GNDDNANJ_02433	AbrB family transcriptional regulator
+GNDDNANJ_02434	toxin-antitoxin system, toxin component, MazF family
+GNDDNANJ_02435	hypothetical protein
+GNDDNANJ_02436	hypothetical protein
+GNDDNANJ_02437	hypothetical protein
+GNDDNANJ_02438	hypothetical protein
+GNDDNANJ_02439	hypothetical protein
+GNDDNANJ_02440	hypothetical protein
+GNDDNANJ_02441	hypothetical protein
+GNDDNANJ_02442	Endonuclease YncB
+GNDDNANJ_02443	single-strand binding protein
+GNDDNANJ_02444	hypothetical protein
+GNDDNANJ_02445	hypothetical protein
+GNDDNANJ_02446	hypothetical protein
+GNDDNANJ_02447	hypothetical protein
+GNDDNANJ_02448	hypothetical protein
+GNDDNANJ_02449	hypothetical protein
+GNDDNANJ_02450	hypothetical protein
+GNDDNANJ_02451	hypothetical protein
+GNDDNANJ_02452	hypothetical protein
+GNDDNANJ_02453	hypothetical protein
+GNDDNANJ_02454	hypothetical protein
+GNDDNANJ_02455	hypothetical protein
+GNDDNANJ_02456	hypothetical protein
+GNDDNANJ_02457	ATPase
+GNDDNANJ_02458	Transposase
+GNDDNANJ_02459	transposase
+GNDDNANJ_02460	glycosyl hydrolase family 38 protein
+GNDDNANJ_02461	PTS system fructose-specific transporter subunit IIBC
+GNDDNANJ_02462	PTS system, fructose-specific IIBC component
+GNDDNANJ_02463	PTS system fructose-specific transporter subunit IIA
+GNDDNANJ_02464	transcriptional antiterminator bglG
+GNDDNANJ_02465	hypothetical protein
+GNDDNANJ_02466	Deacetylase
+GNDDNANJ_02467	alpha3-beta1 integrin-binding family protein
+GNDDNANJ_02468	hypothetical protein
+GNDDNANJ_02469	PTS system transporter subunit IIC
+GNDDNANJ_02470	hypothetical protein
+GNDDNANJ_02471	hypothetical protein
+GNDDNANJ_02472	hypothetical protein
+GNDDNANJ_02473	hypothetical protein
+GNDDNANJ_02474	PRD domain-containing protein
+GNDDNANJ_02475	transcriptional antiterminator bglG
+GNDDNANJ_02476	oxidoreductase family, NAD-binding Rossmann fold protein
+GNDDNANJ_02477	toxin-antitoxin system, toxin component, MazF family
+GNDDNANJ_02478	uridine kinase
+GNDDNANJ_02479	GNAT family acetyltransferase
+GNDDNANJ_02480	HAD superfamily hydrolase
+GNDDNANJ_02481	16S rRNA pseudouridine synthase A
+GNDDNANJ_02482	50S ribosomal protein L25, Ctc-form
+GNDDNANJ_02483	hypothetical protein
+GNDDNANJ_02484	hypothetical protein
+GNDDNANJ_02485	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_02486	PTS system mannose-specific transporter subunit IIC
+GNDDNANJ_02487	PTS system, mannose/fructose/sorbose-specific IIAB component
+GNDDNANJ_02488	transcriptional regulator, GntR family
+GNDDNANJ_02489	Beta-galactosidase
+GNDDNANJ_02490	glycosyl hydrolase family protein
+GNDDNANJ_02491	pyridine nucleotide-disulfide family oxidoreductase
+GNDDNANJ_02492	prenyltransferase, UbiA family
+GNDDNANJ_02493	polyprenyl synthetase
+GNDDNANJ_02494	putative ABC transporter ATP-binding protein
+GNDDNANJ_02495	ABC transporter ATP-binding protein
+GNDDNANJ_02496	Cytochrome bd-I ubiquinol oxidase subunit 2
+GNDDNANJ_02497	Cytochrome bd ubiquinol oxidase subunit 1
+GNDDNANJ_02498	AraC family transcriptional regulator
+GNDDNANJ_02499	DNA topoisomerase III
+GNDDNANJ_02500	hypothetical protein
+GNDDNANJ_02501	TetR family transcriptional regulator
+GNDDNANJ_02502	hypothetical protein
+GNDDNANJ_02503	major facilitator superfamily transporter
+GNDDNANJ_02504	tRNA-specific 2-thiouridylase MnmA
+GNDDNANJ_02505	hypothetical protein
+GNDDNANJ_02506	Putative cysteine desulfurase
+GNDDNANJ_02507	ribose-phosphate pyrophosphokinase
+GNDDNANJ_02508	ABC transporter ATP-binding protein
+GNDDNANJ_02509	metal ion ABC transporter permease
+GNDDNANJ_02510	periplasmic solute binding protein
+GNDDNANJ_02511	ABC transporter ATP-binding protein
+GNDDNANJ_02512	peptidase M20D
+GNDDNANJ_02513	YaeC family lipoprotein
+GNDDNANJ_02514	ABC transporter permease
+GNDDNANJ_02515	ABC transporter ATP-binding protein
+GNDDNANJ_02516	tRNA-Thr
+GNDDNANJ_02517	hypothetical protein
+GNDDNANJ_02518	hypothetical protein
+GNDDNANJ_02519	hypothetical protein
+GNDDNANJ_02520	hypothetical protein
+GNDDNANJ_02521	Aminoacyltransferase FemA
+GNDDNANJ_02522	glucosamine--fructose-6-phosphate aminotransferase
+GNDDNANJ_02523	Energy-coupling factor transporter transmembrane protein EcfT
+GNDDNANJ_02524	ABC transporter ATP-binding protein
+GNDDNANJ_02525	hypothetical protein
+GNDDNANJ_02526	phosphoglucosamine mutase
+GNDDNANJ_02527	YbbR-like protein
+GNDDNANJ_02528	Cyclic di-AMP synthase CdaA
+GNDDNANJ_02529	pyruvate flavodoxin oxidoreductase subunit alpha
+GNDDNANJ_02530	glutamine synthetase, type I
+GNDDNANJ_02531	MerR family transcriptional regulator
+GNDDNANJ_02532	GTP-binding protein HflX
+GNDDNANJ_02533	tRNA dimethylallyltransferase
+GNDDNANJ_02534	glycerophosphodiester phosphodiesterase family protein
+GNDDNANJ_02535	NAD-dependent epimerase/dehydratase
+GNDDNANJ_02536	hypothetical protein
+GNDDNANJ_02537	hypothetical protein
+GNDDNANJ_02538	hypothetical protein
+GNDDNANJ_02539	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GNDDNANJ_02540	dTDP-glucose 4,6-dehydratase
+GNDDNANJ_02541	Ribitol-5-phosphate cytidylyltransferase
+GNDDNANJ_02542	hypothetical protein
+GNDDNANJ_02543	response regulator receiver domain-containing protein
+GNDDNANJ_02544	Sensor histidine kinase RcsC
+GNDDNANJ_02545	hypothetical protein
+GNDDNANJ_02546	hypothetical protein
+GNDDNANJ_02547	hypothetical protein
+GNDDNANJ_02548	hypothetical protein
+GNDDNANJ_02549	5'-deoxyadenosine deaminase
+GNDDNANJ_02550	hypothetical protein
+GNDDNANJ_02551	Purine catabolism regulatory protein
+GNDDNANJ_02552	hypothetical protein
+GNDDNANJ_02553	hypothetical protein
+GNDDNANJ_02554	Hexuronate transporter
+GNDDNANJ_02555	Carbamate kinase
+GNDDNANJ_02556	sodium/dicarboxylate symporter family protein
+GNDDNANJ_02557	Ureidoglycolate dehydrogenase (NAD(+))
+GNDDNANJ_02558	hypothetical protein
+GNDDNANJ_02559	N-isopropylammelide isopropyl amidohydrolase
+GNDDNANJ_02560	hypothetical protein
+GNDDNANJ_02561	von Willebrand factor type A domain-containing protein
+GNDDNANJ_02562	hypothetical protein
+GNDDNANJ_02563	methionine synthase
+GNDDNANJ_02564	putative permease
+GNDDNANJ_02565	hypothetical protein
+GNDDNANJ_02566	hypothetical protein
+GNDDNANJ_02567	membrane protein
+GNDDNANJ_02568	pyrrolidone-carboxylate peptidase
+GNDDNANJ_02569	Na+/H+ antiporter
+GNDDNANJ_02570	ArsR family transcriptional regulator
+GNDDNANJ_02571	nitroreductase family protein
+GNDDNANJ_02572	HAD superfamily hydrolase
+GNDDNANJ_02573	PTS system, mannitol-specific IICB component
+GNDDNANJ_02574	transcriptional antiterminator bglG
+GNDDNANJ_02575	PTS system, mannitol-specific IIA component
+GNDDNANJ_02576	PTS system, mannitol-specific IICBA component
+GNDDNANJ_02577	PTS system mannitol-specific transporter subunit IIA
+GNDDNANJ_02578	Mannitol-1-phosphate 5-dehydrogenase
+GNDDNANJ_02579	FAD dependent oxidoreductase
+GNDDNANJ_02580	hypothetical protein
+GNDDNANJ_02581	hypothetical protein
+GNDDNANJ_02582	ABC transporter ATP-binding protein/permease
+GNDDNANJ_02583	Macrolide export ATP-binding/permease protein MacB
+GNDDNANJ_02584	Urea transporter
+GNDDNANJ_02585	major facilitator superfamily transporter
+GNDDNANJ_02586	MerR family transcriptional regulator
+GNDDNANJ_02587	IclR transcriptional regulator
+GNDDNANJ_02588	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+GNDDNANJ_02589	2-dehydro-3-deoxygluconokinase
+GNDDNANJ_02590	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+GNDDNANJ_02591	gluconate 5-dehydrogenase
+GNDDNANJ_02592	Glycosyl Hydrolase Family 88
+GNDDNANJ_02593	TRAP dicarboxylate transporter subunit DctP
+GNDDNANJ_02594	TRAP dicarboxylate transporter subunit DctQ
+GNDDNANJ_02595	TRAP dicarboxylate transporter subunit DctM
+GNDDNANJ_02596	AraC family transcriptional regulator
+GNDDNANJ_02597	rhamnulokinase
+GNDDNANJ_02598	L-rhamnose isomerase
+GNDDNANJ_02599	rhamnulose-1-phosphate aldolase
+GNDDNANJ_02600	L-rhamnose mutarotase
+GNDDNANJ_02601	AraC family transcriptional regulator
+GNDDNANJ_02602	AP endonuclease
+GNDDNANJ_02603	hypothetical protein
+GNDDNANJ_02604	amino acid/peptide transporter
+GNDDNANJ_02605	peptidoglycan-binding protein LysM
+GNDDNANJ_02606	1,4-dihydroxy-2-naphthoyl-CoA synthase
+GNDDNANJ_02607	D-alanine--poly(phosphoribitol) ligase subunit 1
+GNDDNANJ_02608	Salicylate biosynthesis isochorismate synthase
+GNDDNANJ_02609	2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase
+GNDDNANJ_02610	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase
+GNDDNANJ_02611	o-succinylbenzoate synthase
+GNDDNANJ_02612	glucosamine-6-phosphate deaminase
+GNDDNANJ_02613	AMP-binding family protein
+GNDDNANJ_02614	peroxiredoxin, Ohr family protein
+GNDDNANJ_02615	Sulfite exporter TauE/SafE
+GNDDNANJ_02616	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_02617	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_02618	PTS system mannose-specific transporter subunit IIAB
+GNDDNANJ_02619	RpiR family transcriptional regulator
+GNDDNANJ_02620	N-acetylmuramic acid 6-phosphate etherase
+GNDDNANJ_02621	Beta-lactamase
+GNDDNANJ_02622	PTS system sorbose-specific EIIA component
+GNDDNANJ_02623	hypothetical protein
+GNDDNANJ_02624	superoxide dismutase
+GNDDNANJ_02625	Diaminopimelate epimerase
+GNDDNANJ_02626	transcriptional regulator
+GNDDNANJ_02627	glucosamine-6-phosphate deaminase
+GNDDNANJ_02628	MgtC family protein
+GNDDNANJ_02629	hypothetical protein
+GNDDNANJ_02630	ribonucleotide-diphosphate reductase, beta subunit
+GNDDNANJ_02631	ribonucleoside-diphosphate reductase subunit alpha
+GNDDNANJ_02632	putative flavoprotein NrdI
+GNDDNANJ_02633	glutaredoxin
+GNDDNANJ_02634	ferrous iron transport protein A
+GNDDNANJ_02635	ferrous iron transport protein B
+GNDDNANJ_02636	hypothetical protein
+GNDDNANJ_02637	tRNA-Lys
+GNDDNANJ_02638	oxidoreductase, aldo/keto reductase family protein
+GNDDNANJ_02639	hypothetical protein
+GNDDNANJ_02640	cardiolipin synthetase
+GNDDNANJ_02641	tyrosyl-tRNA synthetase
+GNDDNANJ_02642	tyrosine decarboxylase
+GNDDNANJ_02643	amino acid permease
+GNDDNANJ_02644	Na+/H+ antiporter
+GNDDNANJ_02645	hypothetical protein
+GNDDNANJ_02646	M protein trans-acting positive regulator
+GNDDNANJ_02647	von Willebrand factor type A domain-containing protein
+GNDDNANJ_02648	LPXTG-motif protein cell wall anchor domain protein
+GNDDNANJ_02649	LPXTG-motif protein cell wall anchor domain protein
+GNDDNANJ_02650	peptidase C60
+GNDDNANJ_02651	hypothetical protein
+GNDDNANJ_02652	hypothetical protein
+GNDDNANJ_02653	hypothetical protein
+GNDDNANJ_02654	hypothetical protein
+GNDDNANJ_02655	hypothetical protein
+GNDDNANJ_02656	transfer-messenger RNA, SsrA
+GNDDNANJ_02657	hypothetical protein
+GNDDNANJ_02658	hypothetical protein
+GNDDNANJ_02659	Vitamin B12 import ATP-binding protein BtuD
+GNDDNANJ_02660	methyltransferase
+GNDDNANJ_02661	hypothetical protein
+GNDDNANJ_02662	amino acid permease
+GNDDNANJ_02663	hypothetical protein
+GNDDNANJ_02664	hypothetical protein
+GNDDNANJ_02665	Lactate utilization protein A
+GNDDNANJ_02666	Lactate utilization protein B
+GNDDNANJ_02667	Lactate utilization protein C
+GNDDNANJ_02668	signal peptidase I
+GNDDNANJ_02669	ATP-dependent helicase/deoxyribonuclease subunit B
+GNDDNANJ_02670	ATP-dependent helicase/nuclease subunit A
+GNDDNANJ_02671	HxlR-like helix-turn-helix
+GNDDNANJ_02672	phenylalanyl-tRNA synthetase subunit alpha
+GNDDNANJ_02673	phenylalanyl-tRNA synthetase subunit beta
+GNDDNANJ_02674	ABC transporter permease
+GNDDNANJ_02675	ABC transporter permease
+GNDDNANJ_02676	putative adhesin/ABC transporter aspartate/glutamate-binding protein
+GNDDNANJ_02677	ABC transporter ATP-binding protein
+GNDDNANJ_02678	glutamate racemase
+GNDDNANJ_02679	Ribonuclease PH/Ham1 protein
+GNDDNANJ_02680	phosphodiesterase
+GNDDNANJ_02681	DeoR-like helix-turn-helix protein
+GNDDNANJ_02682	L-ascorbate 6-phosphate lactonase, UlaG
+GNDDNANJ_02683	PTS system ascorbate-specific transporter subunit IIA
+GNDDNANJ_02684	PTS system ascorbate-specific transporter subunit IIC
+GNDDNANJ_02685	PTS system ascorbate-specific transporter subunit IIB
+GNDDNANJ_02686	3-keto-L-gulonate-6-phosphate decarboxylase
+GNDDNANJ_02687	L-xylulose 5-phosphate 3-epimerase
+GNDDNANJ_02688	L-ribulose-5-phosphate 4-epimerase
+GNDDNANJ_02689	CBS domain pair protein
+GNDDNANJ_02690	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+GNDDNANJ_02691	peptidase M20D
+GNDDNANJ_02692	transporter, small conductance mechanosensitive ion channel family protein
+GNDDNANJ_02693	hypothetical protein
+GNDDNANJ_02694	oxidoreductase, aldo/keto reductase family protein
+GNDDNANJ_02695	glutamine amidotransferase
+GNDDNANJ_02696	lactoylglutathione lyase
+GNDDNANJ_02697	NUDIX family hydrolase
+GNDDNANJ_02698	HAD superfamily hydrolase
+GNDDNANJ_02699	HD domain-containing protein
+GNDDNANJ_02700	lipoate-protein ligase A
+GNDDNANJ_02701	hypothetical protein
+GNDDNANJ_02702	DNA-directed RNA polymerase subunit delta
+GNDDNANJ_02703	CTP synthase
+GNDDNANJ_02704	penicillin-binding protein 1A
+GNDDNANJ_02705	recombination protein U
+GNDDNANJ_02706	hypothetical protein
+GNDDNANJ_02707	cell division protein DivIVA
+GNDDNANJ_02708	putative methylase
+GNDDNANJ_02709	carboxypeptidase Taq metallopeptidase
+GNDDNANJ_02710	DnaD and phage-associated domain protein
+GNDDNANJ_02711	endonuclease III
+GNDDNANJ_02712	GntR family transcriptional regulator
+GNDDNANJ_02713	dipeptidase PepV
+GNDDNANJ_02714	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+GNDDNANJ_02715	PTS system lactose/cellobiose-specific transporter subunit IIB
+GNDDNANJ_02716	PTS system lactose/cellobiose-specific transporter subunit IIC
+GNDDNANJ_02717	Glycine reductase complex component B subunit gamma
+GNDDNANJ_02718	DEAD_2 helicase
+GNDDNANJ_02719	L-asparaginase
+GNDDNANJ_02720	hypothetical protein
+GNDDNANJ_02721	N-(5'phosphoribosyl)anthranilate isomerase family protein
+GNDDNANJ_02722	integral membrane protein
+GNDDNANJ_02723	fructose-bisphosphate aldolase
+GNDDNANJ_02724	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GNDDNANJ_02725	transcription termination factor Rho
+GNDDNANJ_02726	50S ribosomal protein L31
+GNDDNANJ_02727	cell wall surface anchor family protein
+GNDDNANJ_02728	hypothetical protein
+GNDDNANJ_02729	fructokinase
+GNDDNANJ_02730	hypothetical protein
+GNDDNANJ_02731	hypothetical protein
+GNDDNANJ_02732	cell wall surface anchor family protein
+GNDDNANJ_02733	hypothetical protein
+GNDDNANJ_02734	hypothetical protein
+GNDDNANJ_02735	PTS system ascorbate-specific transporter subunit IIA
+GNDDNANJ_02736	PTS system ascorbate-specific transporter subunit IIB
+GNDDNANJ_02737	PTS system ascorbate-specific transporter subunit IIC
+GNDDNANJ_02738	hypothetical protein
+GNDDNANJ_02739	LacI family transcriptional regulator
+GNDDNANJ_02740	ribokinase
+GNDDNANJ_02741	D-ribose pyranase
+GNDDNANJ_02742	sugar transport protein
+GNDDNANJ_02743	LysR family transcriptional regulator
+GNDDNANJ_02744	maltose O-acetyltransferase family protein
+GNDDNANJ_02745	short chain dehydrogenase/reductase family oxidoreductase
+GNDDNANJ_02746	xanthine/uracil permease family protein
+GNDDNANJ_02747	hypothetical protein
+GNDDNANJ_02748	hypothetical protein
+GNDDNANJ_02749	hypothetical protein
+GNDDNANJ_02750	hypothetical protein
+GNDDNANJ_02751	hypothetical protein
+GNDDNANJ_02752	hypothetical protein
+GNDDNANJ_02753	ABC transporter ATP-binding protein
+GNDDNANJ_02754	M protein trans-acting positive regulator
+GNDDNANJ_02755	hypothetical protein
+GNDDNANJ_02756	DNA directed DNA polymerase
+GNDDNANJ_02757	hypothetical protein
+GNDDNANJ_02758	replication-associated protein RepB
+GNDDNANJ_02759	replication protein
+GNDDNANJ_02760	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_02761	hypothetical protein
+GNDDNANJ_02762	regulatory protein TraE1
+GNDDNANJ_02763	hypothetical protein
+GNDDNANJ_02764	hypothetical protein
+GNDDNANJ_02765	hypothetical protein
+GNDDNANJ_02766	hypothetical protein
+GNDDNANJ_02767	hypothetical protein
+GNDDNANJ_02768	hypothetical protein
+GNDDNANJ_02769	hypothetical protein
+GNDDNANJ_02770	hypothetical protein
+GNDDNANJ_02771	hypothetical protein
+GNDDNANJ_02772	hypothetical protein
+GNDDNANJ_02773	hypothetical protein
+GNDDNANJ_02774	hypothetical protein
+GNDDNANJ_02775	hypothetical protein
+GNDDNANJ_02776	hypothetical protein
+GNDDNANJ_02777	hypothetical protein
+GNDDNANJ_02778	hypothetical protein
+GNDDNANJ_02779	hypothetical protein
+GNDDNANJ_02780	hypothetical protein
+GNDDNANJ_02781	Type IV secretory pathway, VirB4 components
+GNDDNANJ_02782	hypothetical protein
+GNDDNANJ_02783	hypothetical protein
+GNDDNANJ_02784	hypothetical protein
+GNDDNANJ_02785	hypothetical protein
+GNDDNANJ_02786	hypothetical protein
+GNDDNANJ_02787	TraG/TraD family protein
+GNDDNANJ_02788	hypothetical protein
+GNDDNANJ_02789	hypothetical protein
+GNDDNANJ_02790	HTH-type transcriptional regulator CynR
+GNDDNANJ_02791	hypothetical protein
+GNDDNANJ_02792	Multidrug-efflux transporter 1 regulator
+GNDDNANJ_02793	Vitamin B12 import ATP-binding protein BtuD
+GNDDNANJ_02794	Macrolide export ATP-binding/permease protein MacB
+GNDDNANJ_02795	hypothetical protein
+GNDDNANJ_02796	hypothetical protein
+GNDDNANJ_02797	Protein/nucleic acid deglycase HchA
+GNDDNANJ_02798	hypothetical protein
+GNDDNANJ_02799	hypothetical protein
+GNDDNANJ_02800	hypothetical protein
+GNDDNANJ_02801	hypothetical protein
+GNDDNANJ_02802	putative HTH-type transcriptional regulator YybR
+GNDDNANJ_02803	hypothetical protein
+GNDDNANJ_02804	MerR family transcriptional regulator
+GNDDNANJ_02805	oxidoreductase, aldo/keto reductase family protein
+GNDDNANJ_02806	hypothetical protein
+GNDDNANJ_02807	pyridine nucleotide-disulfide oxidoreductase
+GNDDNANJ_02808	putative HTH-type transcriptional regulator YybR
+GNDDNANJ_02809	hypothetical protein
+GNDDNANJ_02810	hypothetical protein
+GNDDNANJ_02811	hypothetical protein
+GNDDNANJ_02812	hypothetical protein
+GNDDNANJ_02813	hypothetical protein
+GNDDNANJ_02814	hypothetical protein
+GNDDNANJ_02815	hypothetical protein
+GNDDNANJ_02816	hypothetical protein
+GNDDNANJ_02817	hypothetical protein
+GNDDNANJ_02818	hypothetical protein
+GNDDNANJ_02819	hypothetical protein
+GNDDNANJ_02820	hypothetical protein
+GNDDNANJ_02821	hypothetical protein
+GNDDNANJ_02822	FtsK/SpoIIIE family protein
+GNDDNANJ_02823	hypothetical protein
+GNDDNANJ_02824	hypothetical protein
+GNDDNANJ_02825	hypothetical protein
+GNDDNANJ_02826	hypothetical protein
+GNDDNANJ_02827	helix-turn-helix protein
+GNDDNANJ_02828	hypothetical protein
+GNDDNANJ_02829	hypothetical protein
+GNDDNANJ_02830	hypothetical protein
+GNDDNANJ_02831	hypothetical protein
+GNDDNANJ_02832	hypothetical protein
+GNDDNANJ_02833	hypothetical protein
+GNDDNANJ_02834	hypothetical protein
+GNDDNANJ_02835	hypothetical protein
+GNDDNANJ_02836	hypothetical protein
+GNDDNANJ_02837	ATP/GTP-binding protein
+GNDDNANJ_02838	ATP/GTP-binding protein
+GNDDNANJ_02839	hypothetical protein
+GNDDNANJ_02840	hypothetical protein
+GNDDNANJ_02841	hypothetical protein
+GNDDNANJ_02842	hypothetical protein
+GNDDNANJ_02843	hypothetical protein
+GNDDNANJ_02844	hypothetical protein
+GNDDNANJ_02845	site-specific tyrosine recombinase XerC-family protein
+GNDDNANJ_02846	thiamine biosynthesis protein ThiI
+GNDDNANJ_02847	redox-sensing transcriptional repressor Rex
+GNDDNANJ_02848	Thiol peroxidase
+GNDDNANJ_02849	valyl-tRNA synthetase
+GNDDNANJ_02850	hypothetical protein
+GNDDNANJ_02851	Bacterial membrane protein YfhO
+GNDDNANJ_02852	Folylpolyglutamate synthase
+GNDDNANJ_02853	HAD-superfamily hydrolase
+GNDDNANJ_02854	DNA repair protein RadC
+GNDDNANJ_02855	major cold shock protein CspE
+GNDDNANJ_02856	Ribonuclease J 1
+GNDDNANJ_02857	hypothetical protein
+GNDDNANJ_02858	hypothetical protein
+GNDDNANJ_02859	ABC transporter ATP-binding protein/permease
+GNDDNANJ_02860	ABC transporter ATP-binding protein/permease
+GNDDNANJ_02861	Carbonic anhydrase/acetyltransferase
+GNDDNANJ_02862	UDP-N-acetylglucosamine 2-epimerase
+GNDDNANJ_02863	5'-nucleotidase
+GNDDNANJ_02864	Endolytic murein transglycosylase
+GNDDNANJ_02865	transcription elongation factor GreA
+GNDDNANJ_02866	membrane protein
+GNDDNANJ_02867	sensor histidine kinase
+GNDDNANJ_02868	LuxR family DNA-binding response regulator
+GNDDNANJ_02869	TrkA-C domain-containing protein
+GNDDNANJ_02870	HesB-like domain-containing protein
+GNDDNANJ_02871	glycosyl transferase family protein
+GNDDNANJ_02872	ABC transporter ATP-binding protein
+GNDDNANJ_02873	ABC transporter ATP-binding protein
+GNDDNANJ_02874	inner membrane component transport system
+GNDDNANJ_02875	Ribonuclease J
+GNDDNANJ_02876	extracellular solute-binding protein
+GNDDNANJ_02877	Trifunctional nucleotide phosphoesterase protein YfkN
+GNDDNANJ_02878	4-phosphoerythronate dehydrogenase
+GNDDNANJ_02879	ferredoxin--NADP reductase
+GNDDNANJ_02880	cyclophilin type peptidyl-prolyl cis-trans isomerase
+GNDDNANJ_02881	hypothetical protein
+GNDDNANJ_02882	class II aminotransferase
+GNDDNANJ_02883	general stress protein 13
+GNDDNANJ_02884	hypothetical protein
+GNDDNANJ_02885	type I restriction modification site-specific deoxyribonuclease HsdR
+GNDDNANJ_02886	glucose-6-phosphate 1-dehydrogenase
+GNDDNANJ_02887	choloylglycine hydrolase family protein
+GNDDNANJ_02888	sulfate transporter/STAS domain-containing protein
+GNDDNANJ_02889	hypothetical protein
+GNDDNANJ_02890	MarR family transcriptional regulator
+GNDDNANJ_02891	GNAT family acetyltransferase
+GNDDNANJ_02892	hypothetical protein
+GNDDNANJ_02893	hypothetical protein
+GNDDNANJ_02894	hypothetical protein
+GNDDNANJ_02895	hypothetical protein
+GNDDNANJ_02896	Putative allantoin permease
+GNDDNANJ_02897	Dihydroorotase
+GNDDNANJ_02898	Allantoate amidohydrolase
+GNDDNANJ_02899	(S)-ureidoglycine aminohydrolase
+GNDDNANJ_02900	Purine catabolism regulatory protein
+GNDDNANJ_02901	2-aminoethylphosphonate--pyruvate transaminase
+GNDDNANJ_02902	putative sulfoacetate transporter SauU
+GNDDNANJ_02903	regulator protein FrmR
+GNDDNANJ_02904	rhodanese-like domain protein
+GNDDNANJ_02905	coenzyme A disulfide reductase
+GNDDNANJ_02906	rhodanese-like domain-containing protein
+GNDDNANJ_02907	Putative efflux system component YknX
+GNDDNANJ_02908	ABC transporter ATP-binding protein
+GNDDNANJ_02909	Macrolide export ATP-binding/permease protein MacB
+GNDDNANJ_02910	hypothetical protein
+GNDDNANJ_02911	amidase
+GNDDNANJ_02912	phosphoglycerate mutase family protein
+GNDDNANJ_02913	transcriptional antiterminator bglG:Sigma-54 factor
+GNDDNANJ_02914	hypothetical protein
+GNDDNANJ_02915	PTS system mannose-specific transporter subunit IIAB
+GNDDNANJ_02916	PTS system, mannose/fructose/sorbose-specific IIC component
+GNDDNANJ_02917	PTS system, mannose/fructose/sorbose-specific IID component
+GNDDNANJ_02918	tRNA-Ser
+GNDDNANJ_02919	tRNA-Glu
+GNDDNANJ_02920	tRNA-Val
+GNDDNANJ_02921	tRNA-Asp
+GNDDNANJ_02922	tRNA-Phe
+GNDDNANJ_02923	tRNA-Tyr
+GNDDNANJ_02924	tRNA-Trp
+GNDDNANJ_02925	tRNA-His
+GNDDNANJ_02926	tRNA-Gln
+GNDDNANJ_02927	tRNA-Cys
+GNDDNANJ_02928	tRNA-Leu
+GNDDNANJ_02929	hypothetical protein
+GNDDNANJ_02930	ABC transporter ATPase
+GNDDNANJ_02931	hypothetical protein
+GNDDNANJ_02932	Tunicamycin resistance protein
+GNDDNANJ_02933	metal ion transporter
+GNDDNANJ_02934	universal stress protein UspA
+GNDDNANJ_02935	Purine catabolism regulatory protein
+GNDDNANJ_02936	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_02937	N-isopropylammelide isopropyl amidohydrolase
+GNDDNANJ_02938	hypothetical protein
+GNDDNANJ_02939	GAF domain-containing protein
+GNDDNANJ_02940	3-demethylubiquinone-9 3-methyltransferase
+GNDDNANJ_02941	maltose O-acetyltransferase
+GNDDNANJ_02942	hypothetical protein
+GNDDNANJ_02943	aldose 1-epimerase
+GNDDNANJ_02944	galactokinase
+GNDDNANJ_02945	UDP-glucose 4-epimerase
+GNDDNANJ_02946	galactose-1-phosphate uridylyltransferase
+GNDDNANJ_02947	LacI family transcriptional regulator
+GNDDNANJ_02948	hypothetical protein
+GNDDNANJ_02949	hypothetical protein
+GNDDNANJ_02950	hypothetical protein
+GNDDNANJ_02951	Streptomycin 3''-adenylyltransferase
+GNDDNANJ_02952	acetyltransferase, GNAT family
+GNDDNANJ_02953	major facilitator superfamily transporter
+GNDDNANJ_02954	DNA directed DNA polymerase
+GNDDNANJ_02955	hypothetical protein
+GNDDNANJ_02956	hypothetical protein
+GNDDNANJ_02957	hypothetical protein
+GNDDNANJ_02958	universal stress protein UspA
+GNDDNANJ_02959	hypothetical protein
+GNDDNANJ_02960	Spermine/spermidine acetyltransferase
+GNDDNANJ_02961	hypothetical protein
+GNDDNANJ_02962	hypothetical protein
+GNDDNANJ_02963	hypothetical protein
+GNDDNANJ_02964	DNA topoisomerase 1
+GNDDNANJ_02965	hypothetical protein
+GNDDNANJ_02966	hypothetical protein
+GNDDNANJ_02967	hypothetical protein
+GNDDNANJ_02968	replication initiator protein A
+GNDDNANJ_02969	hypothetical protein
+GNDDNANJ_02970	replication-associated protein RepB
+GNDDNANJ_02971	replication control protein PrgN
+GNDDNANJ_02972	hypothetical protein
+GNDDNANJ_02973	DNA directed DNA polymerase
+GNDDNANJ_02974	hypothetical protein
+GNDDNANJ_02975	hypothetical protein
+GNDDNANJ_02976	hypothetical protein
+GNDDNANJ_02977	hypothetical protein
+GNDDNANJ_02978	rhodanese-like domain-containing protein
+GNDDNANJ_02979	hypothetical protein
+GNDDNANJ_02980	D-aminopeptidase
+GNDDNANJ_02981	glyoxalase family protein
+GNDDNANJ_02982	sodium/dicarboxylate symporter family protein
+GNDDNANJ_02983	hypothetical protein
+GNDDNANJ_02984	Integrase core domain protein
+GNDDNANJ_02985	hypothetical protein
+GNDDNANJ_02986	hypothetical protein
+GNDDNANJ_02987	hypothetical protein
+GNDDNANJ_02988	hypothetical protein
+GNDDNANJ_02989	Type IIS restriction enzyme Eco57I
+GNDDNANJ_02990	hypothetical protein
+GNDDNANJ_02991	toxin-antitoxin system, toxin component, MazF family
+GNDDNANJ_02992	AbrB family transcriptional regulator
+GNDDNANJ_02993	Resolvase protein
+GNDDNANJ_02994	Protein YdcF
+GNDDNANJ_02995	hypothetical protein
+GNDDNANJ_02996	hypothetical protein
+GNDDNANJ_02997	NADH peroxidase
+GNDDNANJ_02998	M protein trans-acting positive regulator
+GNDDNANJ_02999	Inosamine-phosphate amidinotransferase 1
+GNDDNANJ_03000	Alkaline phosphatase 3
+GNDDNANJ_03001	DNA mismatch repair protein MutS2
+GNDDNANJ_03002	2-dehydro-3-deoxy-phosphogluconate aldolase
+GNDDNANJ_03003	hypothetical protein
+GNDDNANJ_03004	hypothetical protein
+GNDDNANJ_03005	transglycosylase
+GNDDNANJ_03006	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GNDDNANJ_03007	amino acid ABC transporter permease
+GNDDNANJ_03008	putative glutamine ABC transporter ATP-binding protein
+GNDDNANJ_03009	family 3 extracellular solute-binding protein
+GNDDNANJ_03010	hypothetical protein
+GNDDNANJ_03011	hypothetical protein
+GNDDNANJ_03012	hypothetical protein
+GNDDNANJ_03013	leucyl-tRNA synthetase
+GNDDNANJ_03014	N-acetylmuramoyl-L-alanine amidase
+GNDDNANJ_03015	Type I restriction modification DNA specificity domain-containing protein
+GNDDNANJ_03016	hypothetical protein
+GNDDNANJ_03017	site-specific tyrosine recombinase XerC-family protein
+GNDDNANJ_03018	Type I restriction modification DNA specificity domain-containing protein
+GNDDNANJ_03019	D-glucosaminate-6-phosphate ammonia lyase
+GNDDNANJ_03020	Bacteriocin hiracin-JM79
+GNDDNANJ_03021	hypothetical protein
+GNDDNANJ_03022	hypothetical protein

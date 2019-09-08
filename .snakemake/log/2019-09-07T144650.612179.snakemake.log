@@ -1,0 +1,28 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	convert_gbk_to_seed
+	1	prophage_prediction
+	2
+
+[Sat Sep  7 14:46:50 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/V583.gbk
+    output: seeds/V583
+    jobid: 1
+    wildcards: sample=V583
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/V583.gbk seeds/V583
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+ImproperOutputException in line 153 of /home/icaro/Documentos/WGCA/Snakefile:
+Outputs of incorrect type (directories when expecting files or vice versa). Output directories must be flagged with directory(). for rule convert_gbk_to_seed:
+seeds/V583
+Removing output files of failed job convert_gbk_to_seed since they might be corrupted:
+seeds/V583
+Skipped removing non-empty directory seeds/V583
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/icaro/Documentos/WGCA/.snakemake/log/2019-09-07T144650.612179.snakemake.log

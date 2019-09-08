@@ -1,0 +1,2537 @@
+MFKOEFHD_00001	phosphoglycerate mutase family protein
+MFKOEFHD_00002	Metallo-beta-lactamase superfamily protein
+MFKOEFHD_00003	Guanine deaminase
+MFKOEFHD_00004	xanthine permease
+MFKOEFHD_00005	guanosine 5'-monophosphate oxidoreductase
+MFKOEFHD_00006	PadR family transcriptional regulator
+MFKOEFHD_00007	hypothetical protein
+MFKOEFHD_00008	GntR family transcriptional regulator
+MFKOEFHD_00009	phosphoglucomutase/phosphomannomutase family protein
+MFKOEFHD_00010	delta 1-pyrroline-5-carboxylate reductase
+MFKOEFHD_00011	ArsR family transcriptional regulator
+MFKOEFHD_00012	Homoserine dehydrogenase
+MFKOEFHD_00013	Threonine synthase
+MFKOEFHD_00014	Homoserine kinase
+MFKOEFHD_00015	Putative phosphotransferase
+MFKOEFHD_00016	Fur family transcriptional regulator
+MFKOEFHD_00017	30S ribosomal protein S21
+MFKOEFHD_00018	Glutamyl-tRNA(Gln) amidotransferase subunit E
+MFKOEFHD_00019	KH domain-containing protein
+MFKOEFHD_00020	HD domain-containing protein
+MFKOEFHD_00021	Putative metalloprotease
+MFKOEFHD_00022	diacylglycerol kinase
+MFKOEFHD_00023	GTP-binding protein Era
+MFKOEFHD_00024	DNA repair protein RecO
+MFKOEFHD_00025	hypothetical protein
+MFKOEFHD_00026	Glycyl-tRNA synthetase alpha subunit
+MFKOEFHD_00027	glycyl-tRNA synthetase subunit beta
+MFKOEFHD_00028	hypothetical protein
+MFKOEFHD_00029	putative OxaA-like protein
+MFKOEFHD_00030	acylphosphatase
+MFKOEFHD_00031	RNA methyltransferase
+MFKOEFHD_00032	GNAT family acetyltransferase
+MFKOEFHD_00033	30S ribosomal protein S2
+MFKOEFHD_00034	translation elongation factor Ts
+MFKOEFHD_00035	uridylate kinase
+MFKOEFHD_00036	ribosome recycling factor
+MFKOEFHD_00037	ABC transporter ATP-binding protein
+MFKOEFHD_00038	FeS assembly protein SufD
+MFKOEFHD_00039	cysteine desulfurase
+MFKOEFHD_00040	NifU family SUF system FeS assembly protein
+MFKOEFHD_00041	FeS assembly protein SufB
+MFKOEFHD_00042	hypothetical protein
+MFKOEFHD_00043	hypothetical protein
+MFKOEFHD_00044	ABC transporter ATP-binding protein
+MFKOEFHD_00045	Vitamin B12 import ATP-binding protein BtuD
+MFKOEFHD_00046	hypothetical protein
+MFKOEFHD_00047	hypothetical protein
+MFKOEFHD_00048	hypothetical protein
+MFKOEFHD_00049	hypothetical protein
+MFKOEFHD_00050	LuxR family DNA-binding response regulator
+MFKOEFHD_00051	hypothetical protein
+MFKOEFHD_00052	hypothetical protein
+MFKOEFHD_00053	glucose 1-dehydrogenase, Gdh
+MFKOEFHD_00054	membrane-associated zinc metalloprotease
+MFKOEFHD_00055	prolyl-tRNA synthetase
+MFKOEFHD_00056	DNA polymerase III PolC-type
+MFKOEFHD_00057	amino acid permease family protein
+MFKOEFHD_00058	hypothetical protein
+MFKOEFHD_00059	DnaQ family exonuclease/DinG family helicase
+MFKOEFHD_00060	hypothetical protein
+MFKOEFHD_00061	aspartate aminotransferase
+MFKOEFHD_00062	asparaginyl-tRNA synthetase
+MFKOEFHD_00063	oxidoreductase family, NAD-binding Rossmann fold protein
+MFKOEFHD_00064	hypothetical protein
+MFKOEFHD_00065	hypothetical protein
+MFKOEFHD_00066	N-acetylmuramoyl-L-alanine amidase
+MFKOEFHD_00067	hypothetical protein
+MFKOEFHD_00068	xanthine phosphoribosyltransferase
+MFKOEFHD_00069	xanthine permease
+MFKOEFHD_00070	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+MFKOEFHD_00071	Adenylosuccinate lyase
+MFKOEFHD_00072	Putative oxidoreductase CatD
+MFKOEFHD_00073	ATP-dependent chaperone protein ClpB
+MFKOEFHD_00074	Nucleoside 2-deoxyribosyltransferase
+MFKOEFHD_00075	GNAT family acetyltransferase
+MFKOEFHD_00076	GTP-binding protein LepA
+MFKOEFHD_00077	hypothetical protein
+MFKOEFHD_00078	LacI family transcriptional regulator
+MFKOEFHD_00079	hypothetical protein
+MFKOEFHD_00080	hypothetical protein
+MFKOEFHD_00081	glycosyl hydrolase family protein
+MFKOEFHD_00082	hypothetical protein
+MFKOEFHD_00083	ABC transporter ATP-binding protein
+MFKOEFHD_00084	ABC transporter, permease protein
+MFKOEFHD_00085	hypothetical protein
+MFKOEFHD_00086	hypothetical protein
+MFKOEFHD_00087	hypothetical protein
+MFKOEFHD_00088	Tryptophanyl-tRNA synthetase II
+MFKOEFHD_00089	ABC transporter ATP-binding protein
+MFKOEFHD_00090	ABC transporter ATP-binding protein
+MFKOEFHD_00091	MerR family transcriptional regulator
+MFKOEFHD_00092	hypothetical protein
+MFKOEFHD_00093	ABC transporter permease
+MFKOEFHD_00094	ABC transporter permease
+MFKOEFHD_00095	extracellular solute-binding protein
+MFKOEFHD_00096	integral membrane protein
+MFKOEFHD_00097	sensor histidine kinase
+MFKOEFHD_00098	AraC family transcriptional regulator
+MFKOEFHD_00099	alpha-1,2-mannosidase
+MFKOEFHD_00100	hypothetical protein
+MFKOEFHD_00101	hypothetical protein
+MFKOEFHD_00102	glyoxylase
+MFKOEFHD_00103	PTS system, trehalose/maltose-specific, IIBCA component
+MFKOEFHD_00104	hypothetical protein
+MFKOEFHD_00105	hypothetical protein
+MFKOEFHD_00106	Zn-dependent protease
+MFKOEFHD_00107	hypothetical protein
+MFKOEFHD_00108	phenazine biosynthesis protein PhzF family protein
+MFKOEFHD_00109	transcriptional regulator, Fis family
+MFKOEFHD_00110	cytidine/deoxycytidylate deaminase family protein
+MFKOEFHD_00111	hypothetical protein
+MFKOEFHD_00112	aminopeptidase PepS
+MFKOEFHD_00113	TetR family transcriptional regulator
+MFKOEFHD_00114	TspO/MBR family protein
+MFKOEFHD_00115	flavodoxin
+MFKOEFHD_00116	Methionine aminopeptidase, type I
+MFKOEFHD_00117	ribonuclease BN
+MFKOEFHD_00118	glycoside hydrolase family protein
+MFKOEFHD_00119	glycosyl transferase family protein
+MFKOEFHD_00120	glycosyl transferase family protein
+MFKOEFHD_00121	glycosyl transferase family protein
+MFKOEFHD_00122	glucose-1-phosphate thymidylyltransferase
+MFKOEFHD_00123	dTDP-4-dehydrorhamnose 3,5-epimerase
+MFKOEFHD_00124	dTDP-glucose 4,6-dehydratase
+MFKOEFHD_00125	dTDP-4-dehydrorhamnose reductase
+MFKOEFHD_00126	glycosyl transferase family protein
+MFKOEFHD_00127	hypothetical protein
+MFKOEFHD_00128	hypothetical protein
+MFKOEFHD_00129	hypothetical protein
+MFKOEFHD_00130	ABC transporter
+MFKOEFHD_00131	ABC transporter ATP-binding protein
+MFKOEFHD_00132	hypothetical protein
+MFKOEFHD_00133	glycosyl transferase family protein
+MFKOEFHD_00134	hypothetical protein
+MFKOEFHD_00135	hypothetical protein
+MFKOEFHD_00136	undecaprenyl-phosphate galactosephosphotransferase
+MFKOEFHD_00137	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+MFKOEFHD_00138	hypothetical protein
+MFKOEFHD_00139	hypothetical protein
+MFKOEFHD_00140	Ribitol-5-phosphate cytidylyltransferase
+MFKOEFHD_00141	dTDP-glucose 4,6-dehydratase
+MFKOEFHD_00142	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MFKOEFHD_00143	hypothetical protein
+MFKOEFHD_00144	Teichoic acid poly(glycerol phosphate) polymerase
+MFKOEFHD_00145	hypothetical protein
+MFKOEFHD_00146	NAD-dependent epimerase/dehydratase
+MFKOEFHD_00147	hypothetical protein
+MFKOEFHD_00148	glycerophosphodiester phosphodiesterase family protein
+MFKOEFHD_00149	tRNA dimethylallyltransferase
+MFKOEFHD_00150	GTP-binding protein HflX
+MFKOEFHD_00151	MerR family transcriptional regulator
+MFKOEFHD_00152	glutamine synthetase, type I
+MFKOEFHD_00153	pyruvate flavodoxin oxidoreductase subunit alpha
+MFKOEFHD_00154	Cyclic di-AMP synthase CdaA
+MFKOEFHD_00155	YbbR-like protein
+MFKOEFHD_00156	phosphoglucosamine mutase
+MFKOEFHD_00157	hypothetical protein
+MFKOEFHD_00158	ABC transporter ATP-binding protein
+MFKOEFHD_00159	Energy-coupling factor transporter transmembrane protein EcfT
+MFKOEFHD_00160	glucosamine--fructose-6-phosphate aminotransferase
+MFKOEFHD_00161	Aminoacyltransferase FemA
+MFKOEFHD_00162	hypothetical protein
+MFKOEFHD_00163	hypothetical protein
+MFKOEFHD_00164	hypothetical protein
+MFKOEFHD_00165	hypothetical protein
+MFKOEFHD_00166	tRNA-Thr
+MFKOEFHD_00167	ABC transporter ATP-binding protein
+MFKOEFHD_00168	ABC transporter permease
+MFKOEFHD_00169	YaeC family lipoprotein
+MFKOEFHD_00170	peptidase M20D
+MFKOEFHD_00171	ABC transporter ATP-binding protein
+MFKOEFHD_00172	periplasmic solute binding protein
+MFKOEFHD_00173	metal ion ABC transporter permease
+MFKOEFHD_00174	ABC transporter ATP-binding protein
+MFKOEFHD_00175	ribose-phosphate pyrophosphokinase
+MFKOEFHD_00176	Putative cysteine desulfurase
+MFKOEFHD_00177	hypothetical protein
+MFKOEFHD_00178	tRNA-specific 2-thiouridylase MnmA
+MFKOEFHD_00179	major facilitator superfamily transporter
+MFKOEFHD_00180	hypothetical protein
+MFKOEFHD_00181	TetR family transcriptional regulator
+MFKOEFHD_00182	hypothetical protein
+MFKOEFHD_00183	DNA topoisomerase III
+MFKOEFHD_00184	AraC family transcriptional regulator
+MFKOEFHD_00185	Cytochrome bd ubiquinol oxidase subunit 1
+MFKOEFHD_00186	Cytochrome bd-I ubiquinol oxidase subunit 2
+MFKOEFHD_00187	ABC transporter ATP-binding protein
+MFKOEFHD_00188	putative ABC transporter ATP-binding protein
+MFKOEFHD_00189	polyprenyl synthetase
+MFKOEFHD_00190	prenyltransferase, UbiA family
+MFKOEFHD_00191	pyridine nucleotide-disulfide family oxidoreductase
+MFKOEFHD_00192	cell division protein FtsK
+MFKOEFHD_00193	GntR family transcriptional regulator
+MFKOEFHD_00194	ABC transporter ATP-binding protein
+MFKOEFHD_00195	peptide ABC transporter permease/transmembrane protein
+MFKOEFHD_00196	ribosomal RNA large subunit methyltransferase N
+MFKOEFHD_00197	amino acid permease family protein
+MFKOEFHD_00198	type II/IV secretion system protein
+MFKOEFHD_00199	type II secretion system F domain protein
+MFKOEFHD_00200	prepilin-type cleavage/methylation domain protein
+MFKOEFHD_00201	hypothetical protein
+MFKOEFHD_00202	Competence protein ComGF
+MFKOEFHD_00203	hypothetical protein
+MFKOEFHD_00204	adenine-specific methyltransferase
+MFKOEFHD_00205	acetate kinase
+MFKOEFHD_00206	universal stress protein
+MFKOEFHD_00207	hypothetical protein
+MFKOEFHD_00208	recombination factor protein RarA
+MFKOEFHD_00209	DNA-3-methyladenine glycosylase
+MFKOEFHD_00210	DNA-3-methyladenine glycosylase
+MFKOEFHD_00211	50S ribosomal protein L11 methyltransferase
+MFKOEFHD_00212	16S ribosomal RNA methyltransferase RsmE
+MFKOEFHD_00213	GTP diphosphokinase
+MFKOEFHD_00214	D-tyrosyl-tRNA(Tyr) deacylase
+MFKOEFHD_00215	histidyl-tRNA synthetase
+MFKOEFHD_00216	aspartyl-tRNA synthetase
+MFKOEFHD_00217	phosphomethylpyrimidine kinase
+MFKOEFHD_00218	Thiamine precursor transporter HmpT
+MFKOEFHD_00219	hypothetical protein
+MFKOEFHD_00220	integral membrane protein
+MFKOEFHD_00221	SorC family transcriptional regulator
+MFKOEFHD_00222	glyceraldehyde-3-phosphate dehydrogenase
+MFKOEFHD_00223	phosphoglycerate kinase
+MFKOEFHD_00224	triosephosphate isomerase
+MFKOEFHD_00225	enolase
+MFKOEFHD_00226	hypothetical protein
+MFKOEFHD_00227	Deoxyguanosinetriphosphate triphosphohydrolase
+MFKOEFHD_00228	transcriptional antiterminator bglG:Sigma-54 factor
+MFKOEFHD_00229	PTS system, mannose/fructose/sorbose-specific IIA component
+MFKOEFHD_00230	PTS system, mannose/fructose/sorbose-specific IIB component
+MFKOEFHD_00231	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_00232	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_00233	SIS domain-containing protein
+MFKOEFHD_00234	SIS domain-containing protein
+MFKOEFHD_00235	hypothetical protein
+MFKOEFHD_00236	hypothetical protein
+MFKOEFHD_00237	hypothetical protein
+MFKOEFHD_00238	arylsulfatase
+MFKOEFHD_00239	Multidrug resistance protein MdtL
+MFKOEFHD_00240	hypothetical protein
+MFKOEFHD_00241	Regulatory protein YeiL
+MFKOEFHD_00242	hypothetical protein
+MFKOEFHD_00243	calcium-translocating P-type ATPase
+MFKOEFHD_00244	hypothetical protein
+MFKOEFHD_00245	hypothetical protein
+MFKOEFHD_00246	hypothetical protein
+MFKOEFHD_00247	hypothetical protein
+MFKOEFHD_00248	pyridine nucleotide-disulfide oxidoreductase
+MFKOEFHD_00249	helix-turn-helix domain-containing protein
+MFKOEFHD_00250	glycerol kinase
+MFKOEFHD_00251	alpha-glycerophosphate oxidase
+MFKOEFHD_00252	glycerol uptake facilitator protein
+MFKOEFHD_00253	hypothetical protein
+MFKOEFHD_00254	hypothetical protein
+MFKOEFHD_00255	M protein trans-acting positive regulator
+MFKOEFHD_00256	HTH-type transcriptional repressor PurR
+MFKOEFHD_00257	inosine-uridine preferring nucleoside hydrolase
+MFKOEFHD_00258	Putative cryptic C4-dicarboxylate transporter DcuD
+MFKOEFHD_00259	hypothetical protein
+MFKOEFHD_00260	3-carboxymuconate cyclase
+MFKOEFHD_00261	ATP-dependent protease ATP-binding protein ClpX
+MFKOEFHD_00262	ribosome biogenesis GTP-binding protein YsxC
+MFKOEFHD_00263	hypothetical protein
+MFKOEFHD_00264	Putative membrane protein insertion efficiency factor
+MFKOEFHD_00265	ROK family protein
+MFKOEFHD_00266	membrane protein
+MFKOEFHD_00267	membrane spanning protein
+MFKOEFHD_00268	hypothetical protein
+MFKOEFHD_00269	UDP-N-acetylmuramate--L-alanine ligase
+MFKOEFHD_00270	MaoC like domain-containing protein
+MFKOEFHD_00271	Inhibitor of apoptosis-promoting Bax1
+MFKOEFHD_00272	glycerophosphodiester phosphodiesterase family protein
+MFKOEFHD_00273	hypothetical protein
+MFKOEFHD_00274	hypothetical protein
+MFKOEFHD_00275	metal ion transporter
+MFKOEFHD_00276	16S rRNA processing protein RimM
+MFKOEFHD_00277	tRNA (guanine-N1)-methyltransferase
+MFKOEFHD_00278	50S ribosomal protein L19
+MFKOEFHD_00279	hypothetical protein
+MFKOEFHD_00280	hypothetical protein
+MFKOEFHD_00281	hypothetical protein
+MFKOEFHD_00282	hypothetical protein
+MFKOEFHD_00283	hypothetical protein
+MFKOEFHD_00284	hypothetical protein
+MFKOEFHD_00285	hypothetical protein
+MFKOEFHD_00286	hypothetical protein
+MFKOEFHD_00287	hypothetical protein
+MFKOEFHD_00288	hypothetical protein
+MFKOEFHD_00289	hypothetical protein
+MFKOEFHD_00290	50S ribosomal protein L32
+MFKOEFHD_00291	hypothetical protein
+MFKOEFHD_00292	CobW/P47K family protein
+MFKOEFHD_00293	polysaccharide deacetylase family protein
+MFKOEFHD_00294	HD domain-containing protein
+MFKOEFHD_00295	hypothetical protein
+MFKOEFHD_00296	DeoR-like helix-turn-helix protein
+MFKOEFHD_00297	PTS system galactitol-specific transporter subunit IIC
+MFKOEFHD_00298	hypothetical protein
+MFKOEFHD_00299	hypothetical protein
+MFKOEFHD_00300	Galactose-6-phosphate isomerase subunit LacA
+MFKOEFHD_00301	Galactose-6-phosphate isomerase subunit LacB
+MFKOEFHD_00302	hypothetical protein
+MFKOEFHD_00303	PTS system, mannose/fructose/sorbose-specific IIAB component
+MFKOEFHD_00304	PTS system mannose-specific transporter subunit IIAB
+MFKOEFHD_00305	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_00306	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_00307	glycerol uptake facilitator protein
+MFKOEFHD_00308	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+MFKOEFHD_00309	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+MFKOEFHD_00310	Lactate racemase
+MFKOEFHD_00311	CarD family transcriptional regulator
+MFKOEFHD_00312	putative fused nickel transport protein LarMN
+MFKOEFHD_00313	Nickel permease LarQ
+MFKOEFHD_00314	cobalt import ATP-binding protein CbiO 2
+MFKOEFHD_00315	Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase
+MFKOEFHD_00316	hypothetical protein
+MFKOEFHD_00317	M protein trans-acting positive regulator
+MFKOEFHD_00318	hypothetical protein
+MFKOEFHD_00319	hypothetical protein
+MFKOEFHD_00320	hypothetical protein
+MFKOEFHD_00321	cell wall surface anchor family protein
+MFKOEFHD_00322	Alcohol dehydrogenase 1
+MFKOEFHD_00323	hypothetical protein
+MFKOEFHD_00324	hypothetical protein
+MFKOEFHD_00325	hypothetical protein
+MFKOEFHD_00326	hypothetical protein
+MFKOEFHD_00327	Accessory gene regulator A
+MFKOEFHD_00328	Accessory gene regulator protein B
+MFKOEFHD_00329	hypothetical protein
+MFKOEFHD_00330	Gelatinase
+MFKOEFHD_00331	Glutamyl endopeptidase
+MFKOEFHD_00332	hypothetical protein
+MFKOEFHD_00333	hypothetical protein
+MFKOEFHD_00334	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+MFKOEFHD_00335	sulfatase
+MFKOEFHD_00336	glycosyl transferase family protein
+MFKOEFHD_00337	glycosyl transferase family protein
+MFKOEFHD_00338	transcriptional regulator, GntR family
+MFKOEFHD_00339	sugar isomerase
+MFKOEFHD_00340	tagatose 1,6-diphosphate aldolase
+MFKOEFHD_00341	Tagatose-6-phosphate kinase
+MFKOEFHD_00342	Beta-galactosidase
+MFKOEFHD_00343	PTS system, mannose/fructose/sorbose-specific IIB component
+MFKOEFHD_00344	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_00345	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_00346	PTS system, mannose/fructose/sorbose-specific IIA component
+MFKOEFHD_00347	hypothetical protein
+MFKOEFHD_00348	hypothetical protein
+MFKOEFHD_00349	hypothetical protein
+MFKOEFHD_00350	hypothetical protein
+MFKOEFHD_00351	hypothetical protein
+MFKOEFHD_00352	branched-chain amino acid aminotransferase
+MFKOEFHD_00353	hypothetical protein
+MFKOEFHD_00354	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_00355	YjeF protein
+MFKOEFHD_00356	SPFH domain / Band 7 family protein
+MFKOEFHD_00357	phosphoribosylaminoimidazole carboxylase catalytic subunit
+MFKOEFHD_00358	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+MFKOEFHD_00359	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MFKOEFHD_00360	phosphoribosylformylglycinamidine synthase subunit PurS
+MFKOEFHD_00361	Phosphoribosylformylglycinamidine synthase I
+MFKOEFHD_00362	Phosphoribosylformylglycinamidine synthase II
+MFKOEFHD_00363	Amidophosphoribosyltransferase
+MFKOEFHD_00364	Phosphoribosylformylglycinamidine cyclo-ligase
+MFKOEFHD_00365	Phosphoribosylglycinamide formyltransferase
+MFKOEFHD_00366	bifunctional purine biosynthesis protein PurH
+MFKOEFHD_00367	Phosphoribosylamine--glycine ligase
+MFKOEFHD_00368	hypothetical protein
+MFKOEFHD_00369	Tim44-like domain-containing protein
+MFKOEFHD_00370	membrane protein
+MFKOEFHD_00371	aldose dehydrogenase
+MFKOEFHD_00372	hypothetical protein
+MFKOEFHD_00373	IMPACT family member YigZ
+MFKOEFHD_00374	hypothetical protein
+MFKOEFHD_00375	PTS system cellobiose-specific transporter subunit IIB
+MFKOEFHD_00376	helicase
+MFKOEFHD_00377	competence protein ComFC
+MFKOEFHD_00378	ribosomal subunit interface protein
+MFKOEFHD_00379	preprotein translocase, SecA subunit
+MFKOEFHD_00380	peptide chain release factor 2
+MFKOEFHD_00381	cell division ATP-binding protein FtsE
+MFKOEFHD_00382	efflux ABC transporter, permease protein
+MFKOEFHD_00383	phosphate binding protein
+MFKOEFHD_00384	phosphate ABC transporter permease PstC
+MFKOEFHD_00385	phosphate ABC transporter, permease protein PstA
+MFKOEFHD_00386	phosphate ABC transporter ATP-binding protein
+MFKOEFHD_00387	phosphate ABC transporter ATP-binding protein
+MFKOEFHD_00388	phosphate transport system regulatory protein PhoU
+MFKOEFHD_00389	hypothetical protein
+MFKOEFHD_00390	PspC domain protein
+MFKOEFHD_00391	integral membrane protein
+MFKOEFHD_00392	excinuclease ABC
+MFKOEFHD_00393	HPr kinase/phosphorylase
+MFKOEFHD_00394	Prolipoprotein diacylglyceryl transferase
+MFKOEFHD_00395	glycerol-3-phosphate dehydrogenase
+MFKOEFHD_00396	UTP-glucose-1-phosphate uridylyltransferase
+MFKOEFHD_00397	extracellular protein
+MFKOEFHD_00398	general stress protein
+MFKOEFHD_00399	Xaa-Pro dipeptidase
+MFKOEFHD_00400	catabolite control protein A
+MFKOEFHD_00401	ABC transporter ATP-binding protein
+MFKOEFHD_00402	hypothetical protein
+MFKOEFHD_00403	glycosyl transferase
+MFKOEFHD_00404	tyrosyl-tRNA synthetase
+MFKOEFHD_00405	hypothetical protein
+MFKOEFHD_00406	hypothetical protein
+MFKOEFHD_00407	endonuclease IV
+MFKOEFHD_00408	hypothetical protein
+MFKOEFHD_00409	Multidrug resistance-like ATP-binding protein mdlA
+MFKOEFHD_00410	ABC transporter ATP-binding protein
+MFKOEFHD_00411	3-dehydroquinate dehydratase
+MFKOEFHD_00412	YbaK/ebsC protein
+MFKOEFHD_00413	ribonuclease HI
+MFKOEFHD_00414	EbsA
+MFKOEFHD_00415	cold shock domain-containing protein
+MFKOEFHD_00416	Formate--tetrahydrofolate ligase
+MFKOEFHD_00417	CBS domain pair protein
+MFKOEFHD_00418	lipoprotein signal peptidase
+MFKOEFHD_00419	RluA family pseudouridine synthase
+MFKOEFHD_00420	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR
+MFKOEFHD_00421	uracil permease
+MFKOEFHD_00422	aspartate carbamoyltransferase
+MFKOEFHD_00423	Dihydroorotase
+MFKOEFHD_00424	carbamoyl-phosphate synthase small subunit
+MFKOEFHD_00425	carbamoyl-phosphate synthase large subunit
+MFKOEFHD_00426	dihydroorotate dehydrogenase, electron transfer subunit
+MFKOEFHD_00427	Dihydroorotate dehydrogenase 1B
+MFKOEFHD_00428	Orotidine 5'-phosphate decarboxylase
+MFKOEFHD_00429	orotate phosphoribosyltransferase
+MFKOEFHD_00430	carbonic anhydrase
+MFKOEFHD_00431	LysR family transcriptional regulator
+MFKOEFHD_00432	transcriptional regulator, GntR family
+MFKOEFHD_00433	hypothetical protein
+MFKOEFHD_00434	glycosyl hydrolase family 38 protein
+MFKOEFHD_00435	aromatic amino acid aminotransferase
+MFKOEFHD_00436	phosphate-binding protein
+MFKOEFHD_00437	sensory box histidine kinase
+MFKOEFHD_00438	response regulator receiver domain-containing protein
+MFKOEFHD_00439	hypothetical protein
+MFKOEFHD_00440	DNA-binding protein
+MFKOEFHD_00441	signal recognition particle protein
+MFKOEFHD_00442	transcriptional regulator, MerR family
+MFKOEFHD_00443	flavin reductase
+MFKOEFHD_00444	Mycothiol acetyltransferase
+MFKOEFHD_00445	30S ribosomal protein S16
+MFKOEFHD_00446	RNA-binding protein
+MFKOEFHD_00447	hypothetical protein
+MFKOEFHD_00448	Ribonuclease Z
+MFKOEFHD_00449	short chain dehydrogenase/reductase family oxidoreductase
+MFKOEFHD_00450	hypothetical protein
+MFKOEFHD_00451	single-stranded-DNA-specific exonuclease RecJ
+MFKOEFHD_00452	adenine phosphoribosyltransferase
+MFKOEFHD_00453	hypothetical protein
+MFKOEFHD_00454	hemolysin III family channel protein
+MFKOEFHD_00455	DegV family protein
+MFKOEFHD_00456	GDSL-like lipase/acylhydrolase
+MFKOEFHD_00457	hypothetical protein
+MFKOEFHD_00458	methionine sulfoxide reductase MsrA
+MFKOEFHD_00459	hypothetical protein
+MFKOEFHD_00460	Carboxy-terminal processing protease CtpA
+MFKOEFHD_00461	signal peptidase I
+MFKOEFHD_00462	hypothetical protein
+MFKOEFHD_00463	hypothetical protein
+MFKOEFHD_00464	bacitracin transport ATP-binding protein BcrA
+MFKOEFHD_00465	hypothetical protein
+MFKOEFHD_00466	ABC transporter ATP-binding protein
+MFKOEFHD_00467	hypothetical protein
+MFKOEFHD_00468	zinc-containing alcohol dehydrogenase
+MFKOEFHD_00469	phospholipase/carboxylesterase
+MFKOEFHD_00470	glyoxalase family protein
+MFKOEFHD_00471	HTH-type transcriptional regulator MhqR
+MFKOEFHD_00472	3-oxoacyl-ACP reductase
+MFKOEFHD_00473	hypothetical protein
+MFKOEFHD_00474	hypothetical protein
+MFKOEFHD_00475	integral membrane protein
+MFKOEFHD_00476	Phosphate acetyltransferase
+MFKOEFHD_00477	putative butyrate kinase 2
+MFKOEFHD_00478	Dihydrolipoyl dehydrogenase
+MFKOEFHD_00479	pyruvate dehydrogenase E1 component subunit alpha
+MFKOEFHD_00480	transketolase
+MFKOEFHD_00481	dihydrolipoamide S-succinyltransferase
+MFKOEFHD_00482	membrane protein
+MFKOEFHD_00483	LysR family transcriptional regulator
+MFKOEFHD_00484	2-dehydropantoate 2-reductase
+MFKOEFHD_00485	ribosome biogenesis GTP-binding protein YlqF
+MFKOEFHD_00486	ribonuclease HII
+MFKOEFHD_00487	DNA processing protein DprA
+MFKOEFHD_00488	hypothetical protein
+MFKOEFHD_00489	DNA topoisomerase I
+MFKOEFHD_00490	glucose inhibited division protein
+MFKOEFHD_00491	site-specific tyrosine recombinase XerC-family protein
+MFKOEFHD_00492	ATP-dependent protease HslVU, peptidase subunit
+MFKOEFHD_00493	ATP-dependent carboxylate-amine ligase
+MFKOEFHD_00494	GTP-sensing transcriptional pleiotropic repressor CodY
+MFKOEFHD_00495	aldose 1-epimerase
+MFKOEFHD_00496	acyl-phosphate glycerol 3-phosphate acyltransferase
+MFKOEFHD_00497	Vitamin B12-binding protein
+MFKOEFHD_00498	ferrichrome transport system permease FhuB
+MFKOEFHD_00499	iron ABC transporter ATP-binding protein
+MFKOEFHD_00500	Propanediol utilization protein PduV
+MFKOEFHD_00501	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+MFKOEFHD_00502	aldehyde-alcohol dehydrogenase
+MFKOEFHD_00503	Propanediol utilization protein PduU
+MFKOEFHD_00504	putative transcriptional regulatory protein pdtaR
+MFKOEFHD_00505	hypothetical protein
+MFKOEFHD_00506	hypothetical protein
+MFKOEFHD_00507	Ethanolamine ammonia-lyase heavy chain
+MFKOEFHD_00508	Ethanolamine ammonia-lyase light chain
+MFKOEFHD_00509	Ethanolamine utilization protein EutL
+MFKOEFHD_00510	hypothetical protein
+MFKOEFHD_00511	aldehyde-alcohol dehydrogenase
+MFKOEFHD_00512	Propanediol utilization protein PduA
+MFKOEFHD_00513	hypothetical protein
+MFKOEFHD_00514	Phosphate propanoyltransferase
+MFKOEFHD_00515	hypothetical protein
+MFKOEFHD_00516	Carbon dioxide concentrating mechanism protein CcmL
+MFKOEFHD_00517	hypothetical protein
+MFKOEFHD_00518	Ethanolamine utilization protein EutQ
+MFKOEFHD_00519	CoA-binding protein
+MFKOEFHD_00520	DNA topoisomerase IV subunit B
+MFKOEFHD_00521	DNA topoisomerase IV subunit A
+MFKOEFHD_00522	formate acetyltransferase
+MFKOEFHD_00523	pyruvate formate-lyase activating enzyme
+MFKOEFHD_00524	manganese-dependent inorganic pyrophosphatase
+MFKOEFHD_00525	hypothetical protein
+MFKOEFHD_00526	hypothetical protein
+MFKOEFHD_00527	cardiolipin synthetase
+MFKOEFHD_00528	Regulatory protein YeiL
+MFKOEFHD_00529	Phosphate-import protein PhnD
+MFKOEFHD_00530	amino acid ABC transporter ATP-binding protein
+MFKOEFHD_00531	Phosphate-import permease protein PhnE
+MFKOEFHD_00532	hypothetical protein
+MFKOEFHD_00533	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MFKOEFHD_00534	PTS system, beta-glucoside-specific IIABC component
+MFKOEFHD_00535	6-phospho-beta-galactosidase
+MFKOEFHD_00536	hypothetical protein
+MFKOEFHD_00537	LacI family transcription regulator
+MFKOEFHD_00538	Glycosyl hydrolase
+MFKOEFHD_00539	alpha amylase
+MFKOEFHD_00540	PTS system, trehalose/maltose-specific, IIBCA component
+MFKOEFHD_00541	helix-turn-helix domain-containing protein
+MFKOEFHD_00542	Deoxyribodipyrimidine photo-lyase
+MFKOEFHD_00543	Vegetative catalase
+MFKOEFHD_00544	hypothetical protein
+MFKOEFHD_00545	RNA pyrophosphohydrolase
+MFKOEFHD_00546	ABC transporter ATP-binding protein/permease
+MFKOEFHD_00547	ABC transporter ATP-binding protein/permease
+MFKOEFHD_00548	AraC family transcriptional regulator
+MFKOEFHD_00549	GNAT family acetyltransferase
+MFKOEFHD_00550	NUDIX family hydrolase
+MFKOEFHD_00551	NADH oxidase
+MFKOEFHD_00552	Fur family transcriptional regulator
+MFKOEFHD_00553	cysteine synthase A
+MFKOEFHD_00554	N-acetylmuramoyl-L-alanine amidase
+MFKOEFHD_00555	major facilitator family transporter
+MFKOEFHD_00556	transketolase
+MFKOEFHD_00557	hypothetical protein
+MFKOEFHD_00558	LexA repressor
+MFKOEFHD_00559	iron-sulfur cluster-binding protein
+MFKOEFHD_00560	dihydrofolate reductase
+MFKOEFHD_00561	thymidylate synthase
+MFKOEFHD_00562	ABC transporter ATP-binding protein
+MFKOEFHD_00563	Na+/H+ antiporter
+MFKOEFHD_00564	hypothetical protein
+MFKOEFHD_00565	hypothetical protein
+MFKOEFHD_00566	hypothetical protein
+MFKOEFHD_00567	EDD domain-containing protein, DegV family
+MFKOEFHD_00568	transcriptional regulator, PSR protein
+MFKOEFHD_00569	prephenate dehydratase
+MFKOEFHD_00570	shikimate kinase
+MFKOEFHD_00571	3-phosphoshikimate 1-carboxyvinyltransferase
+MFKOEFHD_00572	prephenate dehydrogenase
+MFKOEFHD_00573	chorismate synthase
+MFKOEFHD_00574	3-dehydroquinate synthase
+MFKOEFHD_00575	phospho-2-dehydro-3-deoxyheptonate aldolase
+MFKOEFHD_00576	shikimate 5-dehydrogenase
+MFKOEFHD_00577	hypothetical protein
+MFKOEFHD_00578	hypothetical protein
+MFKOEFHD_00579	tRNA nucleotidyltransferase/poly(A) polymerase family protein
+MFKOEFHD_00580	dihydrodipicolinate reductase
+MFKOEFHD_00581	MazG nucleotide pyrophosphohydrolase domain-containing protein
+MFKOEFHD_00582	integral membrane protein
+MFKOEFHD_00583	hypothetical protein
+MFKOEFHD_00584	tetratricopeptide repeat protein
+MFKOEFHD_00585	hypothetical protein
+MFKOEFHD_00586	DNA-binding protein HU
+MFKOEFHD_00587	ribosome-associated GTPase EngA
+MFKOEFHD_00588	30S ribosomal protein S1
+MFKOEFHD_00589	cytidylate kinase
+MFKOEFHD_00590	LysM domain-containing protein
+MFKOEFHD_00591	RecQ familyATP-dependent DNA helicase
+MFKOEFHD_00592	hypothetical protein
+MFKOEFHD_00593	ferredoxin
+MFKOEFHD_00594	hypothetical protein
+MFKOEFHD_00595	membrane protein
+MFKOEFHD_00596	16S rRNA pseudouridine synthase A
+MFKOEFHD_00597	segregation and condensation protein B
+MFKOEFHD_00598	segregation and condensation protein A
+MFKOEFHD_00599	site-specific tyrosine recombinase XerD-family protein
+MFKOEFHD_00600	x-Pro dipeptidyl-peptidase
+MFKOEFHD_00601	alpha3-beta1 integrin-binding family protein
+MFKOEFHD_00602	cyclophilin type peptidyl-prolyl cis-trans isomerase
+MFKOEFHD_00603	hypothetical protein
+MFKOEFHD_00604	TetR family transcriptional regulator
+MFKOEFHD_00605	PTS system transporter subunit IIC
+MFKOEFHD_00606	hypothetical protein
+MFKOEFHD_00607	Obg family GTPase CgtA
+MFKOEFHD_00608	glyceraldehyde 3-phosphate dehydrogenase
+MFKOEFHD_00609	transcriptional regulator, FUR family
+MFKOEFHD_00610	Conserved virulence factor B
+MFKOEFHD_00611	Mid-cell-anchored protein Z
+MFKOEFHD_00612	RNA polymerase sigma factor RpoD
+MFKOEFHD_00613	DNA primase
+MFKOEFHD_00614	cation transporter E1-E2 family ATPase
+MFKOEFHD_00615	hypothetical protein
+MFKOEFHD_00616	Ribulose-phosphate 3-epimerase
+MFKOEFHD_00617	PTS system fructose-specific transporter subunit IIBC
+MFKOEFHD_00618	PTS system, fructose-specific IIA component
+MFKOEFHD_00619	PTS system, fructose-specific IIBC component
+MFKOEFHD_00620	Multiphosphoryl transfer protein 1
+MFKOEFHD_00621	transcriptional antiterminator bglG
+MFKOEFHD_00622	PTS system, N-acetylglucosamine-specific IICBA component
+MFKOEFHD_00623	BglG family transcriptional antiterminator
+MFKOEFHD_00624	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_00625	hypothetical protein
+MFKOEFHD_00626	Hydrophobic dipeptide epimerase
+MFKOEFHD_00627	metal-sulfur cluster biosynthetic enzyme
+MFKOEFHD_00628	hypothetical protein
+MFKOEFHD_00629	hypothetical protein
+MFKOEFHD_00630	hypothetical protein
+MFKOEFHD_00631	Alpha/beta hydrolase family protein
+MFKOEFHD_00632	diaminopimelate decarboxylase
+MFKOEFHD_00633	fructose-1,6-bisphosphatase
+MFKOEFHD_00634	hypothetical protein
+MFKOEFHD_00635	hypothetical protein
+MFKOEFHD_00636	ECF subfamily RNA polymerase sigma-70 region 2
+MFKOEFHD_00637	hypothetical protein
+MFKOEFHD_00638	V-type ATP synthase subunit D
+MFKOEFHD_00639	V-type ATP synthase subunit B
+MFKOEFHD_00640	V-type ATP synthase subunit A
+MFKOEFHD_00641	V-type ATP synthase subunit G
+MFKOEFHD_00642	V-type ATPase subunit C
+MFKOEFHD_00643	V-type ATPase subunit E
+MFKOEFHD_00644	V-type ATP synthase subunit K
+MFKOEFHD_00645	V-type ATP synthase subunit I
+MFKOEFHD_00646	hypothetical protein
+MFKOEFHD_00647	putative flavoprotein NrdI
+MFKOEFHD_00648	hypothetical protein
+MFKOEFHD_00649	glucose-6-phosphate isomerase
+MFKOEFHD_00650	NADP-specific glutamate dehydrogenase
+MFKOEFHD_00651	HI0933-like protein
+MFKOEFHD_00652	ABC transporter ATP-binding protein
+MFKOEFHD_00653	hypothetical protein
+MFKOEFHD_00654	alpha-galactosidase
+MFKOEFHD_00655	LacI family sugar-binding transcriptional regulator
+MFKOEFHD_00656	putative type IV conjugative transfer system protein TraL
+MFKOEFHD_00657	ABC transporter ATP-binding protein
+MFKOEFHD_00658	hypothetical protein
+MFKOEFHD_00659	excinuclease ABC subunit C
+MFKOEFHD_00660	thioredoxin
+MFKOEFHD_00661	recombination and DNA strand exchange inhibitor protein
+MFKOEFHD_00662	CvpA family protein
+MFKOEFHD_00663	cell division protein ZapA
+MFKOEFHD_00664	cadmium-translocating P-type ATPase
+MFKOEFHD_00665	Vitamin B12 import ATP-binding protein BtuD
+MFKOEFHD_00666	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+MFKOEFHD_00667	Molybdate-binding protein ModA
+MFKOEFHD_00668	hypothetical protein
+MFKOEFHD_00669	Molybdopterin adenylyltransferase
+MFKOEFHD_00670	hypothetical protein
+MFKOEFHD_00671	GTP 3',8-cyclase
+MFKOEFHD_00672	Cyclic pyranopterin monophosphate synthase
+MFKOEFHD_00673	Molybdopterin molybdenumtransferase 2
+MFKOEFHD_00674	Nitrate reductase
+MFKOEFHD_00675	NADP-reducing hydrogenase subunit HndC
+MFKOEFHD_00676	NADP-reducing hydrogenase subunit HndA
+MFKOEFHD_00677	hypothetical protein
+MFKOEFHD_00678	formate/nitrite transporter
+MFKOEFHD_00679	putative molybdenum cofactor guanylyltransferase
+MFKOEFHD_00680	integral membrane protein
+MFKOEFHD_00681	membrane protein
+MFKOEFHD_00682	peptidase T
+MFKOEFHD_00683	NIF3-related protein
+MFKOEFHD_00684	SAM-dependent methyltransferase family protein
+MFKOEFHD_00685	alanyl-tRNA synthetase
+MFKOEFHD_00686	hypothetical protein
+MFKOEFHD_00687	DEAD/DEAH box helicase
+MFKOEFHD_00688	VanZ/RDD domain protein
+MFKOEFHD_00689	hypothetical protein
+MFKOEFHD_00690	putative alkylphosphonate utilization operon protein PhnA
+MFKOEFHD_00691	DHHA1 domain protein
+MFKOEFHD_00692	DRTGG domain-containing protein
+MFKOEFHD_00693	metallo-beta-lactamase domain-containing protein
+MFKOEFHD_00694	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+MFKOEFHD_00695	hypothetical protein
+MFKOEFHD_00696	hypothetical protein
+MFKOEFHD_00697	major cold shock protein CspA
+MFKOEFHD_00698	integral membrane protein
+MFKOEFHD_00699	permease
+MFKOEFHD_00700	acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+MFKOEFHD_00701	hydroxymethylglutaryl-CoA synthase
+MFKOEFHD_00702	hypothetical protein
+MFKOEFHD_00703	dihydroxyacetone kinase, DhaL subunit
+MFKOEFHD_00704	dihydroxyacetone kinase subunit DhaK
+MFKOEFHD_00705	dihydroxyacetone kinase, phosphotransfer subunit
+MFKOEFHD_00706	glycerol dehydrogenase
+MFKOEFHD_00707	HTH-type transcriptional activator RhaR
+MFKOEFHD_00708	Dihydrolipoyl dehydrogenase
+MFKOEFHD_00709	dihydrolipoamide S-succinyltransferase
+MFKOEFHD_00710	transketolase
+MFKOEFHD_00711	pyruvate dehydrogenase E1 component subunit alpha
+MFKOEFHD_00712	magnesium-translocating P-type ATPase
+MFKOEFHD_00713	integral membrane protein
+MFKOEFHD_00714	alpha amylase
+MFKOEFHD_00715	glucan 1,6-alpha-glucosidase
+MFKOEFHD_00716	alpha amylase
+MFKOEFHD_00717	extracellular solute-binding protein
+MFKOEFHD_00718	ABC transporter permease
+MFKOEFHD_00719	ABC transporter permease
+MFKOEFHD_00720	hypothetical protein
+MFKOEFHD_00721	ABC transporter ATP-binding protein/permease
+MFKOEFHD_00722	hypothetical protein
+MFKOEFHD_00723	hypothetical protein
+MFKOEFHD_00724	thioredoxin reductase
+MFKOEFHD_00725	hypothetical protein
+MFKOEFHD_00726	GntR family transcriptional regulator
+MFKOEFHD_00727	hypothetical protein
+MFKOEFHD_00728	TetR family dihydroxyacetone kinase regulator
+MFKOEFHD_00729	hypothetical protein
+MFKOEFHD_00730	tRNA-Gln
+MFKOEFHD_00731	tRNA-Tyr
+MFKOEFHD_00732	hypothetical protein
+MFKOEFHD_00733	SPFH domain / Band 7 family protein
+MFKOEFHD_00734	putative membrane protein YuaF
+MFKOEFHD_00735	efflux ABC transporter permease
+MFKOEFHD_00736	ABC transporter ATP-binding protein
+MFKOEFHD_00737	DNA-entry nuclease
+MFKOEFHD_00738	hypothetical protein
+MFKOEFHD_00739	N-acetylglucosamine-6-phosphate deacetylase
+MFKOEFHD_00740	helix-turn-helix domain-containing protein
+MFKOEFHD_00741	hypothetical protein
+MFKOEFHD_00742	aminotransferase AlaT
+MFKOEFHD_00743	tRNA-Leu
+MFKOEFHD_00744	SprT-like family protein
+MFKOEFHD_00745	RNA binding protein S1
+MFKOEFHD_00746	metallophosphoesterase
+MFKOEFHD_00747	chaperone protein DnaJ
+MFKOEFHD_00748	chaperone protein DnaK
+MFKOEFHD_00749	co-chaperone GrpE
+MFKOEFHD_00750	heat-inducible transcription repressor HrcA
+MFKOEFHD_00751	putative oxygen-independent coproporphyrinogen III oxidase
+MFKOEFHD_00752	magnesium-translocating P-type ATPase
+MFKOEFHD_00753	HTH-type transcriptional regulator CynR
+MFKOEFHD_00754	HTH-type transcriptional regulator CynR
+MFKOEFHD_00755	FtsW/RodA/SpoVE family cell cycle protein
+MFKOEFHD_00756	FtsW/RodA/SpoVE family cell cycle protein
+MFKOEFHD_00757	transcriptional regulator
+MFKOEFHD_00758	hypothetical protein
+MFKOEFHD_00759	PadR family transcriptional regulator
+MFKOEFHD_00760	hypothetical protein
+MFKOEFHD_00761	riboflavin biosynthesis protein RibF
+MFKOEFHD_00762	tRNA pseudouridine synthase B
+MFKOEFHD_00763	hypothetical protein
+MFKOEFHD_00764	holin
+MFKOEFHD_00765	hypothetical protein
+MFKOEFHD_00766	hypothetical protein
+MFKOEFHD_00767	hypothetical protein
+MFKOEFHD_00768	hypothetical protein
+MFKOEFHD_00769	hypothetical protein
+MFKOEFHD_00770	hypothetical protein
+MFKOEFHD_00771	hypothetical protein
+MFKOEFHD_00772	hypothetical protein
+MFKOEFHD_00773	hypothetical protein
+MFKOEFHD_00774	hypothetical protein
+MFKOEFHD_00775	hypothetical protein
+MFKOEFHD_00776	DNA replication protein
+MFKOEFHD_00777	hypothetical protein
+MFKOEFHD_00778	hypothetical protein
+MFKOEFHD_00779	hypothetical protein
+MFKOEFHD_00780	hypothetical protein
+MFKOEFHD_00781	hypothetical protein
+MFKOEFHD_00782	ribosome-binding factor A
+MFKOEFHD_00783	translation initiation factor IF-2
+MFKOEFHD_00784	50S ribosomal protein L7Ae
+MFKOEFHD_00785	cytosolic protein YlxR
+MFKOEFHD_00786	transcription termination factor NusA
+MFKOEFHD_00787	ribosome maturation protein RimP
+MFKOEFHD_00788	hypothetical protein
+MFKOEFHD_00789	cation transporter E1-E2 family ATPase
+MFKOEFHD_00790	ribonuclease HIII
+MFKOEFHD_00791	SAM-dependent methyltransferase
+MFKOEFHD_00792	sulfatase
+MFKOEFHD_00793	hypothetical protein
+MFKOEFHD_00794	hypothetical protein
+MFKOEFHD_00795	sensor histidine kinase
+MFKOEFHD_00796	response regulator receiver domain-containing protein
+MFKOEFHD_00797	HAD superfamily hydrolase
+MFKOEFHD_00798	hypothetical protein
+MFKOEFHD_00799	hypothetical protein
+MFKOEFHD_00800	hypothetical protein
+MFKOEFHD_00801	ABC transporter ATP-binding protein
+MFKOEFHD_00802	amino acid or sugar ABC transport system, permease protein
+MFKOEFHD_00803	ABC transporter substrate binding protein
+MFKOEFHD_00804	hypothetical protein
+MFKOEFHD_00805	hypothetical protein
+MFKOEFHD_00806	fibronectin-binding protein A
+MFKOEFHD_00807	hypothetical protein
+MFKOEFHD_00808	hypothetical protein
+MFKOEFHD_00809	hypothetical protein
+MFKOEFHD_00810	oxidoreductase family, NAD-binding Rossmann fold protein
+MFKOEFHD_00811	6-phospho-beta-galactosidase
+MFKOEFHD_00812	GntR family transcriptional regulator
+MFKOEFHD_00813	hypothetical protein
+MFKOEFHD_00814	LacI family transcriptional regulator
+MFKOEFHD_00815	1,2-beta-oligoglucan phosphorylase
+MFKOEFHD_00816	Beta-glucosidase BoGH3B
+MFKOEFHD_00817	hypothetical protein
+MFKOEFHD_00818	Cephalosporin-C deacetylase
+MFKOEFHD_00819	hypothetical protein
+MFKOEFHD_00820	hypothetical protein
+MFKOEFHD_00821	ABC transporter permease
+MFKOEFHD_00822	ABC transporter permease
+MFKOEFHD_00823	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+MFKOEFHD_00824	hypothetical protein
+MFKOEFHD_00825	hypothetical protein
+MFKOEFHD_00826	M protein trans-acting positive regulator
+MFKOEFHD_00827	hypothetical protein
+MFKOEFHD_00828	hypothetical protein
+MFKOEFHD_00829	ApbE family protein
+MFKOEFHD_00830	helix-turn-helix domain-containing protein
+MFKOEFHD_00831	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+MFKOEFHD_00832	adenine deaminase
+MFKOEFHD_00833	Putrescine-binding periplasmic protein SpuD
+MFKOEFHD_00834	Sulfate/thiosulfate import ATP-binding protein CysA
+MFKOEFHD_00835	spermidine/putrescine transport system permease protein PotC
+MFKOEFHD_00836	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+MFKOEFHD_00837	hypothetical protein
+MFKOEFHD_00838	hypothetical protein
+MFKOEFHD_00839	hypothetical protein
+MFKOEFHD_00840	alpha-acetolactate decarboxylase
+MFKOEFHD_00841	acetolactate synthase
+MFKOEFHD_00842	transcriptional regulator
+MFKOEFHD_00843	NADH peroxidase
+MFKOEFHD_00844	response regulator receiver domain-containing protein
+MFKOEFHD_00845	Sensor histidine kinase DcuS
+MFKOEFHD_00846	Na+/citrate symporter
+MFKOEFHD_00847	NADP-dependent malic enzyme
+MFKOEFHD_00848	helix-turn-helix domain-containing protein
+MFKOEFHD_00849	hypothetical protein
+MFKOEFHD_00850	Holliday junction resolvase-like protein
+MFKOEFHD_00851	hypothetical protein
+MFKOEFHD_00852	hypothetical protein
+MFKOEFHD_00853	hypothetical protein
+MFKOEFHD_00854	membrane protein
+MFKOEFHD_00855	putative permease
+MFKOEFHD_00856	metallo-beta-lactamase YycJ
+MFKOEFHD_00857	YycH protein
+MFKOEFHD_00858	YycH protein
+MFKOEFHD_00859	PAS domain sensory box histidine kinase
+MFKOEFHD_00860	DNA-binding response regulator
+MFKOEFHD_00861	glycerol uptake facilitator protein
+MFKOEFHD_00862	EDD domain protein, DegV family
+MFKOEFHD_00863	hypothetical protein
+MFKOEFHD_00864	integral membrane protein
+MFKOEFHD_00865	HAD superfamily hydrolase
+MFKOEFHD_00866	hypothetical protein
+MFKOEFHD_00867	Ser/Thr protein phosphatase family protein
+MFKOEFHD_00868	Ribonuclease J 2
+MFKOEFHD_00869	dihydrodipicolinate synthase
+MFKOEFHD_00870	aspartate-semialdehyde dehydrogenase
+MFKOEFHD_00871	S-ribosylhomocysteinase
+MFKOEFHD_00872	FMN reductase (NADPH)
+MFKOEFHD_00873	hypothetical protein
+MFKOEFHD_00874	fructokinase
+MFKOEFHD_00875	hypothetical protein
+MFKOEFHD_00876	cell wall surface anchor family protein
+MFKOEFHD_00877	Glycerol-3-phosphate cytidylyltransferase
+MFKOEFHD_00878	hypothetical protein
+MFKOEFHD_00879	glycosyl transferase, WecB/TagA/CpsF family
+MFKOEFHD_00880	Teichoic acid glycerol-phosphate primase
+MFKOEFHD_00881	50S ribosomal protein L31
+MFKOEFHD_00882	transcription termination factor Rho
+MFKOEFHD_00883	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MFKOEFHD_00884	fructose-bisphosphate aldolase
+MFKOEFHD_00885	integral membrane protein
+MFKOEFHD_00886	N-(5'phosphoribosyl)anthranilate isomerase family protein
+MFKOEFHD_00887	hypothetical protein
+MFKOEFHD_00888	L-asparaginase
+MFKOEFHD_00889	DEAD_2 helicase
+MFKOEFHD_00890	Glycine reductase complex component B subunit gamma
+MFKOEFHD_00891	PTS system lactose/cellobiose-specific transporter subunit IIC
+MFKOEFHD_00892	PTS system lactose/cellobiose-specific transporter subunit IIB
+MFKOEFHD_00893	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+MFKOEFHD_00894	dipeptidase PepV
+MFKOEFHD_00895	GntR family transcriptional regulator
+MFKOEFHD_00896	endonuclease III
+MFKOEFHD_00897	DnaD and phage-associated domain protein
+MFKOEFHD_00898	carboxypeptidase Taq metallopeptidase
+MFKOEFHD_00899	putative methylase
+MFKOEFHD_00900	cell division protein DivIVA
+MFKOEFHD_00901	hypothetical protein
+MFKOEFHD_00902	recombination protein U
+MFKOEFHD_00903	penicillin-binding protein 1A
+MFKOEFHD_00904	CTP synthase
+MFKOEFHD_00905	DNA-directed RNA polymerase subunit delta
+MFKOEFHD_00906	hypothetical protein
+MFKOEFHD_00907	lipoate-protein ligase A
+MFKOEFHD_00908	HD domain-containing protein
+MFKOEFHD_00909	HAD superfamily hydrolase
+MFKOEFHD_00910	NUDIX family hydrolase
+MFKOEFHD_00911	lactoylglutathione lyase
+MFKOEFHD_00912	glutamine amidotransferase
+MFKOEFHD_00913	oxidoreductase, aldo/keto reductase family protein
+MFKOEFHD_00914	hypothetical protein
+MFKOEFHD_00915	transporter, small conductance mechanosensitive ion channel family protein
+MFKOEFHD_00916	peptidase M20D
+MFKOEFHD_00917	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+MFKOEFHD_00918	CBS domain pair protein
+MFKOEFHD_00919	L-ribulose-5-phosphate 4-epimerase
+MFKOEFHD_00920	L-xylulose 5-phosphate 3-epimerase
+MFKOEFHD_00921	3-keto-L-gulonate-6-phosphate decarboxylase
+MFKOEFHD_00922	PTS system ascorbate-specific transporter subunit IIB
+MFKOEFHD_00923	PTS system ascorbate-specific transporter subunit IIC
+MFKOEFHD_00924	PTS system ascorbate-specific transporter subunit IIA
+MFKOEFHD_00925	L-ascorbate 6-phosphate lactonase, UlaG
+MFKOEFHD_00926	DeoR-like helix-turn-helix protein
+MFKOEFHD_00927	phosphodiesterase
+MFKOEFHD_00928	Ribonuclease PH/Ham1 protein
+MFKOEFHD_00929	glutamate racemase
+MFKOEFHD_00930	ABC transporter ATP-binding protein
+MFKOEFHD_00931	putative adhesin/ABC transporter aspartate/glutamate-binding protein
+MFKOEFHD_00932	ABC transporter permease
+MFKOEFHD_00933	ABC transporter permease
+MFKOEFHD_00934	phenylalanyl-tRNA synthetase subunit beta
+MFKOEFHD_00935	phenylalanyl-tRNA synthetase subunit alpha
+MFKOEFHD_00936	HxlR-like helix-turn-helix
+MFKOEFHD_00937	ATP-dependent helicase/nuclease subunit A
+MFKOEFHD_00938	ATP-dependent helicase/deoxyribonuclease subunit B
+MFKOEFHD_00939	signal peptidase I
+MFKOEFHD_00940	Lactate utilization protein C
+MFKOEFHD_00941	Lactate utilization protein B
+MFKOEFHD_00942	Lactate utilization protein A
+MFKOEFHD_00943	hypothetical protein
+MFKOEFHD_00944	hypothetical protein
+MFKOEFHD_00945	amino acid permease
+MFKOEFHD_00946	hypothetical protein
+MFKOEFHD_00947	methyltransferase
+MFKOEFHD_00948	Vitamin B12 import ATP-binding protein BtuD
+MFKOEFHD_00949	hypothetical protein
+MFKOEFHD_00950	hypothetical protein
+MFKOEFHD_00951	transfer-messenger RNA, SsrA
+MFKOEFHD_00952	hypothetical protein
+MFKOEFHD_00953	hypothetical protein
+MFKOEFHD_00954	hypothetical protein
+MFKOEFHD_00955	peptidase C60
+MFKOEFHD_00956	LPXTG-motif protein cell wall anchor domain protein
+MFKOEFHD_00957	LPXTG-motif protein cell wall anchor domain protein
+MFKOEFHD_00958	von Willebrand factor type A domain-containing protein
+MFKOEFHD_00959	M protein trans-acting positive regulator
+MFKOEFHD_00960	hypothetical protein
+MFKOEFHD_00961	hypothetical protein
+MFKOEFHD_00962	Spermine/spermidine acetyltransferase
+MFKOEFHD_00963	hypothetical protein
+MFKOEFHD_00964	universal stress protein UspA
+MFKOEFHD_00965	hypothetical protein
+MFKOEFHD_00966	hypothetical protein
+MFKOEFHD_00967	hypothetical protein
+MFKOEFHD_00968	DNA directed DNA polymerase
+MFKOEFHD_00969	major facilitator superfamily transporter
+MFKOEFHD_00970	acetyltransferase, GNAT family
+MFKOEFHD_00971	Streptomycin 3''-adenylyltransferase
+MFKOEFHD_00972	hypothetical protein
+MFKOEFHD_00973	hypothetical protein
+MFKOEFHD_00974	hypothetical protein
+MFKOEFHD_00975	LacI family transcriptional regulator
+MFKOEFHD_00976	galactose-1-phosphate uridylyltransferase
+MFKOEFHD_00977	UDP-glucose 4-epimerase
+MFKOEFHD_00978	galactokinase
+MFKOEFHD_00979	aldose 1-epimerase
+MFKOEFHD_00980	hypothetical protein
+MFKOEFHD_00981	maltose O-acetyltransferase
+MFKOEFHD_00982	3-demethylubiquinone-9 3-methyltransferase
+MFKOEFHD_00983	GAF domain-containing protein
+MFKOEFHD_00984	hypothetical protein
+MFKOEFHD_00985	N-isopropylammelide isopropyl amidohydrolase
+MFKOEFHD_00986	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_00987	Purine catabolism regulatory protein
+MFKOEFHD_00988	universal stress protein UspA
+MFKOEFHD_00989	metal ion transporter
+MFKOEFHD_00990	Tunicamycin resistance protein
+MFKOEFHD_00991	hypothetical protein
+MFKOEFHD_00992	ABC transporter ATPase
+MFKOEFHD_00993	hypothetical protein
+MFKOEFHD_00994	tRNA-Leu
+MFKOEFHD_00995	tRNA-Cys
+MFKOEFHD_00996	tRNA-Gln
+MFKOEFHD_00997	tRNA-His
+MFKOEFHD_00998	tRNA-Trp
+MFKOEFHD_00999	tRNA-Tyr
+MFKOEFHD_01000	tRNA-Phe
+MFKOEFHD_01001	tRNA-Asp
+MFKOEFHD_01002	tRNA-Val
+MFKOEFHD_01003	tRNA-Glu
+MFKOEFHD_01004	tRNA-Ser
+MFKOEFHD_01005	tRNA-Pro
+MFKOEFHD_01006	tRNA-Ala
+MFKOEFHD_01007	tRNA-Met
+MFKOEFHD_01008	tRNA-Met
+MFKOEFHD_01009	tRNA-Ser
+MFKOEFHD_01010	tRNA-Met
+MFKOEFHD_01011	tRNA-Asp
+MFKOEFHD_01012	tRNA-Gly
+MFKOEFHD_01013	tRNA-Ile
+MFKOEFHD_01014	tRNA-Glu
+MFKOEFHD_01015	tRNA-Ser
+MFKOEFHD_01016	tRNA-Met
+MFKOEFHD_01017	tRNA-Asp
+MFKOEFHD_01018	tRNA-Phe
+MFKOEFHD_01019	tRNA-Gly
+MFKOEFHD_01020	tRNA-Ile
+MFKOEFHD_01021	tRNA-Ser
+MFKOEFHD_01022	tRNA-Glu
+MFKOEFHD_01023	transcriptional antiterminator bglG/CAT RNA-binding protein
+MFKOEFHD_01024	PTS system, beta-glucoside-specific IIABC component
+MFKOEFHD_01025	6-phospho-beta-glucosidase
+MFKOEFHD_01026	6-phospho-beta-glucosidase
+MFKOEFHD_01027	phosphoglycerate mutase family protein
+MFKOEFHD_01028	hydrolase
+MFKOEFHD_01029	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+MFKOEFHD_01030	Methylated-DNA--protein-cysteine methyltransferase, inducible
+MFKOEFHD_01031	DNA-3-methyladenine glycosylase I
+MFKOEFHD_01032	HD domain-containing protein
+MFKOEFHD_01033	cation diffusion facilitator family transporter
+MFKOEFHD_01034	hypothetical protein
+MFKOEFHD_01035	Enoyl-[acyl-carrier-protein] reductase
+MFKOEFHD_01036	beta-ketoacyl-acyl-carrier-protein synthase II
+MFKOEFHD_01037	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+MFKOEFHD_01038	dihydroorotate dehydrogenase 1A
+MFKOEFHD_01039	fibronectin-binding protein
+MFKOEFHD_01040	translation elongation factor P
+MFKOEFHD_01041	hypothetical protein
+MFKOEFHD_01042	cysteine synthase A
+MFKOEFHD_01043	cystathionine gamma-synthase
+MFKOEFHD_01044	6-phospho-beta-glucosidase
+MFKOEFHD_01045	PTS system, lactose/cellobiose IIC component
+MFKOEFHD_01046	HTH-type transcriptional regulator MurR
+MFKOEFHD_01047	riboflavin biosynthesis protein RibD protein
+MFKOEFHD_01048	V-type sodium ATP synthase subunit J
+MFKOEFHD_01049	transporter, monovalent cation:proton antiporter-2 family protein
+MFKOEFHD_01050	CopY/TcrY family copper transport repressor
+MFKOEFHD_01051	copper-translocating P-type ATPase
+MFKOEFHD_01052	hypothetical protein
+MFKOEFHD_01053	hypothetical protein
+MFKOEFHD_01054	hypothetical protein
+MFKOEFHD_01055	Aminopeptidase C
+MFKOEFHD_01056	Flavin reductase-like domain protein
+MFKOEFHD_01057	glyoxalase family protein
+MFKOEFHD_01058	SMR family multidrug resistance protein
+MFKOEFHD_01059	SMR family multidrug resistance protein
+MFKOEFHD_01060	Chitinase D
+MFKOEFHD_01061	chitin binding protein
+MFKOEFHD_01062	Acyl-ACP thioesterase
+MFKOEFHD_01063	hypothetical protein
+MFKOEFHD_01064	hypothetical protein
+MFKOEFHD_01065	aspartate kinase
+MFKOEFHD_01066	HAD superfamily hydrolase
+MFKOEFHD_01067	septation ring formation regulator EzrA
+MFKOEFHD_01068	class V aminotransferase
+MFKOEFHD_01069	response regulator receiver domain-containing protein
+MFKOEFHD_01070	Sensor histidine kinase RcsC
+MFKOEFHD_01071	hypothetical protein
+MFKOEFHD_01072	hypothetical protein
+MFKOEFHD_01073	hypothetical protein
+MFKOEFHD_01074	hypothetical protein
+MFKOEFHD_01075	5'-deoxyadenosine deaminase
+MFKOEFHD_01076	toxin-antitoxin system, toxin component, Fic family
+MFKOEFHD_01077	hypothetical protein
+MFKOEFHD_01078	hypothetical protein
+MFKOEFHD_01079	Purine catabolism regulatory protein
+MFKOEFHD_01080	hypothetical protein
+MFKOEFHD_01081	hypothetical protein
+MFKOEFHD_01082	Hexuronate transporter
+MFKOEFHD_01083	Carbamate kinase
+MFKOEFHD_01084	sodium/dicarboxylate symporter family protein
+MFKOEFHD_01085	Ureidoglycolate dehydrogenase (NAD(+))
+MFKOEFHD_01086	hypothetical protein
+MFKOEFHD_01087	N-isopropylammelide isopropyl amidohydrolase
+MFKOEFHD_01088	hypothetical protein
+MFKOEFHD_01089	hypothetical protein
+MFKOEFHD_01090	methionine synthase
+MFKOEFHD_01091	putative permease
+MFKOEFHD_01092	hypothetical protein
+MFKOEFHD_01093	hypothetical protein
+MFKOEFHD_01094	membrane protein
+MFKOEFHD_01095	pyrrolidone-carboxylate peptidase
+MFKOEFHD_01096	Na+/H+ antiporter
+MFKOEFHD_01097	ArsR family transcriptional regulator
+MFKOEFHD_01098	nitroreductase family protein
+MFKOEFHD_01099	HAD superfamily hydrolase
+MFKOEFHD_01100	PTS system, mannitol-specific IICB component
+MFKOEFHD_01101	transcriptional antiterminator bglG
+MFKOEFHD_01102	PTS system, mannitol-specific IIA component
+MFKOEFHD_01103	PTS system, mannitol-specific IICBA component
+MFKOEFHD_01104	PTS system mannitol-specific transporter subunit IIA
+MFKOEFHD_01105	Mannitol-1-phosphate 5-dehydrogenase
+MFKOEFHD_01106	FAD dependent oxidoreductase
+MFKOEFHD_01107	hypothetical protein
+MFKOEFHD_01108	hypothetical protein
+MFKOEFHD_01109	ABC transporter ATP-binding protein/permease
+MFKOEFHD_01110	Macrolide export ATP-binding/permease protein MacB
+MFKOEFHD_01111	hypothetical protein
+MFKOEFHD_01112	hypothetical protein
+MFKOEFHD_01113	Urea transporter
+MFKOEFHD_01114	major facilitator superfamily transporter
+MFKOEFHD_01115	MerR family transcriptional regulator
+MFKOEFHD_01116	IclR transcriptional regulator
+MFKOEFHD_01117	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+MFKOEFHD_01118	2-dehydro-3-deoxygluconokinase
+MFKOEFHD_01119	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+MFKOEFHD_01120	gluconate 5-dehydrogenase
+MFKOEFHD_01121	Glycosyl Hydrolase Family 88
+MFKOEFHD_01122	TRAP dicarboxylate transporter subunit DctP
+MFKOEFHD_01123	TRAP dicarboxylate transporter subunit DctQ
+MFKOEFHD_01124	TRAP dicarboxylate transporter subunit DctM
+MFKOEFHD_01125	AraC family transcriptional regulator
+MFKOEFHD_01126	rhamnulokinase
+MFKOEFHD_01127	L-rhamnose isomerase
+MFKOEFHD_01128	rhamnulose-1-phosphate aldolase
+MFKOEFHD_01129	L-rhamnose mutarotase
+MFKOEFHD_01130	AraC family transcriptional regulator
+MFKOEFHD_01131	AP endonuclease
+MFKOEFHD_01132	hypothetical protein
+MFKOEFHD_01133	amino acid/peptide transporter
+MFKOEFHD_01134	peptidoglycan-binding protein LysM
+MFKOEFHD_01135	1,4-dihydroxy-2-naphthoyl-CoA synthase
+MFKOEFHD_01136	D-alanine--poly(phosphoribitol) ligase subunit 1
+MFKOEFHD_01137	Salicylate biosynthesis isochorismate synthase
+MFKOEFHD_01138	2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase
+MFKOEFHD_01139	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase
+MFKOEFHD_01140	o-succinylbenzoate synthase
+MFKOEFHD_01141	glucosamine-6-phosphate deaminase
+MFKOEFHD_01142	AMP-binding family protein
+MFKOEFHD_01143	peroxiredoxin, Ohr family protein
+MFKOEFHD_01144	Sulfite exporter TauE/SafE
+MFKOEFHD_01145	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_01146	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_01147	PTS system mannose-specific transporter subunit IIAB
+MFKOEFHD_01148	RpiR family transcriptional regulator
+MFKOEFHD_01149	N-acetylmuramic acid 6-phosphate etherase
+MFKOEFHD_01150	Beta-lactamase
+MFKOEFHD_01151	PTS system sorbose-specific EIIA component
+MFKOEFHD_01152	hypothetical protein
+MFKOEFHD_01153	superoxide dismutase
+MFKOEFHD_01154	Diaminopimelate epimerase
+MFKOEFHD_01155	transcriptional regulator
+MFKOEFHD_01156	glucosamine-6-phosphate deaminase
+MFKOEFHD_01157	MgtC family protein
+MFKOEFHD_01158	Protein LemA
+MFKOEFHD_01159	hypothetical protein
+MFKOEFHD_01160	ribonucleotide-diphosphate reductase, beta subunit
+MFKOEFHD_01161	ribonucleoside-diphosphate reductase subunit alpha
+MFKOEFHD_01162	putative flavoprotein NrdI
+MFKOEFHD_01163	glutaredoxin
+MFKOEFHD_01164	ferrous iron transport protein A
+MFKOEFHD_01165	ferrous iron transport protein B
+MFKOEFHD_01166	hypothetical protein
+MFKOEFHD_01167	tRNA-Lys
+MFKOEFHD_01168	hypothetical protein
+MFKOEFHD_01169	hypothetical protein
+MFKOEFHD_01170	ABC transporter ATP-binding protein
+MFKOEFHD_01171	hypothetical protein
+MFKOEFHD_01172	Sensor histidine kinase LiaS
+MFKOEFHD_01173	LuxR family DNA-binding response regulator
+MFKOEFHD_01174	oxidoreductase, aldo/keto reductase family protein
+MFKOEFHD_01175	2-epi-5-epi-valiolone epimerase
+MFKOEFHD_01176	cardiolipin synthetase
+MFKOEFHD_01177	tyrosyl-tRNA synthetase
+MFKOEFHD_01178	tyrosine decarboxylase
+MFKOEFHD_01179	amino acid permease
+MFKOEFHD_01180	Na+/H+ antiporter
+MFKOEFHD_01181	hypothetical protein
+MFKOEFHD_01182	putative lipoprotein YehR
+MFKOEFHD_01183	phosphatidylglycerophosphatase A
+MFKOEFHD_01184	L-lactate dehydrogenase
+MFKOEFHD_01185	hypothetical protein
+MFKOEFHD_01186	hypothetical protein
+MFKOEFHD_01187	LysR family transcriptional regulator
+MFKOEFHD_01188	C4-dicarboxylate transporter/malic acid transport protein
+MFKOEFHD_01189	NAD-dependent epimerase/dehydratase
+MFKOEFHD_01190	putative HTH-type transcriptional regulator YtcD
+MFKOEFHD_01191	nitroreductase family protein
+MFKOEFHD_01192	lipoyltransferase and lipoate-protein ligase A
+MFKOEFHD_01193	hypothetical protein
+MFKOEFHD_01194	Protease HtpX
+MFKOEFHD_01195	hypothetical protein
+MFKOEFHD_01196	hypothetical protein
+MFKOEFHD_01197	LacI family sugar-binding transcriptional regulator
+MFKOEFHD_01198	nitroreductase family protein
+MFKOEFHD_01199	glyoxalase family protein
+MFKOEFHD_01200	DeoR-like helix-turn-helix protein
+MFKOEFHD_01201	hypothetical protein
+MFKOEFHD_01202	uracil-DNA glycosylase, family 4
+MFKOEFHD_01203	Multidrug export protein MepA
+MFKOEFHD_01204	oligoendopeptidase, PepF/M3 family
+MFKOEFHD_01205	integral membrane protein
+MFKOEFHD_01206	putative transcriptional regulatory protein
+MFKOEFHD_01207	hypothetical protein
+MFKOEFHD_01208	hypothetical protein
+MFKOEFHD_01209	glyoxalase family protein
+MFKOEFHD_01210	phospholipase/carboxylesterase
+MFKOEFHD_01211	UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase
+MFKOEFHD_01212	polysaccharide biosynthesis family protein
+MFKOEFHD_01213	16S rRNA pseudouridylate synthase A
+MFKOEFHD_01214	dipeptidase PepV
+MFKOEFHD_01215	hypothetical protein
+MFKOEFHD_01216	CRISPR-associated endonuclease Cas9
+MFKOEFHD_01217	CRISPR-associated endonuclease Cas1
+MFKOEFHD_01218	CRISPR-associated endoribonuclease Cas2
+MFKOEFHD_01219	CRISPR-associated protein Csn2
+MFKOEFHD_01220	hypothetical protein
+MFKOEFHD_01221	ABC transporter ATP-binding protein
+MFKOEFHD_01222	glycine betaine/carnitine/choline ABC transporter
+MFKOEFHD_01223	arginine repressor protein
+MFKOEFHD_01224	phosphoglucomutase/phosphomannomutase family protein
+MFKOEFHD_01225	hypothetical protein
+MFKOEFHD_01226	Spermidine N(1)-acetyltransferase
+MFKOEFHD_01227	23S rRNA pseudouridine synthase D
+MFKOEFHD_01228	penicillin-binding protein, 1A family
+MFKOEFHD_01229	hypothetical protein
+MFKOEFHD_01230	Ser/Thr protein phosphatase family protein
+MFKOEFHD_01231	putative protein YhaN
+MFKOEFHD_01232	3'-5' exoribonuclease yhaM
+MFKOEFHD_01233	Foldase protein prsA
+MFKOEFHD_01234	YtxH-like protein
+MFKOEFHD_01235	histidine triad protein
+MFKOEFHD_01236	ABC transporter ATP-binding protein
+MFKOEFHD_01237	Bacterial ABC transporter protein EcsB
+MFKOEFHD_01238	Phosphotransferase
+MFKOEFHD_01239	tRNA (guanine-N(7)-)-methyltransferase
+MFKOEFHD_01240	HTH-type transcriptional regulator MurR
+MFKOEFHD_01241	1-phosphofructokinase
+MFKOEFHD_01242	PTS system fructose-specific transporter subunit IIBC
+MFKOEFHD_01243	PTS system fructose-specific transporter subunit IIA
+MFKOEFHD_01244	tagatose 1,6-diphosphate aldolase
+MFKOEFHD_01245	hypothetical protein
+MFKOEFHD_01246	GNAT family acetyltransferase
+MFKOEFHD_01247	permease
+MFKOEFHD_01248	hemolysin
+MFKOEFHD_01249	peptide chain release factor 3
+MFKOEFHD_01250	site-specific tyrosine recombinase XerD-family protein
+MFKOEFHD_01251	hypothetical protein
+MFKOEFHD_01252	hypothetical protein
+MFKOEFHD_01253	hypothetical protein
+MFKOEFHD_01254	hypothetical protein
+MFKOEFHD_01255	hypothetical protein
+MFKOEFHD_01256	Serine/threonine-protein kinase PknD
+MFKOEFHD_01257	hypothetical protein
+MFKOEFHD_01258	hypothetical protein
+MFKOEFHD_01259	membrane protein
+MFKOEFHD_01260	hypothetical protein
+MFKOEFHD_01261	hypothetical protein
+MFKOEFHD_01262	UvrB/UvrC protein/AAA ATPase
+MFKOEFHD_01263	hypothetical protein
+MFKOEFHD_01264	phosphocarrier protein HPr
+MFKOEFHD_01265	Phosphoenolpyruvate-protein phosphotransferase
+MFKOEFHD_01266	cell wall surface anchor family protein
+MFKOEFHD_01267	hypothetical protein
+MFKOEFHD_01268	hypothetical protein
+MFKOEFHD_01269	trigger factor
+MFKOEFHD_01270	hypothetical protein
+MFKOEFHD_01271	PTS system fructose-specific transporter subunit IIABC
+MFKOEFHD_01272	hexose kinase, 1-phosphofructokinase family protein
+MFKOEFHD_01273	DeoR-like helix-turn-helix protein
+MFKOEFHD_01274	voltage-gated cchloride transporter, chloride channel family protein
+MFKOEFHD_01275	ATP-dependent DNA helicase
+MFKOEFHD_01276	NAD-dependent DNA ligase
+MFKOEFHD_01277	aspartyl/glutamyl-tRNA amidotransferase subunit C
+MFKOEFHD_01278	glutamyl-tRNA(Gln) amidotransferase subunit A
+MFKOEFHD_01279	aspartyl/glutamyl-tRNA amidotransferase subunit B
+MFKOEFHD_01280	Diacylglycerol kinase
+MFKOEFHD_01281	23S rRNA (uracil-5-)-methyltransferase
+MFKOEFHD_01282	hypothetical protein
+MFKOEFHD_01283	thioredoxin domain-containing protein
+MFKOEFHD_01284	HTH-type transcriptional regulator MalT
+MFKOEFHD_01285	ornithine carbamoyltransferase
+MFKOEFHD_01286	amino acid permease family protein
+MFKOEFHD_01287	Putative agmatine deiminase
+MFKOEFHD_01288	Carbamate kinase
+MFKOEFHD_01289	glutamyl-tRNA(Gln) amidotransferase subunit A
+MFKOEFHD_01290	nicotinamide mononucleotide transporter PnuC
+MFKOEFHD_01291	deoxynucleoside kinase
+MFKOEFHD_01292	hypothetical protein
+MFKOEFHD_01293	hypothetical protein
+MFKOEFHD_01294	hypothetical protein
+MFKOEFHD_01295	sodium/dicarboxylate symporter family protein
+MFKOEFHD_01296	glyoxalase family protein
+MFKOEFHD_01297	D-aminopeptidase
+MFKOEFHD_01298	hypothetical protein
+MFKOEFHD_01299	rhodanese-like domain-containing protein
+MFKOEFHD_01300	hypothetical protein
+MFKOEFHD_01301	hypothetical protein
+MFKOEFHD_01302	hypothetical protein
+MFKOEFHD_01303	hypothetical protein
+MFKOEFHD_01304	hypothetical protein
+MFKOEFHD_01305	cell wall surface anchor family protein
+MFKOEFHD_01306	hypothetical protein
+MFKOEFHD_01307	hypothetical protein
+MFKOEFHD_01308	cadmium-translocating P-type ATPase
+MFKOEFHD_01309	Protein SapB
+MFKOEFHD_01310	amino acid ABC transporter ATP-binding protein
+MFKOEFHD_01311	Membrane-bound lytic murein transglycosylase F
+MFKOEFHD_01312	excinuclease ABC subunit B
+MFKOEFHD_01313	excinuclease ABC subunit A
+MFKOEFHD_01314	hypothetical protein
+MFKOEFHD_01315	ATP-binding protein
+MFKOEFHD_01316	Putative gluconeogenesis factor
+MFKOEFHD_01317	hypothetical protein
+MFKOEFHD_01318	hypothetical protein
+MFKOEFHD_01319	bifunctional disulfide isomerase/thiol-disulfide oxidase
+MFKOEFHD_01320	ATP-dependent Clp protease proteolytic subunit
+MFKOEFHD_01321	hypothetical protein
+MFKOEFHD_01322	membrane protein
+MFKOEFHD_01323	hypothetical protein
+MFKOEFHD_01324	hypothetical protein
+MFKOEFHD_01325	hypothetical protein
+MFKOEFHD_01326	glycerophosphodiester phosphodiesterase family protein
+MFKOEFHD_01327	hypothetical protein
+MFKOEFHD_01328	major cold shock protein CspA
+MFKOEFHD_01329	tRNA-Arg
+MFKOEFHD_01330	RNA polymerase factor sigma-54
+MFKOEFHD_01331	acyltransferase
+MFKOEFHD_01332	S-adenosylmethionine synthetase
+MFKOEFHD_01333	major facilitator superfamily transporter
+MFKOEFHD_01334	esterase
+MFKOEFHD_01335	TetR family transcriptional regulator
+MFKOEFHD_01336	ABC transporter ATP-binding protein
+MFKOEFHD_01337	ABC transporter ATP-binding protein
+MFKOEFHD_01338	TetR family transcriptional regulator
+MFKOEFHD_01339	efflux ABC transporter permease
+MFKOEFHD_01340	ABC transporter ATP-binding protein
+MFKOEFHD_01341	rRNA methylase family protein
+MFKOEFHD_01342	radical SAM protein family protein
+MFKOEFHD_01343	PAP2 family protein
+MFKOEFHD_01344	hypothetical protein
+MFKOEFHD_01345	hypothetical protein
+MFKOEFHD_01346	N-acetylmuramoyl-L-alanine amidase
+MFKOEFHD_01347	leucyl-tRNA synthetase
+MFKOEFHD_01348	hypothetical protein
+MFKOEFHD_01349	hypothetical protein
+MFKOEFHD_01350	hypothetical protein
+MFKOEFHD_01351	family 3 extracellular solute-binding protein
+MFKOEFHD_01352	putative glutamine ABC transporter ATP-binding protein
+MFKOEFHD_01353	amino acid ABC transporter permease
+MFKOEFHD_01354	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_01355	transglycosylase
+MFKOEFHD_01356	hypothetical protein
+MFKOEFHD_01357	hypothetical protein
+MFKOEFHD_01358	glycosyl hydrolase family protein
+MFKOEFHD_01359	Beta-galactosidase
+MFKOEFHD_01360	transcriptional regulator, GntR family
+MFKOEFHD_01361	PTS system, mannose/fructose/sorbose-specific IIAB component
+MFKOEFHD_01362	PTS system mannose-specific transporter subunit IIC
+MFKOEFHD_01363	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_01364	hypothetical protein
+MFKOEFHD_01365	hypothetical protein
+MFKOEFHD_01366	50S ribosomal protein L25
+MFKOEFHD_01367	16S rRNA pseudouridine synthase A
+MFKOEFHD_01368	HAD superfamily hydrolase
+MFKOEFHD_01369	GNAT family acetyltransferase
+MFKOEFHD_01370	uridine kinase
+MFKOEFHD_01371	toxin-antitoxin system, toxin component, MazF family
+MFKOEFHD_01372	oxidoreductase family, NAD-binding Rossmann fold protein
+MFKOEFHD_01373	transcriptional antiterminator bglG
+MFKOEFHD_01374	PRD domain-containing protein
+MFKOEFHD_01375	hypothetical protein
+MFKOEFHD_01376	hypothetical protein
+MFKOEFHD_01377	hypothetical protein
+MFKOEFHD_01378	hypothetical protein
+MFKOEFHD_01379	PTS system transporter subunit IIC
+MFKOEFHD_01380	hypothetical protein
+MFKOEFHD_01381	alpha3-beta1 integrin-binding family protein
+MFKOEFHD_01382	Deacetylase
+MFKOEFHD_01383	hypothetical protein
+MFKOEFHD_01384	hypothetical protein
+MFKOEFHD_01385	HD domain-containing protein
+MFKOEFHD_01386	arginyl-tRNA synthetase
+MFKOEFHD_01387	O-sialoglycoprotein endopeptidase
+MFKOEFHD_01388	ribosomal-protein-alanine acetyltransferase
+MFKOEFHD_01389	ribosomal-protein-alanine acetyltransferase
+MFKOEFHD_01390	universal bacterial protein YeaZ
+MFKOEFHD_01391	penicillin binding protein transpeptidase domain protein
+MFKOEFHD_01392	Putative virion core protein
+MFKOEFHD_01393	hypothetical protein
+MFKOEFHD_01394	hypothetical protein
+MFKOEFHD_01395	hypothetical protein
+MFKOEFHD_01396	Phosphoglycolate phosphatase
+MFKOEFHD_01397	hypothetical protein
+MFKOEFHD_01398	hypothetical protein
+MFKOEFHD_01399	ABC transporter
+MFKOEFHD_01400	Vitamin B12 import ATP-binding protein BtuD
+MFKOEFHD_01401	UDP-galactopyranose mutase
+MFKOEFHD_01402	hypothetical protein
+MFKOEFHD_01403	UDP-N-acetylenolpyruvoylglucosamine reductase
+MFKOEFHD_01404	hypothetical protein
+MFKOEFHD_01405	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MFKOEFHD_01406	hypothetical protein
+MFKOEFHD_01407	Teichoic acid glycerol-phosphate transferase
+MFKOEFHD_01408	phosphatidate cytidylyltransferase
+MFKOEFHD_01409	undecaprenyl diphosphate synthase
+MFKOEFHD_01410	putative D-methionine-binding lipoprotein MetQ
+MFKOEFHD_01411	ABC transporter permease
+MFKOEFHD_01412	ABC transporter ATP-binding protein
+MFKOEFHD_01413	glycine cleavage H-protein
+MFKOEFHD_01414	ArsC family protein
+MFKOEFHD_01415	FtsW/RodA/SpoVE family cell cycle protein
+MFKOEFHD_01416	M protein trans-acting positive regulator
+MFKOEFHD_01417	hypothetical protein
+MFKOEFHD_01418	hypothetical protein
+MFKOEFHD_01419	hypothetical protein
+MFKOEFHD_01420	helix-turn-helix domain-containing protein
+MFKOEFHD_01421	azaleucine resistance protein AzlC_1
+MFKOEFHD_01422	Branched-chain amino acid transport protein
+MFKOEFHD_01423	tRNA-Thr
+MFKOEFHD_01424	hypothetical protein
+MFKOEFHD_01425	hypothetical protein
+MFKOEFHD_01426	uracil phosphoribosyltransferase
+MFKOEFHD_01427	serine hydroxymethyltransferase
+MFKOEFHD_01428	Sua5/YciO/YrdC/YwlC family protein
+MFKOEFHD_01429	modification methylase HemK
+MFKOEFHD_01430	peptide chain release factor 1
+MFKOEFHD_01431	Thymidine kinase
+MFKOEFHD_01432	fumarate reductase flavoprotein subunit
+MFKOEFHD_01433	cation transporter
+MFKOEFHD_01434	pyruvate flavodoxin oxidoreductase subunit alpha
+MFKOEFHD_01435	Glutamate synthase [NADPH] small chain
+MFKOEFHD_01436	dihydroorotate dehydrogenase, electron transfer subunit
+MFKOEFHD_01437	flavodoxin
+MFKOEFHD_01438	hypothetical protein
+MFKOEFHD_01439	hypothetical protein
+MFKOEFHD_01440	hypothetical protein
+MFKOEFHD_01441	hypothetical protein
+MFKOEFHD_01442	Selenide, water dikinase
+MFKOEFHD_01443	cysteine desulfurase
+MFKOEFHD_01444	Molybdenum cofactor guanylyltransferase
+MFKOEFHD_01445	hypothetical protein
+MFKOEFHD_01446	putative xanthine dehydrogenase subunit A
+MFKOEFHD_01447	hypothetical protein
+MFKOEFHD_01448	xanthine permease
+MFKOEFHD_01449	2-iminobutanoate/2-iminopropanoate deaminase
+MFKOEFHD_01450	Carbamate kinase
+MFKOEFHD_01451	Putative carbamoyltransferase YgeW
+MFKOEFHD_01452	Putative dipeptidase
+MFKOEFHD_01453	Diaminopropionate ammonia-lyase
+MFKOEFHD_01454	Dihydroorotase
+MFKOEFHD_01455	Putative oxidoreductase YgfK
+MFKOEFHD_01456	Putative aminohydrolase SsnA
+MFKOEFHD_01457	Transcriptional regulator DauR
+MFKOEFHD_01458	Mur ligase middle domain-containing protein
+MFKOEFHD_01459	CobB/CobQ-like glutamine amidotransferase domain protein
+MFKOEFHD_01460	inosine-uridine preferring nucleoside hydrolase
+MFKOEFHD_01461	integral membrane protein
+MFKOEFHD_01462	mannose-6-phosphate isomerase
+MFKOEFHD_01463	Beta-lactamase
+MFKOEFHD_01464	glyoxalase family protein
+MFKOEFHD_01465	ABC transporter ATP-binding protein/permease
+MFKOEFHD_01466	ABC transporter ATP-binding protein/permease
+MFKOEFHD_01467	TetR family transcriptional regulator
+MFKOEFHD_01468	guanylate kinase
+MFKOEFHD_01469	6-phospho-beta-glucosidase
+MFKOEFHD_01470	PTS system beta-glucoside-specific transporter subunit IIABC
+MFKOEFHD_01471	BglG family transcriptional antiterminator
+MFKOEFHD_01472	azoreductase
+MFKOEFHD_01473	permease
+MFKOEFHD_01474	PTS system, glucitol/sorbitol-specific IIA component
+MFKOEFHD_01475	hypothetical protein
+MFKOEFHD_01476	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MFKOEFHD_01477	membrane protein
+MFKOEFHD_01478	ATP synthase F1 subunit epsilon
+MFKOEFHD_01479	ATP synthase F1 subunit beta
+MFKOEFHD_01480	ATP synthase F1 subunit gamma
+MFKOEFHD_01481	ATP synthase F1 subunit alpha
+MFKOEFHD_01482	ATP synthase F1, delta subunit
+MFKOEFHD_01483	ATP synthase F0, B subunit
+MFKOEFHD_01484	ATP synthase subunit c
+MFKOEFHD_01485	ATP synthase subunit C
+MFKOEFHD_01486	SsrA-binding protein
+MFKOEFHD_01487	ribonuclease R
+MFKOEFHD_01488	carboxylesterase
+MFKOEFHD_01489	preprotein translocase, SecG subunit
+MFKOEFHD_01490	GNAT family acetyltransferase
+MFKOEFHD_01491	hypothetical protein
+MFKOEFHD_01492	cadmium-translocating P-type ATPase
+MFKOEFHD_01493	NH(3)-dependent NAD(+) synthetase
+MFKOEFHD_01494	Nicotinate phosphoribosyltransferase
+MFKOEFHD_01495	cell wall teichoic acid glycosylation protein GtcA family protein
+MFKOEFHD_01496	hypothetical protein
+MFKOEFHD_01497	hypothetical protein
+MFKOEFHD_01498	hypothetical protein
+MFKOEFHD_01499	chaperonin GroL
+MFKOEFHD_01500	chaperonin GroS
+MFKOEFHD_01501	hypothetical protein
+MFKOEFHD_01502	CAAX amino terminal protease
+MFKOEFHD_01503	redox-sensitive transcriptional regulator
+MFKOEFHD_01504	ABC transporter ATP-binding protein
+MFKOEFHD_01505	GntR family transcriptional regulator
+MFKOEFHD_01506	glycine betaine transporter ATP-binding subunit
+MFKOEFHD_01507	Substrate binding domain of ABC-type glycine betaine transport system
+MFKOEFHD_01508	hypothetical protein
+MFKOEFHD_01509	diacylglycerol kinase catalytic subunit
+MFKOEFHD_01510	hypothetical protein
+MFKOEFHD_01511	glycerate kinase
+MFKOEFHD_01512	High-affinity gluconate transporter
+MFKOEFHD_01513	hypothetical protein
+MFKOEFHD_01514	spermidine/putrescine-binding periplasmic protein PotD
+MFKOEFHD_01515	spermidine/putrescine transport system permease protein PotC
+MFKOEFHD_01516	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+MFKOEFHD_01517	Spermidine/putrescine import ATP-binding protein PotA
+MFKOEFHD_01518	helix-turn-helix domain-containing protein
+MFKOEFHD_01519	YhdH/YhfP family quinone oxidoreductase
+MFKOEFHD_01520	phosphopantothenate--cysteine ligase
+MFKOEFHD_01521	phosphopantothenoylcysteine decarboxylase
+MFKOEFHD_01522	integral membrane protein
+MFKOEFHD_01523	Aminoacyltransferase FemB
+MFKOEFHD_01524	integral membrane protein
+MFKOEFHD_01525	diacylglycerol kinase catalytic subunit
+MFKOEFHD_01526	RecD/TraA family helicase
+MFKOEFHD_01527	phosphoglycerate mutase family protein
+MFKOEFHD_01528	TrmH family RNA methyltransferase
+MFKOEFHD_01529	methyltransferase domain protein
+MFKOEFHD_01530	copper homeostasis protein CutC
+MFKOEFHD_01531	magnesium transporter
+MFKOEFHD_01532	ribosomal large subunit pseudouridine synthase
+MFKOEFHD_01533	inorganic polyphosphate/ATP-NAD kinase
+MFKOEFHD_01534	GTP diphosphokinase
+MFKOEFHD_01535	adenylate cyclase
+MFKOEFHD_01536	dithiol-disulfide isomerase
+MFKOEFHD_01537	oligoendopeptidase F
+MFKOEFHD_01538	hypothetical protein
+MFKOEFHD_01539	MecA negative regulator of genetic competence
+MFKOEFHD_01540	transcriptional regulator Spx
+MFKOEFHD_01541	Tryptophanyl-tRNA synthetase II
+MFKOEFHD_01542	ABC transporter ATP-binding protein
+MFKOEFHD_01543	HAD superfamily hydrolase
+MFKOEFHD_01544	cell wall surface anchor family protein
+MFKOEFHD_01545	hypothetical protein
+MFKOEFHD_01546	hypothetical protein
+MFKOEFHD_01547	hypothetical protein
+MFKOEFHD_01548	hypothetical protein
+MFKOEFHD_01549	hypothetical protein
+MFKOEFHD_01550	Snf2 family protein
+MFKOEFHD_01551	exonuclease SbcC
+MFKOEFHD_01552	exonuclease SbcD
+MFKOEFHD_01553	acyltransferase
+MFKOEFHD_01554	methyltransferase small domain-containing protein
+MFKOEFHD_01555	GIY-YIG nuclease superfamily protein
+MFKOEFHD_01556	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MFKOEFHD_01557	hypothetical protein
+MFKOEFHD_01558	nudix hydrolase, YffH family
+MFKOEFHD_01559	hypothetical protein
+MFKOEFHD_01560	tellurite resistance protein
+MFKOEFHD_01561	NUDIX family hydrolase
+MFKOEFHD_01562	acetyltransferase, GNAT family
+MFKOEFHD_01563	hypothetical protein
+MFKOEFHD_01564	transcriptional regulator
+MFKOEFHD_01565	A/G-specific adenine glycosylase
+MFKOEFHD_01566	recombination regulator RecX
+MFKOEFHD_01567	23S rRNA (uracil-5-)-methyltransferase
+MFKOEFHD_01568	transglycosylase associated protein
+MFKOEFHD_01569	Evolved beta-galactosidase subunit alpha
+MFKOEFHD_01570	amino acid permease family protein
+MFKOEFHD_01571	AraC-like ligand binding domain protein
+MFKOEFHD_01572	hypothetical protein
+MFKOEFHD_01573	50S ribosomal protein L7/L12
+MFKOEFHD_01574	50S ribosomal protein L10
+MFKOEFHD_01575	50S ribosomal protein L1
+MFKOEFHD_01576	50S ribosomal protein L11
+MFKOEFHD_01577	ABC transporter ATP-binding protein
+MFKOEFHD_01578	L-serine dehydratase, iron-sulfur-dependent subunit beta
+MFKOEFHD_01579	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+MFKOEFHD_01580	D-aminopeptidase
+MFKOEFHD_01581	glutamyl aminopeptidase
+MFKOEFHD_01582	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_01583	hypothetical protein
+MFKOEFHD_01584	hypothetical protein
+MFKOEFHD_01585	transcription termination/antitermination factor NusG
+MFKOEFHD_01586	Preprotein translocase subunit SecE
+MFKOEFHD_01587	50S ribosomal protein L33
+MFKOEFHD_01588	transcriptional regulator
+MFKOEFHD_01589	UDP-N-acetylenolpyruvoylglucosamine reductase
+MFKOEFHD_01590	oxidoreductase family, NAD-binding Rossmann fold protein
+MFKOEFHD_01591	exodeoxyribonuclease III
+MFKOEFHD_01592	exonuclease, DNA polymerase III, epsilon subunit family protein
+MFKOEFHD_01593	hypothetical protein
+MFKOEFHD_01594	Ferredoxin--NADP reductase
+MFKOEFHD_01595	alkyl hydroperoxide reductase subunit C
+MFKOEFHD_01596	O-methyltransferase
+MFKOEFHD_01597	lipoyltransferase and lipoate-protein ligase A
+MFKOEFHD_01598	metallo-beta-lactamase domain-containing protein
+MFKOEFHD_01599	integral membrane protein
+MFKOEFHD_01600	M42 glutamyl aminopeptidase
+MFKOEFHD_01601	D-alanyl-lipoteichoic acid synthetase, DltD
+MFKOEFHD_01602	D-alanine--poly(phosphoribitol) ligase subunit 2
+MFKOEFHD_01603	membrane bound O-acyl transferase
+MFKOEFHD_01604	D-alanine--poly(phosphoribitol) ligase subunit 1
+MFKOEFHD_01605	hypothetical protein
+MFKOEFHD_01606	efflux ABC transporter permease
+MFKOEFHD_01607	ABC transporter ATP-binding protein
+MFKOEFHD_01608	anaerobic ribonucleoside triphosphate reductase
+MFKOEFHD_01609	anaerobic ribonucleoside-triphosphate reductase activating protein
+MFKOEFHD_01610	DNA polymerase IV
+MFKOEFHD_01611	putative iron export permease protein FetB
+MFKOEFHD_01612	ABC transporter ATP-binding protein
+MFKOEFHD_01613	tetrapyrrole methylase family protein
+MFKOEFHD_01614	DNA replication initiation control protein YabA
+MFKOEFHD_01615	stage 0 sporulation family protein
+MFKOEFHD_01616	DNA polymerase III subunit delta'
+MFKOEFHD_01617	putative protein YaaQ
+MFKOEFHD_01618	thymidylate kinase
+MFKOEFHD_01619	recombination protein RecR
+MFKOEFHD_01620	Aminopyrimidine aminohydrolase
+MFKOEFHD_01621	hypothetical protein
+MFKOEFHD_01622	ABC transporter ATP-binding protein
+MFKOEFHD_01623	Putative HMP/thiamine permease protein YkoE
+MFKOEFHD_01624	hypothetical protein
+MFKOEFHD_01625	major facilitator superfamily transporter
+MFKOEFHD_01626	Inner membrane transport protein YdhP
+MFKOEFHD_01627	putative HTH-type transcriptional regulator YtcD
+MFKOEFHD_01628	phosphomethylpyrimidine kinase
+MFKOEFHD_01629	Thiamine-phosphate synthase
+MFKOEFHD_01630	Hydroxyethylthiazole kinase
+MFKOEFHD_01631	hypothetical protein
+MFKOEFHD_01632	Nucleoid-associated protein
+MFKOEFHD_01633	DNA polymerase III subunits gamma and tau
+MFKOEFHD_01634	galactose-1-phosphate uridylyltransferase
+MFKOEFHD_01635	UDP-glucose 4-epimerase
+MFKOEFHD_01636	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_01637	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_01638	PTS system mannose-specific transporter subunit IIAB
+MFKOEFHD_01639	hypothetical protein
+MFKOEFHD_01640	transcriptional antiterminator bglG:Sigma-54 factor
+MFKOEFHD_01641	phosphoglycerate mutase family protein
+MFKOEFHD_01642	amidase
+MFKOEFHD_01643	hypothetical protein
+MFKOEFHD_01644	Macrolide export ATP-binding/permease protein MacB
+MFKOEFHD_01645	ABC transporter ATP-binding protein
+MFKOEFHD_01646	Putative efflux system component YknX
+MFKOEFHD_01647	rhodanese-like domain-containing protein
+MFKOEFHD_01648	coenzyme A disulfide reductase
+MFKOEFHD_01649	rhodanese-like domain protein
+MFKOEFHD_01650	regulator protein FrmR
+MFKOEFHD_01651	putative sulfoacetate transporter SauU
+MFKOEFHD_01652	2-aminoethylphosphonate--pyruvate transaminase
+MFKOEFHD_01653	Purine catabolism regulatory protein
+MFKOEFHD_01654	(S)-ureidoglycine aminohydrolase
+MFKOEFHD_01655	Allantoate amidohydrolase
+MFKOEFHD_01656	Dihydroorotase
+MFKOEFHD_01657	Putative allantoin permease
+MFKOEFHD_01658	GNAT family acetyltransferase
+MFKOEFHD_01659	MarR family transcriptional regulator
+MFKOEFHD_01660	hypothetical protein
+MFKOEFHD_01661	sulfate transporter/STAS domain-containing protein
+MFKOEFHD_01662	choloylglycine hydrolase family protein
+MFKOEFHD_01663	glucose-6-phosphate 1-dehydrogenase
+MFKOEFHD_01664	hypothetical protein
+MFKOEFHD_01665	Purine catabolism regulatory protein
+MFKOEFHD_01666	hypothetical protein
+MFKOEFHD_01667	Protein FdrA
+MFKOEFHD_01668	hypothetical protein
+MFKOEFHD_01669	hypothetical protein
+MFKOEFHD_01670	helix-turn-helix domain-containing protein
+MFKOEFHD_01671	calcium-translocating P-type ATPase, PMCA-type
+MFKOEFHD_01672	transporter, dicarboxylate/amino acid:cation symporter family protein
+MFKOEFHD_01673	hypothetical protein
+MFKOEFHD_01674	tRNA pseudouridine synthase A
+MFKOEFHD_01675	hypothetical protein
+MFKOEFHD_01676	hypothetical protein
+MFKOEFHD_01677	RNA polymerase sigma factor YlaC
+MFKOEFHD_01678	hypothetical protein
+MFKOEFHD_01679	hypothetical protein
+MFKOEFHD_01680	hypothetical protein
+MFKOEFHD_01681	sodium/dicarboxylate symporter family protein
+MFKOEFHD_01682	glucan 1,6-alpha-glucosidase
+MFKOEFHD_01683	hypothetical protein
+MFKOEFHD_01684	extracellular solute-binding protein
+MFKOEFHD_01685	inner membrane component transport system
+MFKOEFHD_01686	ABC transporter ATP-binding protein
+MFKOEFHD_01687	hypothetical protein
+MFKOEFHD_01688	LacI family transcriptional regulator
+MFKOEFHD_01689	ribosomal RNA large subunit methyltransferase H
+MFKOEFHD_01690	Serine protease do-like htrA
+MFKOEFHD_01691	tRNA-binding domain-containing protein
+MFKOEFHD_01692	universal stress family protein
+MFKOEFHD_01693	thioredoxin
+MFKOEFHD_01694	glutamyl aminopeptidase
+MFKOEFHD_01695	small secreted protein
+MFKOEFHD_01696	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_01697	DNA-3-methyladenine glycosylase I
+MFKOEFHD_01698	hypothetical protein
+MFKOEFHD_01699	hypothetical protein
+MFKOEFHD_01700	membrane protein
+MFKOEFHD_01701	hypothetical protein
+MFKOEFHD_01702	hypothetical protein
+MFKOEFHD_01703	sortase family protein
+MFKOEFHD_01704	hypothetical protein
+MFKOEFHD_01705	phosphotyrosine protein phosphatase
+MFKOEFHD_01706	TetR family dihydroxyacetone kinase regulator
+MFKOEFHD_01707	NlpC/P60 family lipoprotein
+MFKOEFHD_01708	rod shape-determining protein MreD
+MFKOEFHD_01709	rod shape-determining protein MreC
+MFKOEFHD_01710	Polyribonucleotide nucleotidyltransferase
+MFKOEFHD_01711	30S ribosomal protein S15
+MFKOEFHD_01712	peptide deformylase
+MFKOEFHD_01713	HAD superfamily hydrolase
+MFKOEFHD_01714	DNA alkylation repair protein
+MFKOEFHD_01715	formate/nitrite transporter
+MFKOEFHD_01716	30S ribosomal protein S4
+MFKOEFHD_01717	BioY family protein
+MFKOEFHD_01718	signal peptidase I
+MFKOEFHD_01719	hypothetical protein
+MFKOEFHD_01720	triphosphoribosyl-dephospho-CoA synthase
+MFKOEFHD_01721	NADP-dependent malic enzyme
+MFKOEFHD_01722	pyruvate carboxylase
+MFKOEFHD_01723	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+MFKOEFHD_01724	Citrate lyase alpha chain
+MFKOEFHD_01725	Citrate lyase subunit beta
+MFKOEFHD_01726	Citrate lyase gamma chain
+MFKOEFHD_01727	[Citrate [pro-3S]-lyase] ligase
+MFKOEFHD_01728	hypothetical protein
+MFKOEFHD_01729	Glutaconyl-CoA decarboxylase subunit beta
+MFKOEFHD_01730	Glutaconyl-CoA decarboxylase subunit gamma
+MFKOEFHD_01731	hypothetical protein
+MFKOEFHD_01732	Citrate transporter
+MFKOEFHD_01733	GntR family transcriptional regulator
+MFKOEFHD_01734	DNA-binding response regulator
+MFKOEFHD_01735	r3H domain protein
+MFKOEFHD_01736	putative stage III sporulation protein J
+MFKOEFHD_01737	Ribonuclease P protein component
+MFKOEFHD_01738	50S ribosomal protein L34
+MFKOEFHD_01739	chromosomal replication initiation protein, DnaA
+MFKOEFHD_01740	DNA polymerase III subunit beta, DnaB
+MFKOEFHD_01741	S4 domain protein, YaaA
+MFKOEFHD_01742	recombination protein F, RecF
+MFKOEFHD_01743	DNA gyrase subunit B, GyrB
+MFKOEFHD_01744	DNA gyrase, A subunit, GyrA
+MFKOEFHD_01745	30S ribosomal protein S6
+MFKOEFHD_01746	single-strand binding protein
+MFKOEFHD_01747	30S ribosomal protein S18
+MFKOEFHD_01748	DHH family protein
+MFKOEFHD_01749	50S ribosomal protein L9
+MFKOEFHD_01750	replicative DNA helicase
+MFKOEFHD_01751	adenylosuccinate synthetase
+MFKOEFHD_01752	DegV family protein
+MFKOEFHD_01753	ABC transporter ATP-binding protein
+MFKOEFHD_01754	transcriptional antiterminator bglG:Sigma-54 factor
+MFKOEFHD_01755	PTS system, mannose/fructose/sorbose-specific IIB component
+MFKOEFHD_01756	PTS system, mannose/fructose/sorbose-specific IIAB component
+MFKOEFHD_01757	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_01758	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_01759	hypothetical protein
+MFKOEFHD_01760	acid-resistance membrane protein
+MFKOEFHD_01761	hypothetical protein
+MFKOEFHD_01762	phosphosugar isomerase transcriptional regulator
+MFKOEFHD_01763	PTS system, N-acetylglucosamine-specific IICBA component
+MFKOEFHD_01764	class II aminotransferase
+MFKOEFHD_01765	2-iminobutanoate/2-iminopropanoate deaminase
+MFKOEFHD_01766	hypothetical protein
+MFKOEFHD_01767	PTS system transporter subunit IIC
+MFKOEFHD_01768	SIS domain-containing protein
+MFKOEFHD_01769	alpha-galactosidase
+MFKOEFHD_01770	ysyl-tRNA synthetase
+MFKOEFHD_01771	hypothetical protein
+MFKOEFHD_01772	Bacterial membrane protein YfhO
+MFKOEFHD_01773	hypothetical protein
+MFKOEFHD_01774	hypothetical protein
+MFKOEFHD_01775	hypothetical protein
+MFKOEFHD_01776	Gamma-glutamyl phosphate reductase
+MFKOEFHD_01777	glutamate 5-kinase
+MFKOEFHD_01778	deoxyuridine 5'-triphosphate nucleotidohydrolase
+MFKOEFHD_01779	DNA repair protein RadA
+MFKOEFHD_01780	Integral membrane protein
+MFKOEFHD_01781	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+MFKOEFHD_01782	glutamyl-tRNA synthetase
+MFKOEFHD_01783	Serine O-acetyltransferase
+MFKOEFHD_01784	cysteinyl-tRNA synthetase
+MFKOEFHD_01785	ribonuclease III
+MFKOEFHD_01786	trmH family tRNA/rRNA methyltransferase
+MFKOEFHD_01787	putative RNA-binding protein containing a PIN domain protein
+MFKOEFHD_01788	RNA polymerase sigma-70 factor family protein
+MFKOEFHD_01789	veg family protein
+MFKOEFHD_01790	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MFKOEFHD_01791	periplasmic solute binding family protein
+MFKOEFHD_01792	ABC transporter ATP-binding protein
+MFKOEFHD_01793	ABC transporter permease
+MFKOEFHD_01794	pur operon repressor
+MFKOEFHD_01795	bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase
+MFKOEFHD_01796	Trifunctional nucleotide phosphoesterase protein YfkN
+MFKOEFHD_01797	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_01798	hypothetical protein
+MFKOEFHD_01799	F420-dependent glucose-6-phosphate dehydrogenase
+MFKOEFHD_01800	Holliday junction DNA helicase RuvA
+MFKOEFHD_01801	Holliday junction DNA helicase RuvB
+MFKOEFHD_01802	N-acetylmannosamine-6-phosphate 2-epimerase
+MFKOEFHD_01803	Glucosidase YgjK
+MFKOEFHD_01804	hypothetical protein
+MFKOEFHD_01805	CarD family transcriptional regulator
+MFKOEFHD_01806	short chain dehydrogenase/reductase family oxidoreductase
+MFKOEFHD_01807	hypothetical protein
+MFKOEFHD_01808	small integral membrane protein
+MFKOEFHD_01809	alkaline shock protein 23 family protein
+MFKOEFHD_01810	alkaline shock protein 23 family protein
+MFKOEFHD_01811	transglycosylase associated protein
+MFKOEFHD_01812	transporter, major facilitator family protein
+MFKOEFHD_01813	hypothetical protein
+MFKOEFHD_01814	hypothetical protein
+MFKOEFHD_01815	hypothetical protein
+MFKOEFHD_01816	hypothetical protein
+MFKOEFHD_01817	diacylglycerol kinase catalytic subunit
+MFKOEFHD_01818	M protein trans-acting positive regulator
+MFKOEFHD_01819	hypothetical protein
+MFKOEFHD_01820	hypothetical protein
+MFKOEFHD_01821	putative formate transporter 1
+MFKOEFHD_01822	hypothetical protein
+MFKOEFHD_01823	hypothetical protein
+MFKOEFHD_01824	hypothetical protein
+MFKOEFHD_01825	L-serine dehydratase, iron-sulfur-dependent subunit beta
+MFKOEFHD_01826	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+MFKOEFHD_01827	seryl-tRNA synthetase
+MFKOEFHD_01828	Monoacylglycerol lipase
+MFKOEFHD_01829	arginine repressor protein
+MFKOEFHD_01830	arginine repressor protein
+MFKOEFHD_01831	arginine deiminase
+MFKOEFHD_01832	ornithine carbamoyltransferase
+MFKOEFHD_01833	Carbamate kinase
+MFKOEFHD_01834	cyclic nucleotide-binding domain-containing protein
+MFKOEFHD_01835	C4-dicarboxylate anaerobic carrier
+MFKOEFHD_01836	DJ-1/PfpI family protein
+MFKOEFHD_01837	hypothetical protein
+MFKOEFHD_01838	zinc-binding alcohol dehydrogenase family protein
+MFKOEFHD_01839	hypothetical protein
+MFKOEFHD_01840	Putative aminoacrylate peracid reductase RutC
+MFKOEFHD_01841	hypothetical protein
+MFKOEFHD_01842	GntR family transcriptional regulator
+MFKOEFHD_01843	ornithine cyclodeaminase/mu-crystallin family protein
+MFKOEFHD_01844	phenazine biosynthesis protein PhzF family protein
+MFKOEFHD_01845	hypothetical protein
+MFKOEFHD_01846	GMP synthase
+MFKOEFHD_01847	pantothenate kinase
+MFKOEFHD_01848	hypothetical protein
+MFKOEFHD_01849	16S rRNA small subunit methyltransferase C
+MFKOEFHD_01850	Adenosine deaminase
+MFKOEFHD_01851	LacI family transcriptional regulator
+MFKOEFHD_01852	pyrimidine-nucleoside phosphorylase
+MFKOEFHD_01853	deoxyribose-phosphate aldolase
+MFKOEFHD_01854	cytidine deaminase
+MFKOEFHD_01855	Basic membrane lipopprotein
+MFKOEFHD_01856	Basic membrane lipopprotein
+MFKOEFHD_01857	ABC transporter ATP-binding protein
+MFKOEFHD_01858	ABC transporter permease
+MFKOEFHD_01859	ABC transporter permease
+MFKOEFHD_01860	integral membrane protein
+MFKOEFHD_01861	phosphopentomutase
+MFKOEFHD_01862	purine nucleoside phosphorylase
+MFKOEFHD_01863	purine nucleoside phosphorylase
+MFKOEFHD_01864	periplasmic binding protein
+MFKOEFHD_01865	ferrichrome transport ATP-binding protein FhuC
+MFKOEFHD_01866	ferrichrome transport system permease FhuB
+MFKOEFHD_01867	ferrichrome transport system permease FhuG
+MFKOEFHD_01868	aldehyde-alcohol dehydrogenase
+MFKOEFHD_01869	phosphoglycerate mutase
+MFKOEFHD_01870	resolvase family site-specific recombinase
+MFKOEFHD_01871	ribose 5-phosphate isomerase A
+MFKOEFHD_01872	30S ribosomal protein S12
+MFKOEFHD_01873	30S ribosomal protein S7
+MFKOEFHD_01874	translation elongation factor G
+MFKOEFHD_01875	elongation factor Tu
+MFKOEFHD_01876	phosphomethylpyrimidine kinase
+MFKOEFHD_01877	cyclopropane-fatty-acyl-phospholipid synthase
+MFKOEFHD_01878	30S ribosomal protein S10
+MFKOEFHD_01879	50S ribosomal protein L3
+MFKOEFHD_01880	50S ribosomal protein L4
+MFKOEFHD_01881	50S ribosomal protein L23
+MFKOEFHD_01882	50S ribosomal protein L2
+MFKOEFHD_01883	30S ribosomal protein S19
+MFKOEFHD_01884	50S ribosomal protein L22
+MFKOEFHD_01885	30S ribosomal protein S3
+MFKOEFHD_01886	50S ribosomal protein L16
+MFKOEFHD_01887	50S ribosomal protein L29
+MFKOEFHD_01888	30S ribosomal protein S17
+MFKOEFHD_01889	50S ribosomal protein L14
+MFKOEFHD_01890	50S ribosomal protein L24
+MFKOEFHD_01891	50S ribosomal protein L5
+MFKOEFHD_01892	30S ribosomal protein S14
+MFKOEFHD_01893	30S ribosomal protein S8
+MFKOEFHD_01894	50S ribosomal protein L6
+MFKOEFHD_01895	50S ribosomal protein L18
+MFKOEFHD_01896	30S ribosomal protein S5
+MFKOEFHD_01897	50S ribosomal protein L30
+MFKOEFHD_01898	50S ribosomal protein L15
+MFKOEFHD_01899	preprotein translocase subunit SecY
+MFKOEFHD_01900	adenylate kinase
+MFKOEFHD_01901	translation initiation factor IF-1
+MFKOEFHD_01902	50S ribosomal protein L36
+MFKOEFHD_01903	30S ribosomal protein S13
+MFKOEFHD_01904	30S ribosomal protein S11
+MFKOEFHD_01905	DNA-directed RNA polymerase subunit alpha
+MFKOEFHD_01906	50S ribosomal protein L17
+MFKOEFHD_01907	hypothetical protein
+MFKOEFHD_01908	peptidase M20D
+MFKOEFHD_01909	cobalt import ATP-binding protein CbiO
+MFKOEFHD_01910	cobalt import ATP-binding protein CbiO 2
+MFKOEFHD_01911	cobalt transport family protein
+MFKOEFHD_01912	tRNA pseudouridine synthase A
+MFKOEFHD_01913	hypothetical protein
+MFKOEFHD_01914	branched-chain amino acid transport system II carrier protein
+MFKOEFHD_01915	Spermidine N(1)-acetyltransferase
+MFKOEFHD_01916	putative lysine decarboxylase
+MFKOEFHD_01917	amino acid ABC transporter ATP-binding protein
+MFKOEFHD_01918	amino acid ABC transporter permease
+MFKOEFHD_01919	hypothetical protein
+MFKOEFHD_01920	NAD-dependent deacetylase
+MFKOEFHD_01921	maltose O-acetyltransferase
+MFKOEFHD_01922	transcriptional regulator
+MFKOEFHD_01923	hypothetical protein
+MFKOEFHD_01924	methylmalonate-semialdehyde dehydrogenase
+MFKOEFHD_01925	L-lactate dehydrogenase
+MFKOEFHD_01926	Peptidyl-tRNA hydrolase
+MFKOEFHD_01927	transcription-repair coupling factor
+MFKOEFHD_01928	polysaccharide biosynthesis family protein
+MFKOEFHD_01929	S4 RNA-binding domain-containing protein
+MFKOEFHD_01930	septum formation initiator
+MFKOEFHD_01931	S1 RNA binding domain-containing protein
+MFKOEFHD_01932	tRNA(Ile)-lysidine synthase
+MFKOEFHD_01933	Hypoxanthine-guanine phosphoribosyltransferase
+MFKOEFHD_01934	ATP-dependent metalloprotease
+MFKOEFHD_01935	chaperonin HslO
+MFKOEFHD_01936	tRNA-dihydrouridine synthase
+MFKOEFHD_01937	lysyl-tRNA synthetase
+MFKOEFHD_01938	2-dehydro-3-deoxy-phosphogluconate aldolase
+MFKOEFHD_01939	2-dehydro-3-deoxygluconokinase
+MFKOEFHD_01940	DNA gyrase subunit B, GyrB
+MFKOEFHD_01941	YaiI/YqxD family protein
+MFKOEFHD_01942	D-alanine--D-alanine ligase
+MFKOEFHD_01943	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+MFKOEFHD_01944	DEAD/DEAH box helicase
+MFKOEFHD_01945	holo-[acyl-carrier-protein] synthase
+MFKOEFHD_01946	alanine racemase
+MFKOEFHD_01947	toxin-antitoxin system, toxin component, MazF family
+MFKOEFHD_01948	hypothetical protein
+MFKOEFHD_01949	hypothetical protein
+MFKOEFHD_01950	hypothetical protein
+MFKOEFHD_01951	Signal peptidase IB
+MFKOEFHD_01952	helix-turn-helix domain-containing protein
+MFKOEFHD_01953	Tyrosine-protein phosphatase
+MFKOEFHD_01954	hypothetical protein
+MFKOEFHD_01955	phage infection protein
+MFKOEFHD_01956	cation diffusion facilitator family transporter
+MFKOEFHD_01957	amino acid permease
+MFKOEFHD_01958	GNAT family acetyltransferase
+MFKOEFHD_01959	ABC transporter permease
+MFKOEFHD_01960	glycine betaine/carnitine/choline ABC transporter
+MFKOEFHD_01961	glycine betaine/carnitine/choline ABC transporter permease
+MFKOEFHD_01962	glycine betaine/carnitine/choline transporter ATP-binding protein
+MFKOEFHD_01963	glyoxalase family protein
+MFKOEFHD_01964	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+MFKOEFHD_01965	hypothetical protein
+MFKOEFHD_01966	calcium-translocating P-type ATPase
+MFKOEFHD_01967	K+ uptake transporter
+MFKOEFHD_01968	hypothetical protein
+MFKOEFHD_01969	copper-translocating P-type ATPase
+MFKOEFHD_01970	hypothetical protein
+MFKOEFHD_01971	oxidoreductase, aldo/keto reductase family protein
+MFKOEFHD_01972	DNA polymerase I
+MFKOEFHD_01973	Formamidopyrimidine-DNA glycosylase
+MFKOEFHD_01974	Dephospho-CoA kinase
+MFKOEFHD_01975	transcriptional repressor NrdR
+MFKOEFHD_01976	replication initiation and membrane attachment protein
+MFKOEFHD_01977	primosomal protein DnaI
+MFKOEFHD_01978	hypothetical protein
+MFKOEFHD_01979	hypothetical protein
+MFKOEFHD_01980	hypothetical protein
+MFKOEFHD_01981	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MFKOEFHD_01982	hypothetical protein
+MFKOEFHD_01983	hypothetical protein
+MFKOEFHD_01984	hypothetical protein
+MFKOEFHD_01985	aspartate aminotransferase
+MFKOEFHD_01986	amino acid ABC transporter ATP-binding protein
+MFKOEFHD_01987	amino acid ABC transporter permease
+MFKOEFHD_01988	Hydroxycarboxylate dehydrogenase A
+MFKOEFHD_01989	queuine tRNA-ribosyltransferase
+MFKOEFHD_01990	hypothetical protein
+MFKOEFHD_01991	hypothetical protein
+MFKOEFHD_01992	aldehyde-alcohol dehydrogenase
+MFKOEFHD_01993	isopentenyl-diphosphate delta-isomerase
+MFKOEFHD_01994	phosphomevalonate kinase
+MFKOEFHD_01995	diphosphomevalonate decarboxylase
+MFKOEFHD_01996	mevalonate kinase
+MFKOEFHD_01997	pentapeptide repeat-containing protein
+MFKOEFHD_01998	hypothetical protein
+MFKOEFHD_01999	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_02000	hypothetical protein
+MFKOEFHD_02001	oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein
+MFKOEFHD_02002	oligopeptide ABC transporter, permease protein OppC family protein
+MFKOEFHD_02003	ABC transporter ATP-binding protein
+MFKOEFHD_02004	ABC transporter ATP-binding protein
+MFKOEFHD_02005	transposase
+MFKOEFHD_02006	translation initiation factor IF-3
+MFKOEFHD_02007	50S ribosomal protein L35
+MFKOEFHD_02008	50S ribosomal protein L20
+MFKOEFHD_02009	hypothetical protein
+MFKOEFHD_02010	membrane protein
+MFKOEFHD_02011	putative N-acetyltransferase YjaB
+MFKOEFHD_02012	hypothetical protein
+MFKOEFHD_02013	sulfate transporter/STAS domain-containing protein
+MFKOEFHD_02014	membrane protein
+MFKOEFHD_02015	LysR family transcriptional regulator
+MFKOEFHD_02016	hypothetical protein
+MFKOEFHD_02017	hypothetical protein
+MFKOEFHD_02018	DNA-binding response regulator
+MFKOEFHD_02019	sensor histidine kinase
+MFKOEFHD_02020	glucose uptake protein
+MFKOEFHD_02021	amino acid permease
+MFKOEFHD_02022	methionyl-tRNA synthetase
+MFKOEFHD_02023	hypothetical protein
+MFKOEFHD_02024	hypothetical protein
+MFKOEFHD_02025	ATP-dependent DNA helicase IV
+MFKOEFHD_02026	TatD family hydrolase
+MFKOEFHD_02027	ribonuclease M5
+MFKOEFHD_02028	ribosomal RNA small subunit methyltransferase A
+MFKOEFHD_02029	Niacin transporter NiaX
+MFKOEFHD_02030	ABC transporter ATP-binding protein
+MFKOEFHD_02031	methylglyoxal synthase
+MFKOEFHD_02032	membrane protein
+MFKOEFHD_02033	ABC transporter ATP-binding protein/permease
+MFKOEFHD_02034	ABC transporter ATP-binding protein/permease
+MFKOEFHD_02035	hypothetical protein
+MFKOEFHD_02036	hypothetical protein
+MFKOEFHD_02037	GNAT family acetyltransferase
+MFKOEFHD_02038	hypothetical protein
+MFKOEFHD_02039	HAD superfamily hydrolase
+MFKOEFHD_02040	uracil-DNA glycosylase
+MFKOEFHD_02041	phosphate acetyltransferase
+MFKOEFHD_02042	ATPase
+MFKOEFHD_02043	GNAT family acetyltransferase
+MFKOEFHD_02044	hypothetical protein
+MFKOEFHD_02045	LacI family sugar-binding transcriptional regulator
+MFKOEFHD_02046	aldose 1-epimerase
+MFKOEFHD_02047	beta-phosphoglucomutase
+MFKOEFHD_02048	glycoside hydrolase, family 65
+MFKOEFHD_02049	PTS system glucose-specific transporter subunit IIABC
+MFKOEFHD_02050	endonuclease/exonuclease/phosphatase family protein
+MFKOEFHD_02051	delta 1-pyrroline-5-carboxylate reductase
+MFKOEFHD_02052	HTH-type transcriptional activator RhaS
+MFKOEFHD_02053	hypothetical protein
+MFKOEFHD_02054	MazG nucleotide pyrophosphohydrolase
+MFKOEFHD_02055	putative peptide export permease protein YydJ
+MFKOEFHD_02056	putative peptide export permease protein YydJ
+MFKOEFHD_02057	ABC transporter ATP-binding protein
+MFKOEFHD_02058	hypothetical protein
+MFKOEFHD_02059	hypothetical protein
+MFKOEFHD_02060	tRNA-Arg
+MFKOEFHD_02061	50S ribosomal protein L21
+MFKOEFHD_02062	putative ribosomal protein
+MFKOEFHD_02063	50S ribosomal protein L27
+MFKOEFHD_02064	hypothetical protein
+MFKOEFHD_02065	hypothetical protein
+MFKOEFHD_02066	hypothetical protein
+MFKOEFHD_02067	hypothetical protein
+MFKOEFHD_02068	ABC transporter ATP-binding protein
+MFKOEFHD_02069	hypothetical protein
+MFKOEFHD_02070	hypothetical protein
+MFKOEFHD_02071	hypothetical protein
+MFKOEFHD_02072	hypothetical protein
+MFKOEFHD_02073	hypothetical protein
+MFKOEFHD_02074	hypothetical protein
+MFKOEFHD_02075	hypothetical protein
+MFKOEFHD_02076	hypothetical protein
+MFKOEFHD_02077	hypothetical protein
+MFKOEFHD_02078	hypothetical protein
+MFKOEFHD_02079	hypothetical protein
+MFKOEFHD_02080	hypothetical protein
+MFKOEFHD_02081	hypothetical protein
+MFKOEFHD_02082	Accessory gene regulator protein B
+MFKOEFHD_02083	hypothetical protein
+MFKOEFHD_02084	sensor histidine kinase
+MFKOEFHD_02085	response regulator receiver domain-containing protein
+MFKOEFHD_02086	Protein PsiE
+MFKOEFHD_02087	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+MFKOEFHD_02088	Xaa-Pro dipeptidase
+MFKOEFHD_02089	hypothetical protein
+MFKOEFHD_02090	alkaline-shock protein
+MFKOEFHD_02091	transcription antitermination factor NusB
+MFKOEFHD_02092	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+MFKOEFHD_02093	exodeoxyribonuclease VII large subunit
+MFKOEFHD_02094	exodeoxyribonuclease VII small subunit
+MFKOEFHD_02095	geranyltranstransferase
+MFKOEFHD_02096	hemolysin A
+MFKOEFHD_02097	arginine repressor protein
+MFKOEFHD_02098	DNA repair protein RecN
+MFKOEFHD_02099	hypothetical protein
+MFKOEFHD_02100	CorA-like Mg2+ transporter protein
+MFKOEFHD_02101	hypothetical protein
+MFKOEFHD_02102	cell division protein MraZ
+MFKOEFHD_02103	S-adenosyl-methyltransferase MraW
+MFKOEFHD_02104	cell division protein FtsL
+MFKOEFHD_02105	peptidoglycan glycosyltransferase
+MFKOEFHD_02106	phospho-N-acetylmuramoyl-pentapeptide- transferase
+MFKOEFHD_02107	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MFKOEFHD_02108	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+MFKOEFHD_02109	cell division protein FtsQ
+MFKOEFHD_02110	cell division protein FtsA
+MFKOEFHD_02111	cell division protein FtsZ
+MFKOEFHD_02112	alanine racemase
+MFKOEFHD_02113	Cell division protein SepF
+MFKOEFHD_02114	hypothetical protein
+MFKOEFHD_02115	S4 domain-containing protein
+MFKOEFHD_02116	cell division protein DivIVA
+MFKOEFHD_02117	isoleucyl-tRNA synthetase
+MFKOEFHD_02118	glucose-6-phosphate 1-dehydrogenase
+MFKOEFHD_02119	iron dependent repressor, DNA binding domain protein
+MFKOEFHD_02120	hypothetical protein
+MFKOEFHD_02121	sugar fermentation stimulation protein
+MFKOEFHD_02122	oxidoreductase family, NAD-binding Rossmann fold protein
+MFKOEFHD_02123	DEAD/DEAH box helicase
+MFKOEFHD_02124	transcriptional antiterminator bglG:Sigma-54 factor
+MFKOEFHD_02125	PTS system cellobiose-specific transporter subunit IIB
+MFKOEFHD_02126	PTS system lactose/cellobiose-specific transporter subunit IIC
+MFKOEFHD_02127	hypothetical protein
+MFKOEFHD_02128	hypothetical protein
+MFKOEFHD_02129	hypothetical protein
+MFKOEFHD_02130	PTS system cellobiose-specific transporter subunit IIB
+MFKOEFHD_02131	PTS system, lactose/cellobiose-specific IIA component
+MFKOEFHD_02132	PTS system lactose/cellobiose-specific transporter subunit IIC
+MFKOEFHD_02133	6-phospho-beta-glucosidase
+MFKOEFHD_02134	acetyltransferase
+MFKOEFHD_02135	hypothetical protein
+MFKOEFHD_02136	tRNA-Arg
+MFKOEFHD_02137	antibiotic biosynthesis monooxygenase
+MFKOEFHD_02138	Pyruvate, phosphate dikinase
+MFKOEFHD_02139	Transcriptional repressor CcpN
+MFKOEFHD_02140	Putative phosphotransferase
+MFKOEFHD_02141	ysyl-tRNA synthetase
+MFKOEFHD_02142	alpha/beta hydrolase
+MFKOEFHD_02143	hypothetical protein
+MFKOEFHD_02144	hypothetical protein
+MFKOEFHD_02145	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MFKOEFHD_02146	excinuclease ABC subunit A
+MFKOEFHD_02147	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MFKOEFHD_02148	hypothetical protein
+MFKOEFHD_02149	hypothetical protein
+MFKOEFHD_02150	nucleoside diphosphate kinase
+MFKOEFHD_02151	Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+MFKOEFHD_02152	hypothetical protein
+MFKOEFHD_02153	HAD superfamily hydrolase
+MFKOEFHD_02154	hypothetical protein
+MFKOEFHD_02155	xanthine/uracil/vitamin C permease
+MFKOEFHD_02156	transporter, major facilitator family protein
+MFKOEFHD_02157	hypothetical protein
+MFKOEFHD_02158	DNA polymerase III subunit alpha
+MFKOEFHD_02159	6-phosphofructokinase
+MFKOEFHD_02160	Pyruvate kinase
+MFKOEFHD_02161	nucleic acid-binding protein
+MFKOEFHD_02162	50S ribosomal protein L32
+MFKOEFHD_02163	6-phosphogluconate dehydrogenase
+MFKOEFHD_02164	DNA-binding response regulator
+MFKOEFHD_02165	sensor histidine kinase
+MFKOEFHD_02166	tRNA-Pro
+MFKOEFHD_02167	RpiR family transcriptional regulator
+MFKOEFHD_02168	PTS system, lactose/cellobiose IIC component
+MFKOEFHD_02169	cystathionine gamma-synthase
+MFKOEFHD_02170	firmicute transcriptional repressor of class III stress
+MFKOEFHD_02171	negative regulator of genetic competence ClpC/MecB
+MFKOEFHD_02172	hypothetical protein
+MFKOEFHD_02173	peptidase, U32 family
+MFKOEFHD_02174	peptidase, U32 family
+MFKOEFHD_02175	hypothetical protein
+MFKOEFHD_02176	Cytosine permease
+MFKOEFHD_02177	hypothetical protein
+MFKOEFHD_02178	hydantoinase/oxoprolinase
+MFKOEFHD_02179	hypothetical protein
+MFKOEFHD_02180	Glutathione reductase
+MFKOEFHD_02181	Dihydroneopterin aldolase
+MFKOEFHD_02182	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+MFKOEFHD_02183	GTP cyclohydrolase 1
+MFKOEFHD_02184	Ribonuclease PH/Ham1 protein
+MFKOEFHD_02185	Dihydropteroate synthase
+MFKOEFHD_02186	polyprenyl synthetase
+MFKOEFHD_02187	Heptaprenyl diphosphate synthase component I
+MFKOEFHD_02188	CobW/P47K family protein
+MFKOEFHD_02189	pyridine nucleotide-disulfide family oxidoreductase
+MFKOEFHD_02190	FMN-binding domain-containing protein
+MFKOEFHD_02191	ApbE family protein
+MFKOEFHD_02192	prenyltransferase, UbiA family
+MFKOEFHD_02193	hypothetical protein
+MFKOEFHD_02194	hypothetical protein
+MFKOEFHD_02195	hypothetical protein
+MFKOEFHD_02196	hypothetical protein
+MFKOEFHD_02197	hypothetical protein
+MFKOEFHD_02198	Transcriptional regulator LytR
+MFKOEFHD_02199	hypothetical protein
+MFKOEFHD_02200	hypothetical protein
+MFKOEFHD_02201	biotin-[acetyl-CoA-carboxylase] ligase
+MFKOEFHD_02202	hypothetical protein
+MFKOEFHD_02203	AbrB family transcriptional regulator
+MFKOEFHD_02204	toxin-antitoxin system, toxin component, MazF family
+MFKOEFHD_02205	DNA-directed RNA polymerase subunit beta
+MFKOEFHD_02206	DNA-directed RNA polymerase subunit beta'
+MFKOEFHD_02207	bacterial Peptidase A24 protein
+MFKOEFHD_02208	gluconate kinase
+MFKOEFHD_02209	hypothetical protein
+MFKOEFHD_02210	DNA protection during starvation protein 1
+MFKOEFHD_02211	50S ribosomal protein L13
+MFKOEFHD_02212	30S ribosomal protein S9
+MFKOEFHD_02213	site-specific tyrosine recombinase XerC-family protein
+MFKOEFHD_02214	Tyrosine recombinase XerD
+MFKOEFHD_02215	hypothetical protein
+MFKOEFHD_02216	hypothetical protein
+MFKOEFHD_02217	resolvase family site-specific recombinase
+MFKOEFHD_02218	hypothetical protein
+MFKOEFHD_02219	hypothetical protein
+MFKOEFHD_02220	hypothetical protein
+MFKOEFHD_02221	hypothetical protein
+MFKOEFHD_02222	Endoribonuclease ToxN
+MFKOEFHD_02223	hypothetical protein
+MFKOEFHD_02224	hypothetical protein
+MFKOEFHD_02225	hypothetical protein
+MFKOEFHD_02226	hypothetical protein
+MFKOEFHD_02227	site-specific tyrosine recombinase XerC-family protein
+MFKOEFHD_02228	hypothetical protein
+MFKOEFHD_02229	Replication protein RepB
+MFKOEFHD_02230	hypothetical protein
+MFKOEFHD_02231	FtsK/SpoIIIE family protein
+MFKOEFHD_02232	hypothetical protein
+MFKOEFHD_02233	hypothetical protein
+MFKOEFHD_02234	hypothetical protein
+MFKOEFHD_02235	hypothetical protein
+MFKOEFHD_02236	hypothetical protein
+MFKOEFHD_02237	hypothetical protein
+MFKOEFHD_02238	hypothetical protein
+MFKOEFHD_02239	hypothetical protein
+MFKOEFHD_02240	hypothetical protein
+MFKOEFHD_02241	hypothetical protein
+MFKOEFHD_02242	CTP pyrophosphohydrolase
+MFKOEFHD_02243	ATP-dependent RNA helicase SrmB
+MFKOEFHD_02244	PRD domain-containing protein
+MFKOEFHD_02245	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_02246	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_02247	PTS system, mannose/fructose/sorbose-specific IIB component
+MFKOEFHD_02248	PTS system, mannose/fructose/sorbose-specific IIA component
+MFKOEFHD_02249	ABC transporter, ATP-binding protein
+MFKOEFHD_02250	ABC transporter permease
+MFKOEFHD_02251	tRNA-dihydrouridine synthase
+MFKOEFHD_02252	periplasmic solute binding family protein
+MFKOEFHD_02253	hypothetical protein
+MFKOEFHD_02254	cobalamin synthesis protein
+MFKOEFHD_02255	50S ribosomal protein L33
+MFKOEFHD_02256	30S ribosomal protein S14
+MFKOEFHD_02257	hypothetical protein
+MFKOEFHD_02258	ABC transporter ATP-binding protein
+MFKOEFHD_02259	ABC transporter permease
+MFKOEFHD_02260	putative D-methionine-binding lipoprotein MetQ
+MFKOEFHD_02261	Sensor histidine kinase YpdA
+MFKOEFHD_02262	Sensory transduction protein LytR
+MFKOEFHD_02263	Antiholin-like protein LrgA
+MFKOEFHD_02264	LrgB family protein
+MFKOEFHD_02265	isochorismatase family protein
+MFKOEFHD_02266	esterase
+MFKOEFHD_02267	hypothetical protein
+MFKOEFHD_02268	hypothetical protein
+MFKOEFHD_02269	hypothetical protein
+MFKOEFHD_02270	hypothetical protein
+MFKOEFHD_02271	hypothetical protein
+MFKOEFHD_02272	cell wall surface anchor family protein
+MFKOEFHD_02273	hypothetical protein
+MFKOEFHD_02274	M protein trans-acting positive regulator
+MFKOEFHD_02275	ECF subfamily RNA polymerase sigma-70 region 2
+MFKOEFHD_02276	Anti-sigma-V factor RsiV
+MFKOEFHD_02277	succinyl-diaminopimelate desuccinylase
+MFKOEFHD_02278	hypothetical protein
+MFKOEFHD_02279	Inner membrane protein YccF
+MFKOEFHD_02280	Rrf2 family protein
+MFKOEFHD_02281	NADH-flavin reductase
+MFKOEFHD_02282	hypothetical protein
+MFKOEFHD_02283	competence/damage-inducible protein CinA protein
+MFKOEFHD_02284	DNA recombination protein RecA
+MFKOEFHD_02285	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+MFKOEFHD_02286	calcineurin-like phosphoesterase
+MFKOEFHD_02287	putative protein YmcA
+MFKOEFHD_02288	DNA mismatch repair protein MutS
+MFKOEFHD_02289	DNA mismatch repair protein
+MFKOEFHD_02290	maf protein
+MFKOEFHD_02291	peptide methionine sulfoxide reductase MsrB
+MFKOEFHD_02292	Ribose-phosphate pyrophosphokinase 1
+MFKOEFHD_02293	hypothetical protein
+MFKOEFHD_02294	beta-phosphoglucomutase
+MFKOEFHD_02295	glycosyl hydrolase family protein
+MFKOEFHD_02296	GntR family transcriptional regulator
+MFKOEFHD_02297	hypothetical protein
+MFKOEFHD_02298	hypothetical protein
+MFKOEFHD_02299	large conductance mechanosensitive channel protein
+MFKOEFHD_02300	Peptidase M16 inactive domain protein
+MFKOEFHD_02301	peptidase M16 inactive domain protein
+MFKOEFHD_02302	hypothetical protein
+MFKOEFHD_02303	hypothetical protein
+MFKOEFHD_02304	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+MFKOEFHD_02305	hypothetical protein
+MFKOEFHD_02306	ABC transporter ATP-binding protein/permease
+MFKOEFHD_02307	phosphosugar isomerase transcriptional regulator
+MFKOEFHD_02308	6-phosphogluconate dehydrogenase
+MFKOEFHD_02309	4-phosphoerythronate dehydrogenase
+MFKOEFHD_02310	Hydroxycarboxylate dehydrogenase A
+MFKOEFHD_02311	PTS system, mannose/fructose/sorbose-specific IIC component
+MFKOEFHD_02312	PTS system, mannose/fructose/sorbose-specific IID component
+MFKOEFHD_02313	PTS system, mannose/fructose/sorbose-specific IIB component
+MFKOEFHD_02314	PTS system, mannose/fructose/sorbose-specific IIA component
+MFKOEFHD_02315	D-mannonate dehydratase, UxuA_1
+MFKOEFHD_02316	Putative KHG/KDPG aldolase
+MFKOEFHD_02317	hypothetical protein
+MFKOEFHD_02318	hypothetical protein
+MFKOEFHD_02319	hypothetical protein
+MFKOEFHD_02320	hypothetical protein
+MFKOEFHD_02321	hypothetical protein
+MFKOEFHD_02322	guanylate kinase
+MFKOEFHD_02323	DNA-directed RNA polymerase subunit omega
+MFKOEFHD_02324	Primosomal protein N'
+MFKOEFHD_02325	Peptide deformylase
+MFKOEFHD_02326	Methionyl-tRNA formyltransferase
+MFKOEFHD_02327	Ribosomal RNA small subunit methyltransferase B
+MFKOEFHD_02328	serine/threonine phosphatase
+MFKOEFHD_02329	serine/threonine-protein kinase
+MFKOEFHD_02330	Putative ribosome biogenesis GTPase RsgA
+MFKOEFHD_02331	Ribulose-phosphate 3-epimerase
+MFKOEFHD_02332	thiamin pyrophosphokinase family protein
+MFKOEFHD_02333	50S ribosomal protein L28
+MFKOEFHD_02334	alkaline-shock protein
+MFKOEFHD_02335	DAK2 domain fusion protein YloV
+MFKOEFHD_02336	ATP-dependent DNA helicase RecG
+MFKOEFHD_02337	fatty acid/phospholipid synthesis protein PlsX
+MFKOEFHD_02338	acyl carrier protein
+MFKOEFHD_02339	peptide ABC transporter ATP-binding protein
+MFKOEFHD_02340	peptide ABC transporter ATP-binding protein
+MFKOEFHD_02341	ABC transporter permease
+MFKOEFHD_02342	ABC transporter permease
+MFKOEFHD_02343	family 5 extracellular solute-binding protein
+MFKOEFHD_02344	ribonuclease III
+MFKOEFHD_02345	chromosome partition protein SMC
+MFKOEFHD_02346	HAD superfamily hydrolase
+MFKOEFHD_02347	Signal recognition particle receptor FtsY
+MFKOEFHD_02348	hypothetical protein
+MFKOEFHD_02349	glyoxalase family protein
+MFKOEFHD_02350	integral membrane protein
+MFKOEFHD_02351	isochorismatase family hydrolase
+MFKOEFHD_02352	bifunctional glutamate--cysteine ligase/glutathione synthetase
+MFKOEFHD_02353	putative protein YueI
+MFKOEFHD_02354	iron ABC transporter system permease
+MFKOEFHD_02355	iron ABC transporter system permease
+MFKOEFHD_02356	iron ABC transporter ATP-binding protein
+MFKOEFHD_02357	iron ABC transporter substrate-binding protein
+MFKOEFHD_02358	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+MFKOEFHD_02359	peptidase T
+MFKOEFHD_02360	hypothetical protein
+MFKOEFHD_02361	hypothetical protein
+MFKOEFHD_02362	hypothetical protein
+MFKOEFHD_02363	hypothetical protein
+MFKOEFHD_02364	FAD(NAD)-dependent oxidoreductase
+MFKOEFHD_02365	hypothetical protein
+MFKOEFHD_02366	rhodanese family protein
+MFKOEFHD_02367	glucokinase
+MFKOEFHD_02368	putative protein YqgQ
+MFKOEFHD_02369	peptidase, S54 family protein
+MFKOEFHD_02370	5-formyltetrahydrofolate cyclo-ligase
+MFKOEFHD_02371	putative lipase/esterase
+MFKOEFHD_02372	hypothetical protein
+MFKOEFHD_02373	hypothetical protein
+MFKOEFHD_02374	hypothetical protein
+MFKOEFHD_02375	hypothetical protein
+MFKOEFHD_02376	hypothetical protein
+MFKOEFHD_02377	hypothetical protein
+MFKOEFHD_02378	tRNA-Ser
+MFKOEFHD_02379	50S ribosomal protein L33
+MFKOEFHD_02380	Penicillin binding protein transpeptidase domain protein
+MFKOEFHD_02381	threonyl-tRNA synthetase
+MFKOEFHD_02382	4-oxalocrotonate tautomerase
+MFKOEFHD_02383	ErfK/YbiS/YcfS/YnhG family protein
+MFKOEFHD_02384	Streptomycin adenyltransferase
+MFKOEFHD_02385	integral membrane protein
+MFKOEFHD_02386	Endo-beta-N-acetylglucosaminidase H
+MFKOEFHD_02387	hypothetical protein
+MFKOEFHD_02388	putative transcriptional regulatory protein
+MFKOEFHD_02389	nucleotidyltransferase
+MFKOEFHD_02390	methyltransferase domain protein
+MFKOEFHD_02391	ribosome-associated protein
+MFKOEFHD_02392	HD domain-containing protein
+MFKOEFHD_02393	nicotinic acid mononucleotide adenylyltransferase
+MFKOEFHD_02394	RNA-binding protein YhbY
+MFKOEFHD_02395	ribosome biogenesis GTPase YqeH
+MFKOEFHD_02396	HAD superfamily hydrolase
+MFKOEFHD_02397	acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+MFKOEFHD_02398	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+MFKOEFHD_02399	acetyl-CoA carboxylase, biotin carboxylase subunit
+MFKOEFHD_02400	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+MFKOEFHD_02401	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+MFKOEFHD_02402	beta-ketoacyl-acyl-carrier-protein synthase II
+MFKOEFHD_02403	3-oxoacyl-ACP reductase
+MFKOEFHD_02404	Malonyl CoA-acyl carrier protein transacylase
+MFKOEFHD_02405	Nitronate monooxygenase
+MFKOEFHD_02406	acyl carrier protein
+MFKOEFHD_02407	3-oxoacyl-ACP synthase
+MFKOEFHD_02408	MarR family transcriptional regulator
+MFKOEFHD_02409	putative protein YkuJ
+MFKOEFHD_02410	2-hydroxy-3-oxopropionate reductase
+MFKOEFHD_02411	glycosyl transferase family protein
+MFKOEFHD_02412	glycosyl transferase family protein
+MFKOEFHD_02413	hypothetical protein
+MFKOEFHD_02414	general stress protein 13
+MFKOEFHD_02415	class II aminotransferase
+MFKOEFHD_02416	hypothetical protein
+MFKOEFHD_02417	cyclophilin type peptidyl-prolyl cis-trans isomerase
+MFKOEFHD_02418	ferredoxin--NADP reductase
+MFKOEFHD_02419	4-phosphoerythronate dehydrogenase
+MFKOEFHD_02420	Trifunctional nucleotide phosphoesterase protein YfkN
+MFKOEFHD_02421	extracellular solute-binding protein
+MFKOEFHD_02422	Ribonuclease J
+MFKOEFHD_02423	inner membrane component transport system
+MFKOEFHD_02424	ABC transporter ATP-binding protein
+MFKOEFHD_02425	ABC transporter ATP-binding protein
+MFKOEFHD_02426	glycosyl transferase family protein
+MFKOEFHD_02427	HesB-like domain-containing protein
+MFKOEFHD_02428	TrkA-C domain-containing protein
+MFKOEFHD_02429	LuxR family DNA-binding response regulator
+MFKOEFHD_02430	sensor histidine kinase
+MFKOEFHD_02431	membrane protein
+MFKOEFHD_02432	transcription elongation factor GreA
+MFKOEFHD_02433	Endolytic murein transglycosylase
+MFKOEFHD_02434	5'-nucleotidase
+MFKOEFHD_02435	UDP-N-acetylglucosamine 2-epimerase
+MFKOEFHD_02436	Carbonic anhydrase/acetyltransferase
+MFKOEFHD_02437	ABC transporter ATP-binding protein/permease
+MFKOEFHD_02438	ABC transporter ATP-binding protein/permease
+MFKOEFHD_02439	hypothetical protein
+MFKOEFHD_02440	hypothetical protein
+MFKOEFHD_02441	Ribonuclease J 1
+MFKOEFHD_02442	major cold shock protein CspE
+MFKOEFHD_02443	DNA repair protein RadC
+MFKOEFHD_02444	HAD-superfamily hydrolase
+MFKOEFHD_02445	Folylpolyglutamate synthase
+MFKOEFHD_02446	Bacterial membrane protein YfhO
+MFKOEFHD_02447	hypothetical protein
+MFKOEFHD_02448	valyl-tRNA synthetase
+MFKOEFHD_02449	Thiol peroxidase
+MFKOEFHD_02450	redox-sensing transcriptional repressor Rex
+MFKOEFHD_02451	thiamine biosynthesis protein ThiI
+MFKOEFHD_02452	xanthine/uracil permease family protein
+MFKOEFHD_02453	short chain dehydrogenase/reductase family oxidoreductase
+MFKOEFHD_02454	short chain dehydrogenase/reductase family oxidoreductase
+MFKOEFHD_02455	maltose O-acetyltransferase family protein
+MFKOEFHD_02456	LysR family transcriptional regulator
+MFKOEFHD_02457	sugar transport protein
+MFKOEFHD_02458	D-ribose pyranase
+MFKOEFHD_02459	ribokinase
+MFKOEFHD_02460	LacI family transcriptional regulator
+MFKOEFHD_02461	hypothetical protein
+MFKOEFHD_02462	PTS system ascorbate-specific transporter subunit IIC
+MFKOEFHD_02463	PTS system ascorbate-specific transporter subunit IIB
+MFKOEFHD_02464	PTS system ascorbate-specific transporter subunit IIA
+MFKOEFHD_02465	hypothetical protein
+MFKOEFHD_02466	hypothetical protein
+MFKOEFHD_02467	cell wall surface anchor family protein
+MFKOEFHD_02468	hypothetical protein
+MFKOEFHD_02469	hypothetical protein
+MFKOEFHD_02470	Alkaline phosphatase 3
+MFKOEFHD_02471	DNA mismatch repair protein MutS2
+MFKOEFHD_02472	2-dehydro-3-deoxy-phosphogluconate aldolase
+MFKOEFHD_02473	hypothetical protein
+MFKOEFHD_02474	tRNA modification GTPase MnmE
+MFKOEFHD_02475	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+MFKOEFHD_02476	short chain dehydrogenase/reductase family oxidoreductase
+MFKOEFHD_02477	PRD domain-containing protein
+MFKOEFHD_02478	glucitol operon activator protein
+MFKOEFHD_02479	PTS system, glucitol/sorbitol-specific IIC component
+MFKOEFHD_02480	PTS system, glucitol/sorbitol-specific, IIBC component
+MFKOEFHD_02481	PTS system glucitol/sorbitol-specific transporter subunit IIA
+MFKOEFHD_02482	fructose-6-phosphate aldolase
+MFKOEFHD_02483	myosin-cross-reactive antigen-like protein
+MFKOEFHD_02484	hypothetical protein
+MFKOEFHD_02485	Ribosomal RNA small subunit methyltransferase G
+MFKOEFHD_02486	sporulation initiation inhibitor protein Soj
+MFKOEFHD_02487	ParB family chromosome partitioning protein
+MFKOEFHD_02488	translation-associated GTPase
+MFKOEFHD_02489	translation-associated GTPase
+MFKOEFHD_02490	hypothetical protein
+MFKOEFHD_02491	integral membrane protein
+MFKOEFHD_02492	Inosine-5'-monophosphate dehydrogenase
+MFKOEFHD_02493	seryl-tRNA synthetase
+MFKOEFHD_02494	histidine kinase
+MFKOEFHD_02495	putative regulatory protein VanR
+MFKOEFHD_02496	16S ribosomal RNA
+MFKOEFHD_02497	23S ribosomal RNA
+MFKOEFHD_02498	5S ribosomal RNA
+MFKOEFHD_02499	hypothetical protein
+MFKOEFHD_02500	hypothetical protein
+MFKOEFHD_02501	Beta-monoglucosyldiacylglycerol synthase
+MFKOEFHD_02502	voltage-gated chloride channel family protein
+MFKOEFHD_02503	hypothetical protein
+MFKOEFHD_02504	inositol monophosphatase family protein
+MFKOEFHD_02505	GTP-binding protein TypA/BipA
+MFKOEFHD_02506	ATP-dependent DNA helicase RecQ
+MFKOEFHD_02507	hypothetical protein
+MFKOEFHD_02508	cell cycle protein FtsW
+MFKOEFHD_02509	pyruvate carboxylase
+MFKOEFHD_02510	hypothetical protein
+MFKOEFHD_02511	hypothetical protein
+MFKOEFHD_02512	hypothetical protein
+MFKOEFHD_02513	RsmD family RNA methyltransferase
+MFKOEFHD_02514	Phosphopantetheine adenylyltransferase, CoaD
+MFKOEFHD_02515	PDZ domain protein
+MFKOEFHD_02516	competence protein, ComEA
+MFKOEFHD_02517	ComE operon protein 2
+MFKOEFHD_02518	DNA internalization-related competence protein ComEC/Rec2
+MFKOEFHD_02519	DNA polymerase III subunit delta
+MFKOEFHD_02520	2-dehydropantoate 2-reductase
+MFKOEFHD_02521	hypothetical protein
+MFKOEFHD_02522	30S ribosomal protein S20
+MFKOEFHD_02523	hypothetical protein
+MFKOEFHD_02524	hypothetical protein
+MFKOEFHD_02525	protein YebG
+MFKOEFHD_02526	undecaprenyl-diphosphatase
+MFKOEFHD_02527	PTS system, sugar-specific IIBC component
+MFKOEFHD_02528	alpha3-beta1 integrin-binding family protein
+MFKOEFHD_02529	N-acetylmuramic acid 6-phosphate etherase
+MFKOEFHD_02530	PTS system, sugar-specific IIBC component
+MFKOEFHD_02531	RpiR family transcriptional regulator
+MFKOEFHD_02532	D-glucosaminate-6-phosphate ammonia lyase
+MFKOEFHD_02533	C4-dicarboxylate transporter/malic acid transport protein
+MFKOEFHD_02534	NAD-dependent epimerase/dehydratase
+MFKOEFHD_02535	putative HTH-type transcriptional regulator YtcD
+MFKOEFHD_02536	nitroreductase family protein
+MFKOEFHD_02537	lipoyltransferase and lipoate-protein ligase A

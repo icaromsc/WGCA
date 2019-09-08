@@ -1,0 +1,775 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	29	convert_gbk_to_seed
+	29	prophage_prediction
+	1	summary_results
+	60
+
+[Sun Sep  8 00:26:10 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/HT1-3.gbk
+    output: seeds/HT1-3
+    jobid: 212
+    wildcards: sample=HT1-3
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/HT1-3.gbk seeds/HT1-3
+
+[Sun Sep  8 00:26:10 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/J4.gbk
+    output: seeds/J4
+    jobid: 209
+    wildcards: sample=J4
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/J4.gbk seeds/J4
+
+[Sun Sep  8 00:26:10 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/L8.gbk
+    output: seeds/L8
+    jobid: 221
+    wildcards: sample=L8
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/L8.gbk seeds/L8
+
+[Sun Sep  8 00:26:10 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/J2.gbk
+    output: seeds/J2
+    jobid: 194
+    wildcards: sample=J2
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/J2.gbk seeds/J2
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:17 2019]
+Finished job 209.
+1 of 60 steps (2%) done
+
+[Sun Sep  8 00:26:17 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/GT6-1.gbk
+    output: seeds/GT6-1
+    jobid: 210
+    wildcards: sample=GT6-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/GT6-1.gbk seeds/GT6-1
+[Sun Sep  8 00:26:17 2019]
+Finished job 212.
+2 of 60 steps (3%) done
+
+[Sun Sep  8 00:26:17 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP8-1.gbk
+    output: seeds/MP8-1
+    jobid: 207
+    wildcards: sample=MP8-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP8-1.gbk seeds/MP8-1
+[Sun Sep  8 00:26:17 2019]
+Finished job 194.
+3 of 60 steps (5%) done
+
+[Sun Sep  8 00:26:17 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP7-18.gbk
+    output: seeds/MP7-18
+    jobid: 192
+    wildcards: sample=MP7-18
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP7-18.gbk seeds/MP7-18
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:18 2019]
+Finished job 221.
+4 of 60 steps (7%) done
+
+[Sun Sep  8 00:26:18 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/GT3-2.gbk
+    output: seeds/GT3-2
+    jobid: 198
+    wildcards: sample=GT3-2
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/GT3-2.gbk seeds/GT3-2
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:22 2019]
+Finished job 210.
+5 of 60 steps (8%) done
+
+[Sun Sep  8 00:26:22 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP9-10.gbk
+    output: seeds/MP9-10
+    jobid: 202
+    wildcards: sample=MP9-10
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP9-10.gbk seeds/MP9-10
+[Sun Sep  8 00:26:22 2019]
+Finished job 207.
+6 of 60 steps (10%) done
+
+[Sun Sep  8 00:26:22 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP5-1.gbk
+    output: seeds/MP5-1
+    jobid: 196
+    wildcards: sample=MP5-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP5-1.gbk seeds/MP5-1
+[Sun Sep  8 00:26:22 2019]
+Finished job 192.
+7 of 60 steps (12%) done
+
+[Sun Sep  8 00:26:22 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/C7.gbk
+    output: seeds/C7
+    jobid: 195
+    wildcards: sample=C7
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/C7.gbk seeds/C7
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:24 2019]
+Finished job 198.
+8 of 60 steps (13%) done
+
+[Sun Sep  8 00:26:24 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/DMW1-1.gbk
+    output: seeds/DMW1-1
+    jobid: 215
+    wildcards: sample=DMW1-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/DMW1-1.gbk seeds/DMW1-1
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:27 2019]
+Finished job 202.
+9 of 60 steps (15%) done
+
+[Sun Sep  8 00:26:27 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP1-2.gbk
+    output: seeds/MP1-2
+    jobid: 213
+    wildcards: sample=MP1-2
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP1-2.gbk seeds/MP1-2
+[Sun Sep  8 00:26:28 2019]
+Finished job 196.
+10 of 60 steps (17%) done
+
+[Sun Sep  8 00:26:28 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/GT4-4.gbk
+    output: seeds/GT4-4
+    jobid: 200
+    wildcards: sample=GT4-4
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/GT4-4.gbk seeds/GT4-4
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:28 2019]
+Finished job 195.
+11 of 60 steps (18%) done
+
+[Sun Sep  8 00:26:28 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/ST1-20.gbk
+    output: seeds/ST1-20
+    jobid: 220
+    wildcards: sample=ST1-20
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/ST1-20.gbk seeds/ST1-20
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:29 2019]
+Finished job 215.
+12 of 60 steps (20%) done
+
+[Sun Sep  8 00:26:29 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/D2.gbk
+    output: seeds/D2
+    jobid: 205
+    wildcards: sample=D2
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/D2.gbk seeds/D2
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:31 2019]
+Finished job 213.
+13 of 60 steps (22%) done
+
+[Sun Sep  8 00:26:31 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/HT2-4.gbk
+    output: seeds/HT2-4
+    jobid: 204
+    wildcards: sample=HT2-4
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/HT2-4.gbk seeds/HT2-4
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:33 2019]
+Finished job 200.
+14 of 60 steps (23%) done
+
+[Sun Sep  8 00:26:33 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/GT5-1.gbk
+    output: seeds/GT5-1
+    jobid: 216
+    wildcards: sample=GT5-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/GT5-1.gbk seeds/GT5-1
+[Sun Sep  8 00:26:33 2019]
+Finished job 220.
+15 of 60 steps (25%) done
+
+[Sun Sep  8 00:26:33 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP1-1.gbk
+    output: seeds/MP1-1
+    jobid: 208
+    wildcards: sample=MP1-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP1-1.gbk seeds/MP1-1
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:35 2019]
+Finished job 205.
+16 of 60 steps (27%) done
+
+[Sun Sep  8 00:26:35 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/WS1-5.gbk
+    output: seeds/WS1-5
+    jobid: 199
+    wildcards: sample=WS1-5
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/WS1-5.gbk seeds/WS1-5
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:37 2019]
+Finished job 204.
+17 of 60 steps (28%) done
+
+[Sun Sep  8 00:26:37 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/RD1-1.gbk
+    output: seeds/RD1-1
+    jobid: 218
+    wildcards: sample=RD1-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/RD1-1.gbk seeds/RD1-1
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:38 2019]
+Finished job 216.
+18 of 60 steps (30%) done
+
+[Sun Sep  8 00:26:38 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP1-5.gbk
+    output: seeds/MP1-5
+    jobid: 203
+    wildcards: sample=MP1-5
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP1-5.gbk seeds/MP1-5
+[Sun Sep  8 00:26:39 2019]
+Finished job 208.
+19 of 60 steps (32%) done
+
+[Sun Sep  8 00:26:39 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/HW1-1.gbk
+    output: seeds/HW1-1
+    jobid: 219
+    wildcards: sample=HW1-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/HW1-1.gbk seeds/HW1-1
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:40 2019]
+Finished job 199.
+20 of 60 steps (33%) done
+
+[Sun Sep  8 00:26:40 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP2-6.gbk
+    output: seeds/MP2-6
+    jobid: 191
+    wildcards: sample=MP2-6
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP2-6.gbk seeds/MP2-6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:41 2019]
+Finished job 218.
+21 of 60 steps (35%) done
+
+[Sun Sep  8 00:26:41 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP8-17.gbk
+    output: seeds/MP8-17
+    jobid: 211
+    wildcards: sample=MP8-17
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP8-17.gbk seeds/MP8-17
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:43 2019]
+Finished job 203.
+22 of 60 steps (37%) done
+
+[Sun Sep  8 00:26:43 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/B9.gbk
+    output: seeds/B9
+    jobid: 206
+    wildcards: sample=B9
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/B9.gbk seeds/B9
+[Sun Sep  8 00:26:44 2019]
+Finished job 219.
+23 of 60 steps (38%) done
+
+[Sun Sep  8 00:26:44 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP10-1.gbk
+    output: seeds/MP10-1
+    jobid: 193
+    wildcards: sample=MP10-1
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP10-1.gbk seeds/MP10-1
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:45 2019]
+Finished job 191.
+24 of 60 steps (40%) done
+
+[Sun Sep  8 00:26:45 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/HT1-12.gbk
+    output: seeds/HT1-12
+    jobid: 201
+    wildcards: sample=HT1-12
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/HT1-12.gbk seeds/HT1-12
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:47 2019]
+Finished job 211.
+25 of 60 steps (42%) done
+
+[Sun Sep  8 00:26:47 2019]
+rule convert_gbk_to_seed:
+    input: genome_annotation/MP1-4.gbk
+    output: seeds/MP1-4
+    jobid: 214
+    wildcards: sample=MP1-4
+
+python scripts/phispy/genbank_to_seed.py genome_annotation/MP1-4.gbk seeds/MP1-4
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:48 2019]
+Finished job 206.
+26 of 60 steps (43%) done
+
+[Sun Sep  8 00:26:48 2019]
+rule prophage_prediction:
+    input: seeds/J2
+    output: prophage_prediction/J2/prophage.tbl, prophage_prediction/J2/prophage_coordinates.tsv, prophage_prediction/J2/prophage_tbl.tsv
+    jobid: 39
+    wildcards: sample=J2
+
+scripts/phispy/PhiSpy.py -i seeds/J2 -o prophage_prediction/J2 -t 25 
+[Sun Sep  8 00:26:49 2019]
+Finished job 193.
+27 of 60 steps (45%) done
+
+[Sun Sep  8 00:26:49 2019]
+rule prophage_prediction:
+    input: seeds/C7
+    output: prophage_prediction/C7/prophage.tbl, prophage_prediction/C7/prophage_coordinates.tsv, prophage_prediction/C7/prophage_tbl.tsv
+    jobid: 40
+    wildcards: sample=C7
+
+scripts/phispy/PhiSpy.py -i seeds/C7 -o prophage_prediction/C7 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:51 2019]
+Finished job 201.
+28 of 60 steps (47%) done
+
+[Sun Sep  8 00:26:51 2019]
+rule prophage_prediction:
+    input: seeds/MP8-17
+    output: prophage_prediction/MP8-17/prophage.tbl, prophage_prediction/MP8-17/prophage_coordinates.tsv, prophage_prediction/MP8-17/prophage_tbl.tsv
+    jobid: 56
+    wildcards: sample=MP8-17
+
+scripts/phispy/PhiSpy.py -i seeds/MP8-17 -o prophage_prediction/MP8-17 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:26:52 2019]
+Finished job 214.
+29 of 60 steps (48%) done
+
+[Sun Sep  8 00:26:52 2019]
+rule prophage_prediction:
+    input: seeds/MP1-4
+    output: prophage_prediction/MP1-4/prophage.tbl, prophage_prediction/MP1-4/prophage_coordinates.tsv, prophage_prediction/MP1-4/prophage_tbl.tsv
+    jobid: 59
+    wildcards: sample=MP1-4
+
+scripts/phispy/PhiSpy.py -i seeds/MP1-4 -o prophage_prediction/MP1-4 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:30:45 2019]
+Finished job 59.
+30 of 60 steps (50%) done
+
+[Sun Sep  8 00:30:45 2019]
+rule prophage_prediction:
+    input: seeds/MP10-1
+    output: prophage_prediction/MP10-1/prophage.tbl, prophage_prediction/MP10-1/prophage_coordinates.tsv, prophage_prediction/MP10-1/prophage_tbl.tsv
+    jobid: 38
+    wildcards: sample=MP10-1
+
+scripts/phispy/PhiSpy.py -i seeds/MP10-1 -o prophage_prediction/MP10-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:30:51 2019]
+Finished job 56.
+31 of 60 steps (52%) done
+
+[Sun Sep  8 00:30:51 2019]
+rule prophage_prediction:
+    input: seeds/MP1-1
+    output: prophage_prediction/MP1-1/prophage.tbl, prophage_prediction/MP1-1/prophage_coordinates.tsv, prophage_prediction/MP1-1/prophage_tbl.tsv
+    jobid: 53
+    wildcards: sample=MP1-1
+
+scripts/phispy/PhiSpy.py -i seeds/MP1-1 -o prophage_prediction/MP1-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:31:56 2019]
+Finished job 40.
+32 of 60 steps (53%) done
+
+[Sun Sep  8 00:31:56 2019]
+rule prophage_prediction:
+    input: seeds/HT2-4
+    output: prophage_prediction/HT2-4/prophage.tbl, prophage_prediction/HT2-4/prophage_coordinates.tsv, prophage_prediction/HT2-4/prophage_tbl.tsv
+    jobid: 49
+    wildcards: sample=HT2-4
+
+scripts/phispy/PhiSpy.py -i seeds/HT2-4 -o prophage_prediction/HT2-4 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:32:41 2019]
+Finished job 39.
+33 of 60 steps (55%) done
+
+[Sun Sep  8 00:32:41 2019]
+rule prophage_prediction:
+    input: seeds/MP7-18
+    output: prophage_prediction/MP7-18/prophage.tbl, prophage_prediction/MP7-18/prophage_coordinates.tsv, prophage_prediction/MP7-18/prophage_tbl.tsv
+    jobid: 37
+    wildcards: sample=MP7-18
+
+scripts/phispy/PhiSpy.py -i seeds/MP7-18 -o prophage_prediction/MP7-18 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:35:32 2019]
+Finished job 53.
+34 of 60 steps (57%) done
+
+[Sun Sep  8 00:35:32 2019]
+rule prophage_prediction:
+    input: seeds/GT5-1
+    output: prophage_prediction/GT5-1/prophage.tbl, prophage_prediction/GT5-1/prophage_coordinates.tsv, prophage_prediction/GT5-1/prophage_tbl.tsv
+    jobid: 61
+    wildcards: sample=GT5-1
+
+scripts/phispy/PhiSpy.py -i seeds/GT5-1 -o prophage_prediction/GT5-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:35:44 2019]
+Finished job 38.
+35 of 60 steps (58%) done
+
+[Sun Sep  8 00:35:44 2019]
+rule prophage_prediction:
+    input: seeds/D2
+    output: prophage_prediction/D2/prophage.tbl, prophage_prediction/D2/prophage_coordinates.tsv, prophage_prediction/D2/prophage_tbl.tsv
+    jobid: 50
+    wildcards: sample=D2
+
+scripts/phispy/PhiSpy.py -i seeds/D2 -o prophage_prediction/D2 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:36:50 2019]
+Finished job 49.
+36 of 60 steps (60%) done
+
+[Sun Sep  8 00:36:50 2019]
+rule prophage_prediction:
+    input: seeds/GT4-4
+    output: prophage_prediction/GT4-4/prophage.tbl, prophage_prediction/GT4-4/prophage_coordinates.tsv, prophage_prediction/GT4-4/prophage_tbl.tsv
+    jobid: 45
+    wildcards: sample=GT4-4
+
+scripts/phispy/PhiSpy.py -i seeds/GT4-4 -o prophage_prediction/GT4-4 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:37:38 2019]
+Finished job 37.
+37 of 60 steps (62%) done
+
+[Sun Sep  8 00:37:38 2019]
+rule prophage_prediction:
+    input: seeds/DMW1-1
+    output: prophage_prediction/DMW1-1/prophage.tbl, prophage_prediction/DMW1-1/prophage_coordinates.tsv, prophage_prediction/DMW1-1/prophage_tbl.tsv
+    jobid: 60
+    wildcards: sample=DMW1-1
+
+scripts/phispy/PhiSpy.py -i seeds/DMW1-1 -o prophage_prediction/DMW1-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:40:09 2019]
+Finished job 61.
+38 of 60 steps (63%) done
+
+[Sun Sep  8 00:40:09 2019]
+rule prophage_prediction:
+    input: seeds/MP8-1
+    output: prophage_prediction/MP8-1/prophage.tbl, prophage_prediction/MP8-1/prophage_coordinates.tsv, prophage_prediction/MP8-1/prophage_tbl.tsv
+    jobid: 52
+    wildcards: sample=MP8-1
+
+scripts/phispy/PhiSpy.py -i seeds/MP8-1 -o prophage_prediction/MP8-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:40:40 2019]
+Finished job 50.
+39 of 60 steps (65%) done
+
+[Sun Sep  8 00:40:40 2019]
+rule prophage_prediction:
+    input: seeds/MP1-2
+    output: prophage_prediction/MP1-2/prophage.tbl, prophage_prediction/MP1-2/prophage_coordinates.tsv, prophage_prediction/MP1-2/prophage_tbl.tsv
+    jobid: 58
+    wildcards: sample=MP1-2
+
+scripts/phispy/PhiSpy.py -i seeds/MP1-2 -o prophage_prediction/MP1-2 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:41:25 2019]
+Finished job 45.
+40 of 60 steps (67%) done
+
+[Sun Sep  8 00:41:25 2019]
+rule prophage_prediction:
+    input: seeds/WS1-5
+    output: prophage_prediction/WS1-5/prophage.tbl, prophage_prediction/WS1-5/prophage_coordinates.tsv, prophage_prediction/WS1-5/prophage_tbl.tsv
+    jobid: 44
+    wildcards: sample=WS1-5
+
+scripts/phispy/PhiSpy.py -i seeds/WS1-5 -o prophage_prediction/WS1-5 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:42:20 2019]
+Finished job 60.
+41 of 60 steps (68%) done
+
+[Sun Sep  8 00:42:20 2019]
+rule prophage_prediction:
+    input: seeds/J4
+    output: prophage_prediction/J4/prophage.tbl, prophage_prediction/J4/prophage_coordinates.tsv, prophage_prediction/J4/prophage_tbl.tsv
+    jobid: 54
+    wildcards: sample=J4
+
+scripts/phispy/PhiSpy.py -i seeds/J4 -o prophage_prediction/J4 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:45:00 2019]
+Finished job 52.
+42 of 60 steps (70%) done
+
+[Sun Sep  8 00:45:00 2019]
+rule prophage_prediction:
+    input: seeds/L8
+    output: prophage_prediction/L8/prophage.tbl, prophage_prediction/L8/prophage_coordinates.tsv, prophage_prediction/L8/prophage_tbl.tsv
+    jobid: 66
+    wildcards: sample=L8
+
+scripts/phispy/PhiSpy.py -i seeds/L8 -o prophage_prediction/L8 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:45:01 2019]
+Finished job 58.
+43 of 60 steps (72%) done
+
+[Sun Sep  8 00:45:01 2019]
+rule prophage_prediction:
+    input: seeds/HW1-1
+    output: prophage_prediction/HW1-1/prophage.tbl, prophage_prediction/HW1-1/prophage_coordinates.tsv, prophage_prediction/HW1-1/prophage_tbl.tsv
+    jobid: 64
+    wildcards: sample=HW1-1
+
+scripts/phispy/PhiSpy.py -i seeds/HW1-1 -o prophage_prediction/HW1-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:45:27 2019]
+Finished job 44.
+44 of 60 steps (73%) done
+
+[Sun Sep  8 00:45:27 2019]
+rule prophage_prediction:
+    input: seeds/GT6-1
+    output: prophage_prediction/GT6-1/prophage.tbl, prophage_prediction/GT6-1/prophage_coordinates.tsv, prophage_prediction/GT6-1/prophage_tbl.tsv
+    jobid: 55
+    wildcards: sample=GT6-1
+
+scripts/phispy/PhiSpy.py -i seeds/GT6-1 -o prophage_prediction/GT6-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:47:42 2019]
+Finished job 54.
+45 of 60 steps (75%) done
+
+[Sun Sep  8 00:47:42 2019]
+rule prophage_prediction:
+    input: seeds/MP9-10
+    output: prophage_prediction/MP9-10/prophage.tbl, prophage_prediction/MP9-10/prophage_coordinates.tsv, prophage_prediction/MP9-10/prophage_tbl.tsv
+    jobid: 47
+    wildcards: sample=MP9-10
+
+scripts/phispy/PhiSpy.py -i seeds/MP9-10 -o prophage_prediction/MP9-10 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:48:53 2019]
+Finished job 64.
+46 of 60 steps (77%) done
+
+[Sun Sep  8 00:48:53 2019]
+rule prophage_prediction:
+    input: seeds/RD1-1
+    output: prophage_prediction/RD1-1/prophage.tbl, prophage_prediction/RD1-1/prophage_coordinates.tsv, prophage_prediction/RD1-1/prophage_tbl.tsv
+    jobid: 63
+    wildcards: sample=RD1-1
+
+scripts/phispy/PhiSpy.py -i seeds/RD1-1 -o prophage_prediction/RD1-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:50:02 2019]
+Finished job 55.
+47 of 60 steps (78%) done
+
+[Sun Sep  8 00:50:02 2019]
+rule prophage_prediction:
+    input: seeds/GT3-2
+    output: prophage_prediction/GT3-2/prophage.tbl, prophage_prediction/GT3-2/prophage_coordinates.tsv, prophage_prediction/GT3-2/prophage_tbl.tsv
+    jobid: 43
+    wildcards: sample=GT3-2
+
+scripts/phispy/PhiSpy.py -i seeds/GT3-2 -o prophage_prediction/GT3-2 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:52:09 2019]
+Finished job 47.
+48 of 60 steps (80%) done
+
+[Sun Sep  8 00:52:09 2019]
+rule prophage_prediction:
+    input: seeds/ST1-20
+    output: prophage_prediction/ST1-20/prophage.tbl, prophage_prediction/ST1-20/prophage_coordinates.tsv, prophage_prediction/ST1-20/prophage_tbl.tsv
+    jobid: 65
+    wildcards: sample=ST1-20
+
+scripts/phispy/PhiSpy.py -i seeds/ST1-20 -o prophage_prediction/ST1-20 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:52:21 2019]
+Finished job 66.
+49 of 60 steps (82%) done
+
+[Sun Sep  8 00:52:21 2019]
+rule prophage_prediction:
+    input: seeds/MP2-6
+    output: prophage_prediction/MP2-6/prophage.tbl, prophage_prediction/MP2-6/prophage_coordinates.tsv, prophage_prediction/MP2-6/prophage_tbl.tsv
+    jobid: 36
+    wildcards: sample=MP2-6
+
+scripts/phispy/PhiSpy.py -i seeds/MP2-6 -o prophage_prediction/MP2-6 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:53:04 2019]
+Finished job 63.
+50 of 60 steps (83%) done
+
+[Sun Sep  8 00:53:04 2019]
+rule prophage_prediction:
+    input: seeds/MP5-1
+    output: prophage_prediction/MP5-1/prophage.tbl, prophage_prediction/MP5-1/prophage_coordinates.tsv, prophage_prediction/MP5-1/prophage_tbl.tsv
+    jobid: 41
+    wildcards: sample=MP5-1
+
+scripts/phispy/PhiSpy.py -i seeds/MP5-1 -o prophage_prediction/MP5-1 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:54:42 2019]
+Finished job 43.
+51 of 60 steps (85%) done
+
+[Sun Sep  8 00:54:42 2019]
+rule prophage_prediction:
+    input: seeds/B9
+    output: prophage_prediction/B9/prophage.tbl, prophage_prediction/B9/prophage_coordinates.tsv, prophage_prediction/B9/prophage_tbl.tsv
+    jobid: 51
+    wildcards: sample=B9
+
+scripts/phispy/PhiSpy.py -i seeds/B9 -o prophage_prediction/B9 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:56:15 2019]
+Finished job 36.
+52 of 60 steps (87%) done
+
+[Sun Sep  8 00:56:15 2019]
+rule prophage_prediction:
+    input: seeds/MP1-5
+    output: prophage_prediction/MP1-5/prophage.tbl, prophage_prediction/MP1-5/prophage_coordinates.tsv, prophage_prediction/MP1-5/prophage_tbl.tsv
+    jobid: 48
+    wildcards: sample=MP1-5
+
+scripts/phispy/PhiSpy.py -i seeds/MP1-5 -o prophage_prediction/MP1-5 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:56:21 2019]
+Finished job 65.
+53 of 60 steps (88%) done
+
+[Sun Sep  8 00:56:21 2019]
+rule prophage_prediction:
+    input: seeds/HT1-12
+    output: prophage_prediction/HT1-12/prophage.tbl, prophage_prediction/HT1-12/prophage_coordinates.tsv, prophage_prediction/HT1-12/prophage_tbl.tsv
+    jobid: 46
+    wildcards: sample=HT1-12
+
+scripts/phispy/PhiSpy.py -i seeds/HT1-12 -o prophage_prediction/HT1-12 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:57:35 2019]
+Finished job 41.
+54 of 60 steps (90%) done
+
+[Sun Sep  8 00:57:35 2019]
+rule prophage_prediction:
+    input: seeds/HT1-3
+    output: prophage_prediction/HT1-3/prophage.tbl, prophage_prediction/HT1-3/prophage_coordinates.tsv, prophage_prediction/HT1-3/prophage_tbl.tsv
+    jobid: 57
+    wildcards: sample=HT1-3
+
+scripts/phispy/PhiSpy.py -i seeds/HT1-3 -o prophage_prediction/HT1-3 -t 25 
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+[Sun Sep  8 00:58:25 2019]
+Finished job 51.
+55 of 60 steps (92%) done
+[Sun Sep  8 00:59:48 2019]
+Finished job 46.
+56 of 60 steps (93%) done
+[Sun Sep  8 00:59:54 2019]
+Finished job 48.
+57 of 60 steps (95%) done
+[Sun Sep  8 01:01:15 2019]
+Finished job 57.
+58 of 60 steps (97%) done
+
+[Sun Sep  8 01:01:15 2019]
+rule summary_results:
+    input: plasmid_prediction/summary.tsv, virulence_genes/summary.tsv, resistome_summary/RGI_heatmap, genomic_islands/MP2-6_GI.gff3, genomic_islands/MP7-18_GI.gff3, genomic_islands/MP10-1_GI.gff3, genomic_islands/J2_GI.gff3, genomic_islands/C7_GI.gff3, genomic_islands/MP5-1_GI.gff3, genomic_islands/OG1RF_GI.gff3, genomic_islands/GT3-2_GI.gff3, genomic_islands/WS1-5_GI.gff3, genomic_islands/GT4-4_GI.gff3, genomic_islands/HT1-12_GI.gff3, genomic_islands/MP9-10_GI.gff3, genomic_islands/MP1-5_GI.gff3, genomic_islands/HT2-4_GI.gff3, genomic_islands/D2_GI.gff3, genomic_islands/B9_GI.gff3, genomic_islands/MP8-1_GI.gff3, genomic_islands/MP1-1_GI.gff3, genomic_islands/J4_GI.gff3, genomic_islands/GT6-1_GI.gff3, genomic_islands/MP8-17_GI.gff3, genomic_islands/HT1-3_GI.gff3, genomic_islands/MP1-2_GI.gff3, genomic_islands/MP1-4_GI.gff3, genomic_islands/DMW1-1_GI.gff3, genomic_islands/GT5-1_GI.gff3, genomic_islands/V583_GI.gff3, genomic_islands/RD1-1_GI.gff3, genomic_islands/HW1-1_GI.gff3, genomic_islands/ST1-20_GI.gff3, genomic_islands/L8_GI.gff3, resistome_summary/MP2-6.txt, resistome_summary/MP7-18.txt, resistome_summary/MP10-1.txt, resistome_summary/J2.txt, resistome_summary/C7.txt, resistome_summary/MP5-1.txt, resistome_summary/OG1RF.txt, resistome_summary/GT3-2.txt, resistome_summary/WS1-5.txt, resistome_summary/GT4-4.txt, resistome_summary/HT1-12.txt, resistome_summary/MP9-10.txt, resistome_summary/MP1-5.txt, resistome_summary/HT2-4.txt, resistome_summary/D2.txt, resistome_summary/B9.txt, resistome_summary/MP8-1.txt, resistome_summary/MP1-1.txt, resistome_summary/J4.txt, resistome_summary/GT6-1.txt, resistome_summary/MP8-17.txt, resistome_summary/HT1-3.txt, resistome_summary/MP1-2.txt, resistome_summary/MP1-4.txt, resistome_summary/DMW1-1.txt, resistome_summary/GT5-1.txt, resistome_summary/V583.txt, resistome_summary/RD1-1.txt, resistome_summary/HW1-1.txt, resistome_summary/ST1-20.txt, resistome_summary/L8.txt, prophage_prediction/MP2-6/prophage_coordinates.tsv, prophage_prediction/MP7-18/prophage_coordinates.tsv, prophage_prediction/MP10-1/prophage_coordinates.tsv, prophage_prediction/J2/prophage_coordinates.tsv, prophage_prediction/C7/prophage_coordinates.tsv, prophage_prediction/MP5-1/prophage_coordinates.tsv, prophage_prediction/OG1RF/prophage_coordinates.tsv, prophage_prediction/GT3-2/prophage_coordinates.tsv, prophage_prediction/WS1-5/prophage_coordinates.tsv, prophage_prediction/GT4-4/prophage_coordinates.tsv, prophage_prediction/HT1-12/prophage_coordinates.tsv, prophage_prediction/MP9-10/prophage_coordinates.tsv, prophage_prediction/MP1-5/prophage_coordinates.tsv, prophage_prediction/HT2-4/prophage_coordinates.tsv, prophage_prediction/D2/prophage_coordinates.tsv, prophage_prediction/B9/prophage_coordinates.tsv, prophage_prediction/MP8-1/prophage_coordinates.tsv, prophage_prediction/MP1-1/prophage_coordinates.tsv, prophage_prediction/J4/prophage_coordinates.tsv, prophage_prediction/GT6-1/prophage_coordinates.tsv, prophage_prediction/MP8-17/prophage_coordinates.tsv, prophage_prediction/HT1-3/prophage_coordinates.tsv, prophage_prediction/MP1-2/prophage_coordinates.tsv, prophage_prediction/MP1-4/prophage_coordinates.tsv, prophage_prediction/DMW1-1/prophage_coordinates.tsv, prophage_prediction/GT5-1/prophage_coordinates.tsv, prophage_prediction/V583/prophage_coordinates.tsv, prophage_prediction/RD1-1/prophage_coordinates.tsv, prophage_prediction/HW1-1/prophage_coordinates.tsv, prophage_prediction/ST1-20/prophage_coordinates.tsv, prophage_prediction/L8/prophage_coordinates.tsv
+    output: WGCA_analysis_result/RGI_heatmap, WGCA_analysis_result/virulence_summary.tsv, WGCA_analysis_result/plasmid_summary.tsv, WGCA_analysis_result/RGI_heatmap-31.png, WGCA_analysis_result/MP2-6.tsv, WGCA_analysis_result/MP7-18.tsv, WGCA_analysis_result/MP10-1.tsv, WGCA_analysis_result/J2.tsv, WGCA_analysis_result/C7.tsv, WGCA_analysis_result/MP5-1.tsv, WGCA_analysis_result/OG1RF.tsv, WGCA_analysis_result/GT3-2.tsv, WGCA_analysis_result/WS1-5.tsv, WGCA_analysis_result/GT4-4.tsv, WGCA_analysis_result/HT1-12.tsv, WGCA_analysis_result/MP9-10.tsv, WGCA_analysis_result/MP1-5.tsv, WGCA_analysis_result/HT2-4.tsv, WGCA_analysis_result/D2.tsv, WGCA_analysis_result/B9.tsv, WGCA_analysis_result/MP8-1.tsv, WGCA_analysis_result/MP1-1.tsv, WGCA_analysis_result/J4.tsv, WGCA_analysis_result/GT6-1.tsv, WGCA_analysis_result/MP8-17.tsv, WGCA_analysis_result/HT1-3.tsv, WGCA_analysis_result/MP1-2.tsv, WGCA_analysis_result/MP1-4.tsv, WGCA_analysis_result/DMW1-1.tsv, WGCA_analysis_result/GT5-1.tsv, WGCA_analysis_result/V583.tsv, WGCA_analysis_result/RD1-1.tsv, WGCA_analysis_result/HW1-1.tsv, WGCA_analysis_result/ST1-20.tsv, WGCA_analysis_result/L8.tsv
+    jobid: 1
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/icaro/Documentos/WGCA/.snakemake/log/2019-09-08T002610.593753.snakemake.log

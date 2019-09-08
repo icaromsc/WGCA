@@ -1,0 +1,27 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	prophage_prediction
+	1
+
+[Sat Sep  7 15:03:52 2019]
+rule prophage_prediction:
+    input: seeds/V583
+    output: prophage_prediction/V583/prophage.tbl, prophage_prediction/V583/prophage_coordinates.tsv, prophage_prediction/V583/prophage_tbl.tsv
+    jobid: 0
+    wildcards: sample=V583
+
+Activating conda environment: /home/icaro/Documentos/WGCA/.snakemake/conda/697b79f6
+Waiting at most 5 seconds for missing files.
+MissingOutputException in line 163 of /home/icaro/Documentos/WGCA/Snakefile:
+Missing files after 5 seconds:
+prophage_prediction/V583/prophage.tbl
+prophage_prediction/V583/prophage_coordinates.tsv
+prophage_prediction/V583/prophage_tbl.tsv
+This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait.
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /home/icaro/Documentos/WGCA/.snakemake/log/2019-09-07T150352.872502.snakemake.log

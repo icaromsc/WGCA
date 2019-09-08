@@ -104,8 +104,8 @@ rule summary_results:
         v="virulence_genes/summary.tsv",
         r="resistome_summary/RGI_heatmap",
         gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
-        rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES)
-
+        rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES),
+        pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES)
     output:
         r="WGCA_analysis_result/RGI_heatmap",
         v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="Virulence factors"),
@@ -121,6 +121,8 @@ rule summary_results:
         shell("cp {input.gi} WGCA_analysis_result/")
         shell("cp {input.rt} WGCA_analysis_result/")
         shell("cd WGCA_analysis_result/ ; rename 's/.txt/.tsv/' *")
+        for i,s in zip(input.pr,SAMPLES):
+            shell("cp {i} WGCA_analysis_result/{s}_prophage_coordinates.tsv")
 
 rule genome_annotation:
     input:
@@ -149,3 +151,26 @@ rule genomic_island_prediction:
         "envs/island_path.yaml"
     shell:
         "islandpath {input} {output}"
+
+rule convert_gbk_to_seed:
+    input:
+        "genome_annotation/{sample}.gbk"
+    output:
+        directory("seeds/{sample}")
+    conda:
+        "envs/phispy.yaml"
+    shell:
+        "python scripts/phispy/genbank_to_seed.py {input} {output}"
+
+rule prophage_prediction:
+    input:
+        "seeds/{sample}"
+    output:
+        #d = dir("prophage_prediction/{sample}"),
+        r1 = report("prophage_prediction/{sample}/prophage.tbl", category="Prophages"),
+        r2 = report("prophage_prediction/{sample}/prophage_coordinates.tsv", category="Prophages"),
+        r3 = report("prophage_prediction/{sample}/prophage_tbl.tsv", category="Prophages")
+    conda:
+        "envs/phispy.yaml"
+    shell:
+        "scripts/phispy/PhiSpy.py -i {input} -o prophage_prediction/{wildcards.sample} -t 25 "

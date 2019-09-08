@@ -1,0 +1,3350 @@
+DMEHAFPA_00001	chromosomal replication initiation protein, DnaA
+DMEHAFPA_00002	DNA polymerase III subunit beta, DnaB
+DMEHAFPA_00003	S4 domain protein, YaaA
+DMEHAFPA_00004	recombination protein F, RecF
+DMEHAFPA_00005	DNA gyrase subunit B, GyrB
+DMEHAFPA_00006	DNA gyrase, A subunit, GyrA
+DMEHAFPA_00007	30S ribosomal protein S6
+DMEHAFPA_00008	single-strand binding protein
+DMEHAFPA_00009	30S ribosomal protein S18
+DMEHAFPA_00010	DHH family protein
+DMEHAFPA_00011	50S ribosomal protein L9
+DMEHAFPA_00012	replicative DNA helicase
+DMEHAFPA_00013	adenylosuccinate synthetase
+DMEHAFPA_00014	DegV family protein
+DMEHAFPA_00015	ABC transporter ATP-binding protein
+DMEHAFPA_00016	transcriptional antiterminator bglG:Sigma-54 factor
+DMEHAFPA_00017	PTS system, mannose/fructose/sorbose-specific IIB component
+DMEHAFPA_00018	PTS system, mannose/fructose/sorbose-specific IIAB component
+DMEHAFPA_00019	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_00020	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_00021	hypothetical protein
+DMEHAFPA_00022	acid-resistance membrane protein
+DMEHAFPA_00023	hypothetical protein
+DMEHAFPA_00024	phosphosugar isomerase transcriptional regulator
+DMEHAFPA_00025	PTS system, N-acetylglucosamine-specific IICBA component
+DMEHAFPA_00026	class II aminotransferase
+DMEHAFPA_00027	2-iminobutanoate/2-iminopropanoate deaminase
+DMEHAFPA_00028	ysyl-tRNA synthetase
+DMEHAFPA_00029	Bacterial membrane protein YfhO
+DMEHAFPA_00030	hypothetical protein
+DMEHAFPA_00031	hypothetical protein
+DMEHAFPA_00032	hypothetical protein
+DMEHAFPA_00033	Gamma-glutamyl phosphate reductase
+DMEHAFPA_00034	glutamate 5-kinase
+DMEHAFPA_00035	deoxyuridine 5'-triphosphate nucleotidohydrolase
+DMEHAFPA_00036	DNA repair protein RadA
+DMEHAFPA_00037	Integral membrane protein
+DMEHAFPA_00038	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+DMEHAFPA_00039	glutamyl-tRNA synthetase
+DMEHAFPA_00040	Serine O-acetyltransferase
+DMEHAFPA_00041	cysteinyl-tRNA synthetase
+DMEHAFPA_00042	ribonuclease III
+DMEHAFPA_00043	trmH family tRNA/rRNA methyltransferase
+DMEHAFPA_00044	putative RNA-binding protein containing a PIN domain protein
+DMEHAFPA_00045	RNA polymerase sigma-70 factor family protein
+DMEHAFPA_00046	veg family protein
+DMEHAFPA_00047	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+DMEHAFPA_00048	hypothetical protein
+DMEHAFPA_00049	DNA polymerase III PolC-type
+DMEHAFPA_00050	hypothetical protein
+DMEHAFPA_00051	periplasmic solute binding family protein
+DMEHAFPA_00052	ABC transporter ATP-binding protein
+DMEHAFPA_00053	ABC transporter permease
+DMEHAFPA_00054	pur operon repressor
+DMEHAFPA_00055	bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase
+DMEHAFPA_00056	Trifunctional nucleotide phosphoesterase protein YfkN
+DMEHAFPA_00057	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_00058	hypothetical protein
+DMEHAFPA_00059	F420-dependent glucose-6-phosphate dehydrogenase
+DMEHAFPA_00060	Holliday junction DNA helicase RuvA
+DMEHAFPA_00061	Holliday junction DNA helicase RuvB
+DMEHAFPA_00062	hypothetical protein
+DMEHAFPA_00063	N-acetylmannosamine-6-phosphate 2-epimerase
+DMEHAFPA_00064	Glucosidase YgjK
+DMEHAFPA_00065	hypothetical protein
+DMEHAFPA_00066	CarD family transcriptional regulator
+DMEHAFPA_00067	short chain dehydrogenase/reductase family oxidoreductase
+DMEHAFPA_00068	hypothetical protein
+DMEHAFPA_00069	small integral membrane protein
+DMEHAFPA_00070	alkaline shock protein 23 family protein
+DMEHAFPA_00071	alkaline shock protein 23 family protein
+DMEHAFPA_00072	transglycosylase associated protein
+DMEHAFPA_00073	transporter, major facilitator family protein
+DMEHAFPA_00074	hypothetical protein
+DMEHAFPA_00075	hypothetical protein
+DMEHAFPA_00076	hypothetical protein
+DMEHAFPA_00077	hypothetical protein
+DMEHAFPA_00078	hypothetical protein
+DMEHAFPA_00079	diacylglycerol kinase catalytic subunit
+DMEHAFPA_00080	M protein trans-acting positive regulator
+DMEHAFPA_00081	hypothetical protein
+DMEHAFPA_00082	hypothetical protein
+DMEHAFPA_00083	putative formate transporter 1
+DMEHAFPA_00084	hypothetical protein
+DMEHAFPA_00085	hypothetical protein
+DMEHAFPA_00086	hypothetical protein
+DMEHAFPA_00087	L-serine dehydratase, iron-sulfur-dependent subunit beta
+DMEHAFPA_00088	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+DMEHAFPA_00089	seryl-tRNA synthetase
+DMEHAFPA_00090	Monoacylglycerol lipase
+DMEHAFPA_00091	arginine repressor protein
+DMEHAFPA_00092	arginine repressor protein
+DMEHAFPA_00093	arginine deiminase
+DMEHAFPA_00094	ornithine carbamoyltransferase
+DMEHAFPA_00095	Carbamate kinase
+DMEHAFPA_00096	cyclic nucleotide-binding domain-containing protein
+DMEHAFPA_00097	C4-dicarboxylate anaerobic carrier
+DMEHAFPA_00098	DJ-1/PfpI family protein
+DMEHAFPA_00099	hypothetical protein
+DMEHAFPA_00100	zinc-binding alcohol dehydrogenase family protein
+DMEHAFPA_00101	hypothetical protein
+DMEHAFPA_00102	hypothetical protein
+DMEHAFPA_00103	hypothetical protein
+DMEHAFPA_00104	Putative aminoacrylate peracid reductase RutC
+DMEHAFPA_00105	hypothetical protein
+DMEHAFPA_00106	GntR family transcriptional regulator
+DMEHAFPA_00107	ornithine cyclodeaminase/mu-crystallin family protein
+DMEHAFPA_00108	phenazine biosynthesis protein PhzF family protein
+DMEHAFPA_00109	hypothetical protein
+DMEHAFPA_00110	hypothetical protein
+DMEHAFPA_00111	hypothetical protein
+DMEHAFPA_00112	hypothetical protein
+DMEHAFPA_00113	transposase, Mutator family
+DMEHAFPA_00114	hypothetical protein
+DMEHAFPA_00115	hypothetical protein
+DMEHAFPA_00116	hypothetical protein
+DMEHAFPA_00117	hypothetical protein
+DMEHAFPA_00118	hypothetical protein
+DMEHAFPA_00119	hypothetical protein
+DMEHAFPA_00120	hypothetical protein
+DMEHAFPA_00121	hypothetical protein
+DMEHAFPA_00122	hypothetical protein
+DMEHAFPA_00123	hypothetical protein
+DMEHAFPA_00124	hypothetical protein
+DMEHAFPA_00125	hypothetical protein
+DMEHAFPA_00126	hypothetical protein
+DMEHAFPA_00127	FtsK/SpoIIIE family protein
+DMEHAFPA_00128	hypothetical protein
+DMEHAFPA_00129	hypothetical protein
+DMEHAFPA_00130	hypothetical protein
+DMEHAFPA_00131	helix-turn-helix protein
+DMEHAFPA_00132	hypothetical protein
+DMEHAFPA_00133	Putative regulatory protein PrgT
+DMEHAFPA_00134	hypothetical protein
+DMEHAFPA_00135	Aggregation substance
+DMEHAFPA_00136	hypothetical protein
+DMEHAFPA_00137	hypothetical protein
+DMEHAFPA_00138	hypothetical protein
+DMEHAFPA_00139	hypothetical protein
+DMEHAFPA_00140	hypothetical protein
+DMEHAFPA_00141	hypothetical protein
+DMEHAFPA_00142	hypothetical protein
+DMEHAFPA_00143	hypothetical protein
+DMEHAFPA_00144	hypothetical protein
+DMEHAFPA_00145	ATP/GTP-binding protein
+DMEHAFPA_00146	hypothetical protein
+DMEHAFPA_00147	hypothetical protein
+DMEHAFPA_00148	hypothetical protein
+DMEHAFPA_00149	hypothetical protein
+DMEHAFPA_00150	hypothetical protein
+DMEHAFPA_00151	hypothetical protein
+DMEHAFPA_00152	hypothetical protein
+DMEHAFPA_00153	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_00154	GMP synthase
+DMEHAFPA_00155	pantothenate kinase
+DMEHAFPA_00156	hypothetical protein
+DMEHAFPA_00157	16S rRNA small subunit methyltransferase C
+DMEHAFPA_00158	Adenosine deaminase
+DMEHAFPA_00159	LacI family transcriptional regulator
+DMEHAFPA_00160	pyrimidine-nucleoside phosphorylase
+DMEHAFPA_00161	deoxyribose-phosphate aldolase
+DMEHAFPA_00162	cytidine deaminase
+DMEHAFPA_00163	Basic membrane lipopprotein
+DMEHAFPA_00164	Basic membrane lipopprotein
+DMEHAFPA_00165	ABC transporter ATP-binding protein
+DMEHAFPA_00166	ABC transporter permease
+DMEHAFPA_00167	ABC transporter permease
+DMEHAFPA_00168	integral membrane protein
+DMEHAFPA_00169	hypothetical protein
+DMEHAFPA_00170	phosphopentomutase
+DMEHAFPA_00171	purine nucleoside phosphorylase
+DMEHAFPA_00172	purine nucleoside phosphorylase
+DMEHAFPA_00173	periplasmic binding protein
+DMEHAFPA_00174	ferrichrome transport ATP-binding protein FhuC
+DMEHAFPA_00175	ferrichrome transport system permease FhuB
+DMEHAFPA_00176	ferrichrome transport system permease FhuG
+DMEHAFPA_00177	aldehyde-alcohol dehydrogenase
+DMEHAFPA_00178	phosphoglycerate mutase
+DMEHAFPA_00179	resolvase family site-specific recombinase
+DMEHAFPA_00180	ribose 5-phosphate isomerase A
+DMEHAFPA_00181	30S ribosomal protein S12
+DMEHAFPA_00182	30S ribosomal protein S7
+DMEHAFPA_00183	translation elongation factor G
+DMEHAFPA_00184	elongation factor Tu
+DMEHAFPA_00185	phosphomethylpyrimidine kinase
+DMEHAFPA_00186	cyclopropane-fatty-acyl-phospholipid synthase
+DMEHAFPA_00187	30S ribosomal protein S10
+DMEHAFPA_00188	50S ribosomal protein L3
+DMEHAFPA_00189	50S ribosomal protein L4
+DMEHAFPA_00190	50S ribosomal protein L23
+DMEHAFPA_00191	50S ribosomal protein L2
+DMEHAFPA_00192	30S ribosomal protein S19
+DMEHAFPA_00193	50S ribosomal protein L22
+DMEHAFPA_00194	30S ribosomal protein S3
+DMEHAFPA_00195	50S ribosomal protein L16
+DMEHAFPA_00196	50S ribosomal protein L29
+DMEHAFPA_00197	30S ribosomal protein S17
+DMEHAFPA_00198	50S ribosomal protein L14
+DMEHAFPA_00199	50S ribosomal protein L24
+DMEHAFPA_00200	50S ribosomal protein L5
+DMEHAFPA_00201	30S ribosomal protein S14
+DMEHAFPA_00202	30S ribosomal protein S8
+DMEHAFPA_00203	50S ribosomal protein L6
+DMEHAFPA_00204	50S ribosomal protein L18
+DMEHAFPA_00205	30S ribosomal protein S5
+DMEHAFPA_00206	50S ribosomal protein L30
+DMEHAFPA_00207	50S ribosomal protein L15
+DMEHAFPA_00208	preprotein translocase subunit SecY
+DMEHAFPA_00209	adenylate kinase
+DMEHAFPA_00210	translation initiation factor IF-1
+DMEHAFPA_00211	50S ribosomal protein L36
+DMEHAFPA_00212	30S ribosomal protein S13
+DMEHAFPA_00213	30S ribosomal protein S11
+DMEHAFPA_00214	DNA-directed RNA polymerase subunit alpha
+DMEHAFPA_00215	50S ribosomal protein L17
+DMEHAFPA_00216	hypothetical protein
+DMEHAFPA_00217	peptidase M20D
+DMEHAFPA_00218	cobalt import ATP-binding protein CbiO
+DMEHAFPA_00219	cobalt import ATP-binding protein CbiO 2
+DMEHAFPA_00220	cobalt transport family protein
+DMEHAFPA_00221	tRNA pseudouridine synthase A
+DMEHAFPA_00222	hypothetical protein
+DMEHAFPA_00223	branched-chain amino acid transport system II carrier protein
+DMEHAFPA_00224	Spermidine N(1)-acetyltransferase
+DMEHAFPA_00225	putative lysine decarboxylase
+DMEHAFPA_00226	amino acid ABC transporter ATP-binding protein
+DMEHAFPA_00227	amino acid ABC transporter permease
+DMEHAFPA_00228	hypothetical protein
+DMEHAFPA_00229	NAD-dependent deacetylase
+DMEHAFPA_00230	maltose O-acetyltransferase
+DMEHAFPA_00231	transcriptional regulator
+DMEHAFPA_00232	hypothetical protein
+DMEHAFPA_00233	methylmalonate-semialdehyde dehydrogenase
+DMEHAFPA_00234	L-lactate dehydrogenase
+DMEHAFPA_00235	Peptidyl-tRNA hydrolase
+DMEHAFPA_00236	transcription-repair coupling factor
+DMEHAFPA_00237	polysaccharide biosynthesis family protein
+DMEHAFPA_00238	S4 RNA-binding domain-containing protein
+DMEHAFPA_00239	septum formation initiator
+DMEHAFPA_00240	S1 RNA binding domain-containing protein
+DMEHAFPA_00241	tRNA(Ile)-lysidine synthase
+DMEHAFPA_00242	Hypoxanthine-guanine phosphoribosyltransferase
+DMEHAFPA_00243	ATP-dependent metalloprotease
+DMEHAFPA_00244	chaperonin HslO
+DMEHAFPA_00245	tRNA-dihydrouridine synthase
+DMEHAFPA_00246	lysyl-tRNA synthetase
+DMEHAFPA_00247	16S ribosomal RNA
+DMEHAFPA_00248	23S ribosomal RNA
+DMEHAFPA_00249	5S ribosomal RNA
+DMEHAFPA_00250	tRNA-Val
+DMEHAFPA_00251	tRNA-Lys
+DMEHAFPA_00252	tRNA-Leu
+DMEHAFPA_00253	tRNA-Thr
+DMEHAFPA_00254	tRNA-Gly
+DMEHAFPA_00255	tRNA-Leu
+DMEHAFPA_00256	tRNA-Arg
+DMEHAFPA_00257	tRNA-Pro
+DMEHAFPA_00258	tRNA-Ala
+DMEHAFPA_00259	tRNA-Met
+DMEHAFPA_00260	tRNA-Met
+DMEHAFPA_00261	tRNA-Ser
+DMEHAFPA_00262	tRNA-Met
+DMEHAFPA_00263	tRNA-Asp
+DMEHAFPA_00264	tRNA-Gly
+DMEHAFPA_00265	tRNA-Ile
+DMEHAFPA_00266	tRNA-Glu
+DMEHAFPA_00267	tRNA-Ser
+DMEHAFPA_00268	tRNA-Met
+DMEHAFPA_00269	tRNA-Asp
+DMEHAFPA_00270	tRNA-Phe
+DMEHAFPA_00271	tRNA-Gly
+DMEHAFPA_00272	tRNA-Ile
+DMEHAFPA_00273	tRNA-Ser
+DMEHAFPA_00274	tRNA-Glu
+DMEHAFPA_00275	transcriptional antiterminator bglG/CAT RNA-binding protein
+DMEHAFPA_00276	PTS system, beta-glucoside-specific IIABC component
+DMEHAFPA_00277	6-phospho-beta-glucosidase
+DMEHAFPA_00278	6-phospho-beta-glucosidase
+DMEHAFPA_00279	phosphoglycerate mutase family protein
+DMEHAFPA_00280	hydrolase
+DMEHAFPA_00281	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+DMEHAFPA_00282	Methylated-DNA--protein-cysteine methyltransferase, inducible
+DMEHAFPA_00283	DNA-3-methyladenine glycosylase I
+DMEHAFPA_00284	HD domain-containing protein
+DMEHAFPA_00285	cation diffusion facilitator family transporter
+DMEHAFPA_00286	hypothetical protein
+DMEHAFPA_00287	Enoyl-[acyl-carrier-protein] reductase
+DMEHAFPA_00288	beta-ketoacyl-acyl-carrier-protein synthase II
+DMEHAFPA_00289	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+DMEHAFPA_00290	dihydroorotate dehydrogenase 1A
+DMEHAFPA_00291	fibronectin-binding protein
+DMEHAFPA_00292	translation elongation factor P
+DMEHAFPA_00293	hypothetical protein
+DMEHAFPA_00294	cysteine synthase A
+DMEHAFPA_00295	cystathionine gamma-synthase
+DMEHAFPA_00296	6-phospho-beta-glucosidase
+DMEHAFPA_00297	PTS system, lactose/cellobiose IIC component
+DMEHAFPA_00298	HTH-type transcriptional regulator MurR
+DMEHAFPA_00299	riboflavin biosynthesis protein RibD protein
+DMEHAFPA_00300	V-type sodium ATP synthase subunit J
+DMEHAFPA_00301	transporter, monovalent cation:proton antiporter-2 family protein
+DMEHAFPA_00302	CopY/TcrY family copper transport repressor
+DMEHAFPA_00303	copper-translocating P-type ATPase
+DMEHAFPA_00304	hypothetical protein
+DMEHAFPA_00305	hypothetical protein
+DMEHAFPA_00306	hypothetical protein
+DMEHAFPA_00307	Aminopeptidase C
+DMEHAFPA_00308	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_00309	hypothetical protein
+DMEHAFPA_00310	hypothetical protein
+DMEHAFPA_00311	hypothetical protein
+DMEHAFPA_00312	hypothetical protein
+DMEHAFPA_00313	hypothetical protein
+DMEHAFPA_00314	hypothetical protein
+DMEHAFPA_00315	hypothetical protein
+DMEHAFPA_00316	hypothetical protein
+DMEHAFPA_00317	hypothetical protein
+DMEHAFPA_00318	hypothetical protein
+DMEHAFPA_00319	hypothetical protein
+DMEHAFPA_00320	hypothetical protein
+DMEHAFPA_00321	hypothetical protein
+DMEHAFPA_00322	hypothetical protein
+DMEHAFPA_00323	hypothetical protein
+DMEHAFPA_00324	hypothetical protein
+DMEHAFPA_00325	hypothetical protein
+DMEHAFPA_00326	hypothetical protein
+DMEHAFPA_00327	hypothetical protein
+DMEHAFPA_00328	hypothetical protein
+DMEHAFPA_00329	hypothetical protein
+DMEHAFPA_00330	DNA polymerase I
+DMEHAFPA_00331	hypothetical protein
+DMEHAFPA_00332	hypothetical protein
+DMEHAFPA_00333	hypothetical protein
+DMEHAFPA_00334	hypothetical protein
+DMEHAFPA_00335	hypothetical protein
+DMEHAFPA_00336	phage-associated helicase
+DMEHAFPA_00337	hypothetical protein
+DMEHAFPA_00338	phage protein
+DMEHAFPA_00339	hypothetical protein
+DMEHAFPA_00340	hypothetical protein
+DMEHAFPA_00341	hypothetical protein
+DMEHAFPA_00342	NAD(+)--arginine ADP-ribosyltransferase EFV
+DMEHAFPA_00343	hypothetical protein
+DMEHAFPA_00344	hypothetical protein
+DMEHAFPA_00345	hypothetical protein
+DMEHAFPA_00346	hypothetical protein
+DMEHAFPA_00347	hypothetical protein
+DMEHAFPA_00348	hypothetical protein
+DMEHAFPA_00349	hypothetical protein
+DMEHAFPA_00350	hypothetical protein
+DMEHAFPA_00351	hypothetical protein
+DMEHAFPA_00352	hypothetical protein
+DMEHAFPA_00353	hypothetical protein
+DMEHAFPA_00354	hypothetical protein
+DMEHAFPA_00355	hypothetical protein
+DMEHAFPA_00356	hypothetical protein
+DMEHAFPA_00357	hypothetical protein
+DMEHAFPA_00358	hypothetical protein
+DMEHAFPA_00359	hypothetical protein
+DMEHAFPA_00360	holin
+DMEHAFPA_00361	hypothetical protein
+DMEHAFPA_00362	tRNA-Met
+DMEHAFPA_00363	Flavin reductase-like domain protein
+DMEHAFPA_00364	glyoxalase family protein
+DMEHAFPA_00365	SMR family multidrug resistance protein
+DMEHAFPA_00366	SMR family multidrug resistance protein
+DMEHAFPA_00367	Chitinase D
+DMEHAFPA_00368	chitin binding protein
+DMEHAFPA_00369	ISEf1, transposase
+DMEHAFPA_00370	Acyl-ACP thioesterase
+DMEHAFPA_00371	hypothetical protein
+DMEHAFPA_00372	hypothetical protein
+DMEHAFPA_00373	aspartate kinase
+DMEHAFPA_00374	HAD superfamily hydrolase
+DMEHAFPA_00375	septation ring formation regulator EzrA
+DMEHAFPA_00376	class V aminotransferase
+DMEHAFPA_00377	response regulator receiver domain-containing protein
+DMEHAFPA_00378	Sensor histidine kinase RcsC
+DMEHAFPA_00379	hypothetical protein
+DMEHAFPA_00380	hypothetical protein
+DMEHAFPA_00381	hypothetical protein
+DMEHAFPA_00382	hypothetical protein
+DMEHAFPA_00383	5'-deoxyadenosine deaminase
+DMEHAFPA_00384	toxin-antitoxin system, toxin component, Fic family
+DMEHAFPA_00385	hypothetical protein
+DMEHAFPA_00386	hypothetical protein
+DMEHAFPA_00387	Purine catabolism regulatory protein
+DMEHAFPA_00388	hypothetical protein
+DMEHAFPA_00389	hypothetical protein
+DMEHAFPA_00390	Hexuronate transporter
+DMEHAFPA_00391	Carbamate kinase
+DMEHAFPA_00392	sodium/dicarboxylate symporter family protein
+DMEHAFPA_00393	Ureidoglycolate dehydrogenase (NAD(+))
+DMEHAFPA_00394	hypothetical protein
+DMEHAFPA_00395	N-isopropylammelide isopropyl amidohydrolase
+DMEHAFPA_00396	hypothetical protein
+DMEHAFPA_00397	hypothetical protein
+DMEHAFPA_00398	methionine synthase
+DMEHAFPA_00399	putative permease
+DMEHAFPA_00400	hypothetical protein
+DMEHAFPA_00401	hypothetical protein
+DMEHAFPA_00402	membrane protein
+DMEHAFPA_00403	pyrrolidone-carboxylate peptidase
+DMEHAFPA_00404	Na+/H+ antiporter
+DMEHAFPA_00405	ArsR family transcriptional regulator
+DMEHAFPA_00406	nitroreductase family protein
+DMEHAFPA_00407	HAD superfamily hydrolase
+DMEHAFPA_00408	PTS system, mannitol-specific IICB component
+DMEHAFPA_00409	transcriptional antiterminator bglG
+DMEHAFPA_00410	PTS system, mannitol-specific IIA component
+DMEHAFPA_00411	PTS system, mannitol-specific IICBA component
+DMEHAFPA_00412	PTS system mannitol-specific transporter subunit IIA
+DMEHAFPA_00413	Mannitol-1-phosphate 5-dehydrogenase
+DMEHAFPA_00414	FAD dependent oxidoreductase
+DMEHAFPA_00415	hypothetical protein
+DMEHAFPA_00416	hypothetical protein
+DMEHAFPA_00417	ABC transporter ATP-binding protein/permease
+DMEHAFPA_00418	Macrolide export ATP-binding/permease protein MacB
+DMEHAFPA_00419	Urea transporter
+DMEHAFPA_00420	major facilitator superfamily transporter
+DMEHAFPA_00421	MerR family transcriptional regulator
+DMEHAFPA_00422	IclR transcriptional regulator
+DMEHAFPA_00423	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+DMEHAFPA_00424	2-dehydro-3-deoxygluconokinase
+DMEHAFPA_00425	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+DMEHAFPA_00426	gluconate 5-dehydrogenase
+DMEHAFPA_00427	Glycosyl Hydrolase Family 88
+DMEHAFPA_00428	TRAP dicarboxylate transporter subunit DctP
+DMEHAFPA_00429	TRAP dicarboxylate transporter subunit DctQ
+DMEHAFPA_00430	TRAP dicarboxylate transporter subunit DctM
+DMEHAFPA_00431	AraC family transcriptional regulator
+DMEHAFPA_00432	rhamnulokinase
+DMEHAFPA_00433	L-rhamnose isomerase
+DMEHAFPA_00434	rhamnulose-1-phosphate aldolase
+DMEHAFPA_00435	L-rhamnose mutarotase
+DMEHAFPA_00436	AraC family transcriptional regulator
+DMEHAFPA_00437	AP endonuclease
+DMEHAFPA_00438	hypothetical protein
+DMEHAFPA_00439	amino acid/peptide transporter
+DMEHAFPA_00440	peptidoglycan-binding protein LysM
+DMEHAFPA_00441	1,4-dihydroxy-2-naphthoyl-CoA synthase
+DMEHAFPA_00442	D-alanine--poly(phosphoribitol) ligase subunit 1
+DMEHAFPA_00443	Salicylate biosynthesis isochorismate synthase
+DMEHAFPA_00444	2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase
+DMEHAFPA_00445	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase
+DMEHAFPA_00446	o-succinylbenzoate synthase
+DMEHAFPA_00447	glucosamine-6-phosphate deaminase
+DMEHAFPA_00448	AMP-binding family protein
+DMEHAFPA_00449	peroxiredoxin, Ohr family protein
+DMEHAFPA_00450	Sulfite exporter TauE/SafE
+DMEHAFPA_00451	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_00452	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_00453	PTS system mannose-specific transporter subunit IIAB
+DMEHAFPA_00454	RpiR family transcriptional regulator
+DMEHAFPA_00455	N-acetylmuramic acid 6-phosphate etherase
+DMEHAFPA_00456	Beta-lactamase
+DMEHAFPA_00457	PTS system sorbose-specific EIIA component
+DMEHAFPA_00458	hypothetical protein
+DMEHAFPA_00459	superoxide dismutase
+DMEHAFPA_00460	Diaminopimelate epimerase
+DMEHAFPA_00461	transcriptional regulator
+DMEHAFPA_00462	glucosamine-6-phosphate deaminase
+DMEHAFPA_00463	MgtC family protein
+DMEHAFPA_00464	Protein LemA
+DMEHAFPA_00465	hypothetical protein
+DMEHAFPA_00466	ribonucleotide-diphosphate reductase, beta subunit
+DMEHAFPA_00467	ribonucleoside-diphosphate reductase subunit alpha
+DMEHAFPA_00468	putative flavoprotein NrdI
+DMEHAFPA_00469	glutaredoxin
+DMEHAFPA_00470	ferrous iron transport protein A
+DMEHAFPA_00471	ferrous iron transport protein B
+DMEHAFPA_00472	hypothetical protein
+DMEHAFPA_00473	Tyrosine recombinase XerC
+DMEHAFPA_00474	hypothetical protein
+DMEHAFPA_00475	tRNA-Lys
+DMEHAFPA_00476	hypothetical protein
+DMEHAFPA_00477	Helix-turn-helix domain protein
+DMEHAFPA_00478	RNA polymerase sigma-70 factor, region 4
+DMEHAFPA_00479	RNA polymerase sigma-70 factor, region 4
+DMEHAFPA_00480	Aggregation substance
+DMEHAFPA_00481	hypothetical protein
+DMEHAFPA_00482	hypothetical protein
+DMEHAFPA_00483	hypothetical protein
+DMEHAFPA_00484	hypothetical protein
+DMEHAFPA_00485	hypothetical protein
+DMEHAFPA_00486	hypothetical protein
+DMEHAFPA_00487	hypothetical protein
+DMEHAFPA_00488	hypothetical protein
+DMEHAFPA_00489	hypothetical protein
+DMEHAFPA_00490	hypothetical protein
+DMEHAFPA_00491	hypothetical protein
+DMEHAFPA_00492	hypothetical protein
+DMEHAFPA_00493	hypothetical protein
+DMEHAFPA_00494	single-strand binding protein
+DMEHAFPA_00495	hypothetical protein
+DMEHAFPA_00496	hypothetical protein
+DMEHAFPA_00497	amino acid transporter
+DMEHAFPA_00498	hypothetical protein
+DMEHAFPA_00499	hypothetical protein
+DMEHAFPA_00500	hypothetical protein
+DMEHAFPA_00501	hypothetical protein
+DMEHAFPA_00502	hypothetical protein
+DMEHAFPA_00503	hypothetical protein
+DMEHAFPA_00504	Single-stranded DNA-binding protein
+DMEHAFPA_00505	Endonuclease YncB
+DMEHAFPA_00506	hypothetical protein
+DMEHAFPA_00507	mRNA interferase toxin YafQ
+DMEHAFPA_00508	Transposase, IS1216
+DMEHAFPA_00509	ISEf1, transposase
+DMEHAFPA_00510	membrane protein
+DMEHAFPA_00511	2-dehydropantoate 2-reductase
+DMEHAFPA_00512	cell wall surface anchor family protein
+DMEHAFPA_00513	hypothetical protein
+DMEHAFPA_00514	IS1216 transposase
+DMEHAFPA_00515	hypothetical protein
+DMEHAFPA_00516	choloylglycine hydrolase family protein
+DMEHAFPA_00517	Transposase, IS1216
+DMEHAFPA_00518	hypothetical protein
+DMEHAFPA_00519	Cro/CI family transcriptional regulator
+DMEHAFPA_00520	hypothetical protein
+DMEHAFPA_00521	hypothetical protein
+DMEHAFPA_00522	hypothetical protein
+DMEHAFPA_00523	hypothetical protein
+DMEHAFPA_00524	ABC transporter, ATP-binding protein/permease
+DMEHAFPA_00525	transposase, Mutator family
+DMEHAFPA_00526	AraC family transcriptional regulator
+DMEHAFPA_00527	hypothetical protein
+DMEHAFPA_00528	hypothetical protein
+DMEHAFPA_00529	hypothetical protein
+DMEHAFPA_00530	Putative transposon Tn552 DNA-invertase bin3
+DMEHAFPA_00531	Putative transposon Tn552 DNA-invertase bin3
+DMEHAFPA_00532	phosphosugar isomerase transcriptional regulator
+DMEHAFPA_00533	N-acetylmannosamine-6-phosphate 2-epimerase
+DMEHAFPA_00534	PTS system, N-acetylglucosamine-specific IIABC component
+DMEHAFPA_00535	PTS system, trehalose/maltose-specific, IIBCA component
+DMEHAFPA_00536	YibE/F-like protein
+DMEHAFPA_00537	YibE/F-like protein
+DMEHAFPA_00538	50S ribosomal protein L32
+DMEHAFPA_00539	hypothetical protein
+DMEHAFPA_00540	CobW/P47K family protein
+DMEHAFPA_00541	ammonium transporter family protein
+DMEHAFPA_00542	Baeyer-Villiger flavin-containing monooxygenase
+DMEHAFPA_00543	hypothetical protein
+DMEHAFPA_00544	hypothetical protein
+DMEHAFPA_00545	N-acetylglucosamine repressor
+DMEHAFPA_00546	hypothetical protein
+DMEHAFPA_00547	PTS system mannose-specific transporter subunit IIC
+DMEHAFPA_00548	PTS system mannose-specific transporter subunit IID
+DMEHAFPA_00549	PTS system mannose-specific transporter subunit IIAB
+DMEHAFPA_00550	PTS system, mannose/fructose/sorbose-specific IIA component
+DMEHAFPA_00551	Xylose isomerase
+DMEHAFPA_00552	gluconate kinase
+DMEHAFPA_00553	polysaccharide biosynthesis family protein
+DMEHAFPA_00554	hypothetical protein
+DMEHAFPA_00555	hypothetical protein
+DMEHAFPA_00556	hypothetical protein
+DMEHAFPA_00557	hypothetical protein
+DMEHAFPA_00558	hypothetical protein
+DMEHAFPA_00559	hypothetical protein
+DMEHAFPA_00560	hypothetical protein
+DMEHAFPA_00561	Potassium-transporting ATPase potassium-binding subunit
+DMEHAFPA_00562	Potassium-transporting ATPase ATP-binding subunit
+DMEHAFPA_00563	Potassium-transporting ATPase KdpC subunit
+DMEHAFPA_00564	Sensor protein KdpD
+DMEHAFPA_00565	DNA-binding response regulator
+DMEHAFPA_00566	tRNA-Met
+DMEHAFPA_00567	hypothetical protein
+DMEHAFPA_00568	hypothetical protein
+DMEHAFPA_00569	ABC transporter, ATP-binding protein
+DMEHAFPA_00570	metal ion ABC transporter permease
+DMEHAFPA_00571	adhesion lipoprotein
+DMEHAFPA_00572	iron dependent repressor, DNA binding domain protein
+DMEHAFPA_00573	hypothetical protein
+DMEHAFPA_00574	transcriptional regulator
+DMEHAFPA_00575	Cobalt transport protein
+DMEHAFPA_00576	ABC transporter ATP-binding protein
+DMEHAFPA_00577	hypothetical protein
+DMEHAFPA_00578	ABC transporter ATP-binding protein
+DMEHAFPA_00579	ABC transporter, ATP-binding protein
+DMEHAFPA_00580	30S ribosomal protein S14
+DMEHAFPA_00581	50S ribosomal protein L32
+DMEHAFPA_00582	hypothetical protein
+DMEHAFPA_00583	50S ribosomal protein L33
+DMEHAFPA_00584	cobalamin synthesis protein
+DMEHAFPA_00585	hypothetical protein
+DMEHAFPA_00586	hypothetical protein
+DMEHAFPA_00587	hypothetical protein
+DMEHAFPA_00588	hypothetical protein
+DMEHAFPA_00589	ISEf1, transposase
+DMEHAFPA_00590	IS1182 family transposase IS663
+DMEHAFPA_00591	IS1182 family transposase IS1182
+DMEHAFPA_00592	hypothetical protein
+DMEHAFPA_00593	hypothetical protein
+DMEHAFPA_00594	hypothetical protein
+DMEHAFPA_00595	hypothetical protein
+DMEHAFPA_00596	hypothetical protein
+DMEHAFPA_00597	ISEfa8, transposase
+DMEHAFPA_00598	hypothetical protein
+DMEHAFPA_00599	alkaline shock protein 23 family protein
+DMEHAFPA_00600	hypothetical protein
+DMEHAFPA_00601	hypothetical protein
+DMEHAFPA_00602	DNA protection during starvation protein 1
+DMEHAFPA_00603	putative protein YbdM
+DMEHAFPA_00604	hypothetical protein
+DMEHAFPA_00605	hypothetical protein
+DMEHAFPA_00606	hypothetical protein
+DMEHAFPA_00607	IS200/IS605 family transposase ISAac3
+DMEHAFPA_00608	ornithine cyclodeaminase/mu-crystallin family protein
+DMEHAFPA_00609	hypothetical protein
+DMEHAFPA_00610	transcriptional regulator
+DMEHAFPA_00611	hypothetical protein
+DMEHAFPA_00612	hypothetical protein
+DMEHAFPA_00613	hypothetical protein
+DMEHAFPA_00614	PTS system mannose-specific transporter subunit IID
+DMEHAFPA_00615	hypothetical protein
+DMEHAFPA_00616	hypothetical protein
+DMEHAFPA_00617	hypothetical protein
+DMEHAFPA_00618	PTS system, mannose/fructose/sorbose-specific IIA component
+DMEHAFPA_00619	oxidoreductase, aldo/keto reductase family protein
+DMEHAFPA_00620	2-epi-5-epi-valiolone epimerase
+DMEHAFPA_00621	cardiolipin synthetase
+DMEHAFPA_00622	tyrosyl-tRNA synthetase
+DMEHAFPA_00623	tyrosine decarboxylase
+DMEHAFPA_00624	amino acid permease
+DMEHAFPA_00625	Na+/H+ antiporter
+DMEHAFPA_00626	hypothetical protein
+DMEHAFPA_00627	putative lipoprotein YehR
+DMEHAFPA_00628	phosphatidylglycerophosphatase A
+DMEHAFPA_00629	L-lactate dehydrogenase
+DMEHAFPA_00630	hypothetical protein
+DMEHAFPA_00631	hypothetical protein
+DMEHAFPA_00632	LysR family transcriptional regulator
+DMEHAFPA_00633	C4-dicarboxylate transporter/malic acid transport protein
+DMEHAFPA_00634	NAD-dependent epimerase/dehydratase
+DMEHAFPA_00635	putative HTH-type transcriptional regulator YtcD
+DMEHAFPA_00636	nitroreductase family protein
+DMEHAFPA_00637	lipoyltransferase and lipoate-protein ligase A
+DMEHAFPA_00638	hypothetical protein
+DMEHAFPA_00639	hypothetical protein
+DMEHAFPA_00640	hypothetical protein
+DMEHAFPA_00641	hypothetical protein
+DMEHAFPA_00642	LacI family sugar-binding transcriptional regulator
+DMEHAFPA_00643	nitroreductase family protein
+DMEHAFPA_00644	glyoxalase family protein
+DMEHAFPA_00645	DeoR-like helix-turn-helix protein
+DMEHAFPA_00646	hypothetical protein
+DMEHAFPA_00647	uracil-DNA glycosylase, family 4
+DMEHAFPA_00648	Multidrug export protein MepA
+DMEHAFPA_00649	oligoendopeptidase, PepF/M3 family
+DMEHAFPA_00650	integral membrane protein
+DMEHAFPA_00651	putative transcriptional regulatory protein
+DMEHAFPA_00652	hypothetical protein
+DMEHAFPA_00653	hypothetical protein
+DMEHAFPA_00654	glyoxalase family protein
+DMEHAFPA_00655	phospholipase/carboxylesterase
+DMEHAFPA_00656	UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase
+DMEHAFPA_00657	polysaccharide biosynthesis family protein
+DMEHAFPA_00658	16S rRNA pseudouridylate synthase A
+DMEHAFPA_00659	dipeptidase PepV
+DMEHAFPA_00660	hypothetical protein
+DMEHAFPA_00661	hypothetical protein
+DMEHAFPA_00662	ABC transporter ATP-binding protein
+DMEHAFPA_00663	glycine betaine/carnitine/choline ABC transporter
+DMEHAFPA_00664	arginine repressor protein
+DMEHAFPA_00665	phosphoglucomutase/phosphomannomutase family protein
+DMEHAFPA_00666	hypothetical protein
+DMEHAFPA_00667	23S rRNA pseudouridine synthase D
+DMEHAFPA_00668	penicillin-binding protein, 1A family
+DMEHAFPA_00669	hypothetical protein
+DMEHAFPA_00670	Ser/Thr protein phosphatase family protein
+DMEHAFPA_00671	putative protein YhaN
+DMEHAFPA_00672	3'-5' exoribonuclease yhaM
+DMEHAFPA_00673	Foldase protein prsA
+DMEHAFPA_00674	YtxH-like protein
+DMEHAFPA_00675	histidine triad protein
+DMEHAFPA_00676	ABC transporter ATP-binding protein
+DMEHAFPA_00677	Bacterial ABC transporter protein EcsB
+DMEHAFPA_00678	Phosphotransferase
+DMEHAFPA_00679	tRNA (guanine-N(7)-)-methyltransferase
+DMEHAFPA_00680	HTH-type transcriptional regulator MurR
+DMEHAFPA_00681	1-phosphofructokinase
+DMEHAFPA_00682	PTS system fructose-specific transporter subunit IIBC
+DMEHAFPA_00683	PTS system fructose-specific transporter subunit IIA
+DMEHAFPA_00684	tagatose 1,6-diphosphate aldolase
+DMEHAFPA_00685	hypothetical protein
+DMEHAFPA_00686	GNAT family acetyltransferase
+DMEHAFPA_00687	permease
+DMEHAFPA_00688	hemolysin
+DMEHAFPA_00689	peptide chain release factor 3
+DMEHAFPA_00690	hypothetical protein
+DMEHAFPA_00691	membrane protein
+DMEHAFPA_00692	hypothetical protein
+DMEHAFPA_00693	hypothetical protein
+DMEHAFPA_00694	UvrB/UvrC protein/AAA ATPase
+DMEHAFPA_00695	hypothetical protein
+DMEHAFPA_00696	phosphocarrier protein HPr
+DMEHAFPA_00697	Phosphoenolpyruvate-protein phosphotransferase
+DMEHAFPA_00698	cell wall surface anchor family protein
+DMEHAFPA_00699	hypothetical protein
+DMEHAFPA_00700	hypothetical protein
+DMEHAFPA_00701	trigger factor
+DMEHAFPA_00702	hypothetical protein
+DMEHAFPA_00703	PTS system fructose-specific transporter subunit IIABC
+DMEHAFPA_00704	hexose kinase, 1-phosphofructokinase family protein
+DMEHAFPA_00705	DeoR-like helix-turn-helix protein
+DMEHAFPA_00706	voltage-gated cchloride transporter, chloride channel family protein
+DMEHAFPA_00707	ATP-dependent DNA helicase
+DMEHAFPA_00708	NAD-dependent DNA ligase
+DMEHAFPA_00709	aspartyl/glutamyl-tRNA amidotransferase subunit C
+DMEHAFPA_00710	glutamyl-tRNA(Gln) amidotransferase subunit A
+DMEHAFPA_00711	aspartyl/glutamyl-tRNA amidotransferase subunit B
+DMEHAFPA_00712	Diacylglycerol kinase
+DMEHAFPA_00713	23S rRNA (uracil-5-)-methyltransferase
+DMEHAFPA_00714	hypothetical protein
+DMEHAFPA_00715	thioredoxin domain-containing protein
+DMEHAFPA_00716	HTH-type transcriptional regulator MalT
+DMEHAFPA_00717	ornithine carbamoyltransferase
+DMEHAFPA_00718	amino acid permease family protein
+DMEHAFPA_00719	Putative agmatine deiminase
+DMEHAFPA_00720	Carbamate kinase
+DMEHAFPA_00721	glutamyl-tRNA(Gln) amidotransferase subunit A
+DMEHAFPA_00722	nicotinamide mononucleotide transporter PnuC
+DMEHAFPA_00723	deoxynucleoside kinase
+DMEHAFPA_00724	hypothetical protein
+DMEHAFPA_00725	hypothetical protein
+DMEHAFPA_00726	hypothetical protein
+DMEHAFPA_00727	sodium/dicarboxylate symporter family protein
+DMEHAFPA_00728	glyoxalase family protein
+DMEHAFPA_00729	D-aminopeptidase
+DMEHAFPA_00730	hypothetical protein
+DMEHAFPA_00731	rhodanese-like domain-containing protein
+DMEHAFPA_00732	hypothetical protein
+DMEHAFPA_00733	hypothetical protein
+DMEHAFPA_00734	hypothetical protein
+DMEHAFPA_00735	hypothetical protein
+DMEHAFPA_00736	hypothetical protein
+DMEHAFPA_00737	cell wall surface anchor family protein
+DMEHAFPA_00738	hypothetical protein
+DMEHAFPA_00739	hypothetical protein
+DMEHAFPA_00740	cadmium-translocating P-type ATPase
+DMEHAFPA_00741	Protein SapB
+DMEHAFPA_00742	amino acid ABC transporter ATP-binding protein
+DMEHAFPA_00743	Membrane-bound lytic murein transglycosylase F
+DMEHAFPA_00744	excinuclease ABC subunit B
+DMEHAFPA_00745	excinuclease ABC subunit A
+DMEHAFPA_00746	hypothetical protein
+DMEHAFPA_00747	ATP-binding protein
+DMEHAFPA_00748	Putative gluconeogenesis factor
+DMEHAFPA_00749	hypothetical protein
+DMEHAFPA_00750	hypothetical protein
+DMEHAFPA_00751	bifunctional disulfide isomerase/thiol-disulfide oxidase
+DMEHAFPA_00752	ATP-dependent Clp protease proteolytic subunit
+DMEHAFPA_00753	hypothetical protein
+DMEHAFPA_00754	membrane protein
+DMEHAFPA_00755	hypothetical protein
+DMEHAFPA_00756	hypothetical protein
+DMEHAFPA_00757	hypothetical protein
+DMEHAFPA_00758	glycerophosphodiester phosphodiesterase family protein
+DMEHAFPA_00759	hypothetical protein
+DMEHAFPA_00760	major cold shock protein CspA
+DMEHAFPA_00761	tRNA-Arg
+DMEHAFPA_00762	RNA polymerase factor sigma-54
+DMEHAFPA_00763	acyltransferase
+DMEHAFPA_00764	S-adenosylmethionine synthetase
+DMEHAFPA_00765	major facilitator superfamily transporter
+DMEHAFPA_00766	esterase
+DMEHAFPA_00767	TetR family transcriptional regulator
+DMEHAFPA_00768	ABC transporter ATP-binding protein
+DMEHAFPA_00769	ABC transporter ATP-binding protein
+DMEHAFPA_00770	TetR family transcriptional regulator
+DMEHAFPA_00771	efflux ABC transporter permease
+DMEHAFPA_00772	ABC transporter ATP-binding protein
+DMEHAFPA_00773	rRNA methylase family protein
+DMEHAFPA_00774	radical SAM protein family protein
+DMEHAFPA_00775	PAP2 family protein
+DMEHAFPA_00776	hypothetical protein
+DMEHAFPA_00777	hypothetical protein
+DMEHAFPA_00778	N-acetylmuramoyl-L-alanine amidase
+DMEHAFPA_00779	leucyl-tRNA synthetase
+DMEHAFPA_00780	hypothetical protein
+DMEHAFPA_00781	hypothetical protein
+DMEHAFPA_00782	family 3 extracellular solute-binding protein
+DMEHAFPA_00783	putative glutamine ABC transporter ATP-binding protein
+DMEHAFPA_00784	amino acid ABC transporter permease
+DMEHAFPA_00785	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_00786	transglycosylase
+DMEHAFPA_00787	hypothetical protein
+DMEHAFPA_00788	hypothetical protein
+DMEHAFPA_00789	glycosyl hydrolase family protein
+DMEHAFPA_00790	Beta-galactosidase
+DMEHAFPA_00791	transcriptional regulator, GntR family
+DMEHAFPA_00792	PTS system, mannose/fructose/sorbose-specific IIAB component
+DMEHAFPA_00793	PTS system mannose-specific transporter subunit IIC
+DMEHAFPA_00794	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_00795	hypothetical protein
+DMEHAFPA_00796	hypothetical protein
+DMEHAFPA_00797	50S ribosomal protein L25
+DMEHAFPA_00798	16S rRNA pseudouridine synthase A
+DMEHAFPA_00799	HAD superfamily hydrolase
+DMEHAFPA_00800	GNAT family acetyltransferase
+DMEHAFPA_00801	uridine kinase
+DMEHAFPA_00802	toxin-antitoxin system, toxin component, MazF family
+DMEHAFPA_00803	oxidoreductase family, NAD-binding Rossmann fold protein
+DMEHAFPA_00804	transcriptional antiterminator bglG
+DMEHAFPA_00805	PRD domain-containing protein
+DMEHAFPA_00806	hypothetical protein
+DMEHAFPA_00807	hypothetical protein
+DMEHAFPA_00808	hypothetical protein
+DMEHAFPA_00809	hypothetical protein
+DMEHAFPA_00810	PTS system transporter subunit IIC
+DMEHAFPA_00811	hypothetical protein
+DMEHAFPA_00812	alpha3-beta1 integrin-binding family protein
+DMEHAFPA_00813	Deacetylase
+DMEHAFPA_00814	D-glucosaminate-6-phosphate ammonia lyase
+DMEHAFPA_00815	2-dehydro-3-deoxy-phosphogluconate aldolase
+DMEHAFPA_00816	kinase, PfkB family
+DMEHAFPA_00817	DNA gyrase subunit B, GyrB
+DMEHAFPA_00818	YaiI/YqxD family protein
+DMEHAFPA_00819	D-alanine--D-alanine ligase
+DMEHAFPA_00820	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+DMEHAFPA_00821	DEAD/DEAH box helicase
+DMEHAFPA_00822	holo-[acyl-carrier-protein] synthase
+DMEHAFPA_00823	alanine racemase
+DMEHAFPA_00824	toxin-antitoxin system, toxin component, MazF family
+DMEHAFPA_00825	hypothetical protein
+DMEHAFPA_00826	Chromosome partition protein Smc
+DMEHAFPA_00827	Signal peptidase IB
+DMEHAFPA_00828	helix-turn-helix domain-containing protein
+DMEHAFPA_00829	Tyrosine-protein phosphatase
+DMEHAFPA_00830	hypothetical protein
+DMEHAFPA_00831	phage infection protein
+DMEHAFPA_00832	cation diffusion facilitator family transporter
+DMEHAFPA_00833	amino acid permease
+DMEHAFPA_00834	GNAT family acetyltransferase
+DMEHAFPA_00835	ABC transporter permease
+DMEHAFPA_00836	glycine betaine/carnitine/choline ABC transporter
+DMEHAFPA_00837	glycine betaine/carnitine/choline ABC transporter permease
+DMEHAFPA_00838	glycine betaine/carnitine/choline transporter ATP-binding protein
+DMEHAFPA_00839	glyoxalase family protein
+DMEHAFPA_00840	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+DMEHAFPA_00841	hypothetical protein
+DMEHAFPA_00842	calcium-translocating P-type ATPase
+DMEHAFPA_00843	K+ uptake transporter
+DMEHAFPA_00844	hypothetical protein
+DMEHAFPA_00845	copper-translocating P-type ATPase
+DMEHAFPA_00846	hypothetical protein
+DMEHAFPA_00847	oxidoreductase, aldo/keto reductase family protein
+DMEHAFPA_00848	DNA polymerase I
+DMEHAFPA_00849	Formamidopyrimidine-DNA glycosylase
+DMEHAFPA_00850	Dephospho-CoA kinase
+DMEHAFPA_00851	transcriptional repressor NrdR
+DMEHAFPA_00852	replication initiation and membrane attachment protein
+DMEHAFPA_00853	primosomal protein DnaI
+DMEHAFPA_00854	hypothetical protein
+DMEHAFPA_00855	hypothetical protein
+DMEHAFPA_00856	hypothetical protein
+DMEHAFPA_00857	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+DMEHAFPA_00858	hypothetical protein
+DMEHAFPA_00859	hypothetical protein
+DMEHAFPA_00860	hypothetical protein
+DMEHAFPA_00861	aspartate aminotransferase
+DMEHAFPA_00862	amino acid ABC transporter ATP-binding protein
+DMEHAFPA_00863	amino acid ABC transporter permease
+DMEHAFPA_00864	Hydroxycarboxylate dehydrogenase A
+DMEHAFPA_00865	queuine tRNA-ribosyltransferase
+DMEHAFPA_00866	hypothetical protein
+DMEHAFPA_00867	hypothetical protein
+DMEHAFPA_00868	aldehyde-alcohol dehydrogenase
+DMEHAFPA_00869	isopentenyl-diphosphate delta-isomerase
+DMEHAFPA_00870	phosphomevalonate kinase
+DMEHAFPA_00871	diphosphomevalonate decarboxylase
+DMEHAFPA_00872	mevalonate kinase
+DMEHAFPA_00873	pentapeptide repeat-containing protein
+DMEHAFPA_00874	hypothetical protein
+DMEHAFPA_00875	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_00876	hypothetical protein
+DMEHAFPA_00877	oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein
+DMEHAFPA_00878	oligopeptide ABC transporter, permease protein OppC family protein
+DMEHAFPA_00879	ABC transporter ATP-binding protein
+DMEHAFPA_00880	ABC transporter ATP-binding protein
+DMEHAFPA_00881	transposase
+DMEHAFPA_00882	translation initiation factor IF-3
+DMEHAFPA_00883	50S ribosomal protein L35
+DMEHAFPA_00884	50S ribosomal protein L20
+DMEHAFPA_00885	hypothetical protein
+DMEHAFPA_00886	membrane protein
+DMEHAFPA_00887	putative N-acetyltransferase YjaB
+DMEHAFPA_00888	hypothetical protein
+DMEHAFPA_00889	sulfate transporter/STAS domain-containing protein
+DMEHAFPA_00890	membrane protein
+DMEHAFPA_00891	LysR family transcriptional regulator
+DMEHAFPA_00892	hypothetical protein
+DMEHAFPA_00893	hypothetical protein
+DMEHAFPA_00894	DNA-binding response regulator
+DMEHAFPA_00895	sensor histidine kinase
+DMEHAFPA_00896	glucose uptake protein
+DMEHAFPA_00897	amino acid permease
+DMEHAFPA_00898	methionyl-tRNA synthetase
+DMEHAFPA_00899	hypothetical protein
+DMEHAFPA_00900	hypothetical protein
+DMEHAFPA_00901	ATP-dependent DNA helicase IV
+DMEHAFPA_00902	TatD family hydrolase
+DMEHAFPA_00903	ribonuclease M5
+DMEHAFPA_00904	ribosomal RNA small subunit methyltransferase A
+DMEHAFPA_00905	Niacin transporter NiaX
+DMEHAFPA_00906	ABC transporter ATP-binding protein
+DMEHAFPA_00907	methylglyoxal synthase
+DMEHAFPA_00908	membrane protein
+DMEHAFPA_00909	ABC transporter ATP-binding protein/permease
+DMEHAFPA_00910	ABC transporter ATP-binding protein/permease
+DMEHAFPA_00911	hypothetical protein
+DMEHAFPA_00912	hypothetical protein
+DMEHAFPA_00913	GNAT family acetyltransferase
+DMEHAFPA_00914	hypothetical protein
+DMEHAFPA_00915	HAD superfamily hydrolase
+DMEHAFPA_00916	uracil-DNA glycosylase
+DMEHAFPA_00917	phosphate acetyltransferase
+DMEHAFPA_00918	ATPase
+DMEHAFPA_00919	GNAT family acetyltransferase
+DMEHAFPA_00920	hypothetical protein
+DMEHAFPA_00921	LacI family sugar-binding transcriptional regulator
+DMEHAFPA_00922	aldose 1-epimerase
+DMEHAFPA_00923	beta-phosphoglucomutase
+DMEHAFPA_00924	glycoside hydrolase, family 65
+DMEHAFPA_00925	PTS system glucose-specific transporter subunit IIABC
+DMEHAFPA_00926	endonuclease/exonuclease/phosphatase family protein
+DMEHAFPA_00927	delta 1-pyrroline-5-carboxylate reductase
+DMEHAFPA_00928	HTH-type transcriptional activator RhaS
+DMEHAFPA_00929	hypothetical protein
+DMEHAFPA_00930	MazG nucleotide pyrophosphohydrolase
+DMEHAFPA_00931	putative peptide export permease protein YydJ
+DMEHAFPA_00932	hypothetical protein
+DMEHAFPA_00933	hypothetical protein
+DMEHAFPA_00934	tRNA-Arg
+DMEHAFPA_00935	50S ribosomal protein L21
+DMEHAFPA_00936	putative ribosomal protein
+DMEHAFPA_00937	50S ribosomal protein L27
+DMEHAFPA_00938	Protein PsiE
+DMEHAFPA_00939	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+DMEHAFPA_00940	Xaa-Pro dipeptidase
+DMEHAFPA_00941	hypothetical protein
+DMEHAFPA_00942	alkaline-shock protein
+DMEHAFPA_00943	transcription antitermination factor NusB
+DMEHAFPA_00944	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+DMEHAFPA_00945	exodeoxyribonuclease VII large subunit
+DMEHAFPA_00946	exodeoxyribonuclease VII small subunit
+DMEHAFPA_00947	geranyltranstransferase
+DMEHAFPA_00948	hemolysin A
+DMEHAFPA_00949	arginine repressor protein
+DMEHAFPA_00950	DNA repair protein RecN
+DMEHAFPA_00951	hypothetical protein
+DMEHAFPA_00952	CorA-like Mg2+ transporter protein
+DMEHAFPA_00953	hypothetical protein
+DMEHAFPA_00954	cell division protein MraZ
+DMEHAFPA_00955	S-adenosyl-methyltransferase MraW
+DMEHAFPA_00956	cell division protein FtsL
+DMEHAFPA_00957	peptidoglycan glycosyltransferase
+DMEHAFPA_00958	phospho-N-acetylmuramoyl-pentapeptide- transferase
+DMEHAFPA_00959	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+DMEHAFPA_00960	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+DMEHAFPA_00961	cell division protein FtsQ
+DMEHAFPA_00962	cell division protein FtsA
+DMEHAFPA_00963	cell division protein FtsZ
+DMEHAFPA_00964	alanine racemase
+DMEHAFPA_00965	Cell division protein SepF
+DMEHAFPA_00966	hypothetical protein
+DMEHAFPA_00967	S4 domain-containing protein
+DMEHAFPA_00968	cell division protein DivIVA
+DMEHAFPA_00969	isoleucyl-tRNA synthetase
+DMEHAFPA_00970	glucose-6-phosphate 1-dehydrogenase
+DMEHAFPA_00971	iron dependent repressor, DNA binding domain protein
+DMEHAFPA_00972	hypothetical protein
+DMEHAFPA_00973	hypothetical protein
+DMEHAFPA_00974	sugar fermentation stimulation protein
+DMEHAFPA_00975	oxidoreductase family, NAD-binding Rossmann fold protein
+DMEHAFPA_00976	DEAD/DEAH box helicase
+DMEHAFPA_00977	transcriptional antiterminator bglG:Sigma-54 factor
+DMEHAFPA_00978	PTS system cellobiose-specific transporter subunit IIB
+DMEHAFPA_00979	PTS system lactose/cellobiose-specific transporter subunit IIC
+DMEHAFPA_00980	hypothetical protein
+DMEHAFPA_00981	hypothetical protein
+DMEHAFPA_00982	hypothetical protein
+DMEHAFPA_00983	PTS system cellobiose-specific transporter subunit IIB
+DMEHAFPA_00984	PTS system, lactose/cellobiose-specific IIA component
+DMEHAFPA_00985	PTS system lactose/cellobiose-specific transporter subunit IIC
+DMEHAFPA_00986	6-phospho-beta-glucosidase
+DMEHAFPA_00987	acetyltransferase
+DMEHAFPA_00988	hypothetical protein
+DMEHAFPA_00989	tRNA-Arg
+DMEHAFPA_00990	antibiotic biosynthesis monooxygenase
+DMEHAFPA_00991	Pyruvate, phosphate dikinase
+DMEHAFPA_00992	Transcriptional repressor CcpN
+DMEHAFPA_00993	Putative phosphotransferase
+DMEHAFPA_00994	ysyl-tRNA synthetase
+DMEHAFPA_00995	alpha/beta hydrolase
+DMEHAFPA_00996	hypothetical protein
+DMEHAFPA_00997	hypothetical protein
+DMEHAFPA_00998	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+DMEHAFPA_00999	excinuclease ABC subunit A
+DMEHAFPA_01000	Glutamyl-tRNA(Gln) amidotransferase subunit A
+DMEHAFPA_01001	hypothetical protein
+DMEHAFPA_01002	hypothetical protein
+DMEHAFPA_01003	nucleoside diphosphate kinase
+DMEHAFPA_01004	Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+DMEHAFPA_01005	hypothetical protein
+DMEHAFPA_01006	HAD superfamily hydrolase
+DMEHAFPA_01007	hypothetical protein
+DMEHAFPA_01008	xanthine/uracil/vitamin C permease
+DMEHAFPA_01009	transporter, major facilitator family protein
+DMEHAFPA_01010	hypothetical protein
+DMEHAFPA_01011	DNA polymerase III subunit alpha
+DMEHAFPA_01012	6-phosphofructokinase
+DMEHAFPA_01013	Pyruvate kinase
+DMEHAFPA_01014	nucleic acid-binding protein
+DMEHAFPA_01015	50S ribosomal protein L32
+DMEHAFPA_01016	6-phosphogluconate dehydrogenase
+DMEHAFPA_01017	DNA-binding response regulator
+DMEHAFPA_01018	sensor histidine kinase
+DMEHAFPA_01019	16S ribosomal RNA
+DMEHAFPA_01020	tRNA-Ala
+DMEHAFPA_01021	23S ribosomal RNA
+DMEHAFPA_01022	5S ribosomal RNA
+DMEHAFPA_01023	tRNA-Asn
+DMEHAFPA_01024	tRNA-Ser
+DMEHAFPA_01025	tRNA-Glu
+DMEHAFPA_01026	tRNA-Val
+DMEHAFPA_01027	tRNA-Asp
+DMEHAFPA_01028	tRNA-Phe
+DMEHAFPA_01029	tRNA-Tyr
+DMEHAFPA_01030	tRNA-Trp
+DMEHAFPA_01031	tRNA-His
+DMEHAFPA_01032	tRNA-Gln
+DMEHAFPA_01033	tRNA-Cys
+DMEHAFPA_01034	tRNA-Leu
+DMEHAFPA_01035	hypothetical protein
+DMEHAFPA_01036	ABC transporter ATPase
+DMEHAFPA_01037	hypothetical protein
+DMEHAFPA_01038	Tunicamycin resistance protein
+DMEHAFPA_01039	metal ion transporter
+DMEHAFPA_01040	universal stress protein UspA
+DMEHAFPA_01041	Purine catabolism regulatory protein
+DMEHAFPA_01042	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_01043	N-isopropylammelide isopropyl amidohydrolase
+DMEHAFPA_01044	hypothetical protein
+DMEHAFPA_01045	GAF domain-containing protein
+DMEHAFPA_01046	3-demethylubiquinone-9 3-methyltransferase
+DMEHAFPA_01047	maltose O-acetyltransferase
+DMEHAFPA_01048	hypothetical protein
+DMEHAFPA_01049	aldose 1-epimerase
+DMEHAFPA_01050	galactokinase
+DMEHAFPA_01051	UDP-glucose 4-epimerase
+DMEHAFPA_01052	galactose-1-phosphate uridylyltransferase
+DMEHAFPA_01053	LacI family transcriptional regulator
+DMEHAFPA_01054	hypothetical protein
+DMEHAFPA_01055	hypothetical protein
+DMEHAFPA_01056	hypothetical protein
+DMEHAFPA_01057	Streptomycin 3''-adenylyltransferase
+DMEHAFPA_01058	acetyltransferase, GNAT family
+DMEHAFPA_01059	major facilitator superfamily transporter
+DMEHAFPA_01060	hypothetical protein
+DMEHAFPA_01061	DNA directed DNA polymerase
+DMEHAFPA_01062	hypothetical protein
+DMEHAFPA_01063	hypothetical protein
+DMEHAFPA_01064	hypothetical protein
+DMEHAFPA_01065	universal stress protein UspA
+DMEHAFPA_01066	hypothetical protein
+DMEHAFPA_01067	Spermine/spermidine acetyltransferase
+DMEHAFPA_01068	hypothetical protein
+DMEHAFPA_01069	hypothetical protein
+DMEHAFPA_01070	M protein trans-acting positive regulator
+DMEHAFPA_01071	von Willebrand factor type A domain-containing protein
+DMEHAFPA_01072	LPXTG-motif protein cell wall anchor domain protein
+DMEHAFPA_01073	LPXTG-motif protein cell wall anchor domain protein
+DMEHAFPA_01074	peptidase C60
+DMEHAFPA_01075	hypothetical protein
+DMEHAFPA_01076	hypothetical protein
+DMEHAFPA_01077	hypothetical protein
+DMEHAFPA_01078	hypothetical protein
+DMEHAFPA_01079	transfer-messenger RNA, SsrA
+DMEHAFPA_01080	hypothetical protein
+DMEHAFPA_01081	hypothetical protein
+DMEHAFPA_01082	Vitamin B12 import ATP-binding protein BtuD
+DMEHAFPA_01083	methyltransferase
+DMEHAFPA_01084	hypothetical protein
+DMEHAFPA_01085	amino acid permease
+DMEHAFPA_01086	hypothetical protein
+DMEHAFPA_01087	hypothetical protein
+DMEHAFPA_01088	Lactate utilization protein A
+DMEHAFPA_01089	Lactate utilization protein B
+DMEHAFPA_01090	Lactate utilization protein C
+DMEHAFPA_01091	signal peptidase I
+DMEHAFPA_01092	ATP-dependent helicase/deoxyribonuclease subunit B
+DMEHAFPA_01093	ATP-dependent helicase/nuclease subunit A
+DMEHAFPA_01094	HxlR-like helix-turn-helix
+DMEHAFPA_01095	phenylalanyl-tRNA synthetase subunit alpha
+DMEHAFPA_01096	phenylalanyl-tRNA synthetase subunit beta
+DMEHAFPA_01097	ABC transporter permease
+DMEHAFPA_01098	ABC transporter permease
+DMEHAFPA_01099	putative adhesin/ABC transporter aspartate/glutamate-binding protein
+DMEHAFPA_01100	ABC transporter ATP-binding protein
+DMEHAFPA_01101	glutamate racemase
+DMEHAFPA_01102	Ribonuclease PH/Ham1 protein
+DMEHAFPA_01103	phosphodiesterase
+DMEHAFPA_01104	DeoR-like helix-turn-helix protein
+DMEHAFPA_01105	L-ascorbate 6-phosphate lactonase, UlaG
+DMEHAFPA_01106	PTS system ascorbate-specific transporter subunit IIA
+DMEHAFPA_01107	PTS system ascorbate-specific transporter subunit IIC
+DMEHAFPA_01108	PTS system ascorbate-specific transporter subunit IIB
+DMEHAFPA_01109	3-keto-L-gulonate-6-phosphate decarboxylase
+DMEHAFPA_01110	L-xylulose 5-phosphate 3-epimerase
+DMEHAFPA_01111	L-ribulose-5-phosphate 4-epimerase
+DMEHAFPA_01112	CBS domain pair protein
+DMEHAFPA_01113	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+DMEHAFPA_01114	peptidase M20D
+DMEHAFPA_01115	transporter, small conductance mechanosensitive ion channel family protein
+DMEHAFPA_01116	hypothetical protein
+DMEHAFPA_01117	oxidoreductase, aldo/keto reductase family protein
+DMEHAFPA_01118	glutamine amidotransferase
+DMEHAFPA_01119	lactoylglutathione lyase
+DMEHAFPA_01120	NUDIX family hydrolase
+DMEHAFPA_01121	HAD superfamily hydrolase
+DMEHAFPA_01122	HD domain-containing protein
+DMEHAFPA_01123	lipoate-protein ligase A
+DMEHAFPA_01124	hypothetical protein
+DMEHAFPA_01125	DNA-directed RNA polymerase subunit delta
+DMEHAFPA_01126	CTP synthase
+DMEHAFPA_01127	penicillin-binding protein 1A
+DMEHAFPA_01128	recombination protein U
+DMEHAFPA_01129	hypothetical protein
+DMEHAFPA_01130	cell division protein DivIVA
+DMEHAFPA_01131	putative methylase
+DMEHAFPA_01132	carboxypeptidase Taq metallopeptidase
+DMEHAFPA_01133	DnaD and phage-associated domain protein
+DMEHAFPA_01134	endonuclease III
+DMEHAFPA_01135	GntR family transcriptional regulator
+DMEHAFPA_01136	dipeptidase PepV
+DMEHAFPA_01137	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+DMEHAFPA_01138	PTS system lactose/cellobiose-specific transporter subunit IIB
+DMEHAFPA_01139	PTS system lactose/cellobiose-specific transporter subunit IIC
+DMEHAFPA_01140	Glycine reductase complex component B subunit gamma
+DMEHAFPA_01141	DEAD_2 helicase
+DMEHAFPA_01142	L-asparaginase
+DMEHAFPA_01143	hypothetical protein
+DMEHAFPA_01144	N-(5'phosphoribosyl)anthranilate isomerase family protein
+DMEHAFPA_01145	integral membrane protein
+DMEHAFPA_01146	fructose-bisphosphate aldolase
+DMEHAFPA_01147	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DMEHAFPA_01148	transcription termination factor Rho
+DMEHAFPA_01149	50S ribosomal protein L31
+DMEHAFPA_01150	Teichoic acid glycerol-phosphate primase
+DMEHAFPA_01151	glycosyl transferase, WecB/TagA/CpsF family
+DMEHAFPA_01152	hypothetical protein
+DMEHAFPA_01153	Glycerol-3-phosphate cytidylyltransferase
+DMEHAFPA_01154	cell wall surface anchor family protein
+DMEHAFPA_01155	hypothetical protein
+DMEHAFPA_01156	fructokinase
+DMEHAFPA_01157	hypothetical protein
+DMEHAFPA_01158	FMN reductase (NADPH)
+DMEHAFPA_01159	S-ribosylhomocysteinase
+DMEHAFPA_01160	aspartate-semialdehyde dehydrogenase
+DMEHAFPA_01161	dihydrodipicolinate synthase
+DMEHAFPA_01162	Ribonuclease J 2
+DMEHAFPA_01163	Ser/Thr protein phosphatase family protein
+DMEHAFPA_01164	hypothetical protein
+DMEHAFPA_01165	HAD superfamily hydrolase
+DMEHAFPA_01166	integral membrane protein
+DMEHAFPA_01167	hypothetical protein
+DMEHAFPA_01168	EDD domain protein, DegV family
+DMEHAFPA_01169	glycerol uptake facilitator protein
+DMEHAFPA_01170	DNA-binding response regulator
+DMEHAFPA_01171	PAS domain sensory box histidine kinase
+DMEHAFPA_01172	YycH protein
+DMEHAFPA_01173	YycH protein
+DMEHAFPA_01174	metallo-beta-lactamase YycJ
+DMEHAFPA_01175	putative permease
+DMEHAFPA_01176	membrane protein
+DMEHAFPA_01177	hypothetical protein
+DMEHAFPA_01178	hypothetical protein
+DMEHAFPA_01179	hypothetical protein
+DMEHAFPA_01180	Holliday junction resolvase-like protein
+DMEHAFPA_01181	hypothetical protein
+DMEHAFPA_01182	hypothetical protein
+DMEHAFPA_01183	helix-turn-helix domain-containing protein
+DMEHAFPA_01184	NADP-dependent malic enzyme
+DMEHAFPA_01185	Na+/citrate symporter
+DMEHAFPA_01186	Sensor histidine kinase DcuS
+DMEHAFPA_01187	response regulator receiver domain-containing protein
+DMEHAFPA_01188	NADH peroxidase
+DMEHAFPA_01189	transcriptional regulator
+DMEHAFPA_01190	acetolactate synthase
+DMEHAFPA_01191	alpha-acetolactate decarboxylase
+DMEHAFPA_01192	hypothetical protein
+DMEHAFPA_01193	hypothetical protein
+DMEHAFPA_01194	hypothetical protein
+DMEHAFPA_01195	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+DMEHAFPA_01196	spermidine/putrescine transport system permease protein PotC
+DMEHAFPA_01197	Sulfate/thiosulfate import ATP-binding protein CysA
+DMEHAFPA_01198	Putrescine-binding periplasmic protein SpuD
+DMEHAFPA_01199	adenine deaminase
+DMEHAFPA_01200	Melamine deaminase
+DMEHAFPA_01201	helix-turn-helix domain-containing protein
+DMEHAFPA_01202	ApbE family protein
+DMEHAFPA_01203	hypothetical protein
+DMEHAFPA_01204	hypothetical protein
+DMEHAFPA_01205	M protein trans-acting positive regulator
+DMEHAFPA_01206	hypothetical protein
+DMEHAFPA_01207	hypothetical protein
+DMEHAFPA_01208	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+DMEHAFPA_01209	ABC transporter permease
+DMEHAFPA_01210	ABC transporter permease
+DMEHAFPA_01211	hypothetical protein
+DMEHAFPA_01212	hypothetical protein
+DMEHAFPA_01213	Cephalosporin-C deacetylase
+DMEHAFPA_01214	hypothetical protein
+DMEHAFPA_01215	Beta-glucosidase BoGH3B
+DMEHAFPA_01216	1,2-beta-oligoglucan phosphorylase
+DMEHAFPA_01217	LacI family transcriptional regulator
+DMEHAFPA_01218	hypothetical protein
+DMEHAFPA_01219	GntR family transcriptional regulator
+DMEHAFPA_01220	6-phospho-beta-galactosidase
+DMEHAFPA_01221	oxidoreductase family, NAD-binding Rossmann fold protein
+DMEHAFPA_01222	hypothetical protein
+DMEHAFPA_01223	hypothetical protein
+DMEHAFPA_01224	hypothetical protein
+DMEHAFPA_01225	fibronectin-binding protein A
+DMEHAFPA_01226	hypothetical protein
+DMEHAFPA_01227	hypothetical protein
+DMEHAFPA_01228	ABC transporter substrate binding protein
+DMEHAFPA_01229	amino acid or sugar ABC transport system, permease protein
+DMEHAFPA_01230	ABC transporter ATP-binding protein
+DMEHAFPA_01231	hypothetical protein
+DMEHAFPA_01232	hypothetical protein
+DMEHAFPA_01233	hypothetical protein
+DMEHAFPA_01234	HAD superfamily hydrolase
+DMEHAFPA_01235	response regulator receiver domain-containing protein
+DMEHAFPA_01236	sensor histidine kinase
+DMEHAFPA_01237	hypothetical protein
+DMEHAFPA_01238	hypothetical protein
+DMEHAFPA_01239	sulfatase
+DMEHAFPA_01240	SAM-dependent methyltransferase
+DMEHAFPA_01241	ribonuclease HIII
+DMEHAFPA_01242	cation transporter E1-E2 family ATPase
+DMEHAFPA_01243	hypothetical protein
+DMEHAFPA_01244	ribosome maturation protein RimP
+DMEHAFPA_01245	transcription termination factor NusA
+DMEHAFPA_01246	cytosolic protein YlxR
+DMEHAFPA_01247	50S ribosomal protein L7Ae
+DMEHAFPA_01248	translation initiation factor IF-2
+DMEHAFPA_01249	ribosome-binding factor A
+DMEHAFPA_01250	hypothetical protein
+DMEHAFPA_01251	hypothetical protein
+DMEHAFPA_01252	hypothetical protein
+DMEHAFPA_01253	hypothetical protein
+DMEHAFPA_01254	hypothetical protein
+DMEHAFPA_01255	DNA replication protein
+DMEHAFPA_01256	hypothetical protein
+DMEHAFPA_01257	hypothetical protein
+DMEHAFPA_01258	hypothetical protein
+DMEHAFPA_01259	hypothetical protein
+DMEHAFPA_01260	hypothetical protein
+DMEHAFPA_01261	hypothetical protein
+DMEHAFPA_01262	hypothetical protein
+DMEHAFPA_01263	hypothetical protein
+DMEHAFPA_01264	hypothetical protein
+DMEHAFPA_01265	hypothetical protein
+DMEHAFPA_01266	hypothetical protein
+DMEHAFPA_01267	holin
+DMEHAFPA_01268	hypothetical protein
+DMEHAFPA_01269	tRNA pseudouridine synthase B
+DMEHAFPA_01270	riboflavin biosynthesis protein RibF
+DMEHAFPA_01271	hypothetical protein
+DMEHAFPA_01272	PadR family transcriptional regulator
+DMEHAFPA_01273	hypothetical protein
+DMEHAFPA_01274	transcriptional regulator
+DMEHAFPA_01275	FtsW/RodA/SpoVE family cell cycle protein
+DMEHAFPA_01276	FtsW/RodA/SpoVE family cell cycle protein
+DMEHAFPA_01277	HTH-type transcriptional regulator CynR
+DMEHAFPA_01278	HTH-type transcriptional regulator CynR
+DMEHAFPA_01279	magnesium-translocating P-type ATPase
+DMEHAFPA_01280	putative oxygen-independent coproporphyrinogen III oxidase
+DMEHAFPA_01281	heat-inducible transcription repressor HrcA
+DMEHAFPA_01282	co-chaperone GrpE
+DMEHAFPA_01283	chaperone protein DnaK
+DMEHAFPA_01284	chaperone protein DnaJ
+DMEHAFPA_01285	metallophosphoesterase
+DMEHAFPA_01286	RNA binding protein S1
+DMEHAFPA_01287	SprT-like family protein
+DMEHAFPA_01288	tRNA-Leu
+DMEHAFPA_01289	aminotransferase AlaT
+DMEHAFPA_01290	hypothetical protein
+DMEHAFPA_01291	helix-turn-helix domain-containing protein
+DMEHAFPA_01292	N-acetylglucosamine-6-phosphate deacetylase
+DMEHAFPA_01293	hypothetical protein
+DMEHAFPA_01294	DNA-entry nuclease
+DMEHAFPA_01295	ABC transporter ATP-binding protein
+DMEHAFPA_01296	efflux ABC transporter permease
+DMEHAFPA_01297	putative membrane protein YuaF
+DMEHAFPA_01298	SPFH domain / Band 7 family protein
+DMEHAFPA_01299	SPFH domain / Band 7 family protein
+DMEHAFPA_01300	hypothetical protein
+DMEHAFPA_01301	tRNA-Tyr
+DMEHAFPA_01302	tRNA-Gln
+DMEHAFPA_01303	hypothetical protein
+DMEHAFPA_01304	TetR family dihydroxyacetone kinase regulator
+DMEHAFPA_01305	hypothetical protein
+DMEHAFPA_01306	GntR family transcriptional regulator
+DMEHAFPA_01307	hypothetical protein
+DMEHAFPA_01308	hypothetical protein
+DMEHAFPA_01309	putative ABC transporter, ATP-binding protein SagG
+DMEHAFPA_01310	hypothetical protein
+DMEHAFPA_01311	ABC transporter ATP-binding protein
+DMEHAFPA_01312	hypothetical protein
+DMEHAFPA_01313	hypothetical protein
+DMEHAFPA_01314	response regulator receiver domain-containing protein
+DMEHAFPA_01315	hypothetical protein
+DMEHAFPA_01316	thioredoxin reductase
+DMEHAFPA_01317	hypothetical protein
+DMEHAFPA_01318	hypothetical protein
+DMEHAFPA_01319	ABC transporter ATP-binding protein/permease
+DMEHAFPA_01320	hypothetical protein
+DMEHAFPA_01321	ABC transporter permease
+DMEHAFPA_01322	ABC transporter permease
+DMEHAFPA_01323	extracellular solute-binding protein
+DMEHAFPA_01324	alpha amylase
+DMEHAFPA_01325	glucan 1,6-alpha-glucosidase
+DMEHAFPA_01326	alpha amylase
+DMEHAFPA_01327	integral membrane protein
+DMEHAFPA_01328	magnesium-translocating P-type ATPase
+DMEHAFPA_01329	pyruvate dehydrogenase E1 component subunit alpha
+DMEHAFPA_01330	transketolase
+DMEHAFPA_01331	dihydrolipoamide S-succinyltransferase
+DMEHAFPA_01332	Dihydrolipoyl dehydrogenase
+DMEHAFPA_01333	HTH-type transcriptional activator RhaR
+DMEHAFPA_01334	glycerol dehydrogenase
+DMEHAFPA_01335	dihydroxyacetone kinase, phosphotransfer subunit
+DMEHAFPA_01336	dihydroxyacetone kinase subunit DhaK
+DMEHAFPA_01337	dihydroxyacetone kinase, DhaL subunit
+DMEHAFPA_01338	hypothetical protein
+DMEHAFPA_01339	hydroxymethylglutaryl-CoA synthase
+DMEHAFPA_01340	acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+DMEHAFPA_01341	permease
+DMEHAFPA_01342	integral membrane protein
+DMEHAFPA_01343	major cold shock protein CspA
+DMEHAFPA_01344	hypothetical protein
+DMEHAFPA_01345	hypothetical protein
+DMEHAFPA_01346	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+DMEHAFPA_01347	metallo-beta-lactamase domain-containing protein
+DMEHAFPA_01348	DRTGG domain-containing protein
+DMEHAFPA_01349	DHHA1 domain protein
+DMEHAFPA_01350	putative alkylphosphonate utilization operon protein PhnA
+DMEHAFPA_01351	hypothetical protein
+DMEHAFPA_01352	VanZ/RDD domain protein
+DMEHAFPA_01353	DEAD/DEAH box helicase
+DMEHAFPA_01354	hypothetical protein
+DMEHAFPA_01355	alanyl-tRNA synthetase
+DMEHAFPA_01356	SAM-dependent methyltransferase family protein
+DMEHAFPA_01357	NIF3-related protein
+DMEHAFPA_01358	peptidase T
+DMEHAFPA_01359	membrane protein
+DMEHAFPA_01360	integral membrane protein
+DMEHAFPA_01361	putative molybdenum cofactor guanylyltransferase
+DMEHAFPA_01362	formate/nitrite transporter
+DMEHAFPA_01363	hypothetical protein
+DMEHAFPA_01364	NADP-reducing hydrogenase subunit HndA
+DMEHAFPA_01365	NADP-reducing hydrogenase subunit HndC
+DMEHAFPA_01366	Nitrate reductase
+DMEHAFPA_01367	Molybdopterin molybdenumtransferase 2
+DMEHAFPA_01368	Cyclic pyranopterin monophosphate synthase
+DMEHAFPA_01369	GTP 3',8-cyclase
+DMEHAFPA_01370	hypothetical protein
+DMEHAFPA_01371	Molybdopterin adenylyltransferase
+DMEHAFPA_01372	hypothetical protein
+DMEHAFPA_01373	Molybdate-binding protein ModA
+DMEHAFPA_01374	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+DMEHAFPA_01375	Vitamin B12 import ATP-binding protein BtuD
+DMEHAFPA_01376	cadmium-translocating P-type ATPase
+DMEHAFPA_01377	cell division protein ZapA
+DMEHAFPA_01378	CvpA family protein
+DMEHAFPA_01379	recombination and DNA strand exchange inhibitor protein
+DMEHAFPA_01380	thioredoxin
+DMEHAFPA_01381	excinuclease ABC subunit C
+DMEHAFPA_01382	hypothetical protein
+DMEHAFPA_01383	ABC transporter ATP-binding protein
+DMEHAFPA_01384	putative type IV conjugative transfer system protein TraL
+DMEHAFPA_01385	LacI family sugar-binding transcriptional regulator
+DMEHAFPA_01386	alpha-galactosidase
+DMEHAFPA_01387	hypothetical protein
+DMEHAFPA_01388	ABC transporter ATP-binding protein
+DMEHAFPA_01389	HI0933-like protein
+DMEHAFPA_01390	NADP-specific glutamate dehydrogenase
+DMEHAFPA_01391	glucose-6-phosphate isomerase
+DMEHAFPA_01392	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_01393	hypothetical protein
+DMEHAFPA_01394	hypothetical protein
+DMEHAFPA_01395	hypothetical protein
+DMEHAFPA_01396	hypothetical protein
+DMEHAFPA_01397	HTH-type transcriptional regulator Xre
+DMEHAFPA_01398	hypothetical protein
+DMEHAFPA_01399	hypothetical protein
+DMEHAFPA_01400	hypothetical protein
+DMEHAFPA_01401	hypothetical protein
+DMEHAFPA_01402	hypothetical protein
+DMEHAFPA_01403	hypothetical protein
+DMEHAFPA_01404	hypothetical protein
+DMEHAFPA_01405	hypothetical protein
+DMEHAFPA_01406	hypothetical protein
+DMEHAFPA_01407	hypothetical protein
+DMEHAFPA_01408	metallo-beta-lactamase YycJ
+DMEHAFPA_01409	hypothetical protein
+DMEHAFPA_01410	Holliday junction resolvase RecU
+DMEHAFPA_01411	hypothetical protein
+DMEHAFPA_01412	hypothetical protein
+DMEHAFPA_01413	hypothetical protein
+DMEHAFPA_01414	hypothetical protein
+DMEHAFPA_01415	phage protein
+DMEHAFPA_01416	YopX protein
+DMEHAFPA_01417	hypothetical protein
+DMEHAFPA_01418	hypothetical protein
+DMEHAFPA_01419	hypothetical protein
+DMEHAFPA_01420	hypothetical protein
+DMEHAFPA_01421	hypothetical protein
+DMEHAFPA_01422	hypothetical protein
+DMEHAFPA_01423	hypothetical protein
+DMEHAFPA_01424	hypothetical protein
+DMEHAFPA_01425	hypothetical protein
+DMEHAFPA_01426	hypothetical protein
+DMEHAFPA_01427	tRNA-Lys
+DMEHAFPA_01428	hypothetical protein
+DMEHAFPA_01429	adenine methyltransferase
+DMEHAFPA_01430	hypothetical protein
+DMEHAFPA_01431	hypothetical protein
+DMEHAFPA_01432	hypothetical protein
+DMEHAFPA_01433	hypothetical protein
+DMEHAFPA_01434	hypothetical protein
+DMEHAFPA_01435	hypothetical protein
+DMEHAFPA_01436	hypothetical protein
+DMEHAFPA_01437	hypothetical protein
+DMEHAFPA_01438	hypothetical protein
+DMEHAFPA_01439	hypothetical protein
+DMEHAFPA_01440	hypothetical protein
+DMEHAFPA_01441	hypothetical protein
+DMEHAFPA_01442	hypothetical protein
+DMEHAFPA_01443	hypothetical protein
+DMEHAFPA_01444	hypothetical protein
+DMEHAFPA_01445	hypothetical protein
+DMEHAFPA_01446	hypothetical protein
+DMEHAFPA_01447	hypothetical protein
+DMEHAFPA_01448	hypothetical protein
+DMEHAFPA_01449	hypothetical protein
+DMEHAFPA_01450	hypothetical protein
+DMEHAFPA_01451	hypothetical protein
+DMEHAFPA_01452	hypothetical protein
+DMEHAFPA_01453	hypothetical protein
+DMEHAFPA_01454	hypothetical protein
+DMEHAFPA_01455	hypothetical protein
+DMEHAFPA_01456	hypothetical protein
+DMEHAFPA_01457	hypothetical protein
+DMEHAFPA_01458	hypothetical protein
+DMEHAFPA_01459	hypothetical protein
+DMEHAFPA_01460	hypothetical protein
+DMEHAFPA_01461	hypothetical protein
+DMEHAFPA_01462	hypothetical protein
+DMEHAFPA_01463	tRNA-Met
+DMEHAFPA_01464	hypothetical protein
+DMEHAFPA_01465	hypothetical protein
+DMEHAFPA_01466	hypothetical protein
+DMEHAFPA_01467	hypothetical protein
+DMEHAFPA_01468	putative flavoprotein NrdI
+DMEHAFPA_01469	hypothetical protein
+DMEHAFPA_01470	V-type ATP synthase subunit I
+DMEHAFPA_01471	V-type ATP synthase subunit K
+DMEHAFPA_01472	V-type ATPase subunit E
+DMEHAFPA_01473	V-type ATPase subunit C
+DMEHAFPA_01474	V-type ATP synthase subunit G
+DMEHAFPA_01475	V-type ATP synthase subunit A
+DMEHAFPA_01476	V-type ATP synthase subunit B
+DMEHAFPA_01477	V-type ATP synthase subunit D
+DMEHAFPA_01478	hypothetical protein
+DMEHAFPA_01479	hypothetical protein
+DMEHAFPA_01480	fructose-1,6-bisphosphatase
+DMEHAFPA_01481	diaminopimelate decarboxylase
+DMEHAFPA_01482	Alpha/beta hydrolase family protein
+DMEHAFPA_01483	hypothetical protein
+DMEHAFPA_01484	hypothetical protein
+DMEHAFPA_01485	hypothetical protein
+DMEHAFPA_01486	hypothetical protein
+DMEHAFPA_01487	metal-sulfur cluster biosynthetic enzyme
+DMEHAFPA_01488	Hydrophobic dipeptide epimerase
+DMEHAFPA_01489	hypothetical protein
+DMEHAFPA_01490	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_01491	BglG family transcriptional antiterminator
+DMEHAFPA_01492	PTS system, N-acetylglucosamine-specific IICBA component
+DMEHAFPA_01493	hypothetical protein
+DMEHAFPA_01494	cation transporter E1-E2 family ATPase
+DMEHAFPA_01495	DNA primase
+DMEHAFPA_01496	RNA polymerase sigma factor RpoD
+DMEHAFPA_01497	Mid-cell-anchored protein Z
+DMEHAFPA_01498	Conserved virulence factor B
+DMEHAFPA_01499	transcriptional regulator, FUR family
+DMEHAFPA_01500	glyceraldehyde 3-phosphate dehydrogenase
+DMEHAFPA_01501	Obg family GTPase CgtA
+DMEHAFPA_01502	hypothetical protein
+DMEHAFPA_01503	PTS system transporter subunit IIC
+DMEHAFPA_01504	TetR family transcriptional regulator
+DMEHAFPA_01505	hypothetical protein
+DMEHAFPA_01506	cyclophilin type peptidyl-prolyl cis-trans isomerase
+DMEHAFPA_01507	alpha3-beta1 integrin-binding family protein
+DMEHAFPA_01508	x-Pro dipeptidyl-peptidase
+DMEHAFPA_01509	site-specific tyrosine recombinase XerD-family protein
+DMEHAFPA_01510	segregation and condensation protein A
+DMEHAFPA_01511	segregation and condensation protein B
+DMEHAFPA_01512	16S rRNA pseudouridine synthase A
+DMEHAFPA_01513	membrane protein
+DMEHAFPA_01514	hypothetical protein
+DMEHAFPA_01515	ferredoxin
+DMEHAFPA_01516	hypothetical protein
+DMEHAFPA_01517	RecQ familyATP-dependent DNA helicase
+DMEHAFPA_01518	LysM domain-containing protein
+DMEHAFPA_01519	cytidylate kinase
+DMEHAFPA_01520	30S ribosomal protein S1
+DMEHAFPA_01521	ribosome-associated GTPase EngA
+DMEHAFPA_01522	DNA-binding protein HU
+DMEHAFPA_01523	hypothetical protein
+DMEHAFPA_01524	tetratricopeptide repeat protein
+DMEHAFPA_01525	hypothetical protein
+DMEHAFPA_01526	integral membrane protein
+DMEHAFPA_01527	MazG nucleotide pyrophosphohydrolase domain-containing protein
+DMEHAFPA_01528	dihydrodipicolinate reductase
+DMEHAFPA_01529	tRNA nucleotidyltransferase/poly(A) polymerase family protein
+DMEHAFPA_01530	hypothetical protein
+DMEHAFPA_01531	hypothetical protein
+DMEHAFPA_01532	shikimate 5-dehydrogenase
+DMEHAFPA_01533	phospho-2-dehydro-3-deoxyheptonate aldolase
+DMEHAFPA_01534	3-dehydroquinate synthase
+DMEHAFPA_01535	chorismate synthase
+DMEHAFPA_01536	prephenate dehydrogenase
+DMEHAFPA_01537	3-phosphoshikimate 1-carboxyvinyltransferase
+DMEHAFPA_01538	shikimate kinase
+DMEHAFPA_01539	prephenate dehydratase
+DMEHAFPA_01540	transcriptional regulator, PSR protein
+DMEHAFPA_01541	EDD domain-containing protein, DegV family
+DMEHAFPA_01542	hypothetical protein
+DMEHAFPA_01543	hypothetical protein
+DMEHAFPA_01544	hypothetical protein
+DMEHAFPA_01545	Na+/H+ antiporter
+DMEHAFPA_01546	ABC transporter ATP-binding protein
+DMEHAFPA_01547	thymidylate synthase
+DMEHAFPA_01548	dihydrofolate reductase
+DMEHAFPA_01549	iron-sulfur cluster-binding protein
+DMEHAFPA_01550	LexA repressor
+DMEHAFPA_01551	hypothetical protein
+DMEHAFPA_01552	transketolase
+DMEHAFPA_01553	major facilitator family transporter
+DMEHAFPA_01554	N-acetylmuramoyl-L-alanine amidase
+DMEHAFPA_01555	cysteine synthase A
+DMEHAFPA_01556	Fur family transcriptional regulator
+DMEHAFPA_01557	NADH oxidase
+DMEHAFPA_01558	NUDIX family hydrolase
+DMEHAFPA_01559	hypothetical protein
+DMEHAFPA_01560	GNAT family acetyltransferase
+DMEHAFPA_01561	AraC family transcriptional regulator
+DMEHAFPA_01562	ABC transporter ATP-binding protein/permease
+DMEHAFPA_01563	ABC transporter ATP-binding protein/permease
+DMEHAFPA_01564	RNA pyrophosphohydrolase
+DMEHAFPA_01565	hypothetical protein
+DMEHAFPA_01566	Vegetative catalase
+DMEHAFPA_01567	Deoxyribodipyrimidine photo-lyase
+DMEHAFPA_01568	helix-turn-helix domain-containing protein
+DMEHAFPA_01569	PTS system, trehalose/maltose-specific, IIBCA component
+DMEHAFPA_01570	alpha amylase
+DMEHAFPA_01571	Glycosyl hydrolase
+DMEHAFPA_01572	LacI family transcription regulator
+DMEHAFPA_01573	hypothetical protein
+DMEHAFPA_01574	6-phospho-beta-glucosidase
+DMEHAFPA_01575	PTS system beta-glucoside-specific transporter subunit IIABC
+DMEHAFPA_01576	PTS system, beta-glucoside-specific IIABC component
+DMEHAFPA_01577	cardiolipin synthetase
+DMEHAFPA_01578	hypothetical protein
+DMEHAFPA_01579	hypothetical protein
+DMEHAFPA_01580	manganese-dependent inorganic pyrophosphatase
+DMEHAFPA_01581	pyruvate formate-lyase activating enzyme
+DMEHAFPA_01582	formate acetyltransferase
+DMEHAFPA_01583	DNA topoisomerase IV subunit A
+DMEHAFPA_01584	DNA topoisomerase IV subunit B
+DMEHAFPA_01585	CoA-binding protein
+DMEHAFPA_01586	Ethanolamine utilization protein EutQ
+DMEHAFPA_01587	hypothetical protein
+DMEHAFPA_01588	Carbon dioxide concentrating mechanism protein CcmL
+DMEHAFPA_01589	hypothetical protein
+DMEHAFPA_01590	Phosphate propanoyltransferase
+DMEHAFPA_01591	hypothetical protein
+DMEHAFPA_01592	Propanediol utilization protein PduA
+DMEHAFPA_01593	aldehyde-alcohol dehydrogenase
+DMEHAFPA_01594	hypothetical protein
+DMEHAFPA_01595	Ethanolamine utilization protein EutL
+DMEHAFPA_01596	Ethanolamine ammonia-lyase light chain
+DMEHAFPA_01597	Ethanolamine ammonia-lyase heavy chain
+DMEHAFPA_01598	hypothetical protein
+DMEHAFPA_01599	hypothetical protein
+DMEHAFPA_01600	putative transcriptional regulatory protein pdtaR
+DMEHAFPA_01601	Propanediol utilization protein PduU
+DMEHAFPA_01602	aldehyde-alcohol dehydrogenase
+DMEHAFPA_01603	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+DMEHAFPA_01604	Propanediol utilization protein PduV
+DMEHAFPA_01605	iron ABC transporter ATP-binding protein
+DMEHAFPA_01606	ferrichrome transport system permease FhuB
+DMEHAFPA_01607	Vitamin B12-binding protein
+DMEHAFPA_01608	acyl-phosphate glycerol 3-phosphate acyltransferase
+DMEHAFPA_01609	aldose 1-epimerase
+DMEHAFPA_01610	GTP-sensing transcriptional pleiotropic repressor CodY
+DMEHAFPA_01611	ATP-dependent carboxylate-amine ligase
+DMEHAFPA_01612	ATP-dependent protease HslVU, peptidase subunit
+DMEHAFPA_01613	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_01614	glucose inhibited division protein
+DMEHAFPA_01615	DNA topoisomerase I
+DMEHAFPA_01616	hypothetical protein
+DMEHAFPA_01617	DNA processing protein DprA
+DMEHAFPA_01618	ribonuclease HII
+DMEHAFPA_01619	ribosome biogenesis GTP-binding protein YlqF
+DMEHAFPA_01620	2-dehydropantoate 2-reductase
+DMEHAFPA_01621	LysR family transcriptional regulator
+DMEHAFPA_01622	membrane protein
+DMEHAFPA_01623	dihydrolipoamide S-succinyltransferase
+DMEHAFPA_01624	transketolase
+DMEHAFPA_01625	pyruvate dehydrogenase E1 component subunit alpha
+DMEHAFPA_01626	Dihydrolipoyl dehydrogenase
+DMEHAFPA_01627	putative butyrate kinase 2
+DMEHAFPA_01628	Phosphate acetyltransferase
+DMEHAFPA_01629	integral membrane protein
+DMEHAFPA_01630	hypothetical protein
+DMEHAFPA_01631	hypothetical protein
+DMEHAFPA_01632	3-oxoacyl-ACP reductase
+DMEHAFPA_01633	HTH-type transcriptional regulator MhqR
+DMEHAFPA_01634	glyoxalase family protein
+DMEHAFPA_01635	phospholipase/carboxylesterase
+DMEHAFPA_01636	NAD(P)H quinone oxidoreductase
+DMEHAFPA_01637	hypothetical protein
+DMEHAFPA_01638	ABC transporter ATP-binding protein
+DMEHAFPA_01639	hypothetical protein
+DMEHAFPA_01640	bacitracin transport ATP-binding protein BcrA
+DMEHAFPA_01641	hypothetical protein
+DMEHAFPA_01642	hypothetical protein
+DMEHAFPA_01643	signal peptidase I
+DMEHAFPA_01644	Carboxy-terminal processing protease CtpA
+DMEHAFPA_01645	hypothetical protein
+DMEHAFPA_01646	methionine sulfoxide reductase MsrA
+DMEHAFPA_01647	hypothetical protein
+DMEHAFPA_01648	GDSL-like lipase/acylhydrolase
+DMEHAFPA_01649	DegV family protein
+DMEHAFPA_01650	hemolysin III family channel protein
+DMEHAFPA_01651	hypothetical protein
+DMEHAFPA_01652	adenine phosphoribosyltransferase
+DMEHAFPA_01653	single-stranded-DNA-specific exonuclease RecJ
+DMEHAFPA_01654	hypothetical protein
+DMEHAFPA_01655	short chain dehydrogenase/reductase family oxidoreductase
+DMEHAFPA_01656	Ribonuclease Z
+DMEHAFPA_01657	hypothetical protein
+DMEHAFPA_01658	RNA-binding protein
+DMEHAFPA_01659	30S ribosomal protein S16
+DMEHAFPA_01660	Mycothiol acetyltransferase
+DMEHAFPA_01661	flavin reductase
+DMEHAFPA_01662	transcriptional regulator, MerR family
+DMEHAFPA_01663	signal recognition particle protein
+DMEHAFPA_01664	DNA-binding protein
+DMEHAFPA_01665	hypothetical protein
+DMEHAFPA_01666	response regulator receiver domain-containing protein
+DMEHAFPA_01667	sensory box histidine kinase
+DMEHAFPA_01668	phosphate-binding protein
+DMEHAFPA_01669	aromatic amino acid aminotransferase
+DMEHAFPA_01670	glycosyl hydrolase family 38 protein
+DMEHAFPA_01671	hypothetical protein
+DMEHAFPA_01672	transcriptional regulator, GntR family
+DMEHAFPA_01673	LysR family transcriptional regulator
+DMEHAFPA_01674	carbonic anhydrase
+DMEHAFPA_01675	orotate phosphoribosyltransferase
+DMEHAFPA_01676	Orotidine 5'-phosphate decarboxylase
+DMEHAFPA_01677	Dihydroorotate dehydrogenase 1B
+DMEHAFPA_01678	dihydroorotate dehydrogenase, electron transfer subunit
+DMEHAFPA_01679	carbamoyl-phosphate synthase large subunit
+DMEHAFPA_01680	carbamoyl-phosphate synthase small subunit
+DMEHAFPA_01681	Dihydroorotase
+DMEHAFPA_01682	aspartate carbamoyltransferase
+DMEHAFPA_01683	uracil permease
+DMEHAFPA_01684	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR
+DMEHAFPA_01685	RluA family pseudouridine synthase
+DMEHAFPA_01686	lipoprotein signal peptidase
+DMEHAFPA_01687	CBS domain pair protein
+DMEHAFPA_01688	Formate--tetrahydrofolate ligase
+DMEHAFPA_01689	cold shock domain-containing protein
+DMEHAFPA_01690	EbsA
+DMEHAFPA_01691	ribonuclease HI
+DMEHAFPA_01692	YbaK/ebsC protein
+DMEHAFPA_01693	3-dehydroquinate dehydratase
+DMEHAFPA_01694	ABC transporter ATP-binding protein
+DMEHAFPA_01695	Multidrug resistance-like ATP-binding protein mdlA
+DMEHAFPA_01696	hypothetical protein
+DMEHAFPA_01697	endonuclease IV
+DMEHAFPA_01698	hypothetical protein
+DMEHAFPA_01699	hypothetical protein
+DMEHAFPA_01700	tyrosyl-tRNA synthetase
+DMEHAFPA_01701	glycosyl transferase
+DMEHAFPA_01702	catabolite control protein A
+DMEHAFPA_01703	Xaa-Pro dipeptidase
+DMEHAFPA_01704	general stress protein
+DMEHAFPA_01705	extracellular protein
+DMEHAFPA_01706	UTP-glucose-1-phosphate uridylyltransferase
+DMEHAFPA_01707	glycerol-3-phosphate dehydrogenase
+DMEHAFPA_01708	Prolipoprotein diacylglyceryl transferase
+DMEHAFPA_01709	HPr kinase/phosphorylase
+DMEHAFPA_01710	excinuclease ABC
+DMEHAFPA_01711	integral membrane protein
+DMEHAFPA_01712	PspC domain protein
+DMEHAFPA_01713	hypothetical protein
+DMEHAFPA_01714	phosphate transport system regulatory protein PhoU
+DMEHAFPA_01715	phosphate ABC transporter ATP-binding protein
+DMEHAFPA_01716	phosphate ABC transporter ATP-binding protein
+DMEHAFPA_01717	phosphate ABC transporter, permease protein PstA
+DMEHAFPA_01718	phosphate ABC transporter permease PstC
+DMEHAFPA_01719	phosphate binding protein
+DMEHAFPA_01720	efflux ABC transporter, permease protein
+DMEHAFPA_01721	cell division ATP-binding protein FtsE
+DMEHAFPA_01722	peptide chain release factor 2
+DMEHAFPA_01723	preprotein translocase, SecA subunit
+DMEHAFPA_01724	ribosomal subunit interface protein
+DMEHAFPA_01725	competence protein ComFC
+DMEHAFPA_01726	helicase
+DMEHAFPA_01727	hypothetical protein
+DMEHAFPA_01728	PTS system cellobiose-specific transporter subunit IIB
+DMEHAFPA_01729	hypothetical protein
+DMEHAFPA_01730	IMPACT family member YigZ
+DMEHAFPA_01731	hypothetical protein
+DMEHAFPA_01732	aldose dehydrogenase
+DMEHAFPA_01733	membrane protein
+DMEHAFPA_01734	Tim44-like domain-containing protein
+DMEHAFPA_01735	hypothetical protein
+DMEHAFPA_01736	Phosphoribosylamine--glycine ligase
+DMEHAFPA_01737	bifunctional purine biosynthesis protein PurH
+DMEHAFPA_01738	Phosphoribosylglycinamide formyltransferase
+DMEHAFPA_01739	Phosphoribosylformylglycinamidine cyclo-ligase
+DMEHAFPA_01740	Amidophosphoribosyltransferase
+DMEHAFPA_01741	Phosphoribosylformylglycinamidine synthase II
+DMEHAFPA_01742	Phosphoribosylformylglycinamidine synthase I
+DMEHAFPA_01743	phosphoribosylformylglycinamidine synthase subunit PurS
+DMEHAFPA_01744	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+DMEHAFPA_01745	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+DMEHAFPA_01746	phosphoribosylaminoimidazole carboxylase catalytic subunit
+DMEHAFPA_01747	SPFH domain / Band 7 family protein
+DMEHAFPA_01748	YjeF protein
+DMEHAFPA_01749	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_01750	hypothetical protein
+DMEHAFPA_01751	branched-chain amino acid aminotransferase
+DMEHAFPA_01752	hypothetical protein
+DMEHAFPA_01753	hypothetical protein
+DMEHAFPA_01754	hypothetical protein
+DMEHAFPA_01755	hypothetical protein
+DMEHAFPA_01756	hypothetical protein
+DMEHAFPA_01757	PTS system, mannose/fructose/sorbose-specific IIA component
+DMEHAFPA_01758	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_01759	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_01760	PTS system, mannose/fructose/sorbose-specific IIB component
+DMEHAFPA_01761	Beta-galactosidase
+DMEHAFPA_01762	Tagatose-6-phosphate kinase
+DMEHAFPA_01763	tagatose 1,6-diphosphate aldolase
+DMEHAFPA_01764	sugar isomerase
+DMEHAFPA_01765	transcriptional regulator, GntR family
+DMEHAFPA_01766	glycosyl transferase family protein
+DMEHAFPA_01767	glycosyl transferase family protein
+DMEHAFPA_01768	sulfatase
+DMEHAFPA_01769	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+DMEHAFPA_01770	hypothetical protein
+DMEHAFPA_01771	hypothetical protein
+DMEHAFPA_01772	Glutamyl endopeptidase
+DMEHAFPA_01773	Gelatinase
+DMEHAFPA_01774	hypothetical protein
+DMEHAFPA_01775	Accessory gene regulator protein B
+DMEHAFPA_01776	Accessory gene regulator A
+DMEHAFPA_01777	hypothetical protein
+DMEHAFPA_01778	hypothetical protein
+DMEHAFPA_01779	hypothetical protein
+DMEHAFPA_01780	Alcohol dehydrogenase 1
+DMEHAFPA_01781	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+DMEHAFPA_01782	glycerol uptake facilitator protein
+DMEHAFPA_01783	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_01784	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_01785	PTS system mannose-specific transporter subunit IIAB
+DMEHAFPA_01786	PTS system, mannose/fructose/sorbose-specific IIAB component
+DMEHAFPA_01787	hypothetical protein
+DMEHAFPA_01788	Galactose-6-phosphate isomerase subunit LacB
+DMEHAFPA_01789	Galactose-6-phosphate isomerase subunit LacA
+DMEHAFPA_01790	hypothetical protein
+DMEHAFPA_01791	hypothetical protein
+DMEHAFPA_01792	PTS system galactitol-specific transporter subunit IIC
+DMEHAFPA_01793	DeoR-like helix-turn-helix protein
+DMEHAFPA_01794	hypothetical protein
+DMEHAFPA_01795	hypothetical protein
+DMEHAFPA_01796	HD domain-containing protein
+DMEHAFPA_01797	polysaccharide deacetylase family protein
+DMEHAFPA_01798	hypothetical protein
+DMEHAFPA_01799	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_01800	hypothetical protein
+DMEHAFPA_01801	Helix-turn-helix domain protein
+DMEHAFPA_01802	RNA polymerase sigma-70 factor, region 4
+DMEHAFPA_01803	Beta-galactosidase
+DMEHAFPA_01804	PTS system lactose/cellobiose-specific transporter subunit IIC
+DMEHAFPA_01805	hypothetical protein
+DMEHAFPA_01806	hypothetical protein
+DMEHAFPA_01807	IS256 family transposase
+DMEHAFPA_01808	hypothetical protein
+DMEHAFPA_01809	hypothetical protein
+DMEHAFPA_01810	ISEfa8, transposase
+DMEHAFPA_01811	Aspartate 1-decarboxylase
+DMEHAFPA_01812	Pantothenate synthetase
+DMEHAFPA_01813	3-methyl-2-oxobutanoate hydroxymethyltransferase
+DMEHAFPA_01814	hypothetical protein
+DMEHAFPA_01815	ISEf1, transposase
+DMEHAFPA_01816	ISEf1, transposase
+DMEHAFPA_01817	hypothetical protein
+DMEHAFPA_01818	DNA-binding response regulator
+DMEHAFPA_01819	IS1251-like transposase
+DMEHAFPA_01820	IS1251-like transposase
+DMEHAFPA_01821	efflux ABC transporter, permease protein
+DMEHAFPA_01822	ABC transporter, ATP-binding protein
+DMEHAFPA_01823	efflux ABC transporter, permease protein
+DMEHAFPA_01824	hypothetical protein
+DMEHAFPA_01825	thioredoxin family protein
+DMEHAFPA_01826	hypothetical protein
+DMEHAFPA_01827	IS256 family transposase
+DMEHAFPA_01828	Conjugative transposon protein TcpC
+DMEHAFPA_01829	NLP/P60 family lipoprotein
+DMEHAFPA_01830	amino acid transporter
+DMEHAFPA_01831	ATP/GTP-binding protein
+DMEHAFPA_01832	conjugative transposon membrane protein
+DMEHAFPA_01833	hypothetical protein
+DMEHAFPA_01834	hypothetical protein
+DMEHAFPA_01835	antirestriction protein
+DMEHAFPA_01836	hypothetical protein
+DMEHAFPA_01837	IS116/IS110/IS902 family transposase
+DMEHAFPA_01838	hypothetical protein
+DMEHAFPA_01839	helix-turn-helix domain-containing protein
+DMEHAFPA_01840	hypothetical protein
+DMEHAFPA_01841	zeta toxin
+DMEHAFPA_01842	FtsK/SpoIIIE family protein
+DMEHAFPA_01843	HNH endonuclease domain protein
+DMEHAFPA_01844	group II intron reverse transcriptase maturase
+DMEHAFPA_01845	FtsK/SpoIIIE family protein
+DMEHAFPA_01846	hypothetical protein
+DMEHAFPA_01847	hypothetical protein
+DMEHAFPA_01848	hypothetical protein
+DMEHAFPA_01849	cell wall surface anchor family protein
+DMEHAFPA_01850	hypothetical protein
+DMEHAFPA_01851	50S ribosomal protein L19
+DMEHAFPA_01852	tRNA (guanine-N1)-methyltransferase
+DMEHAFPA_01853	16S rRNA processing protein RimM
+DMEHAFPA_01854	metal ion transporter
+DMEHAFPA_01855	hypothetical protein
+DMEHAFPA_01856	hypothetical protein
+DMEHAFPA_01857	glycerophosphodiester phosphodiesterase family protein
+DMEHAFPA_01858	Inhibitor of apoptosis-promoting Bax1
+DMEHAFPA_01859	MaoC like domain-containing protein
+DMEHAFPA_01860	UDP-N-acetylmuramate--L-alanine ligase
+DMEHAFPA_01861	hypothetical protein
+DMEHAFPA_01862	membrane spanning protein
+DMEHAFPA_01863	membrane protein
+DMEHAFPA_01864	ROK family protein
+DMEHAFPA_01865	Putative membrane protein insertion efficiency factor
+DMEHAFPA_01866	hypothetical protein
+DMEHAFPA_01867	ribosome biogenesis GTP-binding protein YsxC
+DMEHAFPA_01868	ATP-dependent protease ATP-binding protein ClpX
+DMEHAFPA_01869	3-carboxymuconate cyclase
+DMEHAFPA_01870	hypothetical protein
+DMEHAFPA_01871	Putative cryptic C4-dicarboxylate transporter DcuD
+DMEHAFPA_01872	inosine-uridine preferring nucleoside hydrolase
+DMEHAFPA_01873	Sulfofructose kinase
+DMEHAFPA_01874	M protein trans-acting positive regulator
+DMEHAFPA_01875	hypothetical protein
+DMEHAFPA_01876	hypothetical protein
+DMEHAFPA_01877	glycerol uptake facilitator protein
+DMEHAFPA_01878	alpha-glycerophosphate oxidase
+DMEHAFPA_01879	glycerol kinase
+DMEHAFPA_01880	helix-turn-helix domain-containing protein
+DMEHAFPA_01881	pyridine nucleotide-disulfide oxidoreductase
+DMEHAFPA_01882	hypothetical protein
+DMEHAFPA_01883	hypothetical protein
+DMEHAFPA_01884	hypothetical protein
+DMEHAFPA_01885	hypothetical protein
+DMEHAFPA_01886	calcium-translocating P-type ATPase
+DMEHAFPA_01887	hypothetical protein
+DMEHAFPA_01888	Regulatory protein YeiL
+DMEHAFPA_01889	hypothetical protein
+DMEHAFPA_01890	Multidrug resistance protein MdtL
+DMEHAFPA_01891	arylsulfatase
+DMEHAFPA_01892	hypothetical protein
+DMEHAFPA_01893	hypothetical protein
+DMEHAFPA_01894	hypothetical protein
+DMEHAFPA_01895	SIS domain-containing protein
+DMEHAFPA_01896	SIS domain-containing protein
+DMEHAFPA_01897	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_01898	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_01899	PTS system, mannose/fructose/sorbose-specific IIB component
+DMEHAFPA_01900	PTS system, mannose/fructose/sorbose-specific IIA component
+DMEHAFPA_01901	transcriptional antiterminator bglG:Sigma-54 factor
+DMEHAFPA_01902	Deoxyguanosinetriphosphate triphosphohydrolase
+DMEHAFPA_01903	hypothetical protein
+DMEHAFPA_01904	enolase
+DMEHAFPA_01905	triosephosphate isomerase
+DMEHAFPA_01906	phosphoglycerate kinase
+DMEHAFPA_01907	glyceraldehyde-3-phosphate dehydrogenase
+DMEHAFPA_01908	SorC family transcriptional regulator
+DMEHAFPA_01909	integral membrane protein
+DMEHAFPA_01910	hypothetical protein
+DMEHAFPA_01911	Thiamine precursor transporter HmpT
+DMEHAFPA_01912	phosphomethylpyrimidine kinase
+DMEHAFPA_01913	aspartyl-tRNA synthetase
+DMEHAFPA_01914	histidyl-tRNA synthetase
+DMEHAFPA_01915	D-tyrosyl-tRNA(Tyr) deacylase
+DMEHAFPA_01916	GTP diphosphokinase
+DMEHAFPA_01917	16S ribosomal RNA methyltransferase RsmE
+DMEHAFPA_01918	50S ribosomal protein L11 methyltransferase
+DMEHAFPA_01919	DNA-3-methyladenine glycosylase
+DMEHAFPA_01920	DNA-3-methyladenine glycosylase
+DMEHAFPA_01921	recombination factor protein RarA
+DMEHAFPA_01922	hypothetical protein
+DMEHAFPA_01923	universal stress protein
+DMEHAFPA_01924	acetate kinase
+DMEHAFPA_01925	adenine-specific methyltransferase
+DMEHAFPA_01926	hypothetical protein
+DMEHAFPA_01927	Competence protein ComGF
+DMEHAFPA_01928	hypothetical protein
+DMEHAFPA_01929	hypothetical protein
+DMEHAFPA_01930	Ferrochelatase
+DMEHAFPA_01931	tRNA-Met
+DMEHAFPA_01932	hypothetical protein
+DMEHAFPA_01933	Cold shock protein CspC
+DMEHAFPA_01934	hypothetical protein
+DMEHAFPA_01935	hypothetical protein
+DMEHAFPA_01936	hypothetical protein
+DMEHAFPA_01937	hypothetical protein
+DMEHAFPA_01938	hypothetical protein
+DMEHAFPA_01939	hypothetical protein
+DMEHAFPA_01940	hypothetical protein
+DMEHAFPA_01941	hypothetical protein
+DMEHAFPA_01942	hypothetical protein
+DMEHAFPA_01943	hypothetical protein
+DMEHAFPA_01944	phage minor structural protein
+DMEHAFPA_01945	phage putative tail component protein
+DMEHAFPA_01946	hypothetical protein
+DMEHAFPA_01947	hypothetical protein
+DMEHAFPA_01948	hypothetical protein
+DMEHAFPA_01949	hypothetical protein
+DMEHAFPA_01950	hypothetical protein
+DMEHAFPA_01951	hypothetical protein
+DMEHAFPA_01952	hypothetical protein
+DMEHAFPA_01953	hypothetical protein
+DMEHAFPA_01954	hypothetical protein
+DMEHAFPA_01955	hypothetical protein
+DMEHAFPA_01956	hypothetical protein
+DMEHAFPA_01957	hypothetical protein
+DMEHAFPA_01958	hypothetical protein
+DMEHAFPA_01959	phage portal protein
+DMEHAFPA_01960	hypothetical protein
+DMEHAFPA_01961	hypothetical protein
+DMEHAFPA_01962	hypothetical protein
+DMEHAFPA_01963	hypothetical protein
+DMEHAFPA_01964	hypothetical protein
+DMEHAFPA_01965	hypothetical protein
+DMEHAFPA_01966	tRNA-Trp
+DMEHAFPA_01967	phage transcriptional regulator, ArpU family
+DMEHAFPA_01968	hypothetical protein
+DMEHAFPA_01969	hypothetical protein
+DMEHAFPA_01970	hypothetical protein
+DMEHAFPA_01971	hypothetical protein
+DMEHAFPA_01972	hypothetical protein
+DMEHAFPA_01973	hypothetical protein
+DMEHAFPA_01974	hypothetical protein
+DMEHAFPA_01975	hypothetical protein
+DMEHAFPA_01976	hypothetical protein
+DMEHAFPA_01977	hypothetical protein
+DMEHAFPA_01978	hypothetical protein
+DMEHAFPA_01979	phage anti-repressor protein
+DMEHAFPA_01980	hypothetical protein
+DMEHAFPA_01981	hypothetical protein
+DMEHAFPA_01982	hypothetical protein
+DMEHAFPA_01983	hypothetical protein
+DMEHAFPA_01984	hypothetical protein
+DMEHAFPA_01985	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_01986	hypothetical protein
+DMEHAFPA_01987	prepilin-type cleavage/methylation domain protein
+DMEHAFPA_01988	type II secretion system F domain protein
+DMEHAFPA_01989	type II/IV secretion system protein
+DMEHAFPA_01990	amino acid permease family protein
+DMEHAFPA_01991	ribosomal RNA large subunit methyltransferase N
+DMEHAFPA_01992	peptide ABC transporter permease/transmembrane protein
+DMEHAFPA_01993	ABC transporter ATP-binding protein
+DMEHAFPA_01994	GntR family transcriptional regulator
+DMEHAFPA_01995	cell division protein FtsK
+DMEHAFPA_01996	pyridine nucleotide-disulfide family oxidoreductase
+DMEHAFPA_01997	prenyltransferase, UbiA family
+DMEHAFPA_01998	polyprenyl synthetase
+DMEHAFPA_01999	putative ABC transporter ATP-binding protein
+DMEHAFPA_02000	ABC transporter ATP-binding protein
+DMEHAFPA_02001	Cytochrome bd-I ubiquinol oxidase subunit 2
+DMEHAFPA_02002	Cytochrome bd ubiquinol oxidase subunit 1
+DMEHAFPA_02003	AraC family transcriptional regulator
+DMEHAFPA_02004	DNA topoisomerase III
+DMEHAFPA_02005	hypothetical protein
+DMEHAFPA_02006	TetR family transcriptional regulator
+DMEHAFPA_02007	hypothetical protein
+DMEHAFPA_02008	major facilitator superfamily transporter
+DMEHAFPA_02009	tRNA-specific 2-thiouridylase MnmA
+DMEHAFPA_02010	hypothetical protein
+DMEHAFPA_02011	Putative cysteine desulfurase
+DMEHAFPA_02012	ribose-phosphate pyrophosphokinase
+DMEHAFPA_02013	ABC transporter ATP-binding protein
+DMEHAFPA_02014	metal ion ABC transporter permease
+DMEHAFPA_02015	periplasmic solute binding protein
+DMEHAFPA_02016	ABC transporter ATP-binding protein
+DMEHAFPA_02017	peptidase M20D
+DMEHAFPA_02018	YaeC family lipoprotein
+DMEHAFPA_02019	ABC transporter permease
+DMEHAFPA_02020	ABC transporter ATP-binding protein
+DMEHAFPA_02021	tRNA-Thr
+DMEHAFPA_02022	hypothetical protein
+DMEHAFPA_02023	hypothetical protein
+DMEHAFPA_02024	tRNA-Met
+DMEHAFPA_02025	hypothetical protein
+DMEHAFPA_02026	hypothetical protein
+DMEHAFPA_02027	hypothetical protein
+DMEHAFPA_02028	hypothetical protein
+DMEHAFPA_02029	hypothetical protein
+DMEHAFPA_02030	hypothetical protein
+DMEHAFPA_02031	hypothetical protein
+DMEHAFPA_02032	hypothetical protein
+DMEHAFPA_02033	hypothetical protein
+DMEHAFPA_02034	hypothetical protein
+DMEHAFPA_02035	hypothetical protein
+DMEHAFPA_02036	hypothetical protein
+DMEHAFPA_02037	hypothetical protein
+DMEHAFPA_02038	hypothetical protein
+DMEHAFPA_02039	hypothetical protein
+DMEHAFPA_02040	hypothetical protein
+DMEHAFPA_02041	hypothetical protein
+DMEHAFPA_02042	hypothetical protein
+DMEHAFPA_02043	hypothetical protein
+DMEHAFPA_02044	hypothetical protein
+DMEHAFPA_02045	hypothetical protein
+DMEHAFPA_02046	hypothetical protein
+DMEHAFPA_02047	hypothetical protein
+DMEHAFPA_02048	hypothetical protein
+DMEHAFPA_02049	hypothetical protein
+DMEHAFPA_02050	hypothetical protein
+DMEHAFPA_02051	hypothetical protein
+DMEHAFPA_02052	hypothetical protein
+DMEHAFPA_02053	adenine methyltransferase
+DMEHAFPA_02054	tRNA-Cys
+DMEHAFPA_02055	phage transcriptional regulator, ArpU family
+DMEHAFPA_02056	hypothetical protein
+DMEHAFPA_02057	hypothetical protein
+DMEHAFPA_02058	hypothetical protein
+DMEHAFPA_02059	hypothetical protein
+DMEHAFPA_02060	hypothetical protein
+DMEHAFPA_02061	hypothetical protein
+DMEHAFPA_02062	hypothetical protein
+DMEHAFPA_02063	hypothetical protein
+DMEHAFPA_02064	hypothetical protein
+DMEHAFPA_02065	hypothetical protein
+DMEHAFPA_02066	hypothetical protein
+DMEHAFPA_02067	hypothetical protein
+DMEHAFPA_02068	DNA replication protein
+DMEHAFPA_02069	hypothetical protein
+DMEHAFPA_02070	hypothetical protein
+DMEHAFPA_02071	hypothetical protein
+DMEHAFPA_02072	hypothetical protein
+DMEHAFPA_02073	hypothetical protein
+DMEHAFPA_02074	hypothetical protein
+DMEHAFPA_02075	hypothetical protein
+DMEHAFPA_02076	hypothetical protein
+DMEHAFPA_02077	hypothetical protein
+DMEHAFPA_02078	hypothetical protein
+DMEHAFPA_02079	hypothetical protein
+DMEHAFPA_02080	hypothetical protein
+DMEHAFPA_02081	HTH-type transcriptional regulator Xre
+DMEHAFPA_02082	hypothetical protein
+DMEHAFPA_02083	hypothetical protein
+DMEHAFPA_02084	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_02085	hypothetical protein
+DMEHAFPA_02086	hypothetical protein
+DMEHAFPA_02087	hypothetical protein
+DMEHAFPA_02088	hypothetical protein
+DMEHAFPA_02089	Aminoacyltransferase FemA
+DMEHAFPA_02090	glucosamine--fructose-6-phosphate aminotransferase
+DMEHAFPA_02091	Energy-coupling factor transporter transmembrane protein EcfT
+DMEHAFPA_02092	ABC transporter ATP-binding protein
+DMEHAFPA_02093	hypothetical protein
+DMEHAFPA_02094	phosphoglucosamine mutase
+DMEHAFPA_02095	phosphoglucosamine mutase
+DMEHAFPA_02096	YbbR-like protein
+DMEHAFPA_02097	Cyclic di-AMP synthase CdaA
+DMEHAFPA_02098	pyruvate flavodoxin oxidoreductase subunit alpha
+DMEHAFPA_02099	glutamine synthetase, type I
+DMEHAFPA_02100	MerR family transcriptional regulator
+DMEHAFPA_02101	GTP-binding protein HflX
+DMEHAFPA_02102	tRNA dimethylallyltransferase
+DMEHAFPA_02103	glycerophosphodiester phosphodiesterase family protein
+DMEHAFPA_02104	hypothetical protein
+DMEHAFPA_02105	NAD-dependent epimerase/dehydratase
+DMEHAFPA_02106	hypothetical protein
+DMEHAFPA_02107	hypothetical protein
+DMEHAFPA_02108	hypothetical protein
+DMEHAFPA_02109	hypothetical protein
+DMEHAFPA_02110	putative glycosyltransferase EpsJ
+DMEHAFPA_02111	dTDP-glucose 4,6-dehydratase
+DMEHAFPA_02112	Ribitol-5-phosphate cytidylyltransferase
+DMEHAFPA_02113	ISEf1, transposase
+DMEHAFPA_02114	hypothetical protein
+DMEHAFPA_02115	hypothetical protein
+DMEHAFPA_02116	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+DMEHAFPA_02117	undecaprenyl-phosphate galactosephosphotransferase
+DMEHAFPA_02118	hypothetical protein
+DMEHAFPA_02119	hypothetical protein
+DMEHAFPA_02120	glycosyl transferase family protein
+DMEHAFPA_02121	hypothetical protein
+DMEHAFPA_02122	ABC transporter ATP-binding protein
+DMEHAFPA_02123	ABC transporter
+DMEHAFPA_02124	hypothetical protein
+DMEHAFPA_02125	ISEf1, transposase
+DMEHAFPA_02126	hypothetical protein
+DMEHAFPA_02127	transposase, Mutator family
+DMEHAFPA_02128	hypothetical protein
+DMEHAFPA_02129	hypothetical protein
+DMEHAFPA_02130	glycosyl transferase family protein
+DMEHAFPA_02131	dTDP-4-dehydrorhamnose reductase
+DMEHAFPA_02132	dTDP-glucose 4,6-dehydratase
+DMEHAFPA_02133	dTDP-4-dehydrorhamnose 3,5-epimerase
+DMEHAFPA_02134	glucose-1-phosphate thymidylyltransferase
+DMEHAFPA_02135	glycosyl transferase family protein
+DMEHAFPA_02136	glycosyl transferase family protein
+DMEHAFPA_02137	glycosyl transferase family protein
+DMEHAFPA_02138	glycoside hydrolase family protein
+DMEHAFPA_02139	ribonuclease BN
+DMEHAFPA_02140	Methionine aminopeptidase, type I
+DMEHAFPA_02141	flavodoxin
+DMEHAFPA_02142	TspO/MBR family protein
+DMEHAFPA_02143	TetR family transcriptional regulator
+DMEHAFPA_02144	aminopeptidase PepS
+DMEHAFPA_02145	aminopeptidase PepS
+DMEHAFPA_02146	hypothetical protein
+DMEHAFPA_02147	cytidine/deoxycytidylate deaminase family protein
+DMEHAFPA_02148	transcriptional regulator, Fis family
+DMEHAFPA_02149	phenazine biosynthesis protein PhzF family protein
+DMEHAFPA_02150	hypothetical protein
+DMEHAFPA_02151	Zn-dependent protease
+DMEHAFPA_02152	hypothetical protein
+DMEHAFPA_02153	hypothetical protein
+DMEHAFPA_02154	PTS system, trehalose/maltose-specific, IIBCA component
+DMEHAFPA_02155	glyoxylase
+DMEHAFPA_02156	hypothetical protein
+DMEHAFPA_02157	hypothetical protein
+DMEHAFPA_02158	alpha-1,2-mannosidase
+DMEHAFPA_02159	AraC family transcriptional regulator
+DMEHAFPA_02160	sensor histidine kinase
+DMEHAFPA_02161	integral membrane protein
+DMEHAFPA_02162	extracellular solute-binding protein
+DMEHAFPA_02163	ABC transporter permease
+DMEHAFPA_02164	ABC transporter permease
+DMEHAFPA_02165	hypothetical protein
+DMEHAFPA_02166	MerR family transcriptional regulator
+DMEHAFPA_02167	ABC transporter ATP-binding protein
+DMEHAFPA_02168	ABC transporter ATP-binding protein
+DMEHAFPA_02169	Tryptophanyl-tRNA synthetase II
+DMEHAFPA_02170	hypothetical protein
+DMEHAFPA_02171	hypothetical protein
+DMEHAFPA_02172	hypothetical protein
+DMEHAFPA_02173	ABC transporter, permease protein
+DMEHAFPA_02174	ABC transporter ATP-binding protein
+DMEHAFPA_02175	hypothetical protein
+DMEHAFPA_02176	glycosyl hydrolase family protein
+DMEHAFPA_02177	hypothetical protein
+DMEHAFPA_02178	hypothetical protein
+DMEHAFPA_02179	LacI family transcriptional regulator
+DMEHAFPA_02180	hypothetical protein
+DMEHAFPA_02181	Tyrosine recombinase XerC
+DMEHAFPA_02182	hypothetical protein
+DMEHAFPA_02183	RNA polymerase factor sigma-70
+DMEHAFPA_02184	hypothetical protein
+DMEHAFPA_02185	hypothetical protein
+DMEHAFPA_02186	hypothetical protein
+DMEHAFPA_02187	hypothetical protein
+DMEHAFPA_02188	hypothetical protein
+DMEHAFPA_02189	hypothetical protein
+DMEHAFPA_02190	cell wall surface anchor family protein
+DMEHAFPA_02191	hypothetical protein
+DMEHAFPA_02192	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_02193	PTS system transporter subunit IIC
+DMEHAFPA_02194	hypothetical protein
+DMEHAFPA_02195	HTH-type transcriptional regulator GlvR
+DMEHAFPA_02196	hypothetical protein
+DMEHAFPA_02197	hypothetical protein
+DMEHAFPA_02198	gluconate 5-dehydrogenase
+DMEHAFPA_02199	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+DMEHAFPA_02200	2-dehydro-3-deoxygluconokinase
+DMEHAFPA_02201	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+DMEHAFPA_02202	PTS system, mannose/fructose/sorbose-specific IIAB component
+DMEHAFPA_02203	hypothetical protein
+DMEHAFPA_02204	PTS system mannose-specific transporter subunit IID
+DMEHAFPA_02205	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_02206	PTS system sorbose-specific EIIB component
+DMEHAFPA_02207	glycosyl hydrolase family protein
+DMEHAFPA_02208	hypothetical protein
+DMEHAFPA_02209	hypothetical protein
+DMEHAFPA_02210	hypothetical protein
+DMEHAFPA_02211	Conjugative transposon protein TcpC
+DMEHAFPA_02212	NLP/P60 family lipoprotein
+DMEHAFPA_02213	amino acid transporter
+DMEHAFPA_02214	ATP/GTP-binding protein
+DMEHAFPA_02215	conjugative transposon membrane protein
+DMEHAFPA_02216	hypothetical protein
+DMEHAFPA_02217	hypothetical protein
+DMEHAFPA_02218	resolvase family site-specific recombinase
+DMEHAFPA_02219	hypothetical protein
+DMEHAFPA_02220	hypothetical protein
+DMEHAFPA_02221	hypothetical protein
+DMEHAFPA_02222	hypothetical protein
+DMEHAFPA_02223	hypothetical protein
+DMEHAFPA_02224	hypothetical protein
+DMEHAFPA_02225	hypothetical protein
+DMEHAFPA_02226	hypothetical protein
+DMEHAFPA_02227	hypothetical protein
+DMEHAFPA_02228	D-alanyl-D-alanine dipeptidase
+DMEHAFPA_02229	Vancomycin B-type resistance protein vanB, D-alanine--D-lactate ligase
+DMEHAFPA_02230	VanH protein, D-specific alpha-keto acid dehydrogenase
+DMEHAFPA_02231	vancomycin B-type resistance protein VanW
+DMEHAFPA_02232	VanY protein, D-alanyl-D-alanine carboxypeptidase
+DMEHAFPA_02233	sensor histidine kinase VanSB
+DMEHAFPA_02234	DNA-binding response regulator VanRB
+DMEHAFPA_02235	hypothetical protein
+DMEHAFPA_02236	hypothetical protein
+DMEHAFPA_02237	hypothetical protein
+DMEHAFPA_02238	hypothetical protein
+DMEHAFPA_02239	hypothetical protein
+DMEHAFPA_02240	hypothetical protein
+DMEHAFPA_02241	hypothetical protein
+DMEHAFPA_02242	hypothetical protein
+DMEHAFPA_02243	DNA topoisomerase III
+DMEHAFPA_02244	hypothetical protein
+DMEHAFPA_02245	hypothetical protein
+DMEHAFPA_02246	hypothetical protein
+DMEHAFPA_02247	hypothetical protein
+DMEHAFPA_02248	hypothetical protein
+DMEHAFPA_02249	hypothetical protein
+DMEHAFPA_02250	Type IV secretory pathway, VirB4 component
+DMEHAFPA_02251	hypothetical protein
+DMEHAFPA_02252	hypothetical protein
+DMEHAFPA_02253	HNH endonuclease domain protein
+DMEHAFPA_02254	Maff2 family protein
+DMEHAFPA_02255	TraG/TraD family protein
+DMEHAFPA_02256	hypothetical protein
+DMEHAFPA_02257	hypothetical protein
+DMEHAFPA_02258	hypothetical protein
+DMEHAFPA_02259	hypothetical protein
+DMEHAFPA_02260	hypothetical protein
+DMEHAFPA_02261	antirestriction protein
+DMEHAFPA_02262	hypothetical protein
+DMEHAFPA_02263	hypothetical protein
+DMEHAFPA_02264	helix-turn-helix protein
+DMEHAFPA_02265	hypothetical protein
+DMEHAFPA_02266	C-5 cytosine-specific DNA methylase
+DMEHAFPA_02267	hypothetical protein
+DMEHAFPA_02268	hypothetical protein
+DMEHAFPA_02269	FtsK/SpoIIIE family protein
+DMEHAFPA_02270	hypothetical protein
+DMEHAFPA_02271	hypothetical protein
+DMEHAFPA_02272	hypothetical protein
+DMEHAFPA_02273	cell wall surface anchor family protein
+DMEHAFPA_02274	helix-turn-helix protein
+DMEHAFPA_02275	hypothetical protein
+DMEHAFPA_02276	hypothetical protein
+DMEHAFPA_02277	helix-turn-helix protein
+DMEHAFPA_02278	GTP-binding protein LepA
+DMEHAFPA_02279	GNAT family acetyltransferase
+DMEHAFPA_02280	Nucleoside 2-deoxyribosyltransferase
+DMEHAFPA_02281	ATP-dependent chaperone protein ClpB
+DMEHAFPA_02282	Putative oxidoreductase CatD
+DMEHAFPA_02283	ISEnfa3, transposase
+DMEHAFPA_02284	ISEfa10, transposase
+DMEHAFPA_02285	Adenylosuccinate lyase
+DMEHAFPA_02286	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+DMEHAFPA_02287	xanthine permease
+DMEHAFPA_02288	xanthine phosphoribosyltransferase
+DMEHAFPA_02289	hypothetical protein
+DMEHAFPA_02290	N-acetylmuramoyl-L-alanine amidase
+DMEHAFPA_02291	hypothetical protein
+DMEHAFPA_02292	hypothetical protein
+DMEHAFPA_02293	oxidoreductase family, NAD-binding Rossmann fold protein
+DMEHAFPA_02294	asparaginyl-tRNA synthetase
+DMEHAFPA_02295	aspartate aminotransferase
+DMEHAFPA_02296	hypothetical protein
+DMEHAFPA_02297	DnaQ family exonuclease/DinG family helicase
+DMEHAFPA_02298	hypothetical protein
+DMEHAFPA_02299	amino acid permease family protein
+DMEHAFPA_02300	DNA polymerase III PolC-type
+DMEHAFPA_02301	prolyl-tRNA synthetase
+DMEHAFPA_02302	membrane-associated zinc metalloprotease
+DMEHAFPA_02303	glucose 1-dehydrogenase, Gdh
+DMEHAFPA_02304	hypothetical protein
+DMEHAFPA_02305	hypothetical protein
+DMEHAFPA_02306	hypothetical protein
+DMEHAFPA_02307	hypothetical protein
+DMEHAFPA_02308	FeS assembly protein SufB
+DMEHAFPA_02309	NifU family SUF system FeS assembly protein
+DMEHAFPA_02310	cysteine desulfurase
+DMEHAFPA_02311	FeS assembly protein SufD
+DMEHAFPA_02312	ABC transporter ATP-binding protein
+DMEHAFPA_02313	ribosome recycling factor
+DMEHAFPA_02314	uridylate kinase
+DMEHAFPA_02315	translation elongation factor Ts
+DMEHAFPA_02316	30S ribosomal protein S2
+DMEHAFPA_02317	hypothetical protein
+DMEHAFPA_02318	RNA methyltransferase
+DMEHAFPA_02319	acylphosphatase
+DMEHAFPA_02320	putative OxaA-like protein
+DMEHAFPA_02321	hypothetical protein
+DMEHAFPA_02322	glycyl-tRNA synthetase subunit beta
+DMEHAFPA_02323	Glycyl-tRNA synthetase alpha subunit
+DMEHAFPA_02324	DNA repair protein RecO
+DMEHAFPA_02325	GTP-binding protein Era
+DMEHAFPA_02326	diacylglycerol kinase
+DMEHAFPA_02327	Putative metalloprotease
+DMEHAFPA_02328	HD domain-containing protein
+DMEHAFPA_02329	KH domain-containing protein
+DMEHAFPA_02330	Glutamyl-tRNA(Gln) amidotransferase subunit E
+DMEHAFPA_02331	30S ribosomal protein S21
+DMEHAFPA_02332	Fur family transcriptional regulator
+DMEHAFPA_02333	Putative phosphotransferase
+DMEHAFPA_02334	Homoserine kinase
+DMEHAFPA_02335	Threonine synthase
+DMEHAFPA_02336	Homoserine dehydrogenase
+DMEHAFPA_02337	ArsR family transcriptional regulator
+DMEHAFPA_02338	delta 1-pyrroline-5-carboxylate reductase
+DMEHAFPA_02339	phosphoglucomutase/phosphomannomutase family protein
+DMEHAFPA_02340	GntR family transcriptional regulator
+DMEHAFPA_02341	hypothetical protein
+DMEHAFPA_02342	PadR family transcriptional regulator
+DMEHAFPA_02343	guanosine 5'-monophosphate oxidoreductase
+DMEHAFPA_02344	xanthine permease
+DMEHAFPA_02345	Guanine deaminase
+DMEHAFPA_02346	Metallo-beta-lactamase superfamily protein
+DMEHAFPA_02347	phosphoglycerate mutase family protein
+DMEHAFPA_02348	RpiR family transcriptional regulator
+DMEHAFPA_02349	PTS system, sugar-specific IIBC component
+DMEHAFPA_02350	N-acetylmuramic acid 6-phosphate etherase
+DMEHAFPA_02351	alpha3-beta1 integrin-binding family protein
+DMEHAFPA_02352	PTS system, sugar-specific IIBC component
+DMEHAFPA_02353	undecaprenyl-diphosphatase
+DMEHAFPA_02354	protein YebG
+DMEHAFPA_02355	hypothetical protein
+DMEHAFPA_02356	hypothetical protein
+DMEHAFPA_02357	30S ribosomal protein S20
+DMEHAFPA_02358	hypothetical protein
+DMEHAFPA_02359	2-dehydropantoate 2-reductase
+DMEHAFPA_02360	DNA polymerase III subunit delta
+DMEHAFPA_02361	DNA internalization-related competence protein ComEC/Rec2
+DMEHAFPA_02362	ComE operon protein 2
+DMEHAFPA_02363	competence protein, ComEA
+DMEHAFPA_02364	PDZ domain protein
+DMEHAFPA_02365	Phosphopantetheine adenylyltransferase, CoaD
+DMEHAFPA_02366	RsmD family RNA methyltransferase
+DMEHAFPA_02367	hypothetical protein
+DMEHAFPA_02368	hypothetical protein
+DMEHAFPA_02369	hypothetical protein
+DMEHAFPA_02370	pyruvate carboxylase
+DMEHAFPA_02371	cell cycle protein FtsW
+DMEHAFPA_02372	hypothetical protein
+DMEHAFPA_02373	ATP-dependent DNA helicase RecQ
+DMEHAFPA_02374	GTP-binding protein TypA/BipA
+DMEHAFPA_02375	inositol monophosphatase family protein
+DMEHAFPA_02376	hypothetical protein
+DMEHAFPA_02377	voltage-gated chloride channel family protein
+DMEHAFPA_02378	Beta-monoglucosyldiacylglycerol synthase
+DMEHAFPA_02379	hypothetical protein
+DMEHAFPA_02380	hypothetical protein
+DMEHAFPA_02381	hypothetical protein
+DMEHAFPA_02382	hypothetical protein
+DMEHAFPA_02383	HD domain-containing protein
+DMEHAFPA_02384	arginyl-tRNA synthetase
+DMEHAFPA_02385	O-sialoglycoprotein endopeptidase
+DMEHAFPA_02386	ribosomal-protein-alanine acetyltransferase
+DMEHAFPA_02387	ribosomal-protein-alanine acetyltransferase
+DMEHAFPA_02388	universal bacterial protein YeaZ
+DMEHAFPA_02389	penicillin binding protein transpeptidase domain protein
+DMEHAFPA_02390	Putative virion core protein
+DMEHAFPA_02391	hypothetical protein
+DMEHAFPA_02392	hypothetical protein
+DMEHAFPA_02393	hypothetical protein
+DMEHAFPA_02394	Phosphoglycolate phosphatase
+DMEHAFPA_02395	hypothetical protein
+DMEHAFPA_02396	hypothetical protein
+DMEHAFPA_02397	ABC transporter
+DMEHAFPA_02398	Vitamin B12 import ATP-binding protein BtuD
+DMEHAFPA_02399	UDP-galactopyranose mutase
+DMEHAFPA_02400	hypothetical protein
+DMEHAFPA_02401	UDP-N-acetylenolpyruvoylglucosamine reductase
+DMEHAFPA_02402	hypothetical protein
+DMEHAFPA_02403	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+DMEHAFPA_02404	hypothetical protein
+DMEHAFPA_02405	Teichoic acid glycerol-phosphate transferase
+DMEHAFPA_02406	phosphatidate cytidylyltransferase
+DMEHAFPA_02407	undecaprenyl diphosphate synthase
+DMEHAFPA_02408	putative D-methionine-binding lipoprotein MetQ
+DMEHAFPA_02409	ABC transporter permease
+DMEHAFPA_02410	ABC transporter ATP-binding protein
+DMEHAFPA_02411	glycine cleavage H-protein
+DMEHAFPA_02412	ArsC family protein
+DMEHAFPA_02413	FtsW/RodA/SpoVE family cell cycle protein
+DMEHAFPA_02414	M protein trans-acting positive regulator
+DMEHAFPA_02415	hypothetical protein
+DMEHAFPA_02416	hypothetical protein
+DMEHAFPA_02417	hypothetical protein
+DMEHAFPA_02418	helix-turn-helix domain-containing protein
+DMEHAFPA_02419	azaleucine resistance protein AzlC_1
+DMEHAFPA_02420	hypothetical protein
+DMEHAFPA_02421	hypothetical protein
+DMEHAFPA_02422	hypothetical protein
+DMEHAFPA_02423	hypothetical protein
+DMEHAFPA_02424	hypothetical protein
+DMEHAFPA_02425	ATP/GTP-binding protein
+DMEHAFPA_02426	hypothetical protein
+DMEHAFPA_02427	hypothetical protein
+DMEHAFPA_02428	hypothetical protein
+DMEHAFPA_02429	hypothetical protein
+DMEHAFPA_02430	Conjugative transposon protein
+DMEHAFPA_02431	hypothetical protein
+DMEHAFPA_02432	hypothetical protein
+DMEHAFPA_02433	hypothetical protein
+DMEHAFPA_02434	hypothetical protein
+DMEHAFPA_02435	hypothetical protein
+DMEHAFPA_02436	hypothetical protein
+DMEHAFPA_02437	helix-turn-helix protein
+DMEHAFPA_02438	hypothetical protein
+DMEHAFPA_02439	hypothetical protein
+DMEHAFPA_02440	hypothetical protein
+DMEHAFPA_02441	hypothetical protein
+DMEHAFPA_02442	FtsK/SpoIIIE family protein
+DMEHAFPA_02443	hypothetical protein
+DMEHAFPA_02444	hypothetical protein
+DMEHAFPA_02445	hypothetical protein
+DMEHAFPA_02446	hypothetical protein
+DMEHAFPA_02447	hypothetical protein
+DMEHAFPA_02448	hypothetical protein
+DMEHAFPA_02449	hypothetical protein
+DMEHAFPA_02450	hypothetical protein
+DMEHAFPA_02451	hypothetical protein
+DMEHAFPA_02452	hypothetical protein
+DMEHAFPA_02453	HTH-type transcriptional regulator ImmR
+DMEHAFPA_02454	hypothetical protein
+DMEHAFPA_02455	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_02456	tRNA-Thr
+DMEHAFPA_02457	hypothetical protein
+DMEHAFPA_02458	hypothetical protein
+DMEHAFPA_02459	uracil phosphoribosyltransferase
+DMEHAFPA_02460	serine hydroxymethyltransferase
+DMEHAFPA_02461	Sua5/YciO/YrdC/YwlC family protein
+DMEHAFPA_02462	modification methylase HemK
+DMEHAFPA_02463	peptide chain release factor 1
+DMEHAFPA_02464	Thymidine kinase
+DMEHAFPA_02465	fumarate reductase flavoprotein subunit
+DMEHAFPA_02466	cation transporter
+DMEHAFPA_02467	pyruvate flavodoxin oxidoreductase subunit alpha
+DMEHAFPA_02468	Glutamate synthase [NADPH] small chain
+DMEHAFPA_02469	dihydroorotate dehydrogenase, electron transfer subunit
+DMEHAFPA_02470	flavodoxin
+DMEHAFPA_02471	hypothetical protein
+DMEHAFPA_02472	hypothetical protein
+DMEHAFPA_02473	hypothetical protein
+DMEHAFPA_02474	hypothetical protein
+DMEHAFPA_02475	Selenide, water dikinase
+DMEHAFPA_02476	cysteine desulfurase
+DMEHAFPA_02477	Molybdenum cofactor guanylyltransferase
+DMEHAFPA_02478	hypothetical protein
+DMEHAFPA_02479	putative xanthine dehydrogenase subunit A
+DMEHAFPA_02480	hypothetical protein
+DMEHAFPA_02481	xanthine permease
+DMEHAFPA_02482	2-iminobutanoate/2-iminopropanoate deaminase
+DMEHAFPA_02483	Carbamate kinase
+DMEHAFPA_02484	Putative carbamoyltransferase YgeW
+DMEHAFPA_02485	Putative dipeptidase
+DMEHAFPA_02486	Diaminopropionate ammonia-lyase
+DMEHAFPA_02487	Dihydroorotase
+DMEHAFPA_02488	Putative oxidoreductase YgfK
+DMEHAFPA_02489	Putative aminohydrolase SsnA
+DMEHAFPA_02490	Transcriptional regulator DauR
+DMEHAFPA_02491	Mur ligase middle domain-containing protein
+DMEHAFPA_02492	CobB/CobQ-like glutamine amidotransferase domain protein
+DMEHAFPA_02493	inosine-uridine preferring nucleoside hydrolase
+DMEHAFPA_02494	integral membrane protein
+DMEHAFPA_02495	mannose-6-phosphate isomerase
+DMEHAFPA_02496	Beta-lactamase
+DMEHAFPA_02497	glyoxalase family protein
+DMEHAFPA_02498	ABC transporter ATP-binding protein/permease
+DMEHAFPA_02499	ABC transporter ATP-binding protein/permease
+DMEHAFPA_02500	TetR family transcriptional regulator
+DMEHAFPA_02501	guanylate kinase
+DMEHAFPA_02502	6-phospho-beta-glucosidase
+DMEHAFPA_02503	PTS system beta-glucoside-specific transporter subunit IIABC
+DMEHAFPA_02504	BglG family transcriptional antiterminator
+DMEHAFPA_02505	azoreductase
+DMEHAFPA_02506	permease
+DMEHAFPA_02507	PTS system, glucitol/sorbitol-specific IIA component
+DMEHAFPA_02508	hypothetical protein
+DMEHAFPA_02509	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DMEHAFPA_02510	membrane protein
+DMEHAFPA_02511	ATP synthase F1 subunit epsilon
+DMEHAFPA_02512	ATP synthase F1 subunit beta
+DMEHAFPA_02513	ATP synthase F1 subunit gamma
+DMEHAFPA_02514	ATP synthase F1 subunit alpha
+DMEHAFPA_02515	ATP synthase F1, delta subunit
+DMEHAFPA_02516	ATP synthase F0, B subunit
+DMEHAFPA_02517	ATP synthase subunit c
+DMEHAFPA_02518	ATP synthase subunit C
+DMEHAFPA_02519	SsrA-binding protein
+DMEHAFPA_02520	ribonuclease R
+DMEHAFPA_02521	carboxylesterase
+DMEHAFPA_02522	preprotein translocase, SecG subunit
+DMEHAFPA_02523	GNAT family acetyltransferase
+DMEHAFPA_02524	hypothetical protein
+DMEHAFPA_02525	cadmium-translocating P-type ATPase
+DMEHAFPA_02526	NH(3)-dependent NAD(+) synthetase
+DMEHAFPA_02527	Nicotinate phosphoribosyltransferase
+DMEHAFPA_02528	cell wall teichoic acid glycosylation protein GtcA family protein
+DMEHAFPA_02529	hypothetical protein
+DMEHAFPA_02530	hypothetical protein
+DMEHAFPA_02531	DNA-binding response regulator
+DMEHAFPA_02532	hypothetical protein
+DMEHAFPA_02533	transposase, Mutator family
+DMEHAFPA_02534	chaperonin GroL
+DMEHAFPA_02535	chaperonin GroS
+DMEHAFPA_02536	hypothetical protein
+DMEHAFPA_02537	CAAX amino terminal protease
+DMEHAFPA_02538	redox-sensitive transcriptional regulator
+DMEHAFPA_02539	ABC transporter ATP-binding protein
+DMEHAFPA_02540	GntR family transcriptional regulator
+DMEHAFPA_02541	glycine betaine transporter ATP-binding subunit
+DMEHAFPA_02542	Substrate binding domain of ABC-type glycine betaine transport system
+DMEHAFPA_02543	hypothetical protein
+DMEHAFPA_02544	diacylglycerol kinase catalytic subunit
+DMEHAFPA_02545	hypothetical protein
+DMEHAFPA_02546	glycerate kinase
+DMEHAFPA_02547	High-affinity gluconate transporter
+DMEHAFPA_02548	hypothetical protein
+DMEHAFPA_02549	spermidine/putrescine-binding periplasmic protein PotD
+DMEHAFPA_02550	spermidine/putrescine transport system permease protein PotC
+DMEHAFPA_02551	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+DMEHAFPA_02552	Spermidine/putrescine import ATP-binding protein PotA
+DMEHAFPA_02553	helix-turn-helix domain-containing protein
+DMEHAFPA_02554	YhdH/YhfP family quinone oxidoreductase
+DMEHAFPA_02555	phosphopantothenate--cysteine ligase
+DMEHAFPA_02556	phosphopantothenoylcysteine decarboxylase
+DMEHAFPA_02557	integral membrane protein
+DMEHAFPA_02558	Aminoacyltransferase FemB
+DMEHAFPA_02559	integral membrane protein
+DMEHAFPA_02560	diacylglycerol kinase catalytic subunit
+DMEHAFPA_02561	hypothetical protein
+DMEHAFPA_02562	RecD/TraA family helicase
+DMEHAFPA_02563	phosphoglycerate mutase family protein
+DMEHAFPA_02564	TrmH family RNA methyltransferase
+DMEHAFPA_02565	methyltransferase domain protein
+DMEHAFPA_02566	copper homeostasis protein CutC
+DMEHAFPA_02567	magnesium transporter
+DMEHAFPA_02568	ribosomal large subunit pseudouridine synthase
+DMEHAFPA_02569	inorganic polyphosphate/ATP-NAD kinase
+DMEHAFPA_02570	GTP diphosphokinase
+DMEHAFPA_02571	adenylate cyclase
+DMEHAFPA_02572	dithiol-disulfide isomerase
+DMEHAFPA_02573	oligoendopeptidase F
+DMEHAFPA_02574	hypothetical protein
+DMEHAFPA_02575	MecA negative regulator of genetic competence
+DMEHAFPA_02576	transcriptional regulator Spx
+DMEHAFPA_02577	Tryptophanyl-tRNA synthetase II
+DMEHAFPA_02578	ABC transporter ATP-binding protein
+DMEHAFPA_02579	HAD superfamily hydrolase
+DMEHAFPA_02580	cell wall surface anchor family protein
+DMEHAFPA_02581	hypothetical protein
+DMEHAFPA_02582	hypothetical protein
+DMEHAFPA_02583	hypothetical protein
+DMEHAFPA_02584	hypothetical protein
+DMEHAFPA_02585	hypothetical protein
+DMEHAFPA_02586	Snf2 family protein
+DMEHAFPA_02587	exonuclease SbcC
+DMEHAFPA_02588	exonuclease SbcD
+DMEHAFPA_02589	acyltransferase
+DMEHAFPA_02590	methyltransferase small domain-containing protein
+DMEHAFPA_02591	GIY-YIG nuclease superfamily protein
+DMEHAFPA_02592	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+DMEHAFPA_02593	hypothetical protein
+DMEHAFPA_02594	nudix hydrolase, YffH family
+DMEHAFPA_02595	hypothetical protein
+DMEHAFPA_02596	tellurite resistance protein
+DMEHAFPA_02597	NUDIX family hydrolase
+DMEHAFPA_02598	acetyltransferase, GNAT family
+DMEHAFPA_02599	hypothetical protein
+DMEHAFPA_02600	transcriptional regulator
+DMEHAFPA_02601	A/G-specific adenine glycosylase
+DMEHAFPA_02602	recombination regulator RecX
+DMEHAFPA_02603	23S rRNA (uracil-5-)-methyltransferase
+DMEHAFPA_02604	transglycosylase associated protein
+DMEHAFPA_02605	Evolved beta-galactosidase subunit alpha
+DMEHAFPA_02606	amino acid permease family protein
+DMEHAFPA_02607	AraC-like ligand binding domain protein
+DMEHAFPA_02608	hypothetical protein
+DMEHAFPA_02609	50S ribosomal protein L7/L12
+DMEHAFPA_02610	50S ribosomal protein L10
+DMEHAFPA_02611	50S ribosomal protein L1
+DMEHAFPA_02612	50S ribosomal protein L11
+DMEHAFPA_02613	ABC transporter ATP-binding protein
+DMEHAFPA_02614	L-serine dehydratase, iron-sulfur-dependent subunit beta
+DMEHAFPA_02615	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+DMEHAFPA_02616	D-aminopeptidase
+DMEHAFPA_02617	glutamyl aminopeptidase
+DMEHAFPA_02618	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_02619	hypothetical protein
+DMEHAFPA_02620	hypothetical protein
+DMEHAFPA_02621	transcription termination/antitermination factor NusG
+DMEHAFPA_02622	Preprotein translocase subunit SecE
+DMEHAFPA_02623	50S ribosomal protein L33
+DMEHAFPA_02624	transcriptional regulator
+DMEHAFPA_02625	UDP-N-acetylenolpyruvoylglucosamine reductase
+DMEHAFPA_02626	oxidoreductase family, NAD-binding Rossmann fold protein
+DMEHAFPA_02627	exodeoxyribonuclease III
+DMEHAFPA_02628	exonuclease, DNA polymerase III, epsilon subunit family protein
+DMEHAFPA_02629	Ferredoxin--NADP reductase
+DMEHAFPA_02630	alkyl hydroperoxide reductase subunit C
+DMEHAFPA_02631	O-methyltransferase
+DMEHAFPA_02632	lipoyltransferase and lipoate-protein ligase A
+DMEHAFPA_02633	metallo-beta-lactamase domain-containing protein
+DMEHAFPA_02634	integral membrane protein
+DMEHAFPA_02635	M42 glutamyl aminopeptidase
+DMEHAFPA_02636	D-alanyl-lipoteichoic acid synthetase, DltD
+DMEHAFPA_02637	D-alanine--poly(phosphoribitol) ligase subunit 2
+DMEHAFPA_02638	membrane bound O-acyl transferase
+DMEHAFPA_02639	D-alanine--poly(phosphoribitol) ligase subunit 1
+DMEHAFPA_02640	hypothetical protein
+DMEHAFPA_02641	efflux ABC transporter permease
+DMEHAFPA_02642	ABC transporter ATP-binding protein
+DMEHAFPA_02643	anaerobic ribonucleoside triphosphate reductase
+DMEHAFPA_02644	anaerobic ribonucleoside-triphosphate reductase activating protein
+DMEHAFPA_02645	DNA polymerase IV
+DMEHAFPA_02646	putative iron export permease protein FetB
+DMEHAFPA_02647	ABC transporter ATP-binding protein
+DMEHAFPA_02648	tetrapyrrole methylase family protein
+DMEHAFPA_02649	DNA replication initiation control protein YabA
+DMEHAFPA_02650	stage 0 sporulation family protein
+DMEHAFPA_02651	DNA polymerase III subunit delta'
+DMEHAFPA_02652	putative protein YaaQ
+DMEHAFPA_02653	thymidylate kinase
+DMEHAFPA_02654	recombination protein RecR
+DMEHAFPA_02655	Aminopyrimidine aminohydrolase
+DMEHAFPA_02656	hypothetical protein
+DMEHAFPA_02657	ABC transporter ATP-binding protein
+DMEHAFPA_02658	Putative HMP/thiamine permease protein YkoE
+DMEHAFPA_02659	hypothetical protein
+DMEHAFPA_02660	hypothetical protein
+DMEHAFPA_02661	major facilitator superfamily transporter
+DMEHAFPA_02662	Inner membrane transport protein YdhP
+DMEHAFPA_02663	putative HTH-type transcriptional regulator YtcD
+DMEHAFPA_02664	phosphomethylpyrimidine kinase
+DMEHAFPA_02665	Thiamine-phosphate synthase
+DMEHAFPA_02666	Hydroxyethylthiazole kinase
+DMEHAFPA_02667	hypothetical protein
+DMEHAFPA_02668	Nucleoid-associated protein
+DMEHAFPA_02669	DNA polymerase III subunits gamma and tau
+DMEHAFPA_02670	galactose-1-phosphate uridylyltransferase
+DMEHAFPA_02671	UDP-glucose 4-epimerase
+DMEHAFPA_02672	hypothetical protein
+DMEHAFPA_02673	FAD(NAD)-dependent oxidoreductase
+DMEHAFPA_02674	hypothetical protein
+DMEHAFPA_02675	rhodanese family protein
+DMEHAFPA_02676	glucokinase
+DMEHAFPA_02677	putative protein YqgQ
+DMEHAFPA_02678	peptidase, S54 family protein
+DMEHAFPA_02679	5-formyltetrahydrofolate cyclo-ligase
+DMEHAFPA_02680	putative lipase/esterase
+DMEHAFPA_02681	hypothetical protein
+DMEHAFPA_02682	hypothetical protein
+DMEHAFPA_02683	hypothetical protein
+DMEHAFPA_02684	hypothetical protein
+DMEHAFPA_02685	tRNA-Ser
+DMEHAFPA_02686	hypothetical protein
+DMEHAFPA_02687	ISEf1, transposase
+DMEHAFPA_02688	hypothetical protein
+DMEHAFPA_02689	hypothetical protein
+DMEHAFPA_02690	holin
+DMEHAFPA_02691	hypothetical protein
+DMEHAFPA_02692	hypothetical protein
+DMEHAFPA_02693	hypothetical protein
+DMEHAFPA_02694	hypothetical protein
+DMEHAFPA_02695	hypothetical protein
+DMEHAFPA_02696	hypothetical protein
+DMEHAFPA_02697	hypothetical protein
+DMEHAFPA_02698	phage minor structural protein
+DMEHAFPA_02699	hypothetical protein
+DMEHAFPA_02700	phage tail tape measure protein TP901
+DMEHAFPA_02701	phage protein
+DMEHAFPA_02702	phi13 family phage major tail protein
+DMEHAFPA_02703	hypothetical protein
+DMEHAFPA_02704	hypothetical protein
+DMEHAFPA_02705	phage protein
+DMEHAFPA_02706	hypothetical protein
+DMEHAFPA_02707	major capsid protein
+DMEHAFPA_02708	phage major capsid protein, HK97 family
+DMEHAFPA_02709	phage portal protein
+DMEHAFPA_02710	Phage terminase protein, large subunit
+DMEHAFPA_02711	Phage terminase, small subunit
+DMEHAFPA_02712	phage protein
+DMEHAFPA_02713	hypothetical protein
+DMEHAFPA_02714	tRNA-Trp
+DMEHAFPA_02715	ArpU family transcriptional regulator
+DMEHAFPA_02716	hypothetical protein
+DMEHAFPA_02717	hypothetical protein
+DMEHAFPA_02718	hypothetical protein
+DMEHAFPA_02719	hypothetical protein
+DMEHAFPA_02720	hypothetical protein
+DMEHAFPA_02721	hypothetical protein
+DMEHAFPA_02722	hypothetical protein
+DMEHAFPA_02723	hypothetical protein
+DMEHAFPA_02724	hypothetical protein
+DMEHAFPA_02725	DNA replication protein
+DMEHAFPA_02726	hypothetical protein
+DMEHAFPA_02727	hypothetical protein
+DMEHAFPA_02728	hypothetical protein
+DMEHAFPA_02729	hypothetical protein
+DMEHAFPA_02730	hypothetical protein
+DMEHAFPA_02731	hypothetical protein
+DMEHAFPA_02732	hypothetical protein
+DMEHAFPA_02733	hypothetical protein
+DMEHAFPA_02734	hypothetical protein
+DMEHAFPA_02735	hypothetical protein
+DMEHAFPA_02736	hypothetical protein
+DMEHAFPA_02737	hypothetical protein
+DMEHAFPA_02738	hypothetical protein
+DMEHAFPA_02739	helix-turn-helix domain-containing protein
+DMEHAFPA_02740	hypothetical protein
+DMEHAFPA_02741	hypothetical protein
+DMEHAFPA_02742	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_02743	50S ribosomal protein L33
+DMEHAFPA_02744	Penicillin binding protein transpeptidase domain protein
+DMEHAFPA_02745	threonyl-tRNA synthetase
+DMEHAFPA_02746	4-oxalocrotonate tautomerase
+DMEHAFPA_02747	ErfK/YbiS/YcfS/YnhG family protein
+DMEHAFPA_02748	Streptomycin adenyltransferase
+DMEHAFPA_02749	integral membrane protein
+DMEHAFPA_02750	Endo-beta-N-acetylglucosaminidase H
+DMEHAFPA_02751	hypothetical protein
+DMEHAFPA_02752	putative transcriptional regulatory protein
+DMEHAFPA_02753	nucleotidyltransferase
+DMEHAFPA_02754	methyltransferase domain protein
+DMEHAFPA_02755	HD domain-containing protein
+DMEHAFPA_02756	nicotinic acid mononucleotide adenylyltransferase
+DMEHAFPA_02757	RNA-binding protein YhbY
+DMEHAFPA_02758	ribosome biogenesis GTPase YqeH
+DMEHAFPA_02759	HAD superfamily hydrolase
+DMEHAFPA_02760	acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+DMEHAFPA_02761	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+DMEHAFPA_02762	acetyl-CoA carboxylase, biotin carboxylase subunit
+DMEHAFPA_02763	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+DMEHAFPA_02764	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+DMEHAFPA_02765	beta-ketoacyl-acyl-carrier-protein synthase II
+DMEHAFPA_02766	3-oxoacyl-ACP reductase
+DMEHAFPA_02767	Malonyl CoA-acyl carrier protein transacylase
+DMEHAFPA_02768	Nitronate monooxygenase
+DMEHAFPA_02769	acyl carrier protein
+DMEHAFPA_02770	3-oxoacyl-ACP synthase
+DMEHAFPA_02771	MarR family transcriptional regulator
+DMEHAFPA_02772	putative protein YkuJ
+DMEHAFPA_02773	2-hydroxy-3-oxopropionate reductase
+DMEHAFPA_02774	glycosyl transferase family protein
+DMEHAFPA_02775	glycosyl transferase family protein
+DMEHAFPA_02776	tRNA-Asn
+DMEHAFPA_02777	5S ribosomal RNA
+DMEHAFPA_02778	23S ribosomal RNA
+DMEHAFPA_02779	tRNA-Ala
+DMEHAFPA_02780	16S ribosomal RNA
+DMEHAFPA_02781	hypothetical protein
+DMEHAFPA_02782	general stress protein 13
+DMEHAFPA_02783	class II aminotransferase
+DMEHAFPA_02784	hypothetical protein
+DMEHAFPA_02785	cyclophilin type peptidyl-prolyl cis-trans isomerase
+DMEHAFPA_02786	ferredoxin--NADP reductase
+DMEHAFPA_02787	4-phosphoerythronate dehydrogenase
+DMEHAFPA_02788	Trifunctional nucleotide phosphoesterase protein YfkN
+DMEHAFPA_02789	extracellular solute-binding protein
+DMEHAFPA_02790	Ribonuclease J
+DMEHAFPA_02791	inner membrane component transport system
+DMEHAFPA_02792	ABC transporter ATP-binding protein
+DMEHAFPA_02793	ABC transporter ATP-binding protein
+DMEHAFPA_02794	glycosyl transferase family protein
+DMEHAFPA_02795	HesB-like domain-containing protein
+DMEHAFPA_02796	TrkA-C domain-containing protein
+DMEHAFPA_02797	LuxR family DNA-binding response regulator
+DMEHAFPA_02798	sensor histidine kinase
+DMEHAFPA_02799	membrane protein
+DMEHAFPA_02800	transcription elongation factor GreA
+DMEHAFPA_02801	Endolytic murein transglycosylase
+DMEHAFPA_02802	5'-nucleotidase
+DMEHAFPA_02803	UDP-N-acetylglucosamine 2-epimerase
+DMEHAFPA_02804	Carbonic anhydrase/acetyltransferase
+DMEHAFPA_02805	ABC transporter ATP-binding protein/permease
+DMEHAFPA_02806	ABC transporter ATP-binding protein/permease
+DMEHAFPA_02807	hypothetical protein
+DMEHAFPA_02808	hypothetical protein
+DMEHAFPA_02809	Ribonuclease J 1
+DMEHAFPA_02810	major cold shock protein CspE
+DMEHAFPA_02811	DNA repair protein RadC
+DMEHAFPA_02812	HAD-superfamily hydrolase
+DMEHAFPA_02813	Folylpolyglutamate synthase
+DMEHAFPA_02814	Bacterial membrane protein YfhO
+DMEHAFPA_02815	hypothetical protein
+DMEHAFPA_02816	valyl-tRNA synthetase
+DMEHAFPA_02817	Thiol peroxidase
+DMEHAFPA_02818	redox-sensing transcriptional repressor Rex
+DMEHAFPA_02819	thiamine biosynthesis protein ThiI
+DMEHAFPA_02820	xanthine/uracil permease family protein
+DMEHAFPA_02821	hypothetical protein
+DMEHAFPA_02822	hypothetical protein
+DMEHAFPA_02823	hypothetical protein
+DMEHAFPA_02824	hypothetical protein
+DMEHAFPA_02825	major cold shock protein CspA
+DMEHAFPA_02826	hypothetical protein
+DMEHAFPA_02827	hypothetical protein
+DMEHAFPA_02828	hypothetical protein
+DMEHAFPA_02829	hypothetical protein
+DMEHAFPA_02830	hypothetical protein
+DMEHAFPA_02831	hypothetical protein
+DMEHAFPA_02832	hypothetical protein
+DMEHAFPA_02833	hypothetical protein
+DMEHAFPA_02834	hypothetical protein
+DMEHAFPA_02835	hypothetical protein
+DMEHAFPA_02836	hypothetical protein
+DMEHAFPA_02837	hypothetical protein
+DMEHAFPA_02838	hypothetical protein
+DMEHAFPA_02839	hypothetical protein
+DMEHAFPA_02840	hypothetical protein
+DMEHAFPA_02841	Helix-turn-helix domain protein
+DMEHAFPA_02842	hypothetical protein
+DMEHAFPA_02843	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_02844	short chain dehydrogenase/reductase family oxidoreductase
+DMEHAFPA_02845	maltose O-acetyltransferase family protein
+DMEHAFPA_02846	LysR family transcriptional regulator
+DMEHAFPA_02847	sugar transport protein
+DMEHAFPA_02848	D-ribose pyranase
+DMEHAFPA_02849	ribokinase
+DMEHAFPA_02850	LacI family transcriptional regulator
+DMEHAFPA_02851	hypothetical protein
+DMEHAFPA_02852	PTS system ascorbate-specific transporter subunit IIC
+DMEHAFPA_02853	PTS system ascorbate-specific transporter subunit IIB
+DMEHAFPA_02854	PTS system ascorbate-specific transporter subunit IIA
+DMEHAFPA_02855	hypothetical protein
+DMEHAFPA_02856	hypothetical protein
+DMEHAFPA_02857	cell wall surface anchor family protein
+DMEHAFPA_02858	hypothetical protein
+DMEHAFPA_02859	hypothetical protein
+DMEHAFPA_02860	Alkaline phosphatase 3
+DMEHAFPA_02861	DNA mismatch repair protein MutS2
+DMEHAFPA_02862	2-dehydro-3-deoxy-phosphogluconate aldolase
+DMEHAFPA_02863	D-glucosaminate-6-phosphate ammonia lyase
+DMEHAFPA_02864	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_02865	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_02866	PTS system mannose-specific transporter subunit IIAB
+DMEHAFPA_02867	hypothetical protein
+DMEHAFPA_02868	transcriptional antiterminator bglG:Sigma-54 factor
+DMEHAFPA_02869	phosphoglycerate mutase family protein
+DMEHAFPA_02870	amidase
+DMEHAFPA_02871	hypothetical protein
+DMEHAFPA_02872	Macrolide export ATP-binding/permease protein MacB
+DMEHAFPA_02873	ABC transporter ATP-binding protein
+DMEHAFPA_02874	Putative efflux system component YknX
+DMEHAFPA_02875	rhodanese-like domain-containing protein
+DMEHAFPA_02876	coenzyme A disulfide reductase
+DMEHAFPA_02877	rhodanese-like domain protein
+DMEHAFPA_02878	regulator protein FrmR
+DMEHAFPA_02879	putative sulfoacetate transporter SauU
+DMEHAFPA_02880	2-aminoethylphosphonate--pyruvate transaminase
+DMEHAFPA_02881	Purine catabolism regulatory protein
+DMEHAFPA_02882	(S)-ureidoglycine aminohydrolase
+DMEHAFPA_02883	Allantoate amidohydrolase
+DMEHAFPA_02884	Dihydroorotase
+DMEHAFPA_02885	Putative allantoin permease
+DMEHAFPA_02886	GNAT family acetyltransferase
+DMEHAFPA_02887	MarR family transcriptional regulator
+DMEHAFPA_02888	hypothetical protein
+DMEHAFPA_02889	sulfate transporter/STAS domain-containing protein
+DMEHAFPA_02890	choloylglycine hydrolase family protein
+DMEHAFPA_02891	glucose-6-phosphate 1-dehydrogenase
+DMEHAFPA_02892	hypothetical protein
+DMEHAFPA_02893	hypothetical protein
+DMEHAFPA_02894	hypothetical protein
+DMEHAFPA_02895	Protein FdrA
+DMEHAFPA_02896	hypothetical protein
+DMEHAFPA_02897	hypothetical protein
+DMEHAFPA_02898	helix-turn-helix domain-containing protein
+DMEHAFPA_02899	calcium-translocating P-type ATPase, PMCA-type
+DMEHAFPA_02900	transporter, dicarboxylate/amino acid:cation symporter family protein
+DMEHAFPA_02901	hypothetical protein
+DMEHAFPA_02902	tRNA pseudouridine synthase A
+DMEHAFPA_02903	hypothetical protein
+DMEHAFPA_02904	hypothetical protein
+DMEHAFPA_02905	RNA polymerase sigma factor YlaC
+DMEHAFPA_02906	hypothetical protein
+DMEHAFPA_02907	sodium/dicarboxylate symporter family protein
+DMEHAFPA_02908	hypothetical protein
+DMEHAFPA_02909	ribosomal RNA large subunit methyltransferase H
+DMEHAFPA_02910	Serine protease do-like htrA
+DMEHAFPA_02911	tRNA-binding domain-containing protein
+DMEHAFPA_02912	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_02913	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_02914	PTS system, mannose/fructose/sorbose-specific IIB component
+DMEHAFPA_02915	hypothetical protein
+DMEHAFPA_02916	hypothetical protein
+DMEHAFPA_02917	GntR family transcriptional regulator
+DMEHAFPA_02918	universal stress family protein
+DMEHAFPA_02919	thioredoxin
+DMEHAFPA_02920	glutamyl aminopeptidase
+DMEHAFPA_02921	small secreted protein
+DMEHAFPA_02922	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_02923	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_02924	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_02925	N-acetylglucosamine-6-phosphate deacetylase
+DMEHAFPA_02926	PTS system, mannose/fructose/sorbose-specific IIB component
+DMEHAFPA_02927	PTS system, mannose/fructose/sorbose-specific IIAB component
+DMEHAFPA_02928	hypothetical protein
+DMEHAFPA_02929	protein YebG
+DMEHAFPA_02930	putative HTH-type transcriptional regulator YbbH
+DMEHAFPA_02931	DNA-3-methyladenine glycosylase I
+DMEHAFPA_02932	hypothetical protein
+DMEHAFPA_02933	hypothetical protein
+DMEHAFPA_02934	membrane protein
+DMEHAFPA_02935	hypothetical protein
+DMEHAFPA_02936	hypothetical protein
+DMEHAFPA_02937	sortase family protein
+DMEHAFPA_02938	hypothetical protein
+DMEHAFPA_02939	phosphotyrosine protein phosphatase
+DMEHAFPA_02940	TetR family dihydroxyacetone kinase regulator
+DMEHAFPA_02941	hypothetical protein
+DMEHAFPA_02942	rod shape-determining protein MreD
+DMEHAFPA_02943	rod shape-determining protein MreC
+DMEHAFPA_02944	Polyribonucleotide nucleotidyltransferase
+DMEHAFPA_02945	30S ribosomal protein S15
+DMEHAFPA_02946	peptide deformylase
+DMEHAFPA_02947	HAD superfamily hydrolase
+DMEHAFPA_02948	DNA alkylation repair protein
+DMEHAFPA_02949	formate/nitrite transporter
+DMEHAFPA_02950	30S ribosomal protein S4
+DMEHAFPA_02951	BioY family protein
+DMEHAFPA_02952	signal peptidase I
+DMEHAFPA_02953	hypothetical protein
+DMEHAFPA_02954	hypothetical protein
+DMEHAFPA_02955	hypothetical protein
+DMEHAFPA_02956	hypothetical protein
+DMEHAFPA_02957	hypothetical protein
+DMEHAFPA_02958	hypothetical protein
+DMEHAFPA_02959	peptidase T
+DMEHAFPA_02960	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_02961	iron ABC transporter substrate-binding protein
+DMEHAFPA_02962	iron ABC transporter ATP-binding protein
+DMEHAFPA_02963	iron ABC transporter system permease
+DMEHAFPA_02964	iron ABC transporter system permease
+DMEHAFPA_02965	putative protein YueI
+DMEHAFPA_02966	bifunctional glutamate--cysteine ligase/glutathione synthetase
+DMEHAFPA_02967	isochorismatase family hydrolase
+DMEHAFPA_02968	integral membrane protein
+DMEHAFPA_02969	glyoxalase family protein
+DMEHAFPA_02970	hypothetical protein
+DMEHAFPA_02971	Signal recognition particle receptor FtsY
+DMEHAFPA_02972	HAD superfamily hydrolase
+DMEHAFPA_02973	chromosome partition protein SMC
+DMEHAFPA_02974	ribonuclease III
+DMEHAFPA_02975	hypothetical protein
+DMEHAFPA_02976	transposase, Mutator family
+DMEHAFPA_02977	hypothetical protein
+DMEHAFPA_02978	hypothetical protein
+DMEHAFPA_02979	hypothetical protein
+DMEHAFPA_02980	hypothetical protein
+DMEHAFPA_02981	hypothetical protein
+DMEHAFPA_02982	family 5 extracellular solute-binding protein
+DMEHAFPA_02983	ABC transporter permease
+DMEHAFPA_02984	ABC transporter permease
+DMEHAFPA_02985	peptide ABC transporter ATP-binding protein
+DMEHAFPA_02986	peptide ABC transporter ATP-binding protein
+DMEHAFPA_02987	acyl carrier protein
+DMEHAFPA_02988	fatty acid/phospholipid synthesis protein PlsX
+DMEHAFPA_02989	ATP-dependent DNA helicase RecG
+DMEHAFPA_02990	DAK2 domain fusion protein YloV
+DMEHAFPA_02991	alkaline-shock protein
+DMEHAFPA_02992	50S ribosomal protein L28
+DMEHAFPA_02993	thiamin pyrophosphokinase family protein
+DMEHAFPA_02994	Ribulose-phosphate 3-epimerase
+DMEHAFPA_02995	Putative ribosome biogenesis GTPase RsgA
+DMEHAFPA_02996	serine/threonine-protein kinase
+DMEHAFPA_02997	serine/threonine phosphatase
+DMEHAFPA_02998	Ribosomal RNA small subunit methyltransferase B
+DMEHAFPA_02999	Methionyl-tRNA formyltransferase
+DMEHAFPA_03000	Peptide deformylase
+DMEHAFPA_03001	Peptide deformylase
+DMEHAFPA_03002	Primosomal protein N'
+DMEHAFPA_03003	DNA-directed RNA polymerase subunit omega
+DMEHAFPA_03004	guanylate kinase
+DMEHAFPA_03005	hypothetical protein
+DMEHAFPA_03006	hypothetical protein
+DMEHAFPA_03007	hypothetical protein
+DMEHAFPA_03008	hypothetical protein
+DMEHAFPA_03009	hypothetical protein
+DMEHAFPA_03010	Putative KHG/KDPG aldolase
+DMEHAFPA_03011	D-mannonate dehydratase, UxuA_1
+DMEHAFPA_03012	PTS system, mannose/fructose/sorbose-specific IIA component
+DMEHAFPA_03013	PTS system, mannose/fructose/sorbose-specific IIB component
+DMEHAFPA_03014	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_03015	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_03016	Hydroxycarboxylate dehydrogenase A
+DMEHAFPA_03017	4-phosphoerythronate dehydrogenase
+DMEHAFPA_03018	6-phosphogluconate dehydrogenase
+DMEHAFPA_03019	phosphosugar isomerase transcriptional regulator
+DMEHAFPA_03020	hypothetical protein
+DMEHAFPA_03021	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+DMEHAFPA_03022	hypothetical protein
+DMEHAFPA_03023	peptidase M16 inactive domain protein
+DMEHAFPA_03024	Peptidase M16 inactive domain protein
+DMEHAFPA_03025	large conductance mechanosensitive channel protein
+DMEHAFPA_03026	hypothetical protein
+DMEHAFPA_03027	hypothetical protein
+DMEHAFPA_03028	hypothetical protein
+DMEHAFPA_03029	GntR family transcriptional regulator
+DMEHAFPA_03030	glycosyl hydrolase family protein
+DMEHAFPA_03031	beta-phosphoglucomutase
+DMEHAFPA_03032	hypothetical protein
+DMEHAFPA_03033	hypothetical protein
+DMEHAFPA_03034	Ribose-phosphate pyrophosphokinase 1
+DMEHAFPA_03035	peptide methionine sulfoxide reductase MsrB
+DMEHAFPA_03036	maf protein
+DMEHAFPA_03037	DNA mismatch repair protein
+DMEHAFPA_03038	DNA mismatch repair protein MutS
+DMEHAFPA_03039	putative protein YmcA
+DMEHAFPA_03040	calcineurin-like phosphoesterase
+DMEHAFPA_03041	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+DMEHAFPA_03042	DNA recombination protein RecA
+DMEHAFPA_03043	competence/damage-inducible protein CinA protein
+DMEHAFPA_03044	hypothetical protein
+DMEHAFPA_03045	NADH-flavin reductase
+DMEHAFPA_03046	Rrf2 family protein
+DMEHAFPA_03047	Inner membrane protein YccF
+DMEHAFPA_03048	hypothetical protein
+DMEHAFPA_03049	succinyl-diaminopimelate desuccinylase
+DMEHAFPA_03050	Anti-sigma-V factor RsiV
+DMEHAFPA_03051	ECF subfamily RNA polymerase sigma-70 region 2
+DMEHAFPA_03052	M protein trans-acting positive regulator
+DMEHAFPA_03053	hypothetical protein
+DMEHAFPA_03054	cell wall surface anchor family protein
+DMEHAFPA_03055	hypothetical protein
+DMEHAFPA_03056	hypothetical protein
+DMEHAFPA_03057	hypothetical protein
+DMEHAFPA_03058	hypothetical protein
+DMEHAFPA_03059	hypothetical protein
+DMEHAFPA_03060	esterase
+DMEHAFPA_03061	isochorismatase family protein
+DMEHAFPA_03062	LrgB family protein
+DMEHAFPA_03063	Antiholin-like protein LrgA
+DMEHAFPA_03064	Sensory transduction protein LytR
+DMEHAFPA_03065	Sensor histidine kinase YpdA
+DMEHAFPA_03066	putative D-methionine-binding lipoprotein MetQ
+DMEHAFPA_03067	ABC transporter permease
+DMEHAFPA_03068	ABC transporter ATP-binding protein
+DMEHAFPA_03069	hypothetical protein
+DMEHAFPA_03070	30S ribosomal protein S14
+DMEHAFPA_03071	50S ribosomal protein L33
+DMEHAFPA_03072	cobalamin synthesis protein
+DMEHAFPA_03073	hypothetical protein
+DMEHAFPA_03074	periplasmic solute binding family protein
+DMEHAFPA_03075	tRNA-dihydrouridine synthase
+DMEHAFPA_03076	ABC transporter permease
+DMEHAFPA_03077	ABC transporter, ATP-binding protein
+DMEHAFPA_03078	PTS system, mannose/fructose/sorbose-specific IIA component
+DMEHAFPA_03079	PTS system, mannose/fructose/sorbose-specific IIB component
+DMEHAFPA_03080	PTS system, mannose/fructose/sorbose-specific IIC component
+DMEHAFPA_03081	PTS system, mannose/fructose/sorbose-specific IID component
+DMEHAFPA_03082	Transcriptional regulatory protein DagR
+DMEHAFPA_03083	transposase, Mutator family
+DMEHAFPA_03084	PRD domain-containing protein
+DMEHAFPA_03085	ATP-dependent RNA helicase SrmB
+DMEHAFPA_03086	CTP pyrophosphohydrolase
+DMEHAFPA_03087	hypothetical protein
+DMEHAFPA_03088	hypothetical protein
+DMEHAFPA_03089	hypothetical protein
+DMEHAFPA_03090	hypothetical protein
+DMEHAFPA_03091	hypothetical protein
+DMEHAFPA_03092	hypothetical protein
+DMEHAFPA_03093	hypothetical protein
+DMEHAFPA_03094	hypothetical protein
+DMEHAFPA_03095	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_03096	site-specific tyrosine recombinase XerC-family protein
+DMEHAFPA_03097	30S ribosomal protein S9
+DMEHAFPA_03098	50S ribosomal protein L13
+DMEHAFPA_03099	50S ribosomal protein L13
+DMEHAFPA_03100	DNA protection during starvation protein 1
+DMEHAFPA_03101	hypothetical protein
+DMEHAFPA_03102	gluconate kinase
+DMEHAFPA_03103	bacterial Peptidase A24 protein
+DMEHAFPA_03104	DNA-directed RNA polymerase subunit beta'
+DMEHAFPA_03105	DNA-directed RNA polymerase subunit beta
+DMEHAFPA_03106	hypothetical protein
+DMEHAFPA_03107	biotin-[acetyl-CoA-carboxylase] ligase
+DMEHAFPA_03108	hypothetical protein
+DMEHAFPA_03109	hypothetical protein
+DMEHAFPA_03110	Transcriptional regulator LytR
+DMEHAFPA_03111	hypothetical protein
+DMEHAFPA_03112	hypothetical protein
+DMEHAFPA_03113	hypothetical protein
+DMEHAFPA_03114	hypothetical protein
+DMEHAFPA_03115	hypothetical protein
+DMEHAFPA_03116	hypothetical protein
+DMEHAFPA_03117	hypothetical protein
+DMEHAFPA_03118	prenyltransferase, UbiA family
+DMEHAFPA_03119	ApbE family protein
+DMEHAFPA_03120	FMN-binding domain-containing protein
+DMEHAFPA_03121	pyridine nucleotide-disulfide family oxidoreductase
+DMEHAFPA_03122	CobW/P47K family protein
+DMEHAFPA_03123	Heptaprenyl diphosphate synthase component I
+DMEHAFPA_03124	polyprenyl synthetase
+DMEHAFPA_03125	AbrB family transcriptional regulator
+DMEHAFPA_03126	toxin-antitoxin system, toxin component, MazF family
+DMEHAFPA_03127	Dihydropteroate synthase
+DMEHAFPA_03128	Ribonuclease PH/Ham1 protein
+DMEHAFPA_03129	GTP cyclohydrolase 1
+DMEHAFPA_03130	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+DMEHAFPA_03131	Dihydroneopterin aldolase
+DMEHAFPA_03132	Glutathione reductase
+DMEHAFPA_03133	hypothetical protein
+DMEHAFPA_03134	hypothetical protein
+DMEHAFPA_03135	hypothetical protein
+DMEHAFPA_03136	hypothetical protein
+DMEHAFPA_03137	hydantoinase/oxoprolinase
+DMEHAFPA_03138	hypothetical protein
+DMEHAFPA_03139	Cytosine permease
+DMEHAFPA_03140	hypothetical protein
+DMEHAFPA_03141	peptidase, U32 family
+DMEHAFPA_03142	peptidase, U32 family
+DMEHAFPA_03143	hypothetical protein
+DMEHAFPA_03144	negative regulator of genetic competence ClpC/MecB
+DMEHAFPA_03145	firmicute transcriptional repressor of class III stress
+DMEHAFPA_03146	cystathionine gamma-synthase
+DMEHAFPA_03147	PTS system, lactose/cellobiose IIC component
+DMEHAFPA_03148	RpiR family transcriptional regulator
+DMEHAFPA_03149	tRNA-Pro
+DMEHAFPA_03150	tRNA-Arg
+DMEHAFPA_03151	tRNA-Leu
+DMEHAFPA_03152	tRNA-Gly
+DMEHAFPA_03153	tRNA-Thr
+DMEHAFPA_03154	tRNA-Leu
+DMEHAFPA_03155	tRNA-Lys
+DMEHAFPA_03156	tRNA-Val
+DMEHAFPA_03157	5S ribosomal RNA
+DMEHAFPA_03158	23S ribosomal RNA
+DMEHAFPA_03159	16S ribosomal RNA
+DMEHAFPA_03160	putative regulatory protein VanR
+DMEHAFPA_03161	histidine kinase
+DMEHAFPA_03162	seryl-tRNA synthetase
+DMEHAFPA_03163	Inosine-5'-monophosphate dehydrogenase
+DMEHAFPA_03164	integral membrane protein
+DMEHAFPA_03165	hypothetical protein
+DMEHAFPA_03166	translation-associated GTPase
+DMEHAFPA_03167	translation-associated GTPase
+DMEHAFPA_03168	ParB family chromosome partitioning protein
+DMEHAFPA_03169	sporulation initiation inhibitor protein Soj
+DMEHAFPA_03170	Ribosomal RNA small subunit methyltransferase G
+DMEHAFPA_03171	hypothetical protein
+DMEHAFPA_03172	myosin-cross-reactive antigen-like protein
+DMEHAFPA_03173	fructose-6-phosphate aldolase
+DMEHAFPA_03174	PTS system glucitol/sorbitol-specific transporter subunit IIA
+DMEHAFPA_03175	PTS system, glucitol/sorbitol-specific, IIBC component
+DMEHAFPA_03176	PTS system, glucitol/sorbitol-specific IIC component
+DMEHAFPA_03177	glucitol operon activator protein
+DMEHAFPA_03178	PRD domain-containing protein
+DMEHAFPA_03179	short chain dehydrogenase/reductase family oxidoreductase
+DMEHAFPA_03180	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+DMEHAFPA_03181	tRNA modification GTPase MnmE
+DMEHAFPA_03182	hypothetical protein
+DMEHAFPA_03183	triphosphoribosyl-dephospho-CoA synthase
+DMEHAFPA_03184	NADP-dependent malic enzyme
+DMEHAFPA_03185	pyruvate carboxylase
+DMEHAFPA_03186	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+DMEHAFPA_03187	Citrate lyase alpha chain
+DMEHAFPA_03188	Citrate lyase subunit beta
+DMEHAFPA_03189	Citrate lyase gamma chain
+DMEHAFPA_03190	[Citrate [pro-3S]-lyase] ligase
+DMEHAFPA_03191	hypothetical protein
+DMEHAFPA_03192	Glutaconyl-CoA decarboxylase subunit beta
+DMEHAFPA_03193	Glutaconyl-CoA decarboxylase subunit gamma
+DMEHAFPA_03194	hypothetical protein
+DMEHAFPA_03195	Citrate transporter
+DMEHAFPA_03196	GntR family transcriptional regulator
+DMEHAFPA_03197	DNA-binding response regulator
+DMEHAFPA_03198	r3H domain protein
+DMEHAFPA_03199	putative stage III sporulation protein J
+DMEHAFPA_03200	Ribonuclease P protein component
+DMEHAFPA_03201	50S ribosomal protein L34
+DMEHAFPA_03202	Replication initiator protein A
+DMEHAFPA_03203	hypothetical protein
+DMEHAFPA_03204	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_03205	hypothetical protein
+DMEHAFPA_03206	Transposase, IS1216
+DMEHAFPA_03207	rRNA adenine N-6-methyltransferase
+DMEHAFPA_03208	hypothetical protein
+DMEHAFPA_03209	Transposase, IS1216
+DMEHAFPA_03210	Quaternary ammonium compound-resistance protein QacC
+DMEHAFPA_03211	replication protein
+DMEHAFPA_03212	Transposase, IS1216
+DMEHAFPA_03213	Multidrug resistance ABC transporter ATP-binding and permease protein
+DMEHAFPA_03214	hypothetical protein
+DMEHAFPA_03215	IS1216 transposase
+DMEHAFPA_03216	Single-stranded DNA-binding protein
+DMEHAFPA_03217	hypothetical protein
+DMEHAFPA_03218	hypothetical protein
+DMEHAFPA_03219	hypothetical protein
+DMEHAFPA_03220	hypothetical protein
+DMEHAFPA_03221	hypothetical protein
+DMEHAFPA_03222	hypothetical protein
+DMEHAFPA_03223	hypothetical protein
+DMEHAFPA_03224	hypothetical protein
+DMEHAFPA_03225	amino acid transporter
+DMEHAFPA_03226	hypothetical protein
+DMEHAFPA_03227	hypothetical protein
+DMEHAFPA_03228	single-strand binding protein
+DMEHAFPA_03229	hypothetical protein
+DMEHAFPA_03230	hypothetical protein
+DMEHAFPA_03231	hypothetical protein
+DMEHAFPA_03232	hypothetical protein
+DMEHAFPA_03233	hypothetical protein
+DMEHAFPA_03234	hypothetical protein
+DMEHAFPA_03235	hypothetical protein
+DMEHAFPA_03236	hypothetical protein
+DMEHAFPA_03237	hypothetical protein
+DMEHAFPA_03238	hypothetical protein
+DMEHAFPA_03239	hypothetical protein
+DMEHAFPA_03240	hypothetical protein
+DMEHAFPA_03241	Aggregation substance
+DMEHAFPA_03242	hypothetical protein
+DMEHAFPA_03243	hypothetical protein
+DMEHAFPA_03244	Putative regulatory protein PrgT
+DMEHAFPA_03245	regulatory protein TraE1
+DMEHAFPA_03246	Transposase, IS1216
+DMEHAFPA_03247	replication protein
+DMEHAFPA_03248	transposase, Mutator family
+DMEHAFPA_03249	hypothetical protein
+DMEHAFPA_03250	bifunctional aminoglycoside N-acetyltransferase AAC(6')-Ie/aminoglycoside O-phosphotransferase APH(2'')-Ia
+DMEHAFPA_03251	transposase, Mutator family
+DMEHAFPA_03252	Transposase, IS1216
+DMEHAFPA_03253	hypothetical protein
+DMEHAFPA_03254	hypothetical protein
+DMEHAFPA_03255	PTS system, trehalose/maltose-specific, IIBCA component
+DMEHAFPA_03256	Glycosyl hydrolase
+DMEHAFPA_03257	sucrose operon repressor ScrR
+DMEHAFPA_03258	Endoribonuclease PemK
+DMEHAFPA_03259	Antitoxin MazE
+DMEHAFPA_03260	Resolvase protein
+DMEHAFPA_03261	hypothetical protein
+DMEHAFPA_03262	hypothetical protein
+DMEHAFPA_03263	hypothetical protein
+DMEHAFPA_03264	hypothetical protein
+DMEHAFPA_03265	DNA directed DNA polymerase
+DMEHAFPA_03266	hypothetical protein
+DMEHAFPA_03267	hypothetical protein
+DMEHAFPA_03268	replication control protein PrgN
+DMEHAFPA_03269	hypothetical protein
+DMEHAFPA_03270	replication-associated protein
+DMEHAFPA_03271	replication initiator protein A
+DMEHAFPA_03272	hypothetical protein
+DMEHAFPA_03273	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_03274	hypothetical protein
+DMEHAFPA_03275	hypothetical protein
+DMEHAFPA_03276	hypothetical protein
+DMEHAFPA_03277	Putative regulatory protein PrgT
+DMEHAFPA_03278	hypothetical protein
+DMEHAFPA_03279	Aggregation substance
+DMEHAFPA_03280	hypothetical protein
+DMEHAFPA_03281	hypothetical protein
+DMEHAFPA_03282	hypothetical protein
+DMEHAFPA_03283	hypothetical protein
+DMEHAFPA_03284	hypothetical protein
+DMEHAFPA_03285	hypothetical protein
+DMEHAFPA_03286	hypothetical protein
+DMEHAFPA_03287	hypothetical protein
+DMEHAFPA_03288	Type IV secretory pathway, VirB4 component
+DMEHAFPA_03289	hypothetical protein
+DMEHAFPA_03290	hypothetical protein
+DMEHAFPA_03291	hypothetical protein
+DMEHAFPA_03292	hypothetical protein
+DMEHAFPA_03293	hypothetical protein
+DMEHAFPA_03294	TraG/TraD family protein
+DMEHAFPA_03295	hypothetical protein
+DMEHAFPA_03296	hypothetical protein
+DMEHAFPA_03297	hypothetical protein
+DMEHAFPA_03298	hypothetical protein
+DMEHAFPA_03299	hypothetical protein
+DMEHAFPA_03300	hypothetical protein
+DMEHAFPA_03301	hypothetical protein
+DMEHAFPA_03302	hypothetical protein
+DMEHAFPA_03303	hypothetical protein
+DMEHAFPA_03304	hypothetical protein
+DMEHAFPA_03305	hypothetical protein
+DMEHAFPA_03306	hypothetical protein
+DMEHAFPA_03307	hypothetical protein
+DMEHAFPA_03308	Helix-destabilizing protein
+DMEHAFPA_03309	hypothetical protein
+DMEHAFPA_03310	hypothetical protein
+DMEHAFPA_03311	hypothetical protein
+DMEHAFPA_03312	hypothetical protein
+DMEHAFPA_03313	hypothetical protein
+DMEHAFPA_03314	hypothetical protein
+DMEHAFPA_03315	ABC transporter, ATP-binding protein/permease
+DMEHAFPA_03316	hypothetical protein
+DMEHAFPA_03317	transposase, Mutator family
+DMEHAFPA_03318	hypothetical protein
+DMEHAFPA_03319	hypothetical protein
+DMEHAFPA_03320	hypothetical protein
+DMEHAFPA_03321	hypothetical protein
+DMEHAFPA_03322	hypothetical protein
+DMEHAFPA_03323	Resolvase protein
+DMEHAFPA_03324	hypothetical protein
+DMEHAFPA_03325	DNA directed DNA polymerase
+DMEHAFPA_03326	hypothetical protein
+DMEHAFPA_03327	replication control protein PrgN
+DMEHAFPA_03328	plasmid-partitioning protein
+DMEHAFPA_03329	hypothetical protein
+DMEHAFPA_03330	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+DMEHAFPA_03331	Transposase, IS1216
+DMEHAFPA_03332	hypothetical protein
+DMEHAFPA_03333	hypothetical protein
+DMEHAFPA_03334	hypothetical protein
+DMEHAFPA_03335	transposase, Mutator family
+DMEHAFPA_03336	hypothetical protein
+DMEHAFPA_03337	ImpB/MucB/SamB family protein
+DMEHAFPA_03338	Transposase, IS1216
+DMEHAFPA_03339	hypothetical protein
+DMEHAFPA_03340	Resolvase protein
+DMEHAFPA_03341	hypothetical protein
+DMEHAFPA_03342	hypothetical protein
+DMEHAFPA_03343	hypothetical protein
+DMEHAFPA_03344	hypothetical protein
+DMEHAFPA_03345	hypothetical protein
+DMEHAFPA_03346	DNA directed DNA polymerase
+DMEHAFPA_03347	hypothetical protein
+DMEHAFPA_03348	hypothetical protein
+DMEHAFPA_03349	replication-associated protein RepB
+DMEHAFPA_03350	replication protein

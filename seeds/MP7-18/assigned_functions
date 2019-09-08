@@ -1,0 +1,2954 @@
+APPIIOAB_00001	Glutamyl-tRNA(Gln) amidotransferase subunit E
+APPIIOAB_00002	30S ribosomal protein S21
+APPIIOAB_00003	Fur family transcriptional regulator
+APPIIOAB_00004	Putative phosphotransferase
+APPIIOAB_00005	transcriptional regulator, ArsR family
+APPIIOAB_00006	phosphoglucomutase/phosphomannomutase family protein
+APPIIOAB_00007	thioredoxin reductase
+APPIIOAB_00008	6-phospho-beta-glucosidase
+APPIIOAB_00009	alpha-galactosidase
+APPIIOAB_00010	phosphosugar-binding transcriptional regulator
+APPIIOAB_00011	PTS system, beta-glucoside-specific IIABC component
+APPIIOAB_00012	transcriptional antiterminator bglG/CAT RNA-binding protein
+APPIIOAB_00013	ABC transporter ATP-binding protein
+APPIIOAB_00014	Multidrug resistance-like ATP-binding protein mdlA
+APPIIOAB_00015	hypothetical protein
+APPIIOAB_00016	metal ion transporter
+APPIIOAB_00017	endonuclease IV
+APPIIOAB_00018	glycosyl transferase
+APPIIOAB_00019	catabolite control protein A
+APPIIOAB_00020	Xaa-Pro dipeptidase
+APPIIOAB_00021	hypothetical protein
+APPIIOAB_00022	general stress protein
+APPIIOAB_00023	extracellular protein
+APPIIOAB_00024	UTP-glucose-1-phosphate uridylyltransferase
+APPIIOAB_00025	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+APPIIOAB_00026	Prolipoprotein diacylglyceryl transferase
+APPIIOAB_00027	HPr kinase/phosphorylase
+APPIIOAB_00028	integral membrane protein
+APPIIOAB_00029	PspC domain protein
+APPIIOAB_00030	hypothetical protein
+APPIIOAB_00031	YibE/F-like protein
+APPIIOAB_00032	YibE/F-like protein
+APPIIOAB_00033	phosphate transport system regulatory protein PhoU
+APPIIOAB_00034	phosphate ABC transporter ATP-binding protein
+APPIIOAB_00035	phosphate ABC transporter ATP-binding protein
+APPIIOAB_00036	phosphate ABC transporter, permease protein PstA
+APPIIOAB_00037	phosphate ABC transporter permease PstC
+APPIIOAB_00038	phosphate binding protein
+APPIIOAB_00039	cardiolipin synthetase
+APPIIOAB_00040	efflux ABC transporter, permease protein
+APPIIOAB_00041	cell division ATP-binding protein FtsE
+APPIIOAB_00042	peptide chain release factor 2
+APPIIOAB_00043	preprotein translocase, SecA subunit
+APPIIOAB_00044	ribosomal subunit interface protein
+APPIIOAB_00045	competence protein ComFC
+APPIIOAB_00046	helicase
+APPIIOAB_00047	hypothetical protein
+APPIIOAB_00048	IMPACT family member YigZ
+APPIIOAB_00049	GntR family transcriptional regulator
+APPIIOAB_00050	hypothetical protein
+APPIIOAB_00051	TetR family dihydroxyacetone kinase regulator
+APPIIOAB_00052	hypothetical protein
+APPIIOAB_00053	tRNA-Gln
+APPIIOAB_00054	tRNA-Tyr
+APPIIOAB_00055	hypothetical protein
+APPIIOAB_00056	ROK family protein
+APPIIOAB_00057	GNAT family acetyltransferase
+APPIIOAB_00058	Putative membrane protein insertion efficiency factor
+APPIIOAB_00059	hypothetical protein
+APPIIOAB_00060	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+APPIIOAB_00061	membrane protein
+APPIIOAB_00062	ATP synthase F1 subunit epsilon
+APPIIOAB_00063	ATP synthase F1 subunit beta
+APPIIOAB_00064	ATP synthase F1 subunit gamma
+APPIIOAB_00065	ATP synthase F1 subunit alpha
+APPIIOAB_00066	ATP synthase F1 subunit delta
+APPIIOAB_00067	ATP synthase F0, B subunit
+APPIIOAB_00068	ATP synthase F0 subunit C
+APPIIOAB_00069	ATP synthase subunit C
+APPIIOAB_00070	SsrA-binding protein
+APPIIOAB_00071	ribonuclease R
+APPIIOAB_00072	carboxylesterase
+APPIIOAB_00073	preprotein translocase, SecG subunit
+APPIIOAB_00074	Acetyltransferase, GNAT family
+APPIIOAB_00075	Alpha/beta hydrolase family protein
+APPIIOAB_00076	inosine-uridine preferring nucleoside hydrolase
+APPIIOAB_00077	integral membrane protein
+APPIIOAB_00078	maltose O-acetyltransferase
+APPIIOAB_00079	hypothetical protein
+APPIIOAB_00080	hypothetical protein
+APPIIOAB_00081	hypothetical protein
+APPIIOAB_00082	hypothetical protein
+APPIIOAB_00083	hypothetical protein
+APPIIOAB_00084	hypothetical protein
+APPIIOAB_00085	hypothetical protein
+APPIIOAB_00086	hypothetical protein
+APPIIOAB_00087	hypothetical protein
+APPIIOAB_00088	hypothetical protein
+APPIIOAB_00089	hypothetical protein
+APPIIOAB_00090	hypothetical protein
+APPIIOAB_00091	hypothetical protein
+APPIIOAB_00092	hypothetical protein
+APPIIOAB_00093	hypothetical protein
+APPIIOAB_00094	hypothetical protein
+APPIIOAB_00095	IS605/IS200 family transposase
+APPIIOAB_00096	hypothetical protein
+APPIIOAB_00097	hypothetical protein
+APPIIOAB_00098	hypothetical protein
+APPIIOAB_00099	enolase
+APPIIOAB_00100	triosephosphate isomerase
+APPIIOAB_00101	phosphoglycerate kinase
+APPIIOAB_00102	glyceraldehyde-3-phosphate dehydrogenase
+APPIIOAB_00103	SorC family transcriptional regulator
+APPIIOAB_00104	RNA polymerase factor sigma-54
+APPIIOAB_00105	tRNA-Arg
+APPIIOAB_00106	hypothetical protein
+APPIIOAB_00107	hypothetical protein
+APPIIOAB_00108	DNA-directed RNA polymerase subunit delta
+APPIIOAB_00109	hypothetical protein
+APPIIOAB_00110	lipoate-protein ligase A
+APPIIOAB_00111	HD domain-containing protein
+APPIIOAB_00112	HAD superfamily hydrolase
+APPIIOAB_00113	NUDIX family hydrolase
+APPIIOAB_00114	lactoylglutathione lyase
+APPIIOAB_00115	V-type sodium ATP synthase subunit J
+APPIIOAB_00116	V-type ATP synthase subunit D
+APPIIOAB_00117	V-type ATP synthase subunit B
+APPIIOAB_00118	V-type ATP synthase subunit A
+APPIIOAB_00119	V-type ATP synthase subunit G
+APPIIOAB_00120	V-type ATPase subunit C
+APPIIOAB_00121	V-type ATPase subunit E
+APPIIOAB_00122	V-type ATP synthase subunit K
+APPIIOAB_00123	V-type ATP synthase subunit I
+APPIIOAB_00124	hypothetical protein
+APPIIOAB_00125	glutamine amidotransferase
+APPIIOAB_00126	fructose-1,6-bisphosphatase
+APPIIOAB_00127	putative type IV conjugative transfer system protein TraL
+APPIIOAB_00128	ABC transporter ATP-binding protein
+APPIIOAB_00129	excinuclease ABC subunit C
+APPIIOAB_00130	thioredoxin
+APPIIOAB_00131	recombination and DNA strand exchange inhibitor protein
+APPIIOAB_00132	CvpA family protein
+APPIIOAB_00133	cell division protein ZapA
+APPIIOAB_00134	ribonuclease HIII
+APPIIOAB_00135	N-acetylmuramoyl-L-alanine amidase
+APPIIOAB_00136	Chitinase A1
+APPIIOAB_00137	hypothetical protein
+APPIIOAB_00138	TetR family transcriptional regulator
+APPIIOAB_00139	ABC transporter ATP-binding protein
+APPIIOAB_00140	efflux ABC transporter, permease protein
+APPIIOAB_00141	L-xylulose 5-phosphate 3-epimerase
+APPIIOAB_00142	3-keto-L-gulonate-6-phosphate decarboxylase
+APPIIOAB_00143	PTS system ascorbate-specific transporter subunit IIB
+APPIIOAB_00144	PTS system ascorbate-specific transporter subunit IIC
+APPIIOAB_00145	PTS system ascorbate-specific transporter subunit IIA
+APPIIOAB_00146	L-ascorbate 6-phosphate lactonase, UlaG
+APPIIOAB_00147	DeoR-like helix-turn-helix protein
+APPIIOAB_00148	L-lactate oxidase
+APPIIOAB_00149	phenazine biosynthesis protein PhzF family protein
+APPIIOAB_00150	ornithine cyclodeaminase/mu-crystallin family protein
+APPIIOAB_00151	GntR family transcriptional regulator
+APPIIOAB_00152	malic enzyme, NAD binding domain protein
+APPIIOAB_00153	CCS family citrate carrier protein
+APPIIOAB_00154	hypothetical protein
+APPIIOAB_00155	hypothetical protein
+APPIIOAB_00156	Holliday junction resolvase-like protein
+APPIIOAB_00157	hypothetical protein
+APPIIOAB_00158	DNA-entry nuclease
+APPIIOAB_00159	hypothetical protein
+APPIIOAB_00160	hypothetical protein
+APPIIOAB_00161	hypothetical protein
+APPIIOAB_00162	hypothetical protein
+APPIIOAB_00163	membrane protein
+APPIIOAB_00164	putative permease
+APPIIOAB_00165	thioredoxin domain-containing protein
+APPIIOAB_00166	excinuclease ABC subunit A
+APPIIOAB_00167	redox-sensitive transcriptional regulator
+APPIIOAB_00168	ABC transporter ATP-binding protein
+APPIIOAB_00169	L-rhamnose mutarotase
+APPIIOAB_00170	hypothetical protein
+APPIIOAB_00171	hypothetical protein
+APPIIOAB_00172	hypothetical protein
+APPIIOAB_00173	putative ABC transporter, ATP-binding protein SagG
+APPIIOAB_00174	hypothetical protein
+APPIIOAB_00175	LuxR family DNA-binding response regulator
+APPIIOAB_00176	hypothetical protein
+APPIIOAB_00177	hypothetical protein
+APPIIOAB_00178	hypothetical protein
+APPIIOAB_00179	spermidine/putrescine-binding periplasmic protein PotD
+APPIIOAB_00180	spermidine/putrescine transport system permease protein PotC
+APPIIOAB_00181	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+APPIIOAB_00182	Spermidine/putrescine import ATP-binding protein PotA
+APPIIOAB_00183	helix-turn-helix domain-containing protein
+APPIIOAB_00184	YhdH/YhfP family quinone oxidoreductase
+APPIIOAB_00185	phosphopantothenate--cysteine ligase
+APPIIOAB_00186	phosphopantothenoylcysteine decarboxylase
+APPIIOAB_00187	integral membrane protein
+APPIIOAB_00188	NAD dependent epimerase/dehydratase family protein
+APPIIOAB_00189	NAD(P)H quinone oxidoreductase
+APPIIOAB_00190	fumarate reductase flavoprotein subunit
+APPIIOAB_00191	hypothetical protein
+APPIIOAB_00192	GNAT family acetyltransferase
+APPIIOAB_00193	UDP-N-acetylenolpyruvoylglucosamine reductase
+APPIIOAB_00194	oxidoreductase family, NAD-binding Rossmann fold protein
+APPIIOAB_00195	exodeoxyribonuclease III
+APPIIOAB_00196	exonuclease, DNA polymerase III, epsilon subunit family protein
+APPIIOAB_00197	GNAT family acetyltransferase
+APPIIOAB_00198	ATPase
+APPIIOAB_00199	phosphate acetyltransferase
+APPIIOAB_00200	uracil-DNA glycosylase
+APPIIOAB_00201	HAD superfamily hydrolase
+APPIIOAB_00202	hypothetical protein
+APPIIOAB_00203	hypothetical protein
+APPIIOAB_00204	ISEnfa3, transposase
+APPIIOAB_00205	ISEfa10, transposase
+APPIIOAB_00206	hypothetical protein
+APPIIOAB_00207	GNAT family acetyltransferase
+APPIIOAB_00208	hypothetical protein
+APPIIOAB_00209	hypothetical protein
+APPIIOAB_00210	glyoxylase
+APPIIOAB_00211	nicotinamide mononucleotide transporter PnuC
+APPIIOAB_00212	hypothetical protein
+APPIIOAB_00213	pyrrolidone-carboxylate peptidase
+APPIIOAB_00214	membrane protein
+APPIIOAB_00215	hypothetical protein
+APPIIOAB_00216	hypothetical protein
+APPIIOAB_00217	putative arginine/ornithine antiporter
+APPIIOAB_00218	putative flavoprotein NrdI
+APPIIOAB_00219	PTS system, sugar-specific IIBC component
+APPIIOAB_00220	N-acetylmuramic acid 6-phosphate etherase
+APPIIOAB_00221	alpha3-beta1 integrin-binding family protein
+APPIIOAB_00222	hypothetical protein
+APPIIOAB_00223	hypothetical protein
+APPIIOAB_00224	hypothetical protein
+APPIIOAB_00225	hypothetical protein
+APPIIOAB_00226	hypothetical protein
+APPIIOAB_00227	hypothetical protein
+APPIIOAB_00228	hypothetical protein
+APPIIOAB_00229	hypothetical protein
+APPIIOAB_00230	hypothetical protein
+APPIIOAB_00231	hypothetical protein
+APPIIOAB_00232	hypothetical protein
+APPIIOAB_00233	phosphoglycerate mutase family protein
+APPIIOAB_00234	ABC transporter ATP-binding protein
+APPIIOAB_00235	glycerate kinase
+APPIIOAB_00236	hypothetical protein
+APPIIOAB_00237	amino acid permease
+APPIIOAB_00238	Na+/H+ antiporter
+APPIIOAB_00239	peptidase M20D
+APPIIOAB_00240	YaeC family lipoprotein
+APPIIOAB_00241	ABC transporter permease
+APPIIOAB_00242	ABC transporter ATP-binding protein
+APPIIOAB_00243	HAD superfamily hydrolase
+APPIIOAB_00244	M protein trans-acting positive regulator
+APPIIOAB_00245	hypothetical protein
+APPIIOAB_00246	cell wall surface anchor family protein
+APPIIOAB_00247	hypothetical protein
+APPIIOAB_00248	hypothetical protein
+APPIIOAB_00249	hypothetical protein
+APPIIOAB_00250	hypothetical protein
+APPIIOAB_00251	hypothetical protein
+APPIIOAB_00252	magnesium-translocating P-type ATPase
+APPIIOAB_00253	hypothetical protein
+APPIIOAB_00254	nucleoside diphosphate kinase
+APPIIOAB_00255	transcriptional activator Rgg/GadR/MutR
+APPIIOAB_00256	sulfatase
+APPIIOAB_00257	hypothetical protein
+APPIIOAB_00258	putative 6-phospho-beta-glucosidase
+APPIIOAB_00259	hypothetical protein
+APPIIOAB_00260	hypothetical protein
+APPIIOAB_00261	deoxynucleoside kinase
+APPIIOAB_00262	Nucleoside 2-deoxyribosyltransferase
+APPIIOAB_00263	putative lysine decarboxylase
+APPIIOAB_00264	kinase, PfkB family
+APPIIOAB_00265	2-dehydro-3-deoxy-phosphogluconate aldolase
+APPIIOAB_00266	D-glucosaminate-6-phosphate ammonia lyase
+APPIIOAB_00267	Deacetylase
+APPIIOAB_00268	alpha3-beta1 integrin-binding family protein
+APPIIOAB_00269	PTS system transporter subunit IIC
+APPIIOAB_00270	GntR family transcriptional regulator
+APPIIOAB_00271	6-phospho-beta-glucosidase
+APPIIOAB_00272	PTS system beta-glucoside-specific transporter subunit IIABC
+APPIIOAB_00273	BglG family transcriptional antiterminator
+APPIIOAB_00274	sortase family protein
+APPIIOAB_00275	MazG nucleotide pyrophosphohydrolase
+APPIIOAB_00276	major facilitator superfamily transporter
+APPIIOAB_00277	N-acetylmannosamine-6-phosphate 2-epimerase
+APPIIOAB_00278	Phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase
+APPIIOAB_00279	Phosphate-import permease protein PhnE
+APPIIOAB_00280	Phosphate-import permease protein PhnE
+APPIIOAB_00281	ABC transporter ATP-binding protein
+APPIIOAB_00282	Phosphate-import protein PhnD
+APPIIOAB_00283	diacylglycerol kinase catalytic subunit
+APPIIOAB_00284	hypothetical protein
+APPIIOAB_00285	hypothetical protein
+APPIIOAB_00286	hypothetical protein
+APPIIOAB_00287	phosphoglucomutase/phosphomannomutase family protein
+APPIIOAB_00288	4-O-beta-D-mannosyl-D-glucose phosphorylase
+APPIIOAB_00289	hypothetical protein
+APPIIOAB_00290	glucan 1,6-alpha-glucosidase
+APPIIOAB_00291	inner membrane component transport system
+APPIIOAB_00292	ABC transporter permease
+APPIIOAB_00293	hypothetical protein
+APPIIOAB_00294	LacI family transcriptional regulator
+APPIIOAB_00295	hypothetical protein
+APPIIOAB_00296	DNA polymerase III PolC-type
+APPIIOAB_00297	hypothetical protein
+APPIIOAB_00298	hypothetical protein
+APPIIOAB_00299	hypothetical protein
+APPIIOAB_00300	hypothetical protein
+APPIIOAB_00301	hypothetical protein
+APPIIOAB_00302	ferrichrome transport ATP-binding protein FhuC
+APPIIOAB_00303	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+APPIIOAB_00304	ferrichrome transport system permease FhuB
+APPIIOAB_00305	Vitamin B12-binding protein
+APPIIOAB_00306	hypothetical protein
+APPIIOAB_00307	hypothetical protein
+APPIIOAB_00308	hypothetical protein
+APPIIOAB_00309	6-phospho-beta-glucosidase
+APPIIOAB_00310	PTS system beta-glucoside-specific transporter subunit IIABC
+APPIIOAB_00311	BglG family transcriptional antiterminator
+APPIIOAB_00312	hypothetical protein
+APPIIOAB_00313	hypothetical protein
+APPIIOAB_00314	hypothetical protein
+APPIIOAB_00315	hypothetical protein
+APPIIOAB_00316	hypothetical protein
+APPIIOAB_00317	hypothetical protein
+APPIIOAB_00318	hypothetical protein
+APPIIOAB_00319	hypothetical protein
+APPIIOAB_00320	hypothetical protein
+APPIIOAB_00321	hypothetical protein
+APPIIOAB_00322	hypothetical protein
+APPIIOAB_00323	IS1476, transposase
+APPIIOAB_00324	IS1476, transposase
+APPIIOAB_00325	hypothetical protein
+APPIIOAB_00326	FeS assembly protein SufB
+APPIIOAB_00327	NifU family SUF system FeS assembly protein
+APPIIOAB_00328	cysteine desulfurase
+APPIIOAB_00329	FeS assembly protein SufD
+APPIIOAB_00330	ABC transporter ATP-binding protein
+APPIIOAB_00331	putative D-methionine-binding lipoprotein MetQ
+APPIIOAB_00332	ABC transporter permease
+APPIIOAB_00333	ABC transporter ATP-binding protein
+APPIIOAB_00334	glycine cleavage H-protein
+APPIIOAB_00335	ArsC family protein
+APPIIOAB_00336	FtsW/RodA/SpoVE family cell cycle protein
+APPIIOAB_00337	LysR family transcriptional regulator
+APPIIOAB_00338	C4-dicarboxylate transporter/malic acid transport protein
+APPIIOAB_00339	membrane protein
+APPIIOAB_00340	methylated-DNA--protein-cysteine methyltransferase
+APPIIOAB_00341	glycosyl transferase family protein
+APPIIOAB_00342	hypothetical protein
+APPIIOAB_00343	hypothetical protein
+APPIIOAB_00344	hypothetical protein
+APPIIOAB_00345	hypothetical protein
+APPIIOAB_00346	hypothetical protein
+APPIIOAB_00347	Beta-galactosidase
+APPIIOAB_00348	ABC transporter permease
+APPIIOAB_00349	ABC transporter permease
+APPIIOAB_00350	hypothetical protein
+APPIIOAB_00351	ArsR family transcriptional regulator
+APPIIOAB_00352	class II aminotransferase
+APPIIOAB_00353	PTS system, N-acetylglucosamine-specific IIABC component
+APPIIOAB_00354	phosphosugar isomerase transcriptional regulator
+APPIIOAB_00355	glucosamine-6-phosphate deaminase
+APPIIOAB_00356	tRNA-Thr
+APPIIOAB_00357	hypothetical protein
+APPIIOAB_00358	uracil phosphoribosyltransferase
+APPIIOAB_00359	alpha/beta hydrolase fold protein
+APPIIOAB_00360	serine hydroxymethyltransferase
+APPIIOAB_00361	Sua5/YciO/YrdC/YwlC family protein
+APPIIOAB_00362	modification methylase HemK
+APPIIOAB_00363	peptide chain release factor 1
+APPIIOAB_00364	Thymidine kinase
+APPIIOAB_00365	methyltransferase domain protein
+APPIIOAB_00366	putative foldase protein PrsA
+APPIIOAB_00367	signal peptidase I
+APPIIOAB_00368	hypothetical protein
+APPIIOAB_00369	hypothetical protein
+APPIIOAB_00370	cation transporter
+APPIIOAB_00371	Mur ligase middle domain-containing protein
+APPIIOAB_00372	CobB/CobQ-like glutamine amidotransferase domain protein
+APPIIOAB_00373	Mannitol-1-phosphate 5-dehydrogenase
+APPIIOAB_00374	PTS system mannitol-specific transporter subunit IIA
+APPIIOAB_00375	PTS system, mannitol-specific IICBA component
+APPIIOAB_00376	hypothetical protein
+APPIIOAB_00377	hypothetical protein
+APPIIOAB_00378	hypothetical protein
+APPIIOAB_00379	Type IV secretory pathway, VirB4 component
+APPIIOAB_00380	hypothetical protein
+APPIIOAB_00381	hypothetical protein
+APPIIOAB_00382	hypothetical protein
+APPIIOAB_00383	transposase
+APPIIOAB_00384	hypothetical protein
+APPIIOAB_00385	hypothetical protein
+APPIIOAB_00386	hypothetical protein
+APPIIOAB_00387	PTS system, mannitol-specific IIA component
+APPIIOAB_00388	transcriptional antiterminator bglG
+APPIIOAB_00389	PTS system, mannitol-specific IICB component
+APPIIOAB_00390	sugar transport protein
+APPIIOAB_00391	D-ribose pyranase
+APPIIOAB_00392	ribokinase
+APPIIOAB_00393	mannose-6-phosphate isomerase
+APPIIOAB_00394	Beta-lactamase
+APPIIOAB_00395	glyoxalase family protein
+APPIIOAB_00396	ABC transporter ATP-binding protein/permease
+APPIIOAB_00397	ABC transporter ATP-binding protein/permease
+APPIIOAB_00398	TetR family transcriptional regulator
+APPIIOAB_00399	rhodanese-like domain-containing protein
+APPIIOAB_00400	azoreductase
+APPIIOAB_00401	hypothetical protein
+APPIIOAB_00402	hypothetical protein
+APPIIOAB_00403	3-carboxymuconate cyclase
+APPIIOAB_00404	PTS system glucitol/sorbitol-specific transporter subunit IIA
+APPIIOAB_00405	permease
+APPIIOAB_00406	hypothetical protein
+APPIIOAB_00407	arylsulfatase
+APPIIOAB_00408	Glycosyl hydrolases family 43
+APPIIOAB_00409	alpha-N-arabinofuranosidase
+APPIIOAB_00410	integral membrane protein
+APPIIOAB_00411	inner membrane component transport system
+APPIIOAB_00412	ABC transporter permease
+APPIIOAB_00413	extracellular solute-binding protein
+APPIIOAB_00414	alpha-N-arabinofuranosidase
+APPIIOAB_00415	ArsR family transcriptional regulator
+APPIIOAB_00416	hypothetical protein
+APPIIOAB_00417	NH(3)-dependent NAD(+) synthetase
+APPIIOAB_00418	Nicotinate phosphoribosyltransferase
+APPIIOAB_00419	hypothetical protein
+APPIIOAB_00420	transcriptional regulator, MerR family
+APPIIOAB_00421	LacI family sugar-binding transcriptional regulator
+APPIIOAB_00422	hypothetical protein
+APPIIOAB_00423	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_00424	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_00425	chaperonin GroL
+APPIIOAB_00426	chaperonin GroS
+APPIIOAB_00427	CAAX amino terminal protease
+APPIIOAB_00428	metallo-beta-lactamase YycJ
+APPIIOAB_00429	YycH protein
+APPIIOAB_00430	YycH protein
+APPIIOAB_00431	PAS domain sensory box histidine kinase
+APPIIOAB_00432	DNA-binding response regulator
+APPIIOAB_00433	hypothetical protein
+APPIIOAB_00434	hypothetical protein
+APPIIOAB_00435	EDD domain protein, DegV family
+APPIIOAB_00436	hypothetical protein
+APPIIOAB_00437	tRNA-Lys
+APPIIOAB_00438	hypothetical protein
+APPIIOAB_00439	hypothetical protein
+APPIIOAB_00440	hypothetical protein
+APPIIOAB_00441	HAD superfamily hydrolase
+APPIIOAB_00442	Substrate binding domain of ABC-type glycine betaine transport system
+APPIIOAB_00443	glycine betaine transporter ATP-binding subunit
+APPIIOAB_00444	GntR family transcriptional regulator
+APPIIOAB_00445	hypothetical protein
+APPIIOAB_00446	glutaredoxin
+APPIIOAB_00447	ribonucleoside-diphosphate reductase subunit alpha
+APPIIOAB_00448	ribonucleotide-diphosphate reductase, beta subunit
+APPIIOAB_00449	2,4-diaminopentanoate dehydrogenase
+APPIIOAB_00450	hypothetical protein
+APPIIOAB_00451	Alanine dehydrogenase 2
+APPIIOAB_00452	Putrescine--pyruvate aminotransferase
+APPIIOAB_00453	auxin efflux carrier
+APPIIOAB_00454	D-isomer specific 2-hydroxyacid dehydrogenase
+APPIIOAB_00455	hypothetical protein
+APPIIOAB_00456	hypothetical protein
+APPIIOAB_00457	hypothetical protein
+APPIIOAB_00458	PTS system, mannose/fructose/sorbose-specific IID component
+APPIIOAB_00459	PTS system mannose-specific transporter subunit IIC
+APPIIOAB_00460	PTS system, mannose/fructose/sorbose-specific IIAB component
+APPIIOAB_00461	transcriptional regulator, GntR family
+APPIIOAB_00462	glycosyl hydrolase family protein
+APPIIOAB_00463	Beta-galactosidase
+APPIIOAB_00464	pheromone autoinducer 2 transporter
+APPIIOAB_00465	MgtC family protein
+APPIIOAB_00466	glucosamine-6-phosphate deaminase
+APPIIOAB_00467	hypothetical protein
+APPIIOAB_00468	major facilitator family transporter
+APPIIOAB_00469	hypothetical protein
+APPIIOAB_00470	hypothetical protein
+APPIIOAB_00471	hypothetical protein
+APPIIOAB_00472	hypothetical protein
+APPIIOAB_00473	hypothetical protein
+APPIIOAB_00474	hypothetical protein
+APPIIOAB_00475	ISEfa7, transposase
+APPIIOAB_00476	50S ribosomal protein L7/L12
+APPIIOAB_00477	50S ribosomal protein L10
+APPIIOAB_00478	50S ribosomal protein L1
+APPIIOAB_00479	50S ribosomal protein L11
+APPIIOAB_00480	L-serine dehydratase, iron-sulfur-dependent subunit beta
+APPIIOAB_00481	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+APPIIOAB_00482	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+APPIIOAB_00483	adenine deaminase
+APPIIOAB_00484	hypothetical protein
+APPIIOAB_00485	Spermidine/putrescine import ATP-binding protein PotA
+APPIIOAB_00486	spermidine/putrescine transport system permease protein PotC
+APPIIOAB_00487	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+APPIIOAB_00488	hypothetical protein
+APPIIOAB_00489	hypothetical protein
+APPIIOAB_00490	hypothetical protein
+APPIIOAB_00491	ABC transporter ATP-binding protein
+APPIIOAB_00492	hypothetical protein
+APPIIOAB_00493	transcription termination/antitermination factor NusG
+APPIIOAB_00494	hypothetical protein
+APPIIOAB_00495	transcriptional activator Rgg/GadR/MutR
+APPIIOAB_00496	Preprotein translocase subunit SecE
+APPIIOAB_00497	50S ribosomal protein L33
+APPIIOAB_00498	transcriptional regulator
+APPIIOAB_00499	integral membrane protein
+APPIIOAB_00500	diacylglycerol kinase catalytic subunit
+APPIIOAB_00501	RecD/TraA family helicase
+APPIIOAB_00502	phosphoglycerate mutase family protein
+APPIIOAB_00503	TrmH family RNA methyltransferase
+APPIIOAB_00504	methyltransferase domain protein
+APPIIOAB_00505	copper homeostasis protein CutC
+APPIIOAB_00506	magnesium transporter
+APPIIOAB_00507	ribosomal large subunit pseudouridine synthase
+APPIIOAB_00508	inorganic polyphosphate/ATP-NAD kinase
+APPIIOAB_00509	GTP diphosphokinase
+APPIIOAB_00510	adenylate cyclase
+APPIIOAB_00511	dithiol-disulfide isomerase
+APPIIOAB_00512	hypothetical protein
+APPIIOAB_00513	hypothetical protein
+APPIIOAB_00514	hypothetical protein
+APPIIOAB_00515	transketolase
+APPIIOAB_00516	transketolase
+APPIIOAB_00517	PTS system ascorbate-specific transporter subunit IIC
+APPIIOAB_00518	PTS system ascorbate-specific transporter subunit IIB
+APPIIOAB_00519	PTS system ascorbate-specific transporter subunit IIA
+APPIIOAB_00520	ABC transporter ATP-binding protein
+APPIIOAB_00521	zinc-containing alcohol dehydrogenase
+APPIIOAB_00522	oligoendopeptidase F
+APPIIOAB_00523	competence protein CoiA-like family protein
+APPIIOAB_00524	MecA negative regulator of genetic competence
+APPIIOAB_00525	transcriptional regulator Spx
+APPIIOAB_00526	HAD superfamily hydrolase
+APPIIOAB_00527	Snf2 family protein
+APPIIOAB_00528	exonuclease SbcC
+APPIIOAB_00529	exonuclease SbcD
+APPIIOAB_00530	acyltransferase
+APPIIOAB_00531	methyltransferase small domain-containing protein
+APPIIOAB_00532	GIY-YIG nuclease superfamily protein
+APPIIOAB_00533	acyltransferase
+APPIIOAB_00534	integral membrane protein
+APPIIOAB_00535	aspartyl-tRNA synthetase
+APPIIOAB_00536	histidyl-tRNA synthetase
+APPIIOAB_00537	oxidoreductase, aldo/keto reductase family protein
+APPIIOAB_00538	hypothetical protein
+APPIIOAB_00539	Cytochrome P450
+APPIIOAB_00540	hypothetical protein
+APPIIOAB_00541	D-tyrosyl-tRNA(Tyr) deacylase
+APPIIOAB_00542	GTP diphosphokinase
+APPIIOAB_00543	16S ribosomal RNA methyltransferase RsmE
+APPIIOAB_00544	50S ribosomal protein L11 methyltransferase
+APPIIOAB_00545	DNA-3-methyladenine glycosylase
+APPIIOAB_00546	DNA-3-methyladenine glycosylase
+APPIIOAB_00547	recombination factor protein RarA
+APPIIOAB_00548	hypothetical protein
+APPIIOAB_00549	universal stress protein
+APPIIOAB_00550	PTS system, trehalose/maltose-specific, IIBCA component
+APPIIOAB_00551	Glycosyl hydrolase
+APPIIOAB_00552	LacI family transcription regulator
+APPIIOAB_00553	acetate kinase
+APPIIOAB_00554	adenine-specific methyltransferase
+APPIIOAB_00555	hypothetical protein
+APPIIOAB_00556	Competence protein ComGF
+APPIIOAB_00557	hypothetical protein
+APPIIOAB_00558	hypothetical protein
+APPIIOAB_00559	prepilin-type cleavage/methylation domain protein
+APPIIOAB_00560	type II secretion system F domain protein
+APPIIOAB_00561	type II/IV secretion system protein
+APPIIOAB_00562	adenine deaminase
+APPIIOAB_00563	tRNA (guanine-N(7)-)-methyltransferase
+APPIIOAB_00564	Phosphotransferase
+APPIIOAB_00565	Bacterial ABC transporter protein EcsB
+APPIIOAB_00566	ABC transporter ATP-binding protein
+APPIIOAB_00567	histidine triad protein
+APPIIOAB_00568	YtxH-like protein
+APPIIOAB_00569	Foldase protein prsA
+APPIIOAB_00570	hypothetical protein
+APPIIOAB_00571	hypothetical protein
+APPIIOAB_00572	hypothetical protein
+APPIIOAB_00573	cell wall surface anchor family protein
+APPIIOAB_00574	hypothetical protein
+APPIIOAB_00575	hypothetical protein
+APPIIOAB_00576	hypothetical protein
+APPIIOAB_00577	hypothetical protein
+APPIIOAB_00578	hypothetical protein
+APPIIOAB_00579	3'-5' exoribonuclease yhaM
+APPIIOAB_00580	hypothetical protein
+APPIIOAB_00581	Ser/Thr protein phosphatase family protein
+APPIIOAB_00582	hypothetical protein
+APPIIOAB_00583	hypothetical protein
+APPIIOAB_00584	hypothetical protein
+APPIIOAB_00585	hypothetical protein
+APPIIOAB_00586	hypothetical protein
+APPIIOAB_00587	hypothetical protein
+APPIIOAB_00588	hypothetical protein
+APPIIOAB_00589	hypothetical protein
+APPIIOAB_00590	penicillin-binding protein 1A
+APPIIOAB_00591	recombination protein U
+APPIIOAB_00592	hypothetical protein
+APPIIOAB_00593	cell division protein DivIVA
+APPIIOAB_00594	putative methylase
+APPIIOAB_00595	ASCH protein
+APPIIOAB_00596	carboxypeptidase Taq metallopeptidase
+APPIIOAB_00597	HD domain-containing protein
+APPIIOAB_00598	hypothetical protein
+APPIIOAB_00599	VanZ/RDD domain protein
+APPIIOAB_00600	DEAD/DEAH box helicase
+APPIIOAB_00601	GNAT family acetyltransferase
+APPIIOAB_00602	alanyl-tRNA synthetase
+APPIIOAB_00603	integral membrane protein
+APPIIOAB_00604	cation diffusion facilitator family transporter
+APPIIOAB_00605	hypothetical protein
+APPIIOAB_00606	ribonuclease HI
+APPIIOAB_00607	EbsA
+APPIIOAB_00608	cold shock domain-containing protein
+APPIIOAB_00609	Formate--tetrahydrofolate ligase
+APPIIOAB_00610	hypothetical protein
+APPIIOAB_00611	hypothetical protein
+APPIIOAB_00612	hypothetical protein
+APPIIOAB_00613	Cro/CI family transcriptional regulator
+APPIIOAB_00614	hypothetical protein
+APPIIOAB_00615	hypothetical protein
+APPIIOAB_00616	CBS domain pair protein
+APPIIOAB_00617	lipoprotein signal peptidase
+APPIIOAB_00618	RluA family pseudouridine synthase
+APPIIOAB_00619	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR
+APPIIOAB_00620	uracil permease
+APPIIOAB_00621	aspartate carbamoyltransferase
+APPIIOAB_00622	Dihydroorotase
+APPIIOAB_00623	carbamoyl-phosphate synthase small subunit
+APPIIOAB_00624	carbamoyl-phosphate synthase large subunit
+APPIIOAB_00625	dihydroorotate dehydrogenase, electron transfer subunit
+APPIIOAB_00626	Dihydroorotate dehydrogenase 1B
+APPIIOAB_00627	Orotidine 5'-phosphate decarboxylase
+APPIIOAB_00628	orotate phosphoribosyltransferase
+APPIIOAB_00629	HD domain-containing protein
+APPIIOAB_00630	carbonic anhydrase
+APPIIOAB_00631	LysR family transcriptional regulator
+APPIIOAB_00632	hypothetical protein
+APPIIOAB_00633	fibronectin-binding protein A
+APPIIOAB_00634	hypothetical protein
+APPIIOAB_00635	ABC transporter substrate binding protein
+APPIIOAB_00636	amino acid or sugar ABC transport system, permease protein
+APPIIOAB_00637	ABC transporter ATP-binding protein
+APPIIOAB_00638	shikimate 5-dehydrogenase
+APPIIOAB_00639	transcriptional regulator, PSR protein
+APPIIOAB_00640	hypothetical protein
+APPIIOAB_00641	hypothetical protein
+APPIIOAB_00642	hypothetical protein
+APPIIOAB_00643	hypothetical protein
+APPIIOAB_00644	hypothetical protein
+APPIIOAB_00645	hypothetical protein
+APPIIOAB_00646	hypothetical protein
+APPIIOAB_00647	hypothetical protein
+APPIIOAB_00648	DNA topoisomerase III
+APPIIOAB_00649	hypothetical protein
+APPIIOAB_00650	hypothetical protein
+APPIIOAB_00651	calcium-translocating P-type ATPase
+APPIIOAB_00652	calcium-translocating P-type ATPase
+APPIIOAB_00653	hypothetical protein
+APPIIOAB_00654	hypothetical protein
+APPIIOAB_00655	L-lactate dehydrogenase
+APPIIOAB_00656	hypothetical protein
+APPIIOAB_00657	hypothetical protein
+APPIIOAB_00658	hypothetical protein
+APPIIOAB_00659	hypothetical protein
+APPIIOAB_00660	Beta-galactosidase GanA
+APPIIOAB_00661	alpha-galactosidase
+APPIIOAB_00662	hypothetical protein
+APPIIOAB_00663	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_00664	LacI family transcriptional regulator
+APPIIOAB_00665	oxidoreductase family, NAD-binding Rossmann fold protein
+APPIIOAB_00666	RpiR family transcriptional regulator
+APPIIOAB_00667	hypothetical protein
+APPIIOAB_00668	TetR/AcrR family transcriptional regulator
+APPIIOAB_00669	ABC transporter ATP-binding protein
+APPIIOAB_00670	efflux ABC transporter permease
+APPIIOAB_00671	hypothetical protein
+APPIIOAB_00672	hypothetical protein
+APPIIOAB_00673	hypothetical protein
+APPIIOAB_00674	response regulator receiver domain-containing protein
+APPIIOAB_00675	sensory box histidine kinase VicK
+APPIIOAB_00676	site-specific tyrosine recombinase XerC-family protein
+APPIIOAB_00677	hypothetical protein
+APPIIOAB_00678	AMP-binding family protein
+APPIIOAB_00679	phosphomethylpyrimidine kinase
+APPIIOAB_00680	Thiamine precursor transporter HmpT
+APPIIOAB_00681	hypothetical protein
+APPIIOAB_00682	alpha amylase
+APPIIOAB_00683	ATP-dependent protease ATP-binding subunit ClpX
+APPIIOAB_00684	hypothetical protein
+APPIIOAB_00685	EDD domain-containing protein, DegV family
+APPIIOAB_00686	polysaccharide biosynthesis family protein
+APPIIOAB_00687	branched-chain amino acid transport protein
+APPIIOAB_00688	putative azaleucine resistance protein AzlC
+APPIIOAB_00689	cation diffusion facilitator family transporter
+APPIIOAB_00690	hypothetical protein
+APPIIOAB_00691	hypothetical protein
+APPIIOAB_00692	hypothetical protein
+APPIIOAB_00693	hypothetical protein
+APPIIOAB_00694	ATP-dependent Zn protease
+APPIIOAB_00695	hypothetical protein
+APPIIOAB_00696	Na dependent nucleoside transporter, NupC family
+APPIIOAB_00697	guanylate kinase
+APPIIOAB_00698	GNAT family acetyltransferase
+APPIIOAB_00699	hypothetical protein
+APPIIOAB_00700	hypothetical protein
+APPIIOAB_00701	amidase
+APPIIOAB_00702	dihydroorotate dehydrogenase 1A
+APPIIOAB_00703	lysis protein
+APPIIOAB_00704	cyclopropane-fatty-acyl-phospholipid synthase
+APPIIOAB_00705	integral membrane protein
+APPIIOAB_00706	ABC transporter permease
+APPIIOAB_00707	ABC transporter permease
+APPIIOAB_00708	extracellular solute-binding protein
+APPIIOAB_00709	alpha amylase
+APPIIOAB_00710	o-succinylbenzoate synthase
+APPIIOAB_00711	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase
+APPIIOAB_00712	2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase
+APPIIOAB_00713	Isochorismate synthase MenF
+APPIIOAB_00714	2-succinylbenzoate--CoA ligase
+APPIIOAB_00715	1,4-dihydroxy-2-naphthoyl-CoA synthase
+APPIIOAB_00716	hypothetical protein
+APPIIOAB_00717	hypothetical protein
+APPIIOAB_00718	hypothetical protein
+APPIIOAB_00719	hypothetical protein
+APPIIOAB_00720	hypothetical protein
+APPIIOAB_00721	phage transcriptional regulator, ArpU family
+APPIIOAB_00722	hypothetical protein
+APPIIOAB_00723	hypothetical protein
+APPIIOAB_00724	Putative esterase
+APPIIOAB_00725	integral membrane protein
+APPIIOAB_00726	peroxiredoxin, Ohr family protein
+APPIIOAB_00727	DNA-binding transcriptional repressor MarR
+APPIIOAB_00728	choloylglycine hydrolase family protein
+APPIIOAB_00729	LPXTG-motif protein cell wall anchor domain protein
+APPIIOAB_00730	M protein trans-acting positive regulator
+APPIIOAB_00731	hypothetical protein
+APPIIOAB_00732	hypothetical protein
+APPIIOAB_00733	transporter, monovalent cation:proton antiporter-2 family protein
+APPIIOAB_00734	hypothetical protein
+APPIIOAB_00735	penicillin binding protein transpeptidase domain protein
+APPIIOAB_00736	cell envelope-related function transcriptional attenuator common domain protein
+APPIIOAB_00737	Flavin reductase-like domain protein
+APPIIOAB_00738	GlcNAc-binding protein A
+APPIIOAB_00739	hypothetical protein
+APPIIOAB_00740	ASCH protein
+APPIIOAB_00741	hypothetical protein
+APPIIOAB_00742	hypothetical protein
+APPIIOAB_00743	GNAT family acetyltransferase
+APPIIOAB_00744	hypothetical protein
+APPIIOAB_00745	Arsenate reductase
+APPIIOAB_00746	AraC family transcriptional regulator
+APPIIOAB_00747	hypothetical protein
+APPIIOAB_00748	peptidoglycan-binding protein LysM
+APPIIOAB_00749	universal stress protein UspA
+APPIIOAB_00750	hypothetical protein
+APPIIOAB_00751	hypothetical protein
+APPIIOAB_00752	hypothetical protein
+APPIIOAB_00753	hypothetical protein
+APPIIOAB_00754	hypothetical protein
+APPIIOAB_00755	hypothetical protein
+APPIIOAB_00756	hypothetical protein
+APPIIOAB_00757	hypothetical protein
+APPIIOAB_00758	hypothetical protein
+APPIIOAB_00759	nitroreductase family protein
+APPIIOAB_00760	amino acid/peptide transporter
+APPIIOAB_00761	ATP-dependent helicase/deoxyribonuclease subunit B
+APPIIOAB_00762	ATP-dependent helicase/nuclease subunit A
+APPIIOAB_00763	HxlR-like helix-turn-helix
+APPIIOAB_00764	phenylalanyl-tRNA synthetase subunit alpha
+APPIIOAB_00765	phenylalanyl-tRNA synthetase subunit beta
+APPIIOAB_00766	Tryptophanyl-tRNA synthetase II
+APPIIOAB_00767	ABC transporter ATP-binding protein
+APPIIOAB_00768	putative adhesin/ABC transporter aspartate/glutamate-binding protein
+APPIIOAB_00769	ABC transporter permease
+APPIIOAB_00770	ABC transporter permease
+APPIIOAB_00771	glutamate racemase
+APPIIOAB_00772	Ribonuclease PH/Ham1 protein
+APPIIOAB_00773	phosphodiesterase
+APPIIOAB_00774	CBS domain pair protein
+APPIIOAB_00775	transporter, small conductance mechanosensitive ion channel family protein
+APPIIOAB_00776	branched-chain amino acid aminotransferase
+APPIIOAB_00777	Enoyl-[acyl-carrier-protein] reductase
+APPIIOAB_00778	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+APPIIOAB_00779	cyclophilin type peptidyl-prolyl cis-trans isomerase
+APPIIOAB_00780	alpha3-beta1 integrin-binding family protein
+APPIIOAB_00781	x-Pro dipeptidyl-peptidase
+APPIIOAB_00782	Obg family GTPase CgtA
+APPIIOAB_00783	hypothetical protein
+APPIIOAB_00784	Ribonuclease Z
+APPIIOAB_00785	short chain dehydrogenase/reductase family oxidoreductase
+APPIIOAB_00786	hypothetical protein
+APPIIOAB_00787	single-stranded-DNA-specific exonuclease RecJ
+APPIIOAB_00788	adenine phosphoribosyltransferase
+APPIIOAB_00789	hypothetical protein
+APPIIOAB_00790	LexA repressor
+APPIIOAB_00791	hypothetical protein
+APPIIOAB_00792	transketolase
+APPIIOAB_00793	N-acetylmuramoyl-L-alanine amidase
+APPIIOAB_00794	cysteine synthase A
+APPIIOAB_00795	Fur family transcriptional regulator
+APPIIOAB_00796	NADH oxidase
+APPIIOAB_00797	hypothetical protein
+APPIIOAB_00798	DnaD and phage-associated domain protein
+APPIIOAB_00799	endonuclease III
+APPIIOAB_00800	hypothetical protein
+APPIIOAB_00801	Transposase
+APPIIOAB_00802	transposase
+APPIIOAB_00803	hypothetical protein
+APPIIOAB_00804	GlcNAc-binding protein A
+APPIIOAB_00805	hypothetical protein
+APPIIOAB_00806	TraG/TraD family protein
+APPIIOAB_00807	hypothetical protein
+APPIIOAB_00808	hypothetical protein
+APPIIOAB_00809	hypothetical protein
+APPIIOAB_00810	Type IV secretory pathway, VirB4 components
+APPIIOAB_00811	hypothetical protein
+APPIIOAB_00812	hypothetical protein
+APPIIOAB_00813	calcium-translocating P-type ATPase
+APPIIOAB_00814	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+APPIIOAB_00815	glycine betaine/carnitine/choline transporter ATP-binding protein
+APPIIOAB_00816	glycine betaine/carnitine/choline ABC transporter permease
+APPIIOAB_00817	glycine betaine/carnitine/choline ABC transporter
+APPIIOAB_00818	ABC transporter permease
+APPIIOAB_00819	toxin-antitoxin system, toxin component, MazF family
+APPIIOAB_00820	hypothetical protein
+APPIIOAB_00821	amino acid permease
+APPIIOAB_00822	phage infection protein
+APPIIOAB_00823	toxin-antitoxin system, toxin component, MazF family
+APPIIOAB_00824	alanine racemase
+APPIIOAB_00825	holo-[acyl-carrier-protein] synthase
+APPIIOAB_00826	DEAD/DEAH box helicase
+APPIIOAB_00827	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+APPIIOAB_00828	D-alanine--D-alanine ligase
+APPIIOAB_00829	ABC1 family protein
+APPIIOAB_00830	hypothetical protein
+APPIIOAB_00831	YaiI/YqxD family protein
+APPIIOAB_00832	hypothetical protein
+APPIIOAB_00833	GNAT family acetyltransferase
+APPIIOAB_00834	TVP38/TMEM64 family inner membrane protein YdjZ
+APPIIOAB_00835	uridine kinase
+APPIIOAB_00836	HAD superfamily hydrolase
+APPIIOAB_00837	hypothetical protein
+APPIIOAB_00838	16S rRNA pseudouridine synthase A
+APPIIOAB_00839	50S ribosomal protein L25, Ctc-form
+APPIIOAB_00840	hypothetical protein
+APPIIOAB_00841	MATE efflux family protein
+APPIIOAB_00842	hemolysin
+APPIIOAB_00843	K+ uptake transporter
+APPIIOAB_00844	transglycosylase
+APPIIOAB_00845	Polyribonucleotide nucleotidyltransferase
+APPIIOAB_00846	30S ribosomal protein S15
+APPIIOAB_00847	peptide deformylase
+APPIIOAB_00848	hypothetical protein
+APPIIOAB_00849	hypothetical protein
+APPIIOAB_00850	hypothetical protein
+APPIIOAB_00851	hypothetical protein
+APPIIOAB_00852	transcriptional regulator
+APPIIOAB_00853	maltose O-acetyltransferase
+APPIIOAB_00854	NAD-dependent deacetylase
+APPIIOAB_00855	hypothetical protein
+APPIIOAB_00856	amino acid ABC transporter permease
+APPIIOAB_00857	amino acid ABC transporter ATP-binding protein
+APPIIOAB_00858	branched-chain amino acid transport system II carrier protein
+APPIIOAB_00859	hypothetical protein
+APPIIOAB_00860	phosphotyrosine protein phosphatase
+APPIIOAB_00861	TetR family dihydroxyacetone kinase regulator
+APPIIOAB_00862	Holliday junction DNA helicase RuvB
+APPIIOAB_00863	Holliday junction DNA helicase RuvA
+APPIIOAB_00864	PTS system, trehalose/maltose-specific, IIBCA component
+APPIIOAB_00865	GntR family transcriptional regulator
+APPIIOAB_00866	peptide methionine sulfoxide reductase MsrB
+APPIIOAB_00867	hypothetical protein
+APPIIOAB_00868	maf protein
+APPIIOAB_00869	DNA mismatch repair protein
+APPIIOAB_00870	DNA mismatch repair protein MutS
+APPIIOAB_00871	hypothetical protein
+APPIIOAB_00872	calcineurin-like phosphoesterase
+APPIIOAB_00873	hypothetical protein
+APPIIOAB_00874	HAD superfamily hydrolase
+APPIIOAB_00875	DNA alkylation repair protein
+APPIIOAB_00876	formate/nitrite transporter
+APPIIOAB_00877	30S ribosomal protein S4
+APPIIOAB_00878	BioY family protein
+APPIIOAB_00879	hypothetical protein
+APPIIOAB_00880	aldose dehydrogenase
+APPIIOAB_00881	hypothetical protein
+APPIIOAB_00882	M protein trans-acting positive regulator
+APPIIOAB_00883	glycerol uptake facilitator protein
+APPIIOAB_00884	putative regulatory protein VanR
+APPIIOAB_00885	histidine kinase
+APPIIOAB_00886	seryl-tRNA synthetase
+APPIIOAB_00887	Inosine-5'-monophosphate dehydrogenase
+APPIIOAB_00888	hypothetical protein
+APPIIOAB_00889	hypothetical protein
+APPIIOAB_00890	translation-associated GTPase
+APPIIOAB_00891	translation-associated GTPase
+APPIIOAB_00892	ParB family chromosome partitioning protein
+APPIIOAB_00893	sporulation initiation inhibitor protein Soj
+APPIIOAB_00894	Ribosomal RNA small subunit methyltransferase G
+APPIIOAB_00895	lipase
+APPIIOAB_00896	hypothetical protein
+APPIIOAB_00897	hypothetical protein
+APPIIOAB_00898	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+APPIIOAB_00899	tRNA modification GTPase MnmE
+APPIIOAB_00900	hypothetical protein
+APPIIOAB_00901	r3H domain protein
+APPIIOAB_00902	putative stage III sporulation protein J
+APPIIOAB_00903	Ribonuclease P protein component
+APPIIOAB_00904	50S ribosomal protein L34
+APPIIOAB_00905	chromosomal replication initiation protein, DnaA
+APPIIOAB_00906	DNA polymerase III subunit beta, DnaB
+APPIIOAB_00907	S4 domain protein, YaaA
+APPIIOAB_00908	recombination protein F, RecF
+APPIIOAB_00909	DNA gyrase subunit B, GyrB
+APPIIOAB_00910	DNA gyrase, A subunit, GyrA
+APPIIOAB_00911	30S ribosomal protein S6
+APPIIOAB_00912	single-strand binding protein
+APPIIOAB_00913	30S ribosomal protein S18
+APPIIOAB_00914	DHH family protein
+APPIIOAB_00915	50S ribosomal protein L9
+APPIIOAB_00916	replicative DNA helicase
+APPIIOAB_00917	adenylosuccinate synthetase
+APPIIOAB_00918	DegV family protein
+APPIIOAB_00919	ABC transporter ATP-binding protein
+APPIIOAB_00920	acid-resistance membrane protein
+APPIIOAB_00921	pyruvate oxidase
+APPIIOAB_00922	oxidoreductase family, NAD-binding Rossmann fold protein
+APPIIOAB_00923	zinc transporter ZupT
+APPIIOAB_00924	hypothetical protein
+APPIIOAB_00925	integral membrane protein
+APPIIOAB_00926	hypothetical protein
+APPIIOAB_00927	hypothetical protein
+APPIIOAB_00928	6-phospho-beta-glucosidase
+APPIIOAB_00929	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_00930	RpiR family transcriptional regulator
+APPIIOAB_00931	hypothetical protein
+APPIIOAB_00932	putative lysine decarboxylase
+APPIIOAB_00933	Ubiquinone biosynthesis O-methyltransferase
+APPIIOAB_00934	ABC transporter ATP-binding protein/permease
+APPIIOAB_00935	Putative mycofactocin radical SAM maturase MftC
+APPIIOAB_00936	hypothetical protein
+APPIIOAB_00937	ABC transporter ATP-binding protein
+APPIIOAB_00938	ABC transporter permease
+APPIIOAB_00939	putative D-methionine-binding lipoprotein MetQ
+APPIIOAB_00940	hypothetical protein
+APPIIOAB_00941	LacI family sugar-binding transcriptional regulator
+APPIIOAB_00942	Phosphatase YbjI
+APPIIOAB_00943	regulator protein FrmR
+APPIIOAB_00944	rhodanese-like domain protein
+APPIIOAB_00945	coenzyme A disulfide reductase
+APPIIOAB_00946	LPXTG-motif protein cell wall anchor domain protein
+APPIIOAB_00947	PTS system, N-acetylglucosamine-specific IICBA component
+APPIIOAB_00948	hypothetical protein
+APPIIOAB_00949	dihydroxyacetone kinase, phosphotransfer subunit
+APPIIOAB_00950	dihydroxyacetone kinase subunit DhaK
+APPIIOAB_00951	dihydroxyacetone kinase, DhaL subunit
+APPIIOAB_00952	hypothetical protein
+APPIIOAB_00953	tyrosyl-tRNA synthetase
+APPIIOAB_00954	tyrosine decarboxylase
+APPIIOAB_00955	amino acid permease
+APPIIOAB_00956	LacI family sugar-binding transcriptional regulator
+APPIIOAB_00957	aldose 1-epimerase
+APPIIOAB_00958	beta-phosphoglucomutase
+APPIIOAB_00959	glycoside hydrolase, family 65
+APPIIOAB_00960	PTS system glucose-specific transporter subunit IIABC
+APPIIOAB_00961	hypothetical protein
+APPIIOAB_00962	endonuclease/exonuclease/phosphatase family protein
+APPIIOAB_00963	GNAT family acetyltransferase
+APPIIOAB_00964	hypothetical protein
+APPIIOAB_00965	toxin-antitoxin system, antitoxin component
+APPIIOAB_00966	hypothetical protein
+APPIIOAB_00967	Phenolic acid decarboxylase
+APPIIOAB_00968	PadR family transcriptional regulator
+APPIIOAB_00969	MerR family transcriptional regulator
+APPIIOAB_00970	major facilitator superfamily transporter
+APPIIOAB_00971	Urea transporter
+APPIIOAB_00972	ABC transporter ATP-binding protein/permease
+APPIIOAB_00973	DNA-binding response regulator
+APPIIOAB_00974	sensor histidine kinase
+APPIIOAB_00975	hypothetical protein
+APPIIOAB_00976	hypothetical protein
+APPIIOAB_00977	PadR family transcriptional regulator
+APPIIOAB_00978	membrane protein
+APPIIOAB_00979	hypothetical protein
+APPIIOAB_00980	hypothetical protein
+APPIIOAB_00981	SPFH domain / Band 7 family protein
+APPIIOAB_00982	hypothetical protein
+APPIIOAB_00983	ABC transporter ATP-binding protein
+APPIIOAB_00984	peptide ABC transporter permease/transmembrane protein
+APPIIOAB_00985	transcriptional regulator
+APPIIOAB_00986	phosphosugar isomerase transcriptional regulator
+APPIIOAB_00987	PTS system, N-acetylglucosamine-specific IIABC component
+APPIIOAB_00988	glycosyl hydrolase family protein
+APPIIOAB_00989	hypothetical protein
+APPIIOAB_00990	hypothetical protein
+APPIIOAB_00991	toxin-antitoxin system, toxin component, MazF family
+APPIIOAB_00992	N-acetylmuramoyl-L-alanine amidase
+APPIIOAB_00993	LacI family transcriptional regulator
+APPIIOAB_00994	ABC transporter ATP-binding protein
+APPIIOAB_00995	efflux ABC transporter, permease protein
+APPIIOAB_00996	antibiotic biosynthesis monooxygenase
+APPIIOAB_00997	permease
+APPIIOAB_00998	glucan 1,6-alpha-glucosidase
+APPIIOAB_00999	putative permease
+APPIIOAB_01000	periplasmic solute binding protein
+APPIIOAB_01001	response regulator receiver domain-containing protein
+APPIIOAB_01002	sensor histidine kinase
+APPIIOAB_01003	hypothetical protein
+APPIIOAB_01004	accessory regulator agrBfs protein
+APPIIOAB_01005	hypothetical protein
+APPIIOAB_01006	ATP-dependent DNA helicase PcrA
+APPIIOAB_01007	transcriptional regulator Spx-family protein
+APPIIOAB_01008	Spx/MgsR family transcriptional regulator
+APPIIOAB_01009	hypothetical protein
+APPIIOAB_01010	hypothetical protein
+APPIIOAB_01011	hypothetical protein
+APPIIOAB_01012	hypothetical protein
+APPIIOAB_01013	Calcineurin-like phosphoesterase
+APPIIOAB_01014	hypothetical protein
+APPIIOAB_01015	hypothetical protein
+APPIIOAB_01016	hypothetical protein
+APPIIOAB_01017	hypothetical protein
+APPIIOAB_01018	iron ABC transporter substrate-binding protein
+APPIIOAB_01019	iron ABC transporter ATP-binding protein
+APPIIOAB_01020	iron ABC transporter system permease
+APPIIOAB_01021	iron ABC transporter system permease
+APPIIOAB_01022	putative protein YueI
+APPIIOAB_01023	hypothetical protein
+APPIIOAB_01024	hypothetical protein
+APPIIOAB_01025	hypothetical protein
+APPIIOAB_01026	bifunctional glutamate--cysteine ligase/glutathione synthetase
+APPIIOAB_01027	signal recognition particle-docking protein FtsY
+APPIIOAB_01028	HAD superfamily hydrolase
+APPIIOAB_01029	chromosome partition protein SMC
+APPIIOAB_01030	ribonuclease III
+APPIIOAB_01031	amino acid ABC transporter ATP-binding protein
+APPIIOAB_01032	hypothetical protein
+APPIIOAB_01033	family 5 extracellular solute-binding protein
+APPIIOAB_01034	ABC transporter permease
+APPIIOAB_01035	ABC transporter permease
+APPIIOAB_01036	peptide ABC transporter ATP-binding protein
+APPIIOAB_01037	peptide ABC transporter ATP-binding protein
+APPIIOAB_01038	Acyl carrier protein
+APPIIOAB_01039	fatty acid/phospholipid synthesis protein PlsX
+APPIIOAB_01040	ATP-dependent DNA helicase RecG
+APPIIOAB_01041	DAK2 domain fusion protein YloV
+APPIIOAB_01042	alkaline-shock protein
+APPIIOAB_01043	50S ribosomal protein L28
+APPIIOAB_01044	Bacterial membrane protein YfhO
+APPIIOAB_01045	tRNA pseudouridine synthase A
+APPIIOAB_01046	cobalt transport family protein
+APPIIOAB_01047	cobalt import ATP-binding protein CbiO 2
+APPIIOAB_01048	cobalt import ATP-binding protein CbiO
+APPIIOAB_01049	50S ribosomal protein L17
+APPIIOAB_01050	DNA-directed RNA polymerase subunit alpha
+APPIIOAB_01051	30S ribosomal protein S11
+APPIIOAB_01052	30S ribosomal protein S13
+APPIIOAB_01053	50S ribosomal protein L36
+APPIIOAB_01054	translation initiation factor IF-1
+APPIIOAB_01055	adenylate kinase
+APPIIOAB_01056	preprotein translocase subunit SecY
+APPIIOAB_01057	50S ribosomal protein L15
+APPIIOAB_01058	50S ribosomal protein L30
+APPIIOAB_01059	30S ribosomal protein S5
+APPIIOAB_01060	50S ribosomal protein L18
+APPIIOAB_01061	50S ribosomal protein L6
+APPIIOAB_01062	30S ribosomal protein S8
+APPIIOAB_01063	30S ribosomal protein S14
+APPIIOAB_01064	50S ribosomal protein L5
+APPIIOAB_01065	50S ribosomal protein L24
+APPIIOAB_01066	50S ribosomal protein L14
+APPIIOAB_01067	30S ribosomal protein S17
+APPIIOAB_01068	50S ribosomal protein L29
+APPIIOAB_01069	50S ribosomal protein L16
+APPIIOAB_01070	30S ribosomal protein S3
+APPIIOAB_01071	50S ribosomal protein L22
+APPIIOAB_01072	30S ribosomal protein S19
+APPIIOAB_01073	50S ribosomal protein L2
+APPIIOAB_01074	50S ribosomal protein L23
+APPIIOAB_01075	50S ribosomal protein L4
+APPIIOAB_01076	50S ribosomal protein L3
+APPIIOAB_01077	30S ribosomal protein S10
+APPIIOAB_01078	elongation factor Tu
+APPIIOAB_01079	translation elongation factor G
+APPIIOAB_01080	30S ribosomal protein S7
+APPIIOAB_01081	30S ribosomal protein S12
+APPIIOAB_01082	ribose 5-phosphate isomerase A
+APPIIOAB_01083	resolvase family site-specific recombinase
+APPIIOAB_01084	phosphoglycerate mutase
+APPIIOAB_01085	hypothetical protein
+APPIIOAB_01086	hypothetical protein
+APPIIOAB_01087	purine nucleoside phosphorylase
+APPIIOAB_01088	purine nucleoside phosphorylase
+APPIIOAB_01089	phosphopentomutase
+APPIIOAB_01090	ABC transporter permease
+APPIIOAB_01091	ABC transporter permease
+APPIIOAB_01092	ABC transporter ATP-binding protein
+APPIIOAB_01093	Basic membrane lipopprotein
+APPIIOAB_01094	cytidine deaminase
+APPIIOAB_01095	deoxyribose-phosphate aldolase
+APPIIOAB_01096	pyrimidine-nucleoside phosphorylase
+APPIIOAB_01097	LacI family transcriptional regulator
+APPIIOAB_01098	hypothetical protein
+APPIIOAB_01099	hypothetical protein
+APPIIOAB_01100	hypothetical protein
+APPIIOAB_01101	16S rRNA small subunit methyltransferase C
+APPIIOAB_01102	hypothetical protein
+APPIIOAB_01103	pantothenate kinase
+APPIIOAB_01104	GMP synthase
+APPIIOAB_01105	hypothetical protein
+APPIIOAB_01106	ECF RNA polymerase sigma-E factor
+APPIIOAB_01107	hypothetical protein
+APPIIOAB_01108	hypothetical protein
+APPIIOAB_01109	Alpha-xylosidase XylQ
+APPIIOAB_01110	ABC transporter permease
+APPIIOAB_01111	ABC transporter permease
+APPIIOAB_01112	hypothetical protein
+APPIIOAB_01113	HTH-type transcriptional activator RhaR
+APPIIOAB_01114	hypothetical protein
+APPIIOAB_01115	hypothetical protein
+APPIIOAB_01116	hypothetical protein
+APPIIOAB_01117	hypothetical protein
+APPIIOAB_01118	hypothetical protein
+APPIIOAB_01119	hypothetical protein
+APPIIOAB_01120	5-formyltetrahydrofolate cyclo-ligase
+APPIIOAB_01121	peptidase, S54 family protein
+APPIIOAB_01122	putative protein YqgQ
+APPIIOAB_01123	glucokinase
+APPIIOAB_01124	rhodanese family protein
+APPIIOAB_01125	hypothetical protein
+APPIIOAB_01126	FAD(NAD)-dependent oxidoreductase
+APPIIOAB_01127	hypothetical protein
+APPIIOAB_01128	UDP-glucose 4-epimerase
+APPIIOAB_01129	galactose-1-phosphate uridylyltransferase
+APPIIOAB_01130	LacI family transcriptional regulator
+APPIIOAB_01131	universal bacterial protein YeaZ
+APPIIOAB_01132	ribosomal-protein-alanine acetyltransferase
+APPIIOAB_01133	ribosomal-protein-alanine acetyltransferase
+APPIIOAB_01134	O-sialoglycoprotein endopeptidase
+APPIIOAB_01135	hypothetical protein
+APPIIOAB_01136	hypothetical protein
+APPIIOAB_01137	hypothetical protein
+APPIIOAB_01138	lipopolysaccharide biosynthesis protein
+APPIIOAB_01139	CobQ/CobB/MinD/ParA nucleotide binding protein
+APPIIOAB_01140	protein-tyrosine-phosphatase
+APPIIOAB_01141	Putative glycosyltransferase EpsD
+APPIIOAB_01142	hypothetical protein
+APPIIOAB_01143	glycosyl transferase family protein
+APPIIOAB_01144	hypothetical protein
+APPIIOAB_01145	UDP-glucose 6-dehydrogenase
+APPIIOAB_01146	Putative O-antigen transporter
+APPIIOAB_01147	cyclic nucleotide-binding domain-containing protein
+APPIIOAB_01148	arginine deiminase
+APPIIOAB_01149	ornithine carbamoyltransferase
+APPIIOAB_01150	Carbamate kinase
+APPIIOAB_01151	arginyl-tRNA synthetase
+APPIIOAB_01152	hypothetical protein
+APPIIOAB_01153	hypothetical protein
+APPIIOAB_01154	hypothetical protein
+APPIIOAB_01155	hypothetical protein
+APPIIOAB_01156	hypothetical protein
+APPIIOAB_01157	arginine repressor protein
+APPIIOAB_01158	30S ribosomal protein S2
+APPIIOAB_01159	translation elongation factor Ts
+APPIIOAB_01160	uridylate kinase
+APPIIOAB_01161	ribosome recycling factor
+APPIIOAB_01162	undecaprenyl diphosphate synthase
+APPIIOAB_01163	phosphatidate cytidylyltransferase
+APPIIOAB_01164	membrane-associated zinc metalloprotease
+APPIIOAB_01165	prolyl-tRNA synthetase
+APPIIOAB_01166	DNA polymerase III PolC-type
+APPIIOAB_01167	ribosome maturation protein RimP
+APPIIOAB_01168	transcription termination factor NusA
+APPIIOAB_01169	cytosolic protein YlxR
+APPIIOAB_01170	50S ribosomal protein L7Ae
+APPIIOAB_01171	Elongation factor 4
+APPIIOAB_01172	ribosome-binding factor A
+APPIIOAB_01173	tRNA pseudouridine synthase B
+APPIIOAB_01174	riboflavin biosynthesis protein RibF
+APPIIOAB_01175	glucose 1-dehydrogenase, Gdh
+APPIIOAB_01176	sugar transport protein
+APPIIOAB_01177	excisionase family DNA binding domain protein
+APPIIOAB_01178	hypothetical protein
+APPIIOAB_01179	6-phosphofructokinase
+APPIIOAB_01180	hypothetical protein
+APPIIOAB_01181	Electron transport complex subunit RnfC
+APPIIOAB_01182	Electron transport complex subunit RnfD
+APPIIOAB_01183	hypothetical protein
+APPIIOAB_01184	zeta toxin
+APPIIOAB_01185	hypothetical protein
+APPIIOAB_01186	hypothetical protein
+APPIIOAB_01187	putative oxygen-independent coproporphyrinogen III oxidase
+APPIIOAB_01188	heat-inducible transcription repressor HrcA
+APPIIOAB_01189	co-chaperone GrpE
+APPIIOAB_01190	chaperone protein DnaK
+APPIIOAB_01191	chaperone protein DnaJ
+APPIIOAB_01192	HAD superfamily hydrolase
+APPIIOAB_01193	DeoR-like helix-turn-helix protein
+APPIIOAB_01194	6-phospho-beta-galactosidase
+APPIIOAB_01195	PTS system, lactose/cellobiose-specific IIA component
+APPIIOAB_01196	PTS system, lactose/cellobiose-specific IICB component
+APPIIOAB_01197	Glycosyl hydrolase family 53
+APPIIOAB_01198	amino acid ABC transporter ATP-binding protein
+APPIIOAB_01199	amino acid ABC transporter amino acid-binding/permease
+APPIIOAB_01200	excinuclease ABC subunit B
+APPIIOAB_01201	excinuclease ABC subunit A
+APPIIOAB_01202	carbamoyl phosphate synthase-like protein
+APPIIOAB_01203	Aspartate racemase
+APPIIOAB_01204	ATP-binding protein
+APPIIOAB_01205	Putative gluconeogenesis factor
+APPIIOAB_01206	hypothetical protein
+APPIIOAB_01207	hypothetical protein
+APPIIOAB_01208	hypothetical protein
+APPIIOAB_01209	bifunctional disulfide isomerase/thiol-disulfide oxidase
+APPIIOAB_01210	pyruvate flavodoxin oxidoreductase subunit alpha
+APPIIOAB_01211	Cyclic di-AMP synthase CdaA
+APPIIOAB_01212	YbbR-like protein
+APPIIOAB_01213	phosphoglucosamine mutase
+APPIIOAB_01214	hypothetical protein
+APPIIOAB_01215	putative ABC transporter, ATP-binding protein SagG
+APPIIOAB_01216	Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+APPIIOAB_01217	glucosamine--fructose-6-phosphate aminotransferase
+APPIIOAB_01218	hypothetical protein
+APPIIOAB_01219	signal peptide peptidase SppA
+APPIIOAB_01220	hypothetical protein
+APPIIOAB_01221	hypothetical protein
+APPIIOAB_01222	trigger factor
+APPIIOAB_01223	ATP-dependent protease ATP-binding protein ClpX
+APPIIOAB_01224	ribosome biogenesis GTP-binding protein YsxC
+APPIIOAB_01225	hypothetical protein
+APPIIOAB_01226	hypothetical protein
+APPIIOAB_01227	DeoR-like helix-turn-helix protein
+APPIIOAB_01228	hexose kinase, 1-phosphofructokinase family protein
+APPIIOAB_01229	PTS system fructose-specific transporter subunit IIABC
+APPIIOAB_01230	hypothetical protein
+APPIIOAB_01231	hypothetical protein
+APPIIOAB_01232	hypothetical protein
+APPIIOAB_01233	hypothetical protein
+APPIIOAB_01234	hypothetical protein
+APPIIOAB_01235	hypothetical protein
+APPIIOAB_01236	hypothetical protein
+APPIIOAB_01237	ATP-dependent DNA helicase
+APPIIOAB_01238	NAD-dependent DNA ligase
+APPIIOAB_01239	aspartyl/glutamyl-tRNA amidotransferase subunit C
+APPIIOAB_01240	glutamyl-tRNA(Gln) amidotransferase subunit A
+APPIIOAB_01241	aspartyl/glutamyl-tRNA amidotransferase subunit B
+APPIIOAB_01242	Diacylglycerol kinase
+APPIIOAB_01243	23S rRNA (uracil-5-)-methyltransferase
+APPIIOAB_01244	hypothetical protein
+APPIIOAB_01245	cysteine desulfurase
+APPIIOAB_01246	hypothetical protein
+APPIIOAB_01247	hypothetical protein
+APPIIOAB_01248	hypothetical protein
+APPIIOAB_01249	hypothetical protein
+APPIIOAB_01250	HMP-PP phosphatase
+APPIIOAB_01251	PTS system, lactose/cellobiose-specific IIC component
+APPIIOAB_01252	hypothetical protein
+APPIIOAB_01253	Potassium-transporting ATPase ATP-binding subunit
+APPIIOAB_01254	hypothetical protein
+APPIIOAB_01255	hypothetical protein
+APPIIOAB_01256	hypothetical protein
+APPIIOAB_01257	hypothetical protein
+APPIIOAB_01258	hypothetical protein
+APPIIOAB_01259	hypothetical protein
+APPIIOAB_01260	ABC transporter ATP-binding protein
+APPIIOAB_01261	ABC transporter ATP-binding protein
+APPIIOAB_01262	MerR family transcriptional regulator
+APPIIOAB_01263	methionine synthase
+APPIIOAB_01264	LacI family transcriptional regulator
+APPIIOAB_01265	alpha-galactosidase
+APPIIOAB_01266	Beta-galactosidase large subunit
+APPIIOAB_01267	Beta-galactosidase small subunit
+APPIIOAB_01268	sensor histidine kinase
+APPIIOAB_01269	HTH-type transcriptional activator RhaR
+APPIIOAB_01270	extracellular solute-binding protein
+APPIIOAB_01271	ABC transporter permease
+APPIIOAB_01272	ABC transporter permease
+APPIIOAB_01273	hypothetical protein
+APPIIOAB_01274	hypothetical protein
+APPIIOAB_01275	hypothetical protein
+APPIIOAB_01276	hypothetical protein
+APPIIOAB_01277	hypothetical protein
+APPIIOAB_01278	hypothetical protein
+APPIIOAB_01279	phosphoglycolate phosphatase
+APPIIOAB_01280	hypothetical protein
+APPIIOAB_01281	sodium/dicarboxylate symporter family protein
+APPIIOAB_01282	hypothetical protein
+APPIIOAB_01283	hypothetical protein
+APPIIOAB_01284	hypothetical protein
+APPIIOAB_01285	hypothetical protein
+APPIIOAB_01286	hypothetical protein
+APPIIOAB_01287	AraC family transcriptional regulator
+APPIIOAB_01288	sensor histidine kinase
+APPIIOAB_01289	LacI family transcriptional regulator
+APPIIOAB_01290	multiple sugar-binding periplasmic receptor ChvE family protein
+APPIIOAB_01291	ABC transporter ATP-binding protein
+APPIIOAB_01292	amino acid or sugar ABC transport system, permease protein
+APPIIOAB_01293	PTS system lactose/cellobiose-specific transporter subunit IIB
+APPIIOAB_01294	GntR family transcriptional regulator
+APPIIOAB_01295	carbohydrate kinase, FGGY family protein
+APPIIOAB_01296	L-ribulose-5-phosphate 4-epimerase
+APPIIOAB_01297	L-arabinose isomerase
+APPIIOAB_01298	Xylulose-5-phosphate phosphoketolase
+APPIIOAB_01299	hypothetical protein
+APPIIOAB_01300	hypothetical protein
+APPIIOAB_01301	hypothetical protein
+APPIIOAB_01302	hypothetical protein
+APPIIOAB_01303	cell wall surface anchor family protein
+APPIIOAB_01304	hypothetical protein
+APPIIOAB_01305	hypothetical protein
+APPIIOAB_01306	hypothetical protein
+APPIIOAB_01307	NAD(P)H quinone oxidoreductase
+APPIIOAB_01308	hypothetical protein
+APPIIOAB_01309	hypothetical protein
+APPIIOAB_01310	hypothetical protein
+APPIIOAB_01311	hypothetical protein
+APPIIOAB_01312	hypothetical protein
+APPIIOAB_01313	1-deoxy-D-xylulose-5-phosphate synthase
+APPIIOAB_01314	ABC transport system ATP-binding protein
+APPIIOAB_01315	hypothetical protein
+APPIIOAB_01316	hypothetical protein
+APPIIOAB_01317	2-aminoethylphosphonate--pyruvate transaminase
+APPIIOAB_01318	Phosphonoacetaldehyde hydrolase
+APPIIOAB_01319	DeoR-like helix-turn-helix protein
+APPIIOAB_01320	hypothetical protein
+APPIIOAB_01321	Beta-N-acetylhexosaminidase
+APPIIOAB_01322	50S ribosomal protein L33
+APPIIOAB_01323	Putative phosphinothricin acetyltransferase YwnH
+APPIIOAB_01324	acetolactate synthase
+APPIIOAB_01325	alpha-acetolactate decarboxylase
+APPIIOAB_01326	GAF domain-containing protein
+APPIIOAB_01327	hypothetical protein
+APPIIOAB_01328	transcriptional regulator, ArsR family
+APPIIOAB_01329	nitroreductase family protein
+APPIIOAB_01330	hypothetical protein
+APPIIOAB_01331	transfer-messenger RNA, SsrA
+APPIIOAB_01332	hypothetical protein
+APPIIOAB_01333	DNA-binding response regulator
+APPIIOAB_01334	triphosphoribosyl-dephospho-CoA synthase
+APPIIOAB_01335	GntR family transcriptional regulator
+APPIIOAB_01336	Citrate transporter
+APPIIOAB_01337	hypothetical protein
+APPIIOAB_01338	2-oxoglutarate carboxylase large subunit
+APPIIOAB_01339	Glutaconyl-CoA decarboxylase subunit beta
+APPIIOAB_01340	hypothetical protein
+APPIIOAB_01341	[Citrate [pro-3S]-lyase] ligase
+APPIIOAB_01342	Citrate lyase gamma chain
+APPIIOAB_01343	Citrate lyase subunit beta
+APPIIOAB_01344	Citrate lyase alpha chain
+APPIIOAB_01345	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+APPIIOAB_01346	pyruvate carboxylase
+APPIIOAB_01347	hypothetical protein
+APPIIOAB_01348	HAD superfamily hydrolase
+APPIIOAB_01349	integral membrane protein
+APPIIOAB_01350	response regulator receiver domain-containing protein
+APPIIOAB_01351	sensor histidine kinase
+APPIIOAB_01352	hypothetical protein
+APPIIOAB_01353	hypothetical protein
+APPIIOAB_01354	sulfatase
+APPIIOAB_01355	SAM-dependent methyltransferase
+APPIIOAB_01356	3-dehydroquinate dehydratase
+APPIIOAB_01357	YbaK/ebsC protein
+APPIIOAB_01358	HI0933-like protein
+APPIIOAB_01359	NADP-specific glutamate dehydrogenase
+APPIIOAB_01360	glucose-6-phosphate isomerase
+APPIIOAB_01361	Cold shock protein CspC
+APPIIOAB_01362	hypothetical protein
+APPIIOAB_01363	tRNA-specific adenosine deaminase
+APPIIOAB_01364	hypothetical protein
+APPIIOAB_01365	hypothetical protein
+APPIIOAB_01366	hypothetical protein
+APPIIOAB_01367	hypothetical protein
+APPIIOAB_01368	hypothetical protein
+APPIIOAB_01369	glycerophosphodiester phosphodiesterase family protein
+APPIIOAB_01370	hypothetical protein
+APPIIOAB_01371	hypothetical protein
+APPIIOAB_01372	hypothetical protein
+APPIIOAB_01373	TetR family transcriptional regulator
+APPIIOAB_01374	tRNA-Ser
+APPIIOAB_01375	hypothetical protein
+APPIIOAB_01376	asparagine synthetase B
+APPIIOAB_01377	hypothetical protein
+APPIIOAB_01378	50S ribosomal protein L33
+APPIIOAB_01379	Dihydrofolate reductase
+APPIIOAB_01380	Potassium-transporting ATPase potassium-binding subunit
+APPIIOAB_01381	Potassium-transporting ATPase ATP-binding subunit
+APPIIOAB_01382	Potassium-transporting ATPase KdpC subunit
+APPIIOAB_01383	Sensor protein KdpD
+APPIIOAB_01384	DNA-binding response regulator
+APPIIOAB_01385	periplasmic binding protein
+APPIIOAB_01386	ferrichrome transport ATP-binding protein FhuC
+APPIIOAB_01387	ferrichrome transport system permease FhuB
+APPIIOAB_01388	ferrichrome transport system permease FhuG
+APPIIOAB_01389	hypothetical protein
+APPIIOAB_01390	hypothetical protein
+APPIIOAB_01391	hypothetical protein
+APPIIOAB_01392	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+APPIIOAB_01393	DNA mismatch repair protein MutS2
+APPIIOAB_01394	hypothetical protein
+APPIIOAB_01395	AraC family transcriptional regulator
+APPIIOAB_01396	major facilitator superfamily transporter
+APPIIOAB_01397	rhamnulokinase
+APPIIOAB_01398	L-rhamnose isomerase
+APPIIOAB_01399	rhamnulose-1-phosphate aldolase
+APPIIOAB_01400	maltose O-acetyltransferase
+APPIIOAB_01401	Lactaldehyde reductase
+APPIIOAB_01402	glycerol uptake facilitator protein
+APPIIOAB_01403	alpha-glycerophosphate oxidase
+APPIIOAB_01404	glycerol kinase
+APPIIOAB_01405	helix-turn-helix domain-containing protein
+APPIIOAB_01406	pyridine nucleotide-disulfide oxidoreductase
+APPIIOAB_01407	hypothetical protein
+APPIIOAB_01408	hypothetical protein
+APPIIOAB_01409	hypothetical protein
+APPIIOAB_01410	hypothetical protein
+APPIIOAB_01411	hypothetical protein
+APPIIOAB_01412	oxidoreductase, aldo/keto reductase family protein
+APPIIOAB_01413	DJ-1/PfpI family protein
+APPIIOAB_01414	oxidoreductase FAD/FMN-binding protein
+APPIIOAB_01415	MarR family transcriptional regulator
+APPIIOAB_01416	toxin-antitoxin system, antitoxin component
+APPIIOAB_01417	glucan 1,6-alpha-glucosidase
+APPIIOAB_01418	Putative transposon Tn552 DNA-invertase bin3
+APPIIOAB_01419	hypothetical protein
+APPIIOAB_01420	hypothetical protein
+APPIIOAB_01421	hypothetical protein
+APPIIOAB_01422	ABC transporter, ATP-binding protein/permease
+APPIIOAB_01423	Enterocin-HF
+APPIIOAB_01424	xanthine/uracil permease family protein
+APPIIOAB_01425	hypothetical protein
+APPIIOAB_01426	glyoxalase family protein
+APPIIOAB_01427	B3/4 domain-containing protein
+APPIIOAB_01428	GNAT family acetyltransferase
+APPIIOAB_01429	MarR family transcriptional regulator
+APPIIOAB_01430	NUDIX family hydrolase
+APPIIOAB_01431	helix-turn-helix domain-containing protein
+APPIIOAB_01432	calcium-translocating P-type ATPase, PMCA-type
+APPIIOAB_01433	amino acid permease
+APPIIOAB_01434	tyrosine decarboxylase
+APPIIOAB_01435	M protein trans-acting positive regulator
+APPIIOAB_01436	membrane protein
+APPIIOAB_01437	membrane protein
+APPIIOAB_01438	Plasmid stabilization system protein
+APPIIOAB_01439	putative addiction module antidote
+APPIIOAB_01440	hypothetical protein
+APPIIOAB_01441	myosin-cross-reactive antigen-like protein
+APPIIOAB_01442	hypothetical protein
+APPIIOAB_01443	zinc-containing alcohol dehydrogenase
+APPIIOAB_01444	hypothetical protein
+APPIIOAB_01445	GNAT family acetyltransferase
+APPIIOAB_01446	methyltransferase domain protein
+APPIIOAB_01447	hypothetical protein
+APPIIOAB_01448	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_01449	PTS system, lactose/cellobiose-specific IIA component
+APPIIOAB_01450	PTS system lactose/cellobiose-specific transporter subunit IIB
+APPIIOAB_01451	hypothetical protein
+APPIIOAB_01452	hypothetical protein
+APPIIOAB_01453	hypothetical protein
+APPIIOAB_01454	hypothetical protein
+APPIIOAB_01455	hypothetical protein
+APPIIOAB_01456	hypothetical protein
+APPIIOAB_01457	hypothetical protein
+APPIIOAB_01458	hypothetical protein
+APPIIOAB_01459	hypothetical protein
+APPIIOAB_01460	hypothetical protein
+APPIIOAB_01461	signal peptidase I
+APPIIOAB_01462	hypothetical protein
+APPIIOAB_01463	oxidoreductase, aldo/keto reductase family protein
+APPIIOAB_01464	peptide methionine sulfoxide reductase MsrA
+APPIIOAB_01465	tRNA pseudouridine synthase A
+APPIIOAB_01466	membrane protein
+APPIIOAB_01467	2-dehydropantoate 2-reductase
+APPIIOAB_01468	BglG family transcriptional antiterminator
+APPIIOAB_01469	6-phospho-beta-glucosidase
+APPIIOAB_01470	PTS system beta-glucoside-specific transporter subunit IIABC
+APPIIOAB_01471	sodium/dicarboxylate symporter family protein
+APPIIOAB_01472	Carbamate kinase
+APPIIOAB_01473	D-galactonate transporter
+APPIIOAB_01474	hypothetical protein
+APPIIOAB_01475	hypothetical protein
+APPIIOAB_01476	Purine catabolism regulatory protein
+APPIIOAB_01477	hypothetical protein
+APPIIOAB_01478	kinase
+APPIIOAB_01479	fructose-1,6-bisphosphate aldolase
+APPIIOAB_01480	hypothetical protein
+APPIIOAB_01481	PTS system, ascorbate-specific IIC component
+APPIIOAB_01482	PTS system ascorbate-specific transporter subunit IIB
+APPIIOAB_01483	PTS system ascorbate-specific transporter subunit IIA
+APPIIOAB_01484	PTS system ascorbate-specific transporter subunit IIA
+APPIIOAB_01485	hypothetical protein
+APPIIOAB_01486	transporter, dicarboxylate/amino acid:cation symporter family protein
+APPIIOAB_01487	Tim44-like domain-containing protein
+APPIIOAB_01488	hypothetical protein
+APPIIOAB_01489	hypothetical protein
+APPIIOAB_01490	hypothetical protein
+APPIIOAB_01491	hypothetical protein
+APPIIOAB_01492	hypothetical protein
+APPIIOAB_01493	hypothetical protein
+APPIIOAB_01494	hypothetical protein
+APPIIOAB_01495	hypothetical protein
+APPIIOAB_01496	hypothetical protein
+APPIIOAB_01497	ribosomal RNA large subunit methyltransferase H
+APPIIOAB_01498	Serine protease do-like htrA
+APPIIOAB_01499	tRNA-binding domain-containing protein
+APPIIOAB_01500	universal stress family protein
+APPIIOAB_01501	thioredoxin
+APPIIOAB_01502	glutamyl aminopeptidase
+APPIIOAB_01503	small secreted protein
+APPIIOAB_01504	glycosyl transferase family protein
+APPIIOAB_01505	methylmalonate-semialdehyde dehydrogenase
+APPIIOAB_01506	hypothetical protein
+APPIIOAB_01507	hypothetical protein
+APPIIOAB_01508	hypothetical protein
+APPIIOAB_01509	6-phospho-beta-galactosidase
+APPIIOAB_01510	PTS system, lactose/cellobiose-specific IIC component
+APPIIOAB_01511	GntR family transcriptional regulator
+APPIIOAB_01512	dipeptidase PepV
+APPIIOAB_01513	YjeF protein
+APPIIOAB_01514	thioesterase
+APPIIOAB_01515	hypothetical protein
+APPIIOAB_01516	GntR family transcriptional regulator
+APPIIOAB_01517	hypothetical protein
+APPIIOAB_01518	hydantoinase/oxoprolinase
+APPIIOAB_01519	citrate transporter
+APPIIOAB_01520	hypothetical protein
+APPIIOAB_01521	50S ribosomal protein L20
+APPIIOAB_01522	50S ribosomal protein L35
+APPIIOAB_01523	translation initiation factor IF-3
+APPIIOAB_01524	GlcNAc-binding protein A
+APPIIOAB_01525	GlcNAc-binding protein A
+APPIIOAB_01526	deoxynucleoside kinase
+APPIIOAB_01527	mevalonate kinase
+APPIIOAB_01528	diphosphomevalonate decarboxylase
+APPIIOAB_01529	phosphomevalonate kinase
+APPIIOAB_01530	isopentenyl-diphosphate delta-isomerase
+APPIIOAB_01531	5S ribosomal RNA
+APPIIOAB_01532	tRNA-Val
+APPIIOAB_01533	tRNA-Lys
+APPIIOAB_01534	tRNA-Leu
+APPIIOAB_01535	tRNA-Thr
+APPIIOAB_01536	tRNA-Gly
+APPIIOAB_01537	tRNA-Leu
+APPIIOAB_01538	tRNA-Arg
+APPIIOAB_01539	tRNA-Pro
+APPIIOAB_01540	tRNA-Arg
+APPIIOAB_01541	firmicute transcriptional repressor of class III stress
+APPIIOAB_01542	negative regulator of genetic competence ClpC/MecB
+APPIIOAB_01543	peptidase, U32 family
+APPIIOAB_01544	peptidase, U32 family
+APPIIOAB_01545	Glutathione reductase
+APPIIOAB_01546	hypothetical protein
+APPIIOAB_01547	hypothetical protein
+APPIIOAB_01548	hypothetical protein
+APPIIOAB_01549	TraG/TraD family protein
+APPIIOAB_01550	hypothetical protein
+APPIIOAB_01551	hypothetical protein
+APPIIOAB_01552	hypothetical protein
+APPIIOAB_01553	Type IV secretory pathway, VirB4 components
+APPIIOAB_01554	hypothetical protein
+APPIIOAB_01555	hypothetical protein
+APPIIOAB_01556	hypothetical protein
+APPIIOAB_01557	prenyltransferase, UbiA family
+APPIIOAB_01558	ApbE family protein
+APPIIOAB_01559	FMN-binding domain-containing protein
+APPIIOAB_01560	pyridine nucleotide-disulfide family oxidoreductase
+APPIIOAB_01561	CobW/P47K family protein
+APPIIOAB_01562	Heptaprenyl diphosphate synthase component I
+APPIIOAB_01563	polyprenyl synthetase
+APPIIOAB_01564	hypothetical protein
+APPIIOAB_01565	hypothetical protein
+APPIIOAB_01566	hypothetical protein
+APPIIOAB_01567	hypothetical protein
+APPIIOAB_01568	biotin-[acetyl-CoA-carboxylase] ligase
+APPIIOAB_01569	DNA-directed RNA polymerase subunit beta
+APPIIOAB_01570	DNA-directed RNA polymerase subunit beta'
+APPIIOAB_01571	Peptide methionine sulfoxide reductase msrA
+APPIIOAB_01572	bacterial Peptidase A24 protein
+APPIIOAB_01573	gluconate kinase
+APPIIOAB_01574	DNA protection during starvation protein 1
+APPIIOAB_01575	hypothetical protein
+APPIIOAB_01576	hypothetical protein
+APPIIOAB_01577	Argininosuccinate lyase
+APPIIOAB_01578	Argininosuccinate synthase
+APPIIOAB_01579	50S ribosomal protein L13
+APPIIOAB_01580	30S ribosomal protein S9
+APPIIOAB_01581	hypothetical protein
+APPIIOAB_01582	hypothetical protein
+APPIIOAB_01583	hypothetical protein
+APPIIOAB_01584	hypothetical protein
+APPIIOAB_01585	hypothetical protein
+APPIIOAB_01586	hypothetical protein
+APPIIOAB_01587	cell wall surface anchor family protein
+APPIIOAB_01588	M protein trans-acting positive regulator
+APPIIOAB_01589	hypothetical protein
+APPIIOAB_01590	hypothetical protein
+APPIIOAB_01591	hypothetical protein
+APPIIOAB_01592	hypothetical protein
+APPIIOAB_01593	hypothetical protein
+APPIIOAB_01594	hypothetical protein
+APPIIOAB_01595	transcriptional antiterminator bglG
+APPIIOAB_01596	hypothetical protein
+APPIIOAB_01597	PTS system, fructose-specific IIBC component
+APPIIOAB_01598	PTS system, fructose-specific IIA component
+APPIIOAB_01599	PTS system, fructose-specific IIBC component
+APPIIOAB_01600	PTS system fructose-specific transporter subunit IIBC
+APPIIOAB_01601	fructose-6-phosphate aldolase
+APPIIOAB_01602	Ribulose-phosphate 3-epimerase
+APPIIOAB_01603	transketolase
+APPIIOAB_01604	N-acetylglucosamine repressor
+APPIIOAB_01605	Xylose isomerase
+APPIIOAB_01606	glycosyl hydrolase family protein
+APPIIOAB_01607	ABC transporter ATP-binding protein
+APPIIOAB_01608	Xylose transport system permease protein XylH
+APPIIOAB_01609	Ribose import binding protein RbsB
+APPIIOAB_01610	gluconate kinase
+APPIIOAB_01611	hypothetical protein
+APPIIOAB_01612	DNA mismatch repair protein
+APPIIOAB_01613	ABC transporter, ATP-binding protein
+APPIIOAB_01614	ABC transporter permease
+APPIIOAB_01615	tRNA-dihydrouridine synthase
+APPIIOAB_01616	Dehydrosqualene desaturase
+APPIIOAB_01617	Dehydrosqualene synthase
+APPIIOAB_01618	hypothetical protein
+APPIIOAB_01619	ESAT-6 secretion system extracellular protein A
+APPIIOAB_01620	hypothetical protein
+APPIIOAB_01621	hypothetical protein
+APPIIOAB_01622	hypothetical protein
+APPIIOAB_01623	hypothetical protein
+APPIIOAB_01624	ESAT-6 secretion machinery protein EssC
+APPIIOAB_01625	hypothetical protein
+APPIIOAB_01626	hypothetical protein
+APPIIOAB_01627	hypothetical protein
+APPIIOAB_01628	hypothetical protein
+APPIIOAB_01629	hypothetical protein
+APPIIOAB_01630	hypothetical protein
+APPIIOAB_01631	hypothetical protein
+APPIIOAB_01632	hypothetical protein
+APPIIOAB_01633	hypothetical protein
+APPIIOAB_01634	hypothetical protein
+APPIIOAB_01635	Rrf2 family protein
+APPIIOAB_01636	NmrA-like family protein
+APPIIOAB_01637	mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+APPIIOAB_01638	hypothetical protein
+APPIIOAB_01639	hypothetical protein
+APPIIOAB_01640	hypothetical protein
+APPIIOAB_01641	Gamma-glutamyl phosphate reductase
+APPIIOAB_01642	glutamate 5-kinase
+APPIIOAB_01643	deoxyuridine 5'-triphosphate nucleotidohydrolase
+APPIIOAB_01644	DNA repair protein RadA
+APPIIOAB_01645	Integral membrane protein
+APPIIOAB_01646	glutamyl-tRNA synthetase
+APPIIOAB_01647	Serine O-acetyltransferase
+APPIIOAB_01648	cysteinyl-tRNA synthetase
+APPIIOAB_01649	ribonuclease III
+APPIIOAB_01650	trmH family tRNA/rRNA methyltransferase
+APPIIOAB_01651	putative RNA-binding protein containing a PIN domain protein
+APPIIOAB_01652	RNA polymerase sigma-70 factor family protein
+APPIIOAB_01653	veg family protein
+APPIIOAB_01654	GNAT family acetyltransferase
+APPIIOAB_01655	large conductance mechanosensitive channel protein
+APPIIOAB_01656	Peptidase M16 inactive domain protein
+APPIIOAB_01657	peptidase M16 inactive domain protein
+APPIIOAB_01658	hypothetical protein
+APPIIOAB_01659	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+APPIIOAB_01660	competence/damage-inducible protein CinA protein
+APPIIOAB_01661	DNA recombination protein RecA
+APPIIOAB_01662	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+APPIIOAB_01663	hypothetical protein
+APPIIOAB_01664	hypothetical protein
+APPIIOAB_01665	hypothetical protein
+APPIIOAB_01666	delta 1-pyrroline-5-carboxylate reductase
+APPIIOAB_01667	ysyl-tRNA synthetase
+APPIIOAB_01668	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+APPIIOAB_01669	periplasmic solute binding family protein
+APPIIOAB_01670	ABC transporter ATP-binding protein
+APPIIOAB_01671	ABC transporter permease
+APPIIOAB_01672	pur operon repressor
+APPIIOAB_01673	bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase
+APPIIOAB_01674	Ribose-phosphate pyrophosphokinase 1
+APPIIOAB_01675	membrane protein
+APPIIOAB_01676	hypothetical protein
+APPIIOAB_01677	phospholipase, patatin family
+APPIIOAB_01678	hypothetical protein
+APPIIOAB_01679	hypothetical protein
+APPIIOAB_01680	guanylate kinase
+APPIIOAB_01681	DNA-directed RNA polymerase subunit omega
+APPIIOAB_01682	Primosomal protein N'
+APPIIOAB_01683	Peptide deformylase
+APPIIOAB_01684	Methionyl-tRNA formyltransferase
+APPIIOAB_01685	Ribosomal RNA small subunit methyltransferase B
+APPIIOAB_01686	serine/threonine phosphatase
+APPIIOAB_01687	serine/threonine-protein kinase
+APPIIOAB_01688	Putative ribosome biogenesis GTPase RsgA
+APPIIOAB_01689	Ribulose-phosphate 3-epimerase
+APPIIOAB_01690	thiamin pyrophosphokinase family protein
+APPIIOAB_01691	rod shape-determining protein MreC
+APPIIOAB_01692	rod shape-determining protein MreD
+APPIIOAB_01693	NlpC/P60 family lipoprotein
+APPIIOAB_01694	oligoendopeptidase, PepF/M3 family
+APPIIOAB_01695	integral membrane protein
+APPIIOAB_01696	ErfK/YbiS/YcfS/YnhG family protein
+APPIIOAB_01697	L-lactate dehydrogenase
+APPIIOAB_01698	Peptidyl-tRNA hydrolase
+APPIIOAB_01699	transcription-repair coupling factor
+APPIIOAB_01700	polysaccharide biosynthesis family protein
+APPIIOAB_01701	S4 RNA-binding domain-containing protein
+APPIIOAB_01702	septum formation initiator
+APPIIOAB_01703	S1 RNA binding domain-containing protein
+APPIIOAB_01704	tRNA(Ile)-lysidine synthase
+APPIIOAB_01705	Hypoxanthine-guanine phosphoribosyltransferase
+APPIIOAB_01706	ATP-dependent metalloprotease
+APPIIOAB_01707	chaperonin HslO
+APPIIOAB_01708	tRNA-dihydrouridine synthase
+APPIIOAB_01709	lysyl-tRNA synthetase
+APPIIOAB_01710	5S ribosomal RNA
+APPIIOAB_01711	tRNA-Asn
+APPIIOAB_01712	tRNA-Thr
+APPIIOAB_01713	tRNA-Asn
+APPIIOAB_01714	Aminopeptidase C
+APPIIOAB_01715	Fructosamine kinase
+APPIIOAB_01716	Acyl-ACP thioesterase
+APPIIOAB_01717	L-asparaginase
+APPIIOAB_01718	hypothetical protein
+APPIIOAB_01719	HAD superfamily hydrolase
+APPIIOAB_01720	hypothetical protein
+APPIIOAB_01721	septation ring formation regulator EzrA
+APPIIOAB_01722	class V aminotransferase
+APPIIOAB_01723	thiamine biosynthesis protein ThiI
+APPIIOAB_01724	redox-sensing transcriptional repressor Rex
+APPIIOAB_01725	valyl-tRNA synthetase
+APPIIOAB_01726	Folylpolyglutamate synthase
+APPIIOAB_01727	HAD-superfamily hydrolase
+APPIIOAB_01728	DNA repair protein RadC
+APPIIOAB_01729	major cold shock protein CspE
+APPIIOAB_01730	Ribonuclease J 1
+APPIIOAB_01731	hypothetical protein
+APPIIOAB_01732	ABC transporter ATP-binding protein/permease
+APPIIOAB_01733	ABC transporter ATP-binding protein/permease
+APPIIOAB_01734	Carbonic anhydrase/acetyltransferase
+APPIIOAB_01735	ATP-dependent Clp protease proteolytic subunit
+APPIIOAB_01736	hypothetical protein
+APPIIOAB_01737	glycerophosphodiester phosphodiesterase family protein
+APPIIOAB_01738	tRNA dimethylallyltransferase
+APPIIOAB_01739	transposase
+APPIIOAB_01740	GTP-binding protein HflX
+APPIIOAB_01741	MerR family transcriptional regulator
+APPIIOAB_01742	glutamine synthetase, type I
+APPIIOAB_01743	CTP synthase
+APPIIOAB_01744	fructose-bisphosphate aldolase
+APPIIOAB_01745	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+APPIIOAB_01746	transcription termination factor Rho
+APPIIOAB_01747	50S ribosomal protein L31
+APPIIOAB_01748	hypothetical protein
+APPIIOAB_01749	hypothetical protein
+APPIIOAB_01750	hypothetical protein
+APPIIOAB_01751	hypothetical protein
+APPIIOAB_01752	PTS system transporter subunit IIC
+APPIIOAB_01753	hypothetical protein
+APPIIOAB_01754	hypothetical protein
+APPIIOAB_01755	hypothetical protein
+APPIIOAB_01756	Putative virion core protein
+APPIIOAB_01757	DNA polymerase III subunits gamma and tau
+APPIIOAB_01758	Nucleoid-associated protein
+APPIIOAB_01759	recombination protein RecR
+APPIIOAB_01760	thymidylate kinase
+APPIIOAB_01761	putative protein YaaQ
+APPIIOAB_01762	DNA polymerase III subunit delta'
+APPIIOAB_01763	stage 0 sporulation family protein
+APPIIOAB_01764	DNA replication initiation control protein YabA
+APPIIOAB_01765	tetrapyrrole methylase family protein
+APPIIOAB_01766	hypothetical protein
+APPIIOAB_01767	DNA polymerase IV
+APPIIOAB_01768	anaerobic ribonucleoside-triphosphate reductase activating protein
+APPIIOAB_01769	anaerobic ribonucleoside triphosphate reductase
+APPIIOAB_01770	ABC transporter ATP-binding protein
+APPIIOAB_01771	efflux ABC transporter permease
+APPIIOAB_01772	hypothetical protein
+APPIIOAB_01773	D-alanine--poly(phosphoribitol) ligase subunit 1
+APPIIOAB_01774	membrane bound O-acyl transferase
+APPIIOAB_01775	D-alanine--poly(phosphoribitol) ligase subunit 2
+APPIIOAB_01776	D-alanyl-lipoteichoic acid synthetase, DltD
+APPIIOAB_01777	M42 glutamyl aminopeptidase
+APPIIOAB_01778	integral membrane protein
+APPIIOAB_01779	metallo-beta-lactamase domain-containing protein
+APPIIOAB_01780	lipoyltransferase and lipoate-protein ligase A
+APPIIOAB_01781	Signal transduction histidine kinase
+APPIIOAB_01782	hypothetical protein
+APPIIOAB_01783	O-methyltransferase
+APPIIOAB_01784	tRNA-Arg
+APPIIOAB_01785	hypothetical protein
+APPIIOAB_01786	hypothetical protein
+APPIIOAB_01787	TetR family dihydroxyacetone kinase regulator
+APPIIOAB_01788	acetyltransferase, GNAT family
+APPIIOAB_01789	membrane protein
+APPIIOAB_01790	sulfate transporter/STAS domain-containing protein
+APPIIOAB_01791	MerR family transcriptional regulator
+APPIIOAB_01792	uracil-DNA glycosylase, family 4
+APPIIOAB_01793	50S ribosomal protein L21
+APPIIOAB_01794	putative ribosomal protein
+APPIIOAB_01795	50S ribosomal protein L27
+APPIIOAB_01796	transcriptional antiterminator bglG:Sigma-54 factor
+APPIIOAB_01797	PTS system, mannose/fructose/sorbose-specific IIB component
+APPIIOAB_01798	PTS system, mannose/fructose/sorbose-specific IIAB component
+APPIIOAB_01799	PTS system, mannose/fructose/sorbose-specific IIC component
+APPIIOAB_01800	PTS system, mannose/fructose/sorbose-specific IID component
+APPIIOAB_01801	hypothetical protein
+APPIIOAB_01802	transglycosylase associated protein
+APPIIOAB_01803	Xaa-Pro dipeptidase
+APPIIOAB_01804	hypothetical protein
+APPIIOAB_01805	transcription antitermination factor NusB
+APPIIOAB_01806	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+APPIIOAB_01807	exodeoxyribonuclease VII large subunit
+APPIIOAB_01808	exodeoxyribonuclease VII small subunit
+APPIIOAB_01809	geranyltranstransferase
+APPIIOAB_01810	hemolysin A
+APPIIOAB_01811	arginine repressor protein
+APPIIOAB_01812	DNA repair protein RecN
+APPIIOAB_01813	hypothetical protein
+APPIIOAB_01814	hypothetical protein
+APPIIOAB_01815	hypothetical protein
+APPIIOAB_01816	CorA-like Mg2+ transporter protein
+APPIIOAB_01817	hypothetical protein
+APPIIOAB_01818	cell division protein MraZ
+APPIIOAB_01819	S-adenosyl-methyltransferase MraW
+APPIIOAB_01820	cell division protein FtsL
+APPIIOAB_01821	peptidoglycan glycosyltransferase
+APPIIOAB_01822	phospho-N-acetylmuramoyl-pentapeptide- transferase
+APPIIOAB_01823	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+APPIIOAB_01824	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+APPIIOAB_01825	cell division protein FtsQ
+APPIIOAB_01826	cell division protein FtsA
+APPIIOAB_01827	cell division protein FtsZ
+APPIIOAB_01828	alanine racemase
+APPIIOAB_01829	Cell division protein SepF
+APPIIOAB_01830	hypothetical protein
+APPIIOAB_01831	S4 domain-containing protein
+APPIIOAB_01832	cell division protein DivIVA
+APPIIOAB_01833	isoleucyl-tRNA synthetase
+APPIIOAB_01834	glucose-6-phosphate 1-dehydrogenase
+APPIIOAB_01835	iron dependent repressor, DNA binding domain protein
+APPIIOAB_01836	hypothetical protein
+APPIIOAB_01837	sugar fermentation stimulation protein
+APPIIOAB_01838	oxidoreductase family, NAD-binding Rossmann fold protein
+APPIIOAB_01839	DEAD/DEAH box helicase
+APPIIOAB_01840	transcriptional antiterminator bglG:Sigma-54 factor
+APPIIOAB_01841	PTS system lactose/cellobiose-specific transporter subunit IIB
+APPIIOAB_01842	PTS system, lactose/cellobiose-specific IIA component
+APPIIOAB_01843	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_01844	hypothetical protein
+APPIIOAB_01845	hypothetical protein
+APPIIOAB_01846	hypothetical protein
+APPIIOAB_01847	hypothetical protein
+APPIIOAB_01848	acetyltransferase
+APPIIOAB_01849	hypothetical protein
+APPIIOAB_01850	tRNA-Arg
+APPIIOAB_01851	hypothetical protein
+APPIIOAB_01852	aminopeptidase PepS
+APPIIOAB_01853	TetR family transcriptional regulator
+APPIIOAB_01854	flavodoxin
+APPIIOAB_01855	Methionine aminopeptidase, type I
+APPIIOAB_01856	ribonuclease BN
+APPIIOAB_01857	glycoside hydrolase family protein
+APPIIOAB_01858	glycosyl transferase family protein
+APPIIOAB_01859	glycosyl transferase family protein
+APPIIOAB_01860	glycosyl transferase family protein
+APPIIOAB_01861	glucose-1-phosphate thymidylyltransferase
+APPIIOAB_01862	dTDP-4-dehydrorhamnose 3,5-epimerase
+APPIIOAB_01863	dTDP-glucose 4,6-dehydratase
+APPIIOAB_01864	dTDP-4-dehydrorhamnose reductase
+APPIIOAB_01865	hypothetical protein
+APPIIOAB_01866	hypothetical protein
+APPIIOAB_01867	ABC transporter
+APPIIOAB_01868	ABC transporter, ATP-binding protein
+APPIIOAB_01869	methionine biosynthesis protein MetW
+APPIIOAB_01870	glycosyl transferase family protein
+APPIIOAB_01871	undecaprenyl-phosphate galactosephosphotransferase
+APPIIOAB_01872	glycosyl transferase family protein
+APPIIOAB_01873	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+APPIIOAB_01874	dTDP-glucose 4,6-dehydratase
+APPIIOAB_01875	glycosyl transferase family protein
+APPIIOAB_01876	hypothetical protein
+APPIIOAB_01877	hypothetical protein
+APPIIOAB_01878	hypothetical protein
+APPIIOAB_01879	hypothetical protein
+APPIIOAB_01880	hypothetical protein
+APPIIOAB_01881	NAD-dependent epimerase/dehydratase
+APPIIOAB_01882	Beta-lactamase
+APPIIOAB_01883	putative aminodeoxychorismate lyase
+APPIIOAB_01884	transcription elongation factor GreA
+APPIIOAB_01885	membrane protein
+APPIIOAB_01886	sensor histidine kinase
+APPIIOAB_01887	LuxR family DNA-binding response regulator
+APPIIOAB_01888	hypothetical protein
+APPIIOAB_01889	magnesium transporter
+APPIIOAB_01890	TrkA-C domain-containing protein
+APPIIOAB_01891	HesB-like domain protein
+APPIIOAB_01892	4-phosphoerythronate dehydrogenase
+APPIIOAB_01893	hypothetical protein
+APPIIOAB_01894	cell wall teichoic acid glycosylation protein GtcA family protein
+APPIIOAB_01895	superoxide dismutase
+APPIIOAB_01896	major cold shock protein CspA
+APPIIOAB_01897	hypothetical protein
+APPIIOAB_01898	transcriptional regulator
+APPIIOAB_01899	hypothetical protein
+APPIIOAB_01900	hypothetical protein
+APPIIOAB_01901	TspO/MBR family protein
+APPIIOAB_01902	hypothetical protein
+APPIIOAB_01903	chitin binding protein
+APPIIOAB_01904	hypothetical protein
+APPIIOAB_01905	hypothetical protein
+APPIIOAB_01906	23S rRNA (uracil-5-)-methyltransferase
+APPIIOAB_01907	recombination regulator RecX
+APPIIOAB_01908	A/G-specific adenine glycosylase
+APPIIOAB_01909	hypothetical protein
+APPIIOAB_01910	GNAT family acetyltransferase
+APPIIOAB_01911	permease
+APPIIOAB_01912	hemolysin
+APPIIOAB_01913	peptide chain release factor 3
+APPIIOAB_01914	hypothetical protein
+APPIIOAB_01915	hypothetical protein
+APPIIOAB_01916	UvrB/UvrC protein/AAA ATPase
+APPIIOAB_01917	phosphocarrier protein HPr
+APPIIOAB_01918	Phosphoenolpyruvate-protein phosphotransferase
+APPIIOAB_01919	glycosyl transferase family protein
+APPIIOAB_01920	glycosyl transferase family protein
+APPIIOAB_01921	2-hydroxy-3-oxopropionate reductase
+APPIIOAB_01922	putative protein YkuJ
+APPIIOAB_01923	excinuclease ABC
+APPIIOAB_01924	MarR family transcriptional regulator
+APPIIOAB_01925	3-oxoacyl-ACP synthase
+APPIIOAB_01926	acyl carrier protein
+APPIIOAB_01927	Malonyl CoA-acyl carrier protein transacylase
+APPIIOAB_01928	3-oxoacyl-ACP reductase
+APPIIOAB_01929	beta-ketoacyl-acyl-carrier-protein synthase II
+APPIIOAB_01930	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+APPIIOAB_01931	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+APPIIOAB_01932	acetyl-CoA carboxylase, biotin carboxylase subunit
+APPIIOAB_01933	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+APPIIOAB_01934	acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+APPIIOAB_01935	putative transcriptional regulator
+APPIIOAB_01936	hypothetical protein
+APPIIOAB_01937	family 3 extracellular solute-binding protein
+APPIIOAB_01938	amino acid ABC transporter permease
+APPIIOAB_01939	amino acid ABC transporter ATP-binding protein
+APPIIOAB_01940	HAD superfamily hydrolase
+APPIIOAB_01941	ribosome biogenesis GTPase YqeH
+APPIIOAB_01942	RNA-binding protein YhbY
+APPIIOAB_01943	nicotinic acid mononucleotide adenylyltransferase
+APPIIOAB_01944	HD domain-containing protein
+APPIIOAB_01945	ribosome-associated protein
+APPIIOAB_01946	methyltransferase domain protein
+APPIIOAB_01947	nucleotidyltransferase
+APPIIOAB_01948	putative transcriptional regulatory protein YeeN
+APPIIOAB_01949	ISL3 family transposase
+APPIIOAB_01950	hypothetical protein
+APPIIOAB_01951	DNA helicase IV
+APPIIOAB_01952	cadmium-translocating P-type ATPase
+APPIIOAB_01953	4-oxalocrotonate tautomerase
+APPIIOAB_01954	hypothetical protein
+APPIIOAB_01955	threonyl-tRNA synthetase
+APPIIOAB_01956	hypothetical protein
+APPIIOAB_01957	hypothetical protein
+APPIIOAB_01958	RpiR family transcriptional regulator
+APPIIOAB_01959	Penicillin binding protein transpeptidase domain protein
+APPIIOAB_01960	HAD superfamily hydrolase
+APPIIOAB_01961	xanthine/uracil/vitamin C permease
+APPIIOAB_01962	transporter, major facilitator family protein
+APPIIOAB_01963	hypothetical protein
+APPIIOAB_01964	DNA polymerase III subunit alpha
+APPIIOAB_01965	6-phosphofructokinase
+APPIIOAB_01966	Pyruvate kinase
+APPIIOAB_01967	LysR family transcriptional regulator
+APPIIOAB_01968	hypothetical protein
+APPIIOAB_01969	nucleic acid-binding protein
+APPIIOAB_01970	50S ribosomal protein L32
+APPIIOAB_01971	6-phosphogluconate dehydrogenase
+APPIIOAB_01972	DNA-binding response regulator
+APPIIOAB_01973	sensor histidine kinase
+APPIIOAB_01974	glycosyl hydrolase family protein
+APPIIOAB_01975	hypothetical protein
+APPIIOAB_01976	pectinesterase
+APPIIOAB_01977	Alpha/beta hydrolase family protein
+APPIIOAB_01978	polygalacturonase
+APPIIOAB_01979	Glycosyl Hydrolase Family 88
+APPIIOAB_01980	extracellular solute-binding protein
+APPIIOAB_01981	integral membrane protein
+APPIIOAB_01982	ABC transporter permease
+APPIIOAB_01983	ABC transporter permease
+APPIIOAB_01984	AraC family transcriptional regulator
+APPIIOAB_01985	mannitol dehydrogenase protein
+APPIIOAB_01986	altronate hydrolase
+APPIIOAB_01987	glucuronate isomerase
+APPIIOAB_01988	GDSL-like Lipase/Acylhydrolase
+APPIIOAB_01989	hypothetical protein
+APPIIOAB_01990	hypothetical protein
+APPIIOAB_01991	penicillin-binding protein, 1A family
+APPIIOAB_01992	23S rRNA pseudouridine synthase D
+APPIIOAB_01993	hypothetical protein
+APPIIOAB_01994	hypothetical protein
+APPIIOAB_01995	hypothetical protein
+APPIIOAB_01996	fructokinase
+APPIIOAB_01997	glycosyl hydrolase family 38 protein
+APPIIOAB_01998	hypothetical protein
+APPIIOAB_01999	GntR family transcriptional regulator
+APPIIOAB_02000	alpha-1,2-mannosidase
+APPIIOAB_02001	AraC family transcriptional regulator
+APPIIOAB_02002	sensor histidine kinase
+APPIIOAB_02003	integral membrane protein
+APPIIOAB_02004	extracellular solute-binding protein
+APPIIOAB_02005	ABC transporter permease
+APPIIOAB_02006	ABC transporter permease
+APPIIOAB_02007	16S rRNA pseudouridylate synthase A
+APPIIOAB_02008	polysaccharide biosynthesis family protein
+APPIIOAB_02009	hypothetical protein
+APPIIOAB_02010	hypothetical protein
+APPIIOAB_02011	hypothetical protein
+APPIIOAB_02012	hypothetical protein
+APPIIOAB_02013	UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase
+APPIIOAB_02014	hypothetical protein
+APPIIOAB_02015	hypothetical protein
+APPIIOAB_02016	hypothetical protein
+APPIIOAB_02017	hypothetical protein
+APPIIOAB_02018	hypothetical protein
+APPIIOAB_02019	Kynurenine formamidase
+APPIIOAB_02020	hypothetical protein
+APPIIOAB_02021	PTS system cellobiose-specific transporter subunit IIC
+APPIIOAB_02022	hypothetical protein
+APPIIOAB_02023	PTS system, cellobiose-specific IIA componenent
+APPIIOAB_02024	transcriptional antiterminator bglG
+APPIIOAB_02025	PTS system cellobiose-specific transporter subunit IIB
+APPIIOAB_02026	hypothetical protein
+APPIIOAB_02027	hypothetical protein
+APPIIOAB_02028	leucyl-tRNA synthetase
+APPIIOAB_02029	N-acetylmuramoyl-L-alanine amidase
+APPIIOAB_02030	PAP2 family protein
+APPIIOAB_02031	radical SAM protein family protein
+APPIIOAB_02032	rRNA methylase family protein
+APPIIOAB_02033	hypothetical protein
+APPIIOAB_02034	ABC transporter ATP-binding protein
+APPIIOAB_02035	ABC transporter ATP-binding protein
+APPIIOAB_02036	hypothetical protein
+APPIIOAB_02037	esterase
+APPIIOAB_02038	major facilitator superfamily transporter
+APPIIOAB_02039	S-adenosylmethionine synthetase
+APPIIOAB_02040	hypothetical protein
+APPIIOAB_02041	hypothetical protein
+APPIIOAB_02042	hypothetical protein
+APPIIOAB_02043	hypothetical protein
+APPIIOAB_02044	tRNA-Glu
+APPIIOAB_02045	tRNA-Ile
+APPIIOAB_02046	tRNA-Gly
+APPIIOAB_02047	tRNA-Phe
+APPIIOAB_02048	tRNA-Asp
+APPIIOAB_02049	tRNA-Met
+APPIIOAB_02050	tRNA-Ser
+APPIIOAB_02051	tRNA-Glu
+APPIIOAB_02052	tRNA-Ser
+APPIIOAB_02053	tRNA-Ile
+APPIIOAB_02054	tRNA-Gly
+APPIIOAB_02055	tRNA-Asp
+APPIIOAB_02056	tRNA-Met
+APPIIOAB_02057	tRNA-Ser
+APPIIOAB_02058	tRNA-Met
+APPIIOAB_02059	tRNA-Met
+APPIIOAB_02060	tRNA-Ala
+APPIIOAB_02061	tRNA-Pro
+APPIIOAB_02062	tRNA-Arg
+APPIIOAB_02063	tRNA-Leu
+APPIIOAB_02064	KH domain-containing protein
+APPIIOAB_02065	HD domain-containing protein
+APPIIOAB_02066	Putative metalloprotease
+APPIIOAB_02067	diacylglycerol kinase
+APPIIOAB_02068	GTP-binding protein Era
+APPIIOAB_02069	DNA repair protein RecO
+APPIIOAB_02070	Glycyl-tRNA synthetase alpha subunit
+APPIIOAB_02071	glycyl-tRNA synthetase subunit beta
+APPIIOAB_02072	putative OxaA-like protein
+APPIIOAB_02073	acylphosphatase
+APPIIOAB_02074	RNA methyltransferase
+APPIIOAB_02075	HD domain-containing protein
+APPIIOAB_02076	fibronectin-binding protein
+APPIIOAB_02077	voltage-gated chloride channel family protein
+APPIIOAB_02078	integral membrane protein
+APPIIOAB_02079	D-alanyl-D-alanine carboxypeptidase
+APPIIOAB_02080	hypothetical protein
+APPIIOAB_02081	hypothetical protein
+APPIIOAB_02082	major cold shock protein CspA
+APPIIOAB_02083	DnaQ family exonuclease/DinG family helicase
+APPIIOAB_02084	hypothetical protein
+APPIIOAB_02085	aspartate aminotransferase
+APPIIOAB_02086	asparaginyl-tRNA synthetase
+APPIIOAB_02087	GDSL-like lipase/acylhydrolase
+APPIIOAB_02088	hypothetical protein
+APPIIOAB_02089	Inner membrane protein YccF
+APPIIOAB_02090	hypothetical protein
+APPIIOAB_02091	hypothetical protein
+APPIIOAB_02092	hypothetical protein
+APPIIOAB_02093	hypothetical protein
+APPIIOAB_02094	cadmium-translocating P-type ATPase
+APPIIOAB_02095	amino acid permease family protein
+APPIIOAB_02096	hypothetical protein
+APPIIOAB_02097	copper transport repressor, CopY/TcrY family
+APPIIOAB_02098	copper chaperone CopZ
+APPIIOAB_02099	copper-translocating P-type ATPase
+APPIIOAB_02100	copper-translocating P-type ATPase
+APPIIOAB_02101	hypothetical protein
+APPIIOAB_02102	toxin-antitoxin stability system, antitoxin component
+APPIIOAB_02103	hypothetical protein
+APPIIOAB_02104	hypothetical protein
+APPIIOAB_02105	phosphate-binding protein
+APPIIOAB_02106	cation transporter E1-E2 family ATPase
+APPIIOAB_02107	sensory box histidine kinase
+APPIIOAB_02108	response regulator receiver domain-containing protein
+APPIIOAB_02109	hypothetical protein
+APPIIOAB_02110	DNA-binding protein
+APPIIOAB_02111	signal recognition particle protein
+APPIIOAB_02112	DNA-3-methyladenine glycosylase I
+APPIIOAB_02113	riboflavin biosynthesis protein RibD protein
+APPIIOAB_02114	flavin reductase
+APPIIOAB_02115	30S ribosomal protein S16
+APPIIOAB_02116	RNA-binding protein
+APPIIOAB_02117	hypothetical protein
+APPIIOAB_02118	16S rRNA processing protein RimM
+APPIIOAB_02119	tRNA (guanine-N1)-methyltransferase
+APPIIOAB_02120	50S ribosomal protein L19
+APPIIOAB_02121	hypothetical protein
+APPIIOAB_02122	ECF RNA polymerase sigma factor SigW
+APPIIOAB_02123	hypothetical protein
+APPIIOAB_02124	Vitamin B12 import ATP-binding protein BtuD
+APPIIOAB_02125	hypothetical protein
+APPIIOAB_02126	Pyruvate, phosphate dikinase
+APPIIOAB_02127	Transcriptional repressor CcpN
+APPIIOAB_02128	Putative phosphotransferase
+APPIIOAB_02129	Thiamine-phosphate synthase
+APPIIOAB_02130	Hydroxyethylthiazole kinase
+APPIIOAB_02131	phosphomethylpyrimidine kinase
+APPIIOAB_02132	hypothetical protein
+APPIIOAB_02133	hypothetical protein
+APPIIOAB_02134	cell wall surface anchor family protein
+APPIIOAB_02135	hypothetical protein
+APPIIOAB_02136	hypothetical protein
+APPIIOAB_02137	hypothetical protein
+APPIIOAB_02138	hypothetical protein
+APPIIOAB_02139	short chain dehydrogenase/reductase family oxidoreductase
+APPIIOAB_02140	PRD domain-containing protein
+APPIIOAB_02141	glucitol operon activator protein
+APPIIOAB_02142	PTS system, glucitol/sorbitol-specific IIC component
+APPIIOAB_02143	PTS system, glucitol/sorbitol-specific, IIBC component
+APPIIOAB_02144	PTS system glucitol/sorbitol-specific transporter subunit IIA
+APPIIOAB_02145	fructose-6-phosphate aldolase
+APPIIOAB_02146	NADH oxidase
+APPIIOAB_02147	hypothetical protein
+APPIIOAB_02148	general stress protein 13
+APPIIOAB_02149	class II aminotransferase
+APPIIOAB_02150	cyclophilin type peptidyl-prolyl cis-trans isomerase
+APPIIOAB_02151	Inner membrane protein YbiR
+APPIIOAB_02152	ferredoxin--NADP reductase
+APPIIOAB_02153	phosphatidylglycerophosphatase A
+APPIIOAB_02154	integral membrane protein
+APPIIOAB_02155	HAD superfamily hydrolase
+APPIIOAB_02156	hypothetical protein
+APPIIOAB_02157	Ser/Thr protein phosphatase family protein
+APPIIOAB_02158	cytidine/deoxycytidylate deaminase family protein
+APPIIOAB_02159	transcriptional regulator, Fis family
+APPIIOAB_02160	hypothetical protein
+APPIIOAB_02161	hypothetical protein
+APPIIOAB_02162	M protein trans-acting positive regulator
+APPIIOAB_02163	Zn-dependent protease
+APPIIOAB_02164	putative alkylphosphonate utilization operon protein PhnA
+APPIIOAB_02165	DHHA1 domain protein
+APPIIOAB_02166	DRTGG domain-containing protein
+APPIIOAB_02167	metallo-beta-lactamase domain-containing protein
+APPIIOAB_02168	hypothetical protein
+APPIIOAB_02169	Ribonuclease J 2
+APPIIOAB_02170	permease
+APPIIOAB_02171	ABC transporter ATP-binding protein
+APPIIOAB_02172	CsbD-like protein
+APPIIOAB_02173	beta-aspartyl peptidase
+APPIIOAB_02174	C4-dicarboxylate anaerobic carrier
+APPIIOAB_02175	putative phosphosugar isomerase/binding protein
+APPIIOAB_02176	hypothetical protein
+APPIIOAB_02177	UTP-glucose-1-phosphate uridylyltransferase
+APPIIOAB_02178	glycerol-3-phosphate dehydrogenase
+APPIIOAB_02179	M protein trans-acting positive regulator
+APPIIOAB_02180	cell wall surface anchor family protein
+APPIIOAB_02181	hypothetical protein
+APPIIOAB_02182	hypothetical protein
+APPIIOAB_02183	hypothetical protein
+APPIIOAB_02184	hypothetical protein
+APPIIOAB_02185	chitin binding protein
+APPIIOAB_02186	ABC transporter ATP-binding protein/permease
+APPIIOAB_02187	ABC transporter ATP-binding protein/permease
+APPIIOAB_02188	membrane protein
+APPIIOAB_02189	methylglyoxal synthase
+APPIIOAB_02190	toxin-antitoxin system, toxin component, MazF family
+APPIIOAB_02191	hypothetical protein
+APPIIOAB_02192	ABC transporter ATP-binding protein
+APPIIOAB_02193	Niacin transporter NiaX
+APPIIOAB_02194	ribosomal RNA small subunit methyltransferase A
+APPIIOAB_02195	ribonuclease M5
+APPIIOAB_02196	TatD family hydrolase
+APPIIOAB_02197	amino acid permease family protein
+APPIIOAB_02198	hypothetical protein
+APPIIOAB_02199	hypothetical protein
+APPIIOAB_02200	methionyl-tRNA synthetase
+APPIIOAB_02201	hypothetical protein
+APPIIOAB_02202	NUDIX family hydrolase
+APPIIOAB_02203	IS200/IS605 family transposase
+APPIIOAB_02204	ABC transporter ATP-binding protein
+APPIIOAB_02205	ABC transporter ATP-binding protein
+APPIIOAB_02206	oligopeptide ABC transporter, permease protein OppC family protein
+APPIIOAB_02207	oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein
+APPIIOAB_02208	hypothetical protein
+APPIIOAB_02209	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+APPIIOAB_02210	GNAT family acetyltransferase
+APPIIOAB_02211	ribosomal RNA large subunit methyltransferase N
+APPIIOAB_02212	hypothetical protein
+APPIIOAB_02213	hypothetical protein
+APPIIOAB_02214	cell division protein FtsK
+APPIIOAB_02215	hypothetical protein
+APPIIOAB_02216	6-phospho-beta-galactosidase
+APPIIOAB_02217	family 3 extracellular solute-binding protein
+APPIIOAB_02218	putative glutamine ABC transporter ATP-binding protein
+APPIIOAB_02219	amino acid ABC transporter permease
+APPIIOAB_02220	YbaK/prolyl-tRNA synthetase-associated domain protein
+APPIIOAB_02221	DNA topoisomerase III
+APPIIOAB_02222	hypothetical protein
+APPIIOAB_02223	TetR family transcriptional regulator
+APPIIOAB_02224	major facilitator superfamily transporter
+APPIIOAB_02225	tRNA-specific 2-thiouridylase MnmA
+APPIIOAB_02226	hypothetical protein
+APPIIOAB_02227	hypothetical protein
+APPIIOAB_02228	hypothetical protein
+APPIIOAB_02229	hypothetical protein
+APPIIOAB_02230	hypothetical protein
+APPIIOAB_02231	hypothetical protein
+APPIIOAB_02232	hypothetical protein
+APPIIOAB_02233	hypothetical protein
+APPIIOAB_02234	Calcineurin-like phosphoesterase
+APPIIOAB_02235	transporter, major facilitator family protein
+APPIIOAB_02236	hypothetical protein
+APPIIOAB_02237	hypothetical protein
+APPIIOAB_02238	Putative cysteine desulfurase
+APPIIOAB_02239	ribose-phosphate pyrophosphokinase
+APPIIOAB_02240	hypothetical protein
+APPIIOAB_02241	Peptidase family M13
+APPIIOAB_02242	hypothetical protein
+APPIIOAB_02243	hypothetical protein
+APPIIOAB_02244	isochorismatase family protein
+APPIIOAB_02245	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+APPIIOAB_02246	hypothetical protein
+APPIIOAB_02247	nudix hydrolase, YffH family
+APPIIOAB_02248	5-bromo-4-chloroindolyl phosphate hydrolysis protein
+APPIIOAB_02249	tellurite resistance protein
+APPIIOAB_02250	amino acid permease
+APPIIOAB_02251	glucose uptake protein
+APPIIOAB_02252	sensor histidine kinase
+APPIIOAB_02253	DNA-binding response regulator
+APPIIOAB_02254	Manganese containing catalase
+APPIIOAB_02255	hypothetical protein
+APPIIOAB_02256	arginine repressor protein
+APPIIOAB_02257	hypothetical protein
+APPIIOAB_02258	major facilitator superfamily transporter
+APPIIOAB_02259	hypothetical protein
+APPIIOAB_02260	FAD dependent oxidoreductase
+APPIIOAB_02261	LysM domain-containing protein
+APPIIOAB_02262	iron-sulfur cluster-binding protein
+APPIIOAB_02263	hypothetical protein
+APPIIOAB_02264	periplasmic solute binding protein
+APPIIOAB_02265	metal ion ABC transporter permease
+APPIIOAB_02266	ABC transporter ATP-binding protein
+APPIIOAB_02267	amino acid permease
+APPIIOAB_02268	sensor histidine kinase VanSB
+APPIIOAB_02269	DNA-binding response regulator VanRB
+APPIIOAB_02270	putative ABC transporter permease YknZ
+APPIIOAB_02271	ABC transporter ATP-binding protein/permease
+APPIIOAB_02272	Putative efflux system component YknX
+APPIIOAB_02273	hypothetical protein
+APPIIOAB_02274	hypothetical protein
+APPIIOAB_02275	pentapeptide repeat-containing protein
+APPIIOAB_02276	hypothetical protein
+APPIIOAB_02277	hypothetical protein
+APPIIOAB_02278	hypothetical protein
+APPIIOAB_02279	cell wall surface anchor family protein
+APPIIOAB_02280	hypothetical protein
+APPIIOAB_02281	hypothetical protein
+APPIIOAB_02282	Capsule synthesis positive regulator AcpB
+APPIIOAB_02283	hypothetical protein
+APPIIOAB_02284	hypothetical protein
+APPIIOAB_02285	hypothetical protein
+APPIIOAB_02286	hypothetical protein
+APPIIOAB_02287	hypothetical protein
+APPIIOAB_02288	hypothetical protein
+APPIIOAB_02289	hypothetical protein
+APPIIOAB_02290	integral membrane protein
+APPIIOAB_02291	esterase
+APPIIOAB_02292	S-(hydroxymethyl)glutathione dehydrogenase
+APPIIOAB_02293	HTH-type transcriptional activator HxlR
+APPIIOAB_02294	hypothetical protein
+APPIIOAB_02295	PTS system beta-glucoside-specific transporter subunit IIABC
+APPIIOAB_02296	D-galactonate dehydratase family member
+APPIIOAB_02297	hypothetical protein
+APPIIOAB_02298	hypothetical protein
+APPIIOAB_02299	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+APPIIOAB_02300	LysM domain-containing protein
+APPIIOAB_02301	hypothetical protein
+APPIIOAB_02302	NAD(P)H dehydrogenase
+APPIIOAB_02303	AraC-like ligand binding domain protein
+APPIIOAB_02304	aldose 1-epimerase
+APPIIOAB_02305	galactokinase
+APPIIOAB_02306	hypothetical protein
+APPIIOAB_02307	hypothetical protein
+APPIIOAB_02308	hypothetical protein
+APPIIOAB_02309	hypothetical protein
+APPIIOAB_02310	hypothetical protein
+APPIIOAB_02311	prephenate dehydratase
+APPIIOAB_02312	shikimate kinase
+APPIIOAB_02313	3-phosphoshikimate 1-carboxyvinyltransferase
+APPIIOAB_02314	prephenate dehydrogenase
+APPIIOAB_02315	chorismate synthase
+APPIIOAB_02316	3-dehydroquinate synthase
+APPIIOAB_02317	phospho-2-dehydro-3-deoxyheptonate aldolase
+APPIIOAB_02318	DNA directed DNA polymerase
+APPIIOAB_02319	hypothetical protein
+APPIIOAB_02320	hypothetical protein
+APPIIOAB_02321	mRNA interferase toxin YafQ
+APPIIOAB_02322	hypothetical protein
+APPIIOAB_02323	hypothetical protein
+APPIIOAB_02324	4,4'-diaponeurosporenoate glycosyltransferase
+APPIIOAB_02325	Diapolycopene oxygenase
+APPIIOAB_02326	cardiolipin synthetase
+APPIIOAB_02327	hypothetical protein
+APPIIOAB_02328	cell wall surface anchor family protein
+APPIIOAB_02329	hypothetical protein
+APPIIOAB_02330	hypothetical protein
+APPIIOAB_02331	hypothetical protein
+APPIIOAB_02332	hypothetical protein
+APPIIOAB_02333	cell wall surface anchor family protein
+APPIIOAB_02334	hypothetical protein
+APPIIOAB_02335	hypothetical protein
+APPIIOAB_02336	hypothetical protein
+APPIIOAB_02337	Aldehyde dehydrogenase
+APPIIOAB_02338	hypothetical protein
+APPIIOAB_02339	hypothetical protein
+APPIIOAB_02340	hypothetical protein
+APPIIOAB_02341	hypothetical protein
+APPIIOAB_02342	hypothetical protein
+APPIIOAB_02343	hypothetical protein
+APPIIOAB_02344	hypothetical protein
+APPIIOAB_02345	6-phospho-beta-glucosidase
+APPIIOAB_02346	PTS system, mannose/fructose/sorbose-specific IIA component
+APPIIOAB_02347	PTS system, mannose/fructose/sorbose-specific IID component
+APPIIOAB_02348	PTS system, mannose/fructose/sorbose-specific IIC component
+APPIIOAB_02349	PTS system, mannose/fructose/sorbose-specific IIB component
+APPIIOAB_02350	tagatose 1,6-diphosphate aldolase
+APPIIOAB_02351	sugar isomerase
+APPIIOAB_02352	GntR family transcriptional regulator
+APPIIOAB_02353	Tagatose 1,6-diphosphate aldolase
+APPIIOAB_02354	PTS system fructose-specific transporter subunit IIA
+APPIIOAB_02355	PTS system fructose-specific transporter subunit IIBC
+APPIIOAB_02356	1-phosphofructokinase
+APPIIOAB_02357	HTH-type transcriptional regulator GlvR
+APPIIOAB_02358	hypothetical protein
+APPIIOAB_02359	NADH peroxidase
+APPIIOAB_02360	aromatic amino acid aminotransferase
+APPIIOAB_02361	peptidase M20D
+APPIIOAB_02362	aspartate kinase
+APPIIOAB_02363	aspartate-semialdehyde dehydrogenase
+APPIIOAB_02364	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+APPIIOAB_02365	dihydrodipicolinate reductase
+APPIIOAB_02366	dihydrodipicolinate synthase
+APPIIOAB_02367	diaminopimelate epimerase
+APPIIOAB_02368	diaminopimelate decarboxylase
+APPIIOAB_02369	hemolysin III family channel protein
+APPIIOAB_02370	peptidase C60
+APPIIOAB_02371	LPXTG-motif protein cell wall anchor domain protein
+APPIIOAB_02372	LPXTG-motif protein cell wall anchor domain protein
+APPIIOAB_02373	von Willebrand factor type A domain-containing protein
+APPIIOAB_02374	hypothetical protein
+APPIIOAB_02375	translation elongation factor P
+APPIIOAB_02376	cysteine synthase A
+APPIIOAB_02377	cystathionine gamma-synthase
+APPIIOAB_02378	S-ribosylhomocysteinase
+APPIIOAB_02379	glutathione peroxidase
+APPIIOAB_02380	5S ribosomal RNA
+APPIIOAB_02381	hypothetical protein
+APPIIOAB_02382	GTP-binding protein LepA
+APPIIOAB_02383	GNAT family acetyltransferase
+APPIIOAB_02384	Nucleoside 2-deoxyribosyltransferase
+APPIIOAB_02385	hypothetical protein
+APPIIOAB_02386	glucose uptake protein
+APPIIOAB_02387	glycosyl hydrolase family 38 protein
+APPIIOAB_02388	PTS system, fructose-specific IIBC component
+APPIIOAB_02389	PTS system, fructose-specific IIBC component
+APPIIOAB_02390	PTS system, fructose-specific IIA component
+APPIIOAB_02391	transcriptional antiterminator bglG
+APPIIOAB_02392	ATP-dependent chaperone protein ClpB
+APPIIOAB_02393	Glycine reductase complex component B subunit gamma
+APPIIOAB_02394	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_02395	Lichenan permease IIC component
+APPIIOAB_02396	PTS system lactose/cellobiose-specific transporter subunit IIB
+APPIIOAB_02397	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+APPIIOAB_02398	dipeptidase PepV
+APPIIOAB_02399	GntR family transcriptional regulator
+APPIIOAB_02400	integral membrane protein
+APPIIOAB_02401	membrane protein
+APPIIOAB_02402	diacylglycerol kinase catalytic subunit
+APPIIOAB_02403	peptidase T
+APPIIOAB_02404	NIF3-related protein
+APPIIOAB_02405	SAM-dependent methyltransferase family protein
+APPIIOAB_02406	hypothetical protein
+APPIIOAB_02407	primosomal protein DnaI
+APPIIOAB_02408	replication initiation and membrane attachment protein
+APPIIOAB_02409	transcriptional repressor NrdR
+APPIIOAB_02410	hypothetical protein
+APPIIOAB_02411	Dephospho-CoA kinase
+APPIIOAB_02412	Formamidopyrimidine-DNA glycosylase
+APPIIOAB_02413	DNA polymerase I
+APPIIOAB_02414	Inhibitor of apoptosis-promoting Bax1
+APPIIOAB_02415	MaoC like domain-containing protein
+APPIIOAB_02416	UDP-N-acetylmuramate--L-alanine ligase
+APPIIOAB_02417	Protein YdcF
+APPIIOAB_02418	SprT-like family protein
+APPIIOAB_02419	RNA binding protein S1
+APPIIOAB_02420	metallophosphoesterase
+APPIIOAB_02421	rhodanese-like domain-containing protein
+APPIIOAB_02422	glyoxalase family protein
+APPIIOAB_02423	hypothetical protein
+APPIIOAB_02424	hypothetical protein
+APPIIOAB_02425	hypothetical protein
+APPIIOAB_02426	hypothetical protein
+APPIIOAB_02427	SPFH domain / Band 7 family protein
+APPIIOAB_02428	putative membrane protein YuaF
+APPIIOAB_02429	hypothetical protein
+APPIIOAB_02430	hypothetical protein
+APPIIOAB_02431	calcium-translocating P-type ATPase, PMCA-type
+APPIIOAB_02432	Multidrug-efflux transporter 1 regulator
+APPIIOAB_02433	N-acetylglucosamine-6-phosphate deacetylase
+APPIIOAB_02434	helix-turn-helix domain-containing protein
+APPIIOAB_02435	aminotransferase AlaT
+APPIIOAB_02436	hypothetical protein
+APPIIOAB_02437	tRNA-Leu
+APPIIOAB_02438	hypothetical protein
+APPIIOAB_02439	hypothetical protein
+APPIIOAB_02440	hypothetical protein
+APPIIOAB_02441	hypothetical protein
+APPIIOAB_02442	hypothetical protein
+APPIIOAB_02443	hypothetical protein
+APPIIOAB_02444	hypothetical protein
+APPIIOAB_02445	hypothetical protein
+APPIIOAB_02446	hypothetical protein
+APPIIOAB_02447	hypothetical protein
+APPIIOAB_02448	hypothetical protein
+APPIIOAB_02449	hypothetical protein
+APPIIOAB_02450	hypothetical protein
+APPIIOAB_02451	hypothetical protein
+APPIIOAB_02452	hypothetical protein
+APPIIOAB_02453	hypothetical protein
+APPIIOAB_02454	hypothetical protein
+APPIIOAB_02455	hypothetical protein
+APPIIOAB_02456	hypothetical protein
+APPIIOAB_02457	hypothetical protein
+APPIIOAB_02458	hypothetical protein
+APPIIOAB_02459	hypothetical protein
+APPIIOAB_02460	hypothetical protein
+APPIIOAB_02461	hypothetical protein
+APPIIOAB_02462	hypothetical protein
+APPIIOAB_02463	hypothetical protein
+APPIIOAB_02464	hypothetical protein
+APPIIOAB_02465	hypothetical protein
+APPIIOAB_02466	hypothetical protein
+APPIIOAB_02467	hypothetical protein
+APPIIOAB_02468	hypothetical protein
+APPIIOAB_02469	hypothetical protein
+APPIIOAB_02470	hypothetical protein
+APPIIOAB_02471	hypothetical protein
+APPIIOAB_02472	hypothetical protein
+APPIIOAB_02473	hypothetical protein
+APPIIOAB_02474	hypothetical protein
+APPIIOAB_02475	phage transcriptional regulator, ArpU family
+APPIIOAB_02476	hypothetical protein
+APPIIOAB_02477	hypothetical protein
+APPIIOAB_02478	hypothetical protein
+APPIIOAB_02479	hypothetical protein
+APPIIOAB_02480	hypothetical protein
+APPIIOAB_02481	MazG nucleotide pyrophosphohydrolase domain protein
+APPIIOAB_02482	hypothetical protein
+APPIIOAB_02483	hypothetical protein
+APPIIOAB_02484	hypothetical protein
+APPIIOAB_02485	hypothetical protein
+APPIIOAB_02486	hypothetical protein
+APPIIOAB_02487	hypothetical protein
+APPIIOAB_02488	hypothetical protein
+APPIIOAB_02489	hypothetical protein
+APPIIOAB_02490	hypothetical protein
+APPIIOAB_02491	hypothetical protein
+APPIIOAB_02492	hypothetical protein
+APPIIOAB_02493	hypothetical protein
+APPIIOAB_02494	hypothetical protein
+APPIIOAB_02495	hypothetical protein
+APPIIOAB_02496	hypothetical protein
+APPIIOAB_02497	Helix-turn-helix domain protein
+APPIIOAB_02498	anti-repressor protein
+APPIIOAB_02499	hypothetical protein
+APPIIOAB_02500	hypothetical protein
+APPIIOAB_02501	helix-turn-helix domain-containing protein
+APPIIOAB_02502	putative Zn peptidase
+APPIIOAB_02503	hypothetical protein
+APPIIOAB_02504	resolvase family site-specific recombinase
+APPIIOAB_02505	hypothetical protein
+APPIIOAB_02506	Chromosome partition protein Smc
+APPIIOAB_02507	hypothetical protein
+APPIIOAB_02508	peptidoglycan-binding protein LysM
+APPIIOAB_02509	hypothetical protein
+APPIIOAB_02510	hypothetical protein
+APPIIOAB_02511	hypothetical protein
+APPIIOAB_02512	Putative trans-acting regulator
+APPIIOAB_02513	hypothetical protein
+APPIIOAB_02514	ABC transporter ATP-binding protein
+APPIIOAB_02515	glycine betaine/carnitine/choline ABC transporter
+APPIIOAB_02516	hypothetical protein
+APPIIOAB_02517	integral membrane protein
+APPIIOAB_02518	zinc-binding alcohol dehydrogenase family protein
+APPIIOAB_02519	hypothetical protein
+APPIIOAB_02520	LacI family transcriptional regulator
+APPIIOAB_02521	putative lipase/esterase
+APPIIOAB_02522	hypothetical protein
+APPIIOAB_02523	hypothetical protein
+APPIIOAB_02524	hypothetical protein
+APPIIOAB_02525	hypothetical protein
+APPIIOAB_02526	manganese-dependent inorganic pyrophosphatase
+APPIIOAB_02527	pyruvate formate-lyase activating enzyme
+APPIIOAB_02528	formate acetyltransferase
+APPIIOAB_02529	DNA topoisomerase IV subunit A
+APPIIOAB_02530	DNA topoisomerase IV subunit B
+APPIIOAB_02531	CoA-binding protein
+APPIIOAB_02532	acyl-phosphate glycerol 3-phosphate acyltransferase
+APPIIOAB_02533	aldose 1-epimerase
+APPIIOAB_02534	GTP-sensing transcriptional pleiotropic repressor CodY
+APPIIOAB_02535	ATP-dependent carboxylate-amine ligase
+APPIIOAB_02536	ATP-dependent protease HslVU, peptidase subunit
+APPIIOAB_02537	site-specific tyrosine recombinase XerC-family protein
+APPIIOAB_02538	glucose inhibited division protein
+APPIIOAB_02539	DNA topoisomerase I
+APPIIOAB_02540	DNA processing protein DprA
+APPIIOAB_02541	ribonuclease HII
+APPIIOAB_02542	ribosome biogenesis GTP-binding protein YlqF
+APPIIOAB_02543	hypothetical protein
+APPIIOAB_02544	hypothetical protein
+APPIIOAB_02545	hypothetical protein
+APPIIOAB_02546	glyoxalase family protein
+APPIIOAB_02547	signal peptidase I
+APPIIOAB_02548	hypothetical protein
+APPIIOAB_02549	methionine sulfoxide reductase MsrA
+APPIIOAB_02550	hypothetical protein
+APPIIOAB_02551	GDSL-like lipase/acylhydrolase
+APPIIOAB_02552	DegV family protein
+APPIIOAB_02553	dihydrofolate reductase
+APPIIOAB_02554	thymidylate synthase
+APPIIOAB_02555	ABC transporter ATP-binding protein
+APPIIOAB_02556	Na+/H+ antiporter
+APPIIOAB_02557	hypothetical protein
+APPIIOAB_02558	hypothetical protein
+APPIIOAB_02559	tRNA nucleotidyltransferase/poly(A) polymerase family protein
+APPIIOAB_02560	MazG nucleotide pyrophosphohydrolase domain-containing protein
+APPIIOAB_02561	integral membrane protein
+APPIIOAB_02562	tRNA-Asn
+APPIIOAB_02563	5S ribosomal RNA
+APPIIOAB_02564	23S ribosomal RNA
+APPIIOAB_02565	16S ribosomal RNA
+APPIIOAB_02566	hypothetical protein
+APPIIOAB_02567	hypothetical protein
+APPIIOAB_02568	hypothetical protein
+APPIIOAB_02569	ATP-dependent DNA helicase
+APPIIOAB_02570	DNA polymerase IV
+APPIIOAB_02571	hypothetical protein
+APPIIOAB_02572	hypothetical protein
+APPIIOAB_02573	sporulation initiation inhibitor protein Soj
+APPIIOAB_02574	hypothetical protein
+APPIIOAB_02575	hypothetical protein
+APPIIOAB_02576	hypothetical protein
+APPIIOAB_02577	hypothetical protein
+APPIIOAB_02578	hypothetical protein
+APPIIOAB_02579	hypothetical protein
+APPIIOAB_02580	hypothetical protein
+APPIIOAB_02581	hypothetical protein
+APPIIOAB_02582	hypothetical protein
+APPIIOAB_02583	hypothetical protein
+APPIIOAB_02584	hypothetical protein
+APPIIOAB_02585	hypothetical protein
+APPIIOAB_02586	hypothetical protein
+APPIIOAB_02587	hypothetical protein
+APPIIOAB_02588	hypothetical protein
+APPIIOAB_02589	hypothetical protein
+APPIIOAB_02590	hypothetical protein
+APPIIOAB_02591	hypothetical protein
+APPIIOAB_02592	hypothetical protein
+APPIIOAB_02593	hypothetical protein
+APPIIOAB_02594	hypothetical protein
+APPIIOAB_02595	hypothetical protein
+APPIIOAB_02596	hypothetical protein
+APPIIOAB_02597	hypothetical protein
+APPIIOAB_02598	hypothetical protein
+APPIIOAB_02599	toxin-antitoxin system, toxin component, MazF family
+APPIIOAB_02600	hypothetical protein
+APPIIOAB_02601	hypothetical protein
+APPIIOAB_02602	hypothetical protein
+APPIIOAB_02603	hypothetical protein
+APPIIOAB_02604	hypothetical protein
+APPIIOAB_02605	hypothetical protein
+APPIIOAB_02606	hypothetical protein
+APPIIOAB_02607	hypothetical protein
+APPIIOAB_02608	hypothetical protein
+APPIIOAB_02609	hypothetical protein
+APPIIOAB_02610	hypothetical protein
+APPIIOAB_02611	hypothetical protein
+APPIIOAB_02612	hypothetical protein
+APPIIOAB_02613	Ribonuclease HI
+APPIIOAB_02614	DNA polymerase III PolC-type
+APPIIOAB_02615	hypothetical protein
+APPIIOAB_02616	Tyrosine recombinase XerC
+APPIIOAB_02617	hypothetical protein
+APPIIOAB_02618	hypothetical protein
+APPIIOAB_02619	hypothetical protein
+APPIIOAB_02620	hypothetical protein
+APPIIOAB_02621	hypothetical protein
+APPIIOAB_02622	hypothetical protein
+APPIIOAB_02623	hypothetical protein
+APPIIOAB_02624	hypothetical protein
+APPIIOAB_02625	hypothetical protein
+APPIIOAB_02626	hypothetical protein
+APPIIOAB_02627	hypothetical protein
+APPIIOAB_02628	hypothetical protein
+APPIIOAB_02629	hypothetical protein
+APPIIOAB_02630	DNA primase
+APPIIOAB_02631	hypothetical protein
+APPIIOAB_02632	hypothetical protein
+APPIIOAB_02633	hypothetical protein
+APPIIOAB_02634	Error-prone DNA polymerase
+APPIIOAB_02635	hypothetical protein
+APPIIOAB_02636	hypothetical protein
+APPIIOAB_02637	hypothetical protein
+APPIIOAB_02638	hypothetical protein
+APPIIOAB_02639	hypothetical protein
+APPIIOAB_02640	hypothetical protein
+APPIIOAB_02641	hypothetical protein
+APPIIOAB_02642	hypothetical protein
+APPIIOAB_02643	hypothetical protein
+APPIIOAB_02644	hypothetical protein
+APPIIOAB_02645	hypothetical protein
+APPIIOAB_02646	hypothetical protein
+APPIIOAB_02647	hypothetical protein
+APPIIOAB_02648	hypothetical protein
+APPIIOAB_02649	hypothetical protein
+APPIIOAB_02650	DNA ligase
+APPIIOAB_02651	hypothetical protein
+APPIIOAB_02652	hypothetical protein
+APPIIOAB_02653	hypothetical protein
+APPIIOAB_02654	hypothetical protein
+APPIIOAB_02655	hypothetical protein
+APPIIOAB_02656	hypothetical protein
+APPIIOAB_02657	ATP-dependent RecD-like DNA helicase
+APPIIOAB_02658	hypothetical protein
+APPIIOAB_02659	hypothetical protein
+APPIIOAB_02660	hypothetical protein
+APPIIOAB_02661	hypothetical protein
+APPIIOAB_02662	hypothetical protein
+APPIIOAB_02663	hypothetical protein
+APPIIOAB_02664	hypothetical protein
+APPIIOAB_02665	hypothetical protein
+APPIIOAB_02666	hypothetical protein
+APPIIOAB_02667	hypothetical protein
+APPIIOAB_02668	hypothetical protein
+APPIIOAB_02669	putative flavoprotein NrdI
+APPIIOAB_02670	ribonucleoside-diphosphate reductase, alpha subunit
+APPIIOAB_02671	ribonucleotide-diphosphate reductase, beta subunit
+APPIIOAB_02672	hypothetical protein
+APPIIOAB_02673	replication control protein PrgN
+APPIIOAB_02674	hypothetical protein
+APPIIOAB_02675	phage integrase family protein
+APPIIOAB_02676	hypothetical protein
+APPIIOAB_02677	hypothetical protein
+APPIIOAB_02678	hypothetical protein
+APPIIOAB_02679	hypothetical protein
+APPIIOAB_02680	hypothetical protein
+APPIIOAB_02681	hypothetical protein
+APPIIOAB_02682	hypothetical protein
+APPIIOAB_02683	hypothetical protein
+APPIIOAB_02684	hypothetical protein
+APPIIOAB_02685	hypothetical protein
+APPIIOAB_02686	hypothetical protein
+APPIIOAB_02687	hypothetical protein
+APPIIOAB_02688	hypothetical protein
+APPIIOAB_02689	hypothetical protein
+APPIIOAB_02690	hypothetical protein
+APPIIOAB_02691	hypothetical protein
+APPIIOAB_02692	hypothetical protein
+APPIIOAB_02693	hypothetical protein
+APPIIOAB_02694	Tyrosine recombinase XerC
+APPIIOAB_02695	hypothetical protein
+APPIIOAB_02696	hypothetical protein
+APPIIOAB_02697	hypothetical protein
+APPIIOAB_02698	hypothetical protein
+APPIIOAB_02699	hypothetical protein
+APPIIOAB_02700	hypothetical protein
+APPIIOAB_02701	hypothetical protein
+APPIIOAB_02702	hypothetical protein
+APPIIOAB_02703	hypothetical protein
+APPIIOAB_02704	hypothetical protein
+APPIIOAB_02705	hypothetical protein
+APPIIOAB_02706	hypothetical protein
+APPIIOAB_02707	hypothetical protein
+APPIIOAB_02708	hypothetical protein
+APPIIOAB_02709	hypothetical protein
+APPIIOAB_02710	hypothetical protein
+APPIIOAB_02711	hypothetical protein
+APPIIOAB_02712	hypothetical protein
+APPIIOAB_02713	hypothetical protein
+APPIIOAB_02714	hypothetical protein
+APPIIOAB_02715	hypothetical protein
+APPIIOAB_02716	hypothetical protein
+APPIIOAB_02717	tRNA-Asp
+APPIIOAB_02718	tRNA-Trp
+APPIIOAB_02719	tRNA-Ser
+APPIIOAB_02720	tRNA-Arg
+APPIIOAB_02721	Trifunctional nucleotide phosphoesterase protein YfkN
+APPIIOAB_02722	hypothetical protein
+APPIIOAB_02723	Ribonuclease J
+APPIIOAB_02724	inner membrane component transport system
+APPIIOAB_02725	ABC transporter permease
+APPIIOAB_02726	Maltose/maltodextrin import ATP-binding protein MalK
+APPIIOAB_02727	integral membrane protein
+APPIIOAB_02728	alkaline shock protein 23 family protein
+APPIIOAB_02729	small integral membrane protein
+APPIIOAB_02730	hypothetical protein
+APPIIOAB_02731	hypothetical protein
+APPIIOAB_02732	hypothetical protein
+APPIIOAB_02733	Accessory gene regulator protein B
+APPIIOAB_02734	response regulator receiver domain-containing protein
+APPIIOAB_02735	sensor histidine kinase
+APPIIOAB_02736	hypothetical protein
+APPIIOAB_02737	helix-turn-helix domain-containing protein
+APPIIOAB_02738	hypothetical protein
+APPIIOAB_02739	hypothetical protein
+APPIIOAB_02740	transglycosylase
+APPIIOAB_02741	hypothetical protein
+APPIIOAB_02742	small integral membrane protein
+APPIIOAB_02743	hypothetical protein
+APPIIOAB_02744	short chain dehydrogenase/reductase family oxidoreductase
+APPIIOAB_02745	Mg2+ cation transporter
+APPIIOAB_02746	hypothetical protein
+APPIIOAB_02747	glycosyl transferase family protein
+APPIIOAB_02748	glycosyl transferase family protein
+APPIIOAB_02749	HAD superfamily hydrolase
+APPIIOAB_02750	Isochorismatase family protein
+APPIIOAB_02751	hypothetical protein
+APPIIOAB_02752	toxin-antitoxin system, antitoxin component, Xre domain protein
+APPIIOAB_02753	Pyrimidine dimer DNA glycosylase
+APPIIOAB_02754	major cold shock protein CspA
+APPIIOAB_02755	hypothetical protein
+APPIIOAB_02756	hypothetical protein
+APPIIOAB_02757	hypothetical protein
+APPIIOAB_02758	hypothetical protein
+APPIIOAB_02759	Multidrug-efflux transporter 1 regulator
+APPIIOAB_02760	hypothetical protein
+APPIIOAB_02761	hypothetical protein
+APPIIOAB_02762	YcfA-like protein
+APPIIOAB_02763	CobW/P47K family protein
+APPIIOAB_02764	hypothetical protein
+APPIIOAB_02765	50S ribosomal protein L32
+APPIIOAB_02766	30S ribosomal protein S14
+APPIIOAB_02767	hypothetical protein
+APPIIOAB_02768	hypothetical protein
+APPIIOAB_02769	ABC transporter ATP-binding protein
+APPIIOAB_02770	hypothetical protein
+APPIIOAB_02771	hypothetical protein
+APPIIOAB_02772	choloylglycine hydrolase family protein
+APPIIOAB_02773	hypothetical protein
+APPIIOAB_02774	hypothetical protein
+APPIIOAB_02775	tetratricopeptide repeat protein
+APPIIOAB_02776	hypothetical protein
+APPIIOAB_02777	DNA-binding protein HU
+APPIIOAB_02778	ribosome-associated GTPase EngA
+APPIIOAB_02779	30S ribosomal protein S1
+APPIIOAB_02780	cytidylate kinase
+APPIIOAB_02781	LysM domain-containing protein
+APPIIOAB_02782	ATP-dependent DNA helicase, RecQ family
+APPIIOAB_02783	hypothetical protein
+APPIIOAB_02784	ferredoxin
+APPIIOAB_02785	hydrolase
+APPIIOAB_02786	toxin-antitoxin system, toxin component, Fic family
+APPIIOAB_02787	putative addiction module antidote
+APPIIOAB_02788	Putative dipeptidase
+APPIIOAB_02789	C4-dicarboxylate anaerobic carrier
+APPIIOAB_02790	membrane protein
+APPIIOAB_02791	16S rRNA pseudouridine synthase A
+APPIIOAB_02792	segregation and condensation protein B
+APPIIOAB_02793	segregation and condensation protein A
+APPIIOAB_02794	Protein RibT
+APPIIOAB_02795	site-specific tyrosine recombinase XerD-family protein
+APPIIOAB_02796	transcriptional regulator, FUR family
+APPIIOAB_02797	Conserved virulence factor B
+APPIIOAB_02798	Mid-cell-anchored protein Z
+APPIIOAB_02799	RNA polymerase sigma factor RpoD
+APPIIOAB_02800	DNA primase
+APPIIOAB_02801	cation transporter E1-E2 family ATPase
+APPIIOAB_02802	membrane protein
+APPIIOAB_02803	NlpC/P60 family lipoprotein
+APPIIOAB_02804	alpha/beta hydrolase
+APPIIOAB_02805	ysyl-tRNA synthetase
+APPIIOAB_02806	Fic family protein
+APPIIOAB_02807	hypothetical protein
+APPIIOAB_02808	translation elongation factor Tu
+APPIIOAB_02809	Cellulose synthase catalytic subunit [UDP-forming]
+APPIIOAB_02810	hypothetical protein
+APPIIOAB_02811	hypothetical protein
+APPIIOAB_02812	oxidoreductase, aldo/keto reductase family protein
+APPIIOAB_02813	hypothetical protein
+APPIIOAB_02814	hypothetical protein
+APPIIOAB_02815	Transcriptional regulator LytR
+APPIIOAB_02816	FtsW/RodA/SpoVE family cell cycle protein
+APPIIOAB_02817	FtsW/RodA/SpoVE family cell cycle protein
+APPIIOAB_02818	acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+APPIIOAB_02819	hydroxymethylglutaryl-CoA synthase
+APPIIOAB_02820	methyltransferase
+APPIIOAB_02821	calcium-translocating P-type ATPase
+APPIIOAB_02822	cardiolipin synthetase
+APPIIOAB_02823	hypothetical protein
+APPIIOAB_02824	ABC transporter ATP-binding protein
+APPIIOAB_02825	hypothetical protein
+APPIIOAB_02826	hypothetical protein
+APPIIOAB_02827	hypothetical protein
+APPIIOAB_02828	phosphomethylpyrimidine kinase
+APPIIOAB_02829	universal stress protein
+APPIIOAB_02830	6-phospho-beta-glucosidase
+APPIIOAB_02831	PTS system lactose/cellobiose-specific transporter subunit IIC
+APPIIOAB_02832	GntR family transcriptional regulator
+APPIIOAB_02833	glyoxalase family protein
+APPIIOAB_02834	phospholipase/carboxylesterase
+APPIIOAB_02835	hypothetical protein
+APPIIOAB_02836	hypothetical protein
+APPIIOAB_02837	lipase
+APPIIOAB_02838	hypothetical protein
+APPIIOAB_02839	hypothetical protein
+APPIIOAB_02840	transporter, major facilitator family protein
+APPIIOAB_02841	hypothetical protein
+APPIIOAB_02842	hypothetical protein
+APPIIOAB_02843	hypothetical protein
+APPIIOAB_02844	glycosyl hydrolase family protein
+APPIIOAB_02845	hypothetical protein
+APPIIOAB_02846	LacI family transcriptional regulator
+APPIIOAB_02847	hypothetical protein
+APPIIOAB_02848	hypothetical protein
+APPIIOAB_02849	hypothetical protein
+APPIIOAB_02850	hypothetical protein
+APPIIOAB_02851	tRNA-Leu
+APPIIOAB_02852	tRNA-Gln
+APPIIOAB_02853	tRNA-His
+APPIIOAB_02854	tRNA-Leu
+APPIIOAB_02855	tRNA-Cys
+APPIIOAB_02856	tRNA-Gln
+APPIIOAB_02857	tRNA-His
+APPIIOAB_02858	tRNA-Trp
+APPIIOAB_02859	tRNA-Tyr
+APPIIOAB_02860	tRNA-Phe
+APPIIOAB_02861	tRNA-Asp
+APPIIOAB_02862	tRNA-Val
+APPIIOAB_02863	tRNA-Glu
+APPIIOAB_02864	tRNA-Ser
+APPIIOAB_02865	tRNA-Asn
+APPIIOAB_02866	5S ribosomal RNA
+APPIIOAB_02867	hypothetical protein
+APPIIOAB_02868	30S ribosomal protein S20
+APPIIOAB_02869	DNA polymerase III subunit delta
+APPIIOAB_02870	DNA internalization-related competence protein ComEC/Rec2
+APPIIOAB_02871	ComE operon protein 2
+APPIIOAB_02872	competence protein, ComEA
+APPIIOAB_02873	hypothetical protein
+APPIIOAB_02874	PDZ domain protein
+APPIIOAB_02875	Phosphopantetheine adenylyltransferase, CoaD
+APPIIOAB_02876	RsmD family RNA methyltransferase
+APPIIOAB_02877	hypothetical protein
+APPIIOAB_02878	hypothetical protein
+APPIIOAB_02879	hypothetical protein
+APPIIOAB_02880	pyruvate carboxylase
+APPIIOAB_02881	cell cycle protein FtsW
+APPIIOAB_02882	hypothetical protein
+APPIIOAB_02883	ATP-dependent DNA helicase RecQ
+APPIIOAB_02884	hypothetical protein
+APPIIOAB_02885	GTP-binding protein TypA/BipA
+APPIIOAB_02886	inositol monophosphatase family protein
+APPIIOAB_02887	hypothetical protein
+APPIIOAB_02888	Dihydrolipoyl dehydrogenase
+APPIIOAB_02889	dihydrolipoamide S-succinyltransferase
+APPIIOAB_02890	transketolase
+APPIIOAB_02891	pyruvate dehydrogenase E1 component subunit alpha
+APPIIOAB_02892	GntR family transcriptional regulator
+APPIIOAB_02893	guanosine 5'-monophosphate oxidoreductase
+APPIIOAB_02894	hypothetical protein
+APPIIOAB_02895	oxidoreductase, aldo/keto reductase family protein
+APPIIOAB_02896	Phosphoribosylamine--glycine ligase
+APPIIOAB_02897	bifunctional purine biosynthesis protein PurH
+APPIIOAB_02898	Phosphoribosylglycinamide formyltransferase
+APPIIOAB_02899	Phosphoribosylformylglycinamidine cyclo-ligase
+APPIIOAB_02900	Amidophosphoribosyltransferase
+APPIIOAB_02901	Phosphoribosylformylglycinamidine synthase II
+APPIIOAB_02902	Phosphoribosylformylglycinamidine synthase I
+APPIIOAB_02903	phosphoribosylformylglycinamidine synthase subunit PurS
+APPIIOAB_02904	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+APPIIOAB_02905	hypothetical protein
+APPIIOAB_02906	Adenylosuccinate lyase
+APPIIOAB_02907	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+APPIIOAB_02908	phosphoribosylaminoimidazole carboxylase catalytic subunit
+APPIIOAB_02909	xanthine permease
+APPIIOAB_02910	xanthine phosphoribosyltransferase
+APPIIOAB_02911	hypothetical protein
+APPIIOAB_02912	N-acetylmuramoyl-L-alanine amidase
+APPIIOAB_02913	serine-type D-Ala-D-Ala carboxypeptidase
+APPIIOAB_02914	hypothetical protein
+APPIIOAB_02915	oxidoreductase family, NAD-binding Rossmann fold protein
+APPIIOAB_02916	membrane spanning protein
+APPIIOAB_02917	membrane protein
+APPIIOAB_02918	metal-sulfur cluster biosynthetic enzyme
+APPIIOAB_02919	integral membrane protein
+APPIIOAB_02920	N-(5'phosphoribosyl)anthranilate isomerase family protein
+APPIIOAB_02921	DEAD_2 helicase
+APPIIOAB_02922	Metallo-beta-lactamase superfamily protein
+APPIIOAB_02923	phosphoglycerate mutase family protein
+APPIIOAB_02924	undecaprenyl-diphosphatase
+APPIIOAB_02925	ABC transporter ATP-binding protein
+APPIIOAB_02926	hypothetical protein
+APPIIOAB_02927	PadR family transcriptional regulator
+APPIIOAB_02928	hypothetical protein
+APPIIOAB_02929	hypothetical protein
+APPIIOAB_02930	hypothetical protein
+APPIIOAB_02931	Transposase
+APPIIOAB_02932	integral membrane protein
+APPIIOAB_02933	queuine tRNA-ribosyltransferase
+APPIIOAB_02934	hypothetical protein
+APPIIOAB_02935	aldehyde-alcohol dehydrogenase
+APPIIOAB_02936	hypothetical protein
+APPIIOAB_02937	Glycosyl Hydrolase Family 88
+APPIIOAB_02938	TRAP dicarboxylate transporter subunit DctP
+APPIIOAB_02939	TRAP dicarboxylate transporter subunit DctQ
+APPIIOAB_02940	TRAP dicarboxylate transporter subunit DctM
+APPIIOAB_02941	AP endonuclease
+APPIIOAB_02942	AraC family transcriptional regulator
+APPIIOAB_02943	IclR transcriptional regulator
+APPIIOAB_02944	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+APPIIOAB_02945	2-dehydro-3-deoxygluconokinase
+APPIIOAB_02946	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+APPIIOAB_02947	gluconate 5-dehydrogenase
+APPIIOAB_02948	hypothetical protein
+APPIIOAB_02949	hypothetical protein
+APPIIOAB_02950	hypothetical protein
+APPIIOAB_02951	hypothetical protein
+APPIIOAB_02952	hypothetical protein
+APPIIOAB_02953	hypothetical protein
+APPIIOAB_02954	lipase

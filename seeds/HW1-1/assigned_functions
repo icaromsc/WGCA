@@ -1,0 +1,2604 @@
+IBJBGECL_00001	lysyl-tRNA synthetase
+IBJBGECL_00002	tRNA-dihydrouridine synthase
+IBJBGECL_00003	chaperonin HslO
+IBJBGECL_00004	ATP-dependent metalloprotease
+IBJBGECL_00005	Hypoxanthine-guanine phosphoribosyltransferase
+IBJBGECL_00006	tRNA(Ile)-lysidine synthase
+IBJBGECL_00007	S1 RNA binding domain-containing protein
+IBJBGECL_00008	septum formation initiator
+IBJBGECL_00009	S4 RNA-binding domain-containing protein
+IBJBGECL_00010	polysaccharide biosynthesis family protein
+IBJBGECL_00011	transcription-repair coupling factor
+IBJBGECL_00012	Peptidyl-tRNA hydrolase
+IBJBGECL_00013	L-lactate dehydrogenase
+IBJBGECL_00014	methylmalonate-semialdehyde dehydrogenase
+IBJBGECL_00015	hypothetical protein
+IBJBGECL_00016	transcriptional regulator
+IBJBGECL_00017	maltose O-acetyltransferase
+IBJBGECL_00018	NAD-dependent deacetylase
+IBJBGECL_00019	hypothetical protein
+IBJBGECL_00020	amino acid ABC transporter permease
+IBJBGECL_00021	amino acid ABC transporter ATP-binding protein
+IBJBGECL_00022	putative lysine decarboxylase
+IBJBGECL_00023	Spermidine N(1)-acetyltransferase
+IBJBGECL_00024	branched-chain amino acid transport system II carrier protein
+IBJBGECL_00025	hypothetical protein
+IBJBGECL_00026	tRNA pseudouridine synthase A
+IBJBGECL_00027	cobalt transport family protein
+IBJBGECL_00028	cobalt import ATP-binding protein CbiO 2
+IBJBGECL_00029	cobalt import ATP-binding protein CbiO
+IBJBGECL_00030	peptidase M20D
+IBJBGECL_00031	hypothetical protein
+IBJBGECL_00032	50S ribosomal protein L17
+IBJBGECL_00033	DNA-directed RNA polymerase subunit alpha
+IBJBGECL_00034	30S ribosomal protein S11
+IBJBGECL_00035	30S ribosomal protein S13
+IBJBGECL_00036	50S ribosomal protein L36
+IBJBGECL_00037	translation initiation factor IF-1
+IBJBGECL_00038	adenylate kinase
+IBJBGECL_00039	preprotein translocase subunit SecY
+IBJBGECL_00040	50S ribosomal protein L15
+IBJBGECL_00041	50S ribosomal protein L30
+IBJBGECL_00042	30S ribosomal protein S5
+IBJBGECL_00043	50S ribosomal protein L18
+IBJBGECL_00044	50S ribosomal protein L6
+IBJBGECL_00045	30S ribosomal protein S8
+IBJBGECL_00046	30S ribosomal protein S14
+IBJBGECL_00047	50S ribosomal protein L5
+IBJBGECL_00048	50S ribosomal protein L24
+IBJBGECL_00049	50S ribosomal protein L14
+IBJBGECL_00050	30S ribosomal protein S17
+IBJBGECL_00051	50S ribosomal protein L29
+IBJBGECL_00052	50S ribosomal protein L16
+IBJBGECL_00053	30S ribosomal protein S3
+IBJBGECL_00054	50S ribosomal protein L22
+IBJBGECL_00055	30S ribosomal protein S19
+IBJBGECL_00056	50S ribosomal protein L2
+IBJBGECL_00057	50S ribosomal protein L23
+IBJBGECL_00058	50S ribosomal protein L4
+IBJBGECL_00059	50S ribosomal protein L3
+IBJBGECL_00060	30S ribosomal protein S10
+IBJBGECL_00061	cyclopropane-fatty-acyl-phospholipid synthase
+IBJBGECL_00062	phosphomethylpyrimidine kinase
+IBJBGECL_00063	elongation factor Tu
+IBJBGECL_00064	translation elongation factor G
+IBJBGECL_00065	30S ribosomal protein S7
+IBJBGECL_00066	30S ribosomal protein S12
+IBJBGECL_00067	ribose 5-phosphate isomerase A
+IBJBGECL_00068	resolvase family site-specific recombinase
+IBJBGECL_00069	phosphoglycerate mutase
+IBJBGECL_00070	aldehyde-alcohol dehydrogenase
+IBJBGECL_00071	ferrichrome transport system permease FhuG
+IBJBGECL_00072	ferrichrome transport system permease FhuB
+IBJBGECL_00073	ferrichrome transport ATP-binding protein FhuC
+IBJBGECL_00074	periplasmic binding protein
+IBJBGECL_00075	purine nucleoside phosphorylase
+IBJBGECL_00076	purine nucleoside phosphorylase
+IBJBGECL_00077	phosphopentomutase
+IBJBGECL_00078	integral membrane protein
+IBJBGECL_00079	ABC transporter permease
+IBJBGECL_00080	ABC transporter permease
+IBJBGECL_00081	ABC transporter ATP-binding protein
+IBJBGECL_00082	Basic membrane lipopprotein
+IBJBGECL_00083	Basic membrane lipopprotein
+IBJBGECL_00084	cytidine deaminase
+IBJBGECL_00085	deoxyribose-phosphate aldolase
+IBJBGECL_00086	pyrimidine-nucleoside phosphorylase
+IBJBGECL_00087	LacI family transcriptional regulator
+IBJBGECL_00088	Adenosine deaminase
+IBJBGECL_00089	16S rRNA small subunit methyltransferase C
+IBJBGECL_00090	hypothetical protein
+IBJBGECL_00091	pantothenate kinase
+IBJBGECL_00092	GMP synthase
+IBJBGECL_00093	hypothetical protein
+IBJBGECL_00094	hypothetical protein
+IBJBGECL_00095	hypothetical protein
+IBJBGECL_00096	hypothetical protein
+IBJBGECL_00097	hypothetical protein
+IBJBGECL_00098	hypothetical protein
+IBJBGECL_00099	phenazine biosynthesis protein PhzF family protein
+IBJBGECL_00100	ornithine cyclodeaminase/mu-crystallin family protein
+IBJBGECL_00101	GntR family transcriptional regulator
+IBJBGECL_00102	hypothetical protein
+IBJBGECL_00103	Putative aminoacrylate peracid reductase RutC
+IBJBGECL_00104	hypothetical protein
+IBJBGECL_00105	hypothetical protein
+IBJBGECL_00106	hypothetical protein
+IBJBGECL_00107	zinc-binding alcohol dehydrogenase family protein
+IBJBGECL_00108	hypothetical protein
+IBJBGECL_00109	DJ-1/PfpI family protein
+IBJBGECL_00110	C4-dicarboxylate anaerobic carrier
+IBJBGECL_00111	cyclic nucleotide-binding domain-containing protein
+IBJBGECL_00112	Carbamate kinase
+IBJBGECL_00113	ornithine carbamoyltransferase
+IBJBGECL_00114	arginine deiminase
+IBJBGECL_00115	Sulfite exporter TauE/SafE
+IBJBGECL_00116	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_00117	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_00118	PTS system mannose-specific transporter subunit IIAB
+IBJBGECL_00119	RpiR family transcriptional regulator
+IBJBGECL_00120	N-acetylmuramic acid 6-phosphate etherase
+IBJBGECL_00121	Beta-lactamase
+IBJBGECL_00122	PTS system sorbose-specific EIIA component
+IBJBGECL_00123	hypothetical protein
+IBJBGECL_00124	superoxide dismutase
+IBJBGECL_00125	Diaminopimelate epimerase
+IBJBGECL_00126	transcriptional regulator
+IBJBGECL_00127	glucosamine-6-phosphate deaminase
+IBJBGECL_00128	MgtC family protein
+IBJBGECL_00129	Protein LemA
+IBJBGECL_00130	hypothetical protein
+IBJBGECL_00131	ribonucleotide-diphosphate reductase, beta subunit
+IBJBGECL_00132	ribonucleoside-diphosphate reductase subunit alpha
+IBJBGECL_00133	putative flavoprotein NrdI
+IBJBGECL_00134	glutaredoxin
+IBJBGECL_00135	ferrous iron transport protein A
+IBJBGECL_00136	ferrous iron transport protein B
+IBJBGECL_00137	hypothetical protein
+IBJBGECL_00138	tRNA-Lys
+IBJBGECL_00139	hypothetical protein
+IBJBGECL_00140	hypothetical protein
+IBJBGECL_00141	hypothetical protein
+IBJBGECL_00142	hypothetical protein
+IBJBGECL_00143	ABC transporter ATP-binding protein
+IBJBGECL_00144	hypothetical protein
+IBJBGECL_00145	hypothetical protein
+IBJBGECL_00146	hypothetical protein
+IBJBGECL_00147	hypothetical protein
+IBJBGECL_00148	hypothetical protein
+IBJBGECL_00149	3-oxoacyl-ACP reductase
+IBJBGECL_00150	hypothetical protein
+IBJBGECL_00151	hypothetical protein
+IBJBGECL_00152	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+IBJBGECL_00153	beta-ketoacyl-acyl-carrier-protein synthase II
+IBJBGECL_00154	Gramicidin S synthase 2
+IBJBGECL_00155	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+IBJBGECL_00156	acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+IBJBGECL_00157	Aspartate 1-decarboxylase
+IBJBGECL_00158	hypothetical protein
+IBJBGECL_00159	LuxR family DNA-binding response regulator
+IBJBGECL_00160	oxidoreductase, aldo/keto reductase family protein
+IBJBGECL_00161	2-epi-5-epi-valiolone epimerase
+IBJBGECL_00162	cardiolipin synthetase
+IBJBGECL_00163	tyrosyl-tRNA synthetase
+IBJBGECL_00164	tyrosine decarboxylase
+IBJBGECL_00165	amino acid permease
+IBJBGECL_00166	Na+/H+ antiporter
+IBJBGECL_00167	hypothetical protein
+IBJBGECL_00168	putative lipoprotein YehR
+IBJBGECL_00169	phosphatidylglycerophosphatase A
+IBJBGECL_00170	L-lactate dehydrogenase
+IBJBGECL_00171	hypothetical protein
+IBJBGECL_00172	hypothetical protein
+IBJBGECL_00173	LysR family transcriptional regulator
+IBJBGECL_00174	C4-dicarboxylate transporter/malic acid transport protein
+IBJBGECL_00175	NAD-dependent epimerase/dehydratase
+IBJBGECL_00176	putative HTH-type transcriptional regulator YtcD
+IBJBGECL_00177	nitroreductase family protein
+IBJBGECL_00178	lipoyltransferase and lipoate-protein ligase A
+IBJBGECL_00179	Protease HtpX
+IBJBGECL_00180	hypothetical protein
+IBJBGECL_00181	hypothetical protein
+IBJBGECL_00182	LacI family sugar-binding transcriptional regulator
+IBJBGECL_00183	nitroreductase family protein
+IBJBGECL_00184	glyoxalase family protein
+IBJBGECL_00185	DeoR-like helix-turn-helix protein
+IBJBGECL_00186	hypothetical protein
+IBJBGECL_00187	uracil-DNA glycosylase, family 4
+IBJBGECL_00188	Multidrug export protein MepA
+IBJBGECL_00189	oligoendopeptidase, PepF/M3 family
+IBJBGECL_00190	integral membrane protein
+IBJBGECL_00191	putative transcriptional regulatory protein
+IBJBGECL_00192	hypothetical protein
+IBJBGECL_00193	hypothetical protein
+IBJBGECL_00194	glyoxalase family protein
+IBJBGECL_00195	phospholipase/carboxylesterase
+IBJBGECL_00196	UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase
+IBJBGECL_00197	polysaccharide biosynthesis family protein
+IBJBGECL_00198	16S rRNA pseudouridylate synthase A
+IBJBGECL_00199	dipeptidase PepV
+IBJBGECL_00200	hypothetical protein
+IBJBGECL_00201	hypothetical protein
+IBJBGECL_00202	ABC transporter ATP-binding protein
+IBJBGECL_00203	glycine betaine/carnitine/choline ABC transporter
+IBJBGECL_00204	arginine repressor protein
+IBJBGECL_00205	phosphoglucomutase/phosphomannomutase family protein
+IBJBGECL_00206	hypothetical protein
+IBJBGECL_00207	23S rRNA pseudouridine synthase D
+IBJBGECL_00208	penicillin-binding protein, 1A family
+IBJBGECL_00209	hypothetical protein
+IBJBGECL_00210	Ser/Thr protein phosphatase family protein
+IBJBGECL_00211	putative protein YhaN
+IBJBGECL_00212	3'-5' exoribonuclease yhaM
+IBJBGECL_00213	Foldase protein prsA
+IBJBGECL_00214	YtxH-like protein
+IBJBGECL_00215	histidine triad protein
+IBJBGECL_00216	ABC transporter ATP-binding protein
+IBJBGECL_00217	Bacterial ABC transporter protein EcsB
+IBJBGECL_00218	Phosphotransferase
+IBJBGECL_00219	tRNA (guanine-N(7)-)-methyltransferase
+IBJBGECL_00220	HTH-type transcriptional regulator MurR
+IBJBGECL_00221	1-phosphofructokinase
+IBJBGECL_00222	PTS system fructose-specific transporter subunit IIBC
+IBJBGECL_00223	PTS system fructose-specific transporter subunit IIA
+IBJBGECL_00224	tagatose 1,6-diphosphate aldolase
+IBJBGECL_00225	hypothetical protein
+IBJBGECL_00226	GNAT family acetyltransferase
+IBJBGECL_00227	permease
+IBJBGECL_00228	hemolysin
+IBJBGECL_00229	peptide chain release factor 3
+IBJBGECL_00230	hypothetical protein
+IBJBGECL_00231	membrane protein
+IBJBGECL_00232	hypothetical protein
+IBJBGECL_00233	hypothetical protein
+IBJBGECL_00234	UvrB/UvrC protein/AAA ATPase
+IBJBGECL_00235	hypothetical protein
+IBJBGECL_00236	phosphocarrier protein HPr
+IBJBGECL_00237	Phosphoenolpyruvate-protein phosphotransferase
+IBJBGECL_00238	cell wall surface anchor family protein
+IBJBGECL_00239	hypothetical protein
+IBJBGECL_00240	hypothetical protein
+IBJBGECL_00241	trigger factor
+IBJBGECL_00242	hypothetical protein
+IBJBGECL_00243	PTS system fructose-specific transporter subunit IIABC
+IBJBGECL_00244	hexose kinase, 1-phosphofructokinase family protein
+IBJBGECL_00245	DeoR-like helix-turn-helix protein
+IBJBGECL_00246	voltage-gated cchloride transporter, chloride channel family protein
+IBJBGECL_00247	ATP-dependent DNA helicase
+IBJBGECL_00248	NAD-dependent DNA ligase
+IBJBGECL_00249	aspartyl/glutamyl-tRNA amidotransferase subunit C
+IBJBGECL_00250	glutamyl-tRNA(Gln) amidotransferase subunit A
+IBJBGECL_00251	aspartyl/glutamyl-tRNA amidotransferase subunit B
+IBJBGECL_00252	Diacylglycerol kinase
+IBJBGECL_00253	23S rRNA (uracil-5-)-methyltransferase
+IBJBGECL_00254	hypothetical protein
+IBJBGECL_00255	thioredoxin domain-containing protein
+IBJBGECL_00256	HTH-type transcriptional regulator MalT
+IBJBGECL_00257	ornithine carbamoyltransferase
+IBJBGECL_00258	amino acid permease family protein
+IBJBGECL_00259	Putative agmatine deiminase
+IBJBGECL_00260	Carbamate kinase
+IBJBGECL_00261	glutamyl-tRNA(Gln) amidotransferase subunit A
+IBJBGECL_00262	nicotinamide mononucleotide transporter PnuC
+IBJBGECL_00263	deoxynucleoside kinase
+IBJBGECL_00264	hypothetical protein
+IBJBGECL_00265	hypothetical protein
+IBJBGECL_00266	hypothetical protein
+IBJBGECL_00267	sodium/dicarboxylate symporter family protein
+IBJBGECL_00268	glyoxalase family protein
+IBJBGECL_00269	D-aminopeptidase
+IBJBGECL_00270	hypothetical protein
+IBJBGECL_00271	rhodanese-like domain-containing protein
+IBJBGECL_00272	hypothetical protein
+IBJBGECL_00273	hypothetical protein
+IBJBGECL_00274	hypothetical protein
+IBJBGECL_00275	hypothetical protein
+IBJBGECL_00276	hypothetical protein
+IBJBGECL_00277	cell wall surface anchor family protein
+IBJBGECL_00278	hypothetical protein
+IBJBGECL_00279	hypothetical protein
+IBJBGECL_00280	cadmium-translocating P-type ATPase
+IBJBGECL_00281	Protein SapB
+IBJBGECL_00282	amino acid ABC transporter ATP-binding protein
+IBJBGECL_00283	Membrane-bound lytic murein transglycosylase F
+IBJBGECL_00284	excinuclease ABC subunit B
+IBJBGECL_00285	excinuclease ABC subunit A
+IBJBGECL_00286	hypothetical protein
+IBJBGECL_00287	ATP-binding protein
+IBJBGECL_00288	Putative gluconeogenesis factor
+IBJBGECL_00289	hypothetical protein
+IBJBGECL_00290	hypothetical protein
+IBJBGECL_00291	bifunctional disulfide isomerase/thiol-disulfide oxidase
+IBJBGECL_00292	ATP-dependent Clp protease proteolytic subunit
+IBJBGECL_00293	hypothetical protein
+IBJBGECL_00294	membrane protein
+IBJBGECL_00295	hypothetical protein
+IBJBGECL_00296	hypothetical protein
+IBJBGECL_00297	hypothetical protein
+IBJBGECL_00298	glycerophosphodiester phosphodiesterase family protein
+IBJBGECL_00299	hypothetical protein
+IBJBGECL_00300	major cold shock protein CspA
+IBJBGECL_00301	tRNA-Arg
+IBJBGECL_00302	RNA polymerase factor sigma-54
+IBJBGECL_00303	acyltransferase
+IBJBGECL_00304	S-adenosylmethionine synthetase
+IBJBGECL_00305	major facilitator superfamily transporter
+IBJBGECL_00306	esterase
+IBJBGECL_00307	TetR family transcriptional regulator
+IBJBGECL_00308	ABC transporter ATP-binding protein
+IBJBGECL_00309	ABC transporter ATP-binding protein
+IBJBGECL_00310	hypothetical protein
+IBJBGECL_00311	TetR family transcriptional regulator
+IBJBGECL_00312	efflux ABC transporter permease
+IBJBGECL_00313	ABC transporter ATP-binding protein
+IBJBGECL_00314	rRNA methylase family protein
+IBJBGECL_00315	radical SAM protein family protein
+IBJBGECL_00316	PAP2 family protein
+IBJBGECL_00317	hypothetical protein
+IBJBGECL_00318	hypothetical protein
+IBJBGECL_00319	N-acetylmuramoyl-L-alanine amidase
+IBJBGECL_00320	leucyl-tRNA synthetase
+IBJBGECL_00321	hypothetical protein
+IBJBGECL_00322	hypothetical protein
+IBJBGECL_00323	family 3 extracellular solute-binding protein
+IBJBGECL_00324	putative glutamine ABC transporter ATP-binding protein
+IBJBGECL_00325	amino acid ABC transporter permease
+IBJBGECL_00326	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_00327	transglycosylase
+IBJBGECL_00328	hypothetical protein
+IBJBGECL_00329	hypothetical protein
+IBJBGECL_00330	glycosyl hydrolase family protein
+IBJBGECL_00331	Beta-galactosidase
+IBJBGECL_00332	transcriptional regulator, GntR family
+IBJBGECL_00333	PTS system, mannose/fructose/sorbose-specific IIAB component
+IBJBGECL_00334	PTS system mannose-specific transporter subunit IIC
+IBJBGECL_00335	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_00336	hypothetical protein
+IBJBGECL_00337	hypothetical protein
+IBJBGECL_00338	50S ribosomal protein L25, Ctc-form
+IBJBGECL_00339	16S rRNA pseudouridine synthase A
+IBJBGECL_00340	HAD superfamily hydrolase
+IBJBGECL_00341	hypothetical protein
+IBJBGECL_00342	fructokinase
+IBJBGECL_00343	hypothetical protein
+IBJBGECL_00344	cell wall surface anchor family protein
+IBJBGECL_00345	Glycerol-3-phosphate cytidylyltransferase
+IBJBGECL_00346	hypothetical protein
+IBJBGECL_00347	glycosyl transferase, WecB/TagA/CpsF family
+IBJBGECL_00348	Teichoic acid glycerol-phosphate primase
+IBJBGECL_00349	50S ribosomal protein L31
+IBJBGECL_00350	transcription termination factor Rho
+IBJBGECL_00351	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IBJBGECL_00352	fructose-bisphosphate aldolase
+IBJBGECL_00353	integral membrane protein
+IBJBGECL_00354	N-(5'phosphoribosyl)anthranilate isomerase family protein
+IBJBGECL_00355	hypothetical protein
+IBJBGECL_00356	L-asparaginase
+IBJBGECL_00357	DEAD_2 helicase
+IBJBGECL_00358	Glycine reductase complex component B subunit gamma
+IBJBGECL_00359	PTS system lactose/cellobiose-specific transporter subunit IIC
+IBJBGECL_00360	PTS system lactose/cellobiose-specific transporter subunit IIB
+IBJBGECL_00361	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+IBJBGECL_00362	dipeptidase PepV
+IBJBGECL_00363	GntR family transcriptional regulator
+IBJBGECL_00364	endonuclease III
+IBJBGECL_00365	DnaD and phage-associated domain protein
+IBJBGECL_00366	carboxypeptidase Taq metallopeptidase
+IBJBGECL_00367	putative methylase
+IBJBGECL_00368	cell division protein DivIVA
+IBJBGECL_00369	hypothetical protein
+IBJBGECL_00370	recombination protein U
+IBJBGECL_00371	penicillin-binding protein 1A
+IBJBGECL_00372	CTP synthase
+IBJBGECL_00373	DNA-directed RNA polymerase subunit delta
+IBJBGECL_00374	hypothetical protein
+IBJBGECL_00375	lipoate-protein ligase A
+IBJBGECL_00376	HD domain-containing protein
+IBJBGECL_00377	HAD superfamily hydrolase
+IBJBGECL_00378	NUDIX family hydrolase
+IBJBGECL_00379	lactoylglutathione lyase
+IBJBGECL_00380	glutamine amidotransferase
+IBJBGECL_00381	oxidoreductase, aldo/keto reductase family protein
+IBJBGECL_00382	hypothetical protein
+IBJBGECL_00383	transporter, small conductance mechanosensitive ion channel family protein
+IBJBGECL_00384	peptidase M20D
+IBJBGECL_00385	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+IBJBGECL_00386	CBS domain pair protein
+IBJBGECL_00387	L-ribulose-5-phosphate 4-epimerase
+IBJBGECL_00388	L-xylulose 5-phosphate 3-epimerase
+IBJBGECL_00389	3-keto-L-gulonate-6-phosphate decarboxylase
+IBJBGECL_00390	PTS system ascorbate-specific transporter subunit IIB
+IBJBGECL_00391	PTS system ascorbate-specific transporter subunit IIC
+IBJBGECL_00392	PTS system ascorbate-specific transporter subunit IIA
+IBJBGECL_00393	L-ascorbate 6-phosphate lactonase, UlaG
+IBJBGECL_00394	DeoR-like helix-turn-helix protein
+IBJBGECL_00395	phosphodiesterase
+IBJBGECL_00396	Ribonuclease PH/Ham1 protein
+IBJBGECL_00397	glutamate racemase
+IBJBGECL_00398	ABC transporter ATP-binding protein
+IBJBGECL_00399	putative adhesin/ABC transporter aspartate/glutamate-binding protein
+IBJBGECL_00400	ABC transporter permease
+IBJBGECL_00401	ABC transporter permease
+IBJBGECL_00402	phenylalanyl-tRNA synthetase subunit beta
+IBJBGECL_00403	phenylalanyl-tRNA synthetase subunit alpha
+IBJBGECL_00404	HxlR-like helix-turn-helix
+IBJBGECL_00405	ATP-dependent helicase/nuclease subunit A
+IBJBGECL_00406	ATP-dependent helicase/deoxyribonuclease subunit B
+IBJBGECL_00407	signal peptidase I
+IBJBGECL_00408	Lactate utilization protein C
+IBJBGECL_00409	Lactate utilization protein B
+IBJBGECL_00410	Lactate utilization protein A
+IBJBGECL_00411	hypothetical protein
+IBJBGECL_00412	hypothetical protein
+IBJBGECL_00413	amino acid permease
+IBJBGECL_00414	hypothetical protein
+IBJBGECL_00415	methyltransferase
+IBJBGECL_00416	Vitamin B12 import ATP-binding protein BtuD
+IBJBGECL_00417	hypothetical protein
+IBJBGECL_00418	hypothetical protein
+IBJBGECL_00419	transfer-messenger RNA, SsrA
+IBJBGECL_00420	hypothetical protein
+IBJBGECL_00421	hypothetical protein
+IBJBGECL_00422	hypothetical protein
+IBJBGECL_00423	peptidase C60
+IBJBGECL_00424	LPXTG-motif protein cell wall anchor domain protein
+IBJBGECL_00425	LPXTG-motif protein cell wall anchor domain protein
+IBJBGECL_00426	von Willebrand factor type A domain-containing protein
+IBJBGECL_00427	M protein trans-acting positive regulator
+IBJBGECL_00428	hypothetical protein
+IBJBGECL_00429	hypothetical protein
+IBJBGECL_00430	Spermine/spermidine acetyltransferase
+IBJBGECL_00431	hypothetical protein
+IBJBGECL_00432	universal stress protein UspA
+IBJBGECL_00433	hypothetical protein
+IBJBGECL_00434	hypothetical protein
+IBJBGECL_00435	hypothetical protein
+IBJBGECL_00436	DNA directed DNA polymerase
+IBJBGECL_00437	major facilitator superfamily transporter
+IBJBGECL_00438	GNAT family acetyltransferase
+IBJBGECL_00439	Streptomycin 3''-adenylyltransferase
+IBJBGECL_00440	hypothetical protein
+IBJBGECL_00441	hypothetical protein
+IBJBGECL_00442	hypothetical protein
+IBJBGECL_00443	LacI family transcriptional regulator
+IBJBGECL_00444	galactose-1-phosphate uridylyltransferase
+IBJBGECL_00445	UDP-glucose 4-epimerase
+IBJBGECL_00446	galactokinase
+IBJBGECL_00447	aldose 1-epimerase
+IBJBGECL_00448	hypothetical protein
+IBJBGECL_00449	maltose O-acetyltransferase
+IBJBGECL_00450	3-demethylubiquinone-9 3-methyltransferase
+IBJBGECL_00451	GAF domain-containing protein
+IBJBGECL_00452	hypothetical protein
+IBJBGECL_00453	N-isopropylammelide isopropyl amidohydrolase
+IBJBGECL_00454	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_00455	Purine catabolism regulatory protein
+IBJBGECL_00456	universal stress protein UspA
+IBJBGECL_00457	metal ion transporter
+IBJBGECL_00458	Tunicamycin resistance protein
+IBJBGECL_00459	hypothetical protein
+IBJBGECL_00460	ABC transporter ATPase
+IBJBGECL_00461	hypothetical protein
+IBJBGECL_00462	tRNA-Leu
+IBJBGECL_00463	tRNA-Cys
+IBJBGECL_00464	tRNA-Gln
+IBJBGECL_00465	tRNA-His
+IBJBGECL_00466	tRNA-Trp
+IBJBGECL_00467	tRNA-Tyr
+IBJBGECL_00468	tRNA-Phe
+IBJBGECL_00469	tRNA-Asp
+IBJBGECL_00470	tRNA-Val
+IBJBGECL_00471	tRNA-Glu
+IBJBGECL_00472	tRNA-Ser
+IBJBGECL_00473	tRNA-Asn
+IBJBGECL_00474	FMN reductase (NADPH)
+IBJBGECL_00475	S-ribosylhomocysteinase
+IBJBGECL_00476	aspartate-semialdehyde dehydrogenase
+IBJBGECL_00477	dihydrodipicolinate synthase
+IBJBGECL_00478	Ribonuclease J 2
+IBJBGECL_00479	Ser/Thr protein phosphatase family protein
+IBJBGECL_00480	hypothetical protein
+IBJBGECL_00481	HAD superfamily hydrolase
+IBJBGECL_00482	integral membrane protein
+IBJBGECL_00483	hypothetical protein
+IBJBGECL_00484	EDD domain protein, DegV family
+IBJBGECL_00485	glycerol uptake facilitator protein
+IBJBGECL_00486	DNA-binding response regulator
+IBJBGECL_00487	PAS domain sensory box histidine kinase
+IBJBGECL_00488	YycH protein
+IBJBGECL_00489	YycH protein
+IBJBGECL_00490	metallo-beta-lactamase YycJ
+IBJBGECL_00491	putative permease
+IBJBGECL_00492	membrane protein
+IBJBGECL_00493	hypothetical protein
+IBJBGECL_00494	hypothetical protein
+IBJBGECL_00495	hypothetical protein
+IBJBGECL_00496	Holliday junction resolvase-like protein
+IBJBGECL_00497	hypothetical protein
+IBJBGECL_00498	helix-turn-helix domain-containing protein
+IBJBGECL_00499	NADP-dependent malic enzyme
+IBJBGECL_00500	Na+/citrate symporter
+IBJBGECL_00501	Sensor histidine kinase DcuS
+IBJBGECL_00502	response regulator receiver domain-containing protein
+IBJBGECL_00503	NADH peroxidase
+IBJBGECL_00504	transcriptional regulator
+IBJBGECL_00505	acetolactate synthase
+IBJBGECL_00506	alpha-acetolactate decarboxylase
+IBJBGECL_00507	hypothetical protein
+IBJBGECL_00508	hypothetical protein
+IBJBGECL_00509	hypothetical protein
+IBJBGECL_00510	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+IBJBGECL_00511	spermidine/putrescine transport system permease protein PotC
+IBJBGECL_00512	Sulfate/thiosulfate import ATP-binding protein CysA
+IBJBGECL_00513	Putrescine-binding periplasmic protein SpuD
+IBJBGECL_00514	adenine deaminase
+IBJBGECL_00515	Melamine deaminase
+IBJBGECL_00516	helix-turn-helix domain-containing protein
+IBJBGECL_00517	ApbE family protein
+IBJBGECL_00518	NADH-dependent flavin reductase subunit 2
+IBJBGECL_00519	hypothetical protein
+IBJBGECL_00520	M protein trans-acting positive regulator
+IBJBGECL_00521	hypothetical protein
+IBJBGECL_00522	hypothetical protein
+IBJBGECL_00523	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+IBJBGECL_00524	ABC transporter permease
+IBJBGECL_00525	ABC transporter permease
+IBJBGECL_00526	hypothetical protein
+IBJBGECL_00527	hypothetical protein
+IBJBGECL_00528	Cephalosporin-C deacetylase
+IBJBGECL_00529	hypothetical protein
+IBJBGECL_00530	Beta-glucosidase BoGH3B
+IBJBGECL_00531	1,2-beta-oligoglucan phosphorylase
+IBJBGECL_00532	LacI family transcriptional regulator
+IBJBGECL_00533	hypothetical protein
+IBJBGECL_00534	GntR family transcriptional regulator
+IBJBGECL_00535	6-phospho-beta-galactosidase
+IBJBGECL_00536	oxidoreductase family, NAD-binding Rossmann fold protein
+IBJBGECL_00537	hypothetical protein
+IBJBGECL_00538	hypothetical protein
+IBJBGECL_00539	hypothetical protein
+IBJBGECL_00540	fibronectin-binding protein A
+IBJBGECL_00541	hypothetical protein
+IBJBGECL_00542	hypothetical protein
+IBJBGECL_00543	ABC transporter substrate binding protein
+IBJBGECL_00544	amino acid or sugar ABC transport system, permease protein
+IBJBGECL_00545	ABC transporter ATP-binding protein
+IBJBGECL_00546	hypothetical protein
+IBJBGECL_00547	hypothetical protein
+IBJBGECL_00548	HAD superfamily hydrolase
+IBJBGECL_00549	response regulator receiver domain-containing protein
+IBJBGECL_00550	sensor histidine kinase
+IBJBGECL_00551	hypothetical protein
+IBJBGECL_00552	hypothetical protein
+IBJBGECL_00553	sulfatase
+IBJBGECL_00554	SAM-dependent methyltransferase
+IBJBGECL_00555	ribonuclease HIII
+IBJBGECL_00556	cation transporter E1-E2 family ATPase
+IBJBGECL_00557	hypothetical protein
+IBJBGECL_00558	ribosome maturation protein RimP
+IBJBGECL_00559	transcription termination factor NusA
+IBJBGECL_00560	cytosolic protein YlxR
+IBJBGECL_00561	50S ribosomal protein L7Ae
+IBJBGECL_00562	translation initiation factor IF-2
+IBJBGECL_00563	ribosome-binding factor A
+IBJBGECL_00564	hypothetical protein
+IBJBGECL_00565	hypothetical protein
+IBJBGECL_00566	hypothetical protein
+IBJBGECL_00567	hypothetical protein
+IBJBGECL_00568	hypothetical protein
+IBJBGECL_00569	DNA replication protein
+IBJBGECL_00570	hypothetical protein
+IBJBGECL_00571	hypothetical protein
+IBJBGECL_00572	hypothetical protein
+IBJBGECL_00573	hypothetical protein
+IBJBGECL_00574	hypothetical protein
+IBJBGECL_00575	hypothetical protein
+IBJBGECL_00576	hypothetical protein
+IBJBGECL_00577	hypothetical protein
+IBJBGECL_00578	hypothetical protein
+IBJBGECL_00579	hypothetical protein
+IBJBGECL_00580	hypothetical protein
+IBJBGECL_00581	holin
+IBJBGECL_00582	hypothetical protein
+IBJBGECL_00583	tRNA pseudouridine synthase B
+IBJBGECL_00584	riboflavin biosynthesis protein RibF
+IBJBGECL_00585	hypothetical protein
+IBJBGECL_00586	PadR family transcriptional regulator
+IBJBGECL_00587	hypothetical protein
+IBJBGECL_00588	transcriptional regulator
+IBJBGECL_00589	FtsW/RodA/SpoVE family cell cycle protein
+IBJBGECL_00590	FtsW/RodA/SpoVE family cell cycle protein
+IBJBGECL_00591	HTH-type transcriptional regulator CynR
+IBJBGECL_00592	HTH-type transcriptional regulator CynR
+IBJBGECL_00593	magnesium-translocating P-type ATPase
+IBJBGECL_00594	putative oxygen-independent coproporphyrinogen III oxidase
+IBJBGECL_00595	heat-inducible transcription repressor HrcA
+IBJBGECL_00596	co-chaperone GrpE
+IBJBGECL_00597	chaperone protein DnaK
+IBJBGECL_00598	chaperone protein DnaJ
+IBJBGECL_00599	metallophosphoesterase
+IBJBGECL_00600	RNA binding protein S1
+IBJBGECL_00601	SprT-like family protein
+IBJBGECL_00602	tRNA-Leu
+IBJBGECL_00603	aminotransferase AlaT
+IBJBGECL_00604	hypothetical protein
+IBJBGECL_00605	helix-turn-helix domain-containing protein
+IBJBGECL_00606	N-acetylglucosamine-6-phosphate deacetylase
+IBJBGECL_00607	hypothetical protein
+IBJBGECL_00608	DNA-entry nuclease
+IBJBGECL_00609	ABC transporter ATP-binding protein
+IBJBGECL_00610	efflux ABC transporter permease
+IBJBGECL_00611	putative membrane protein YuaF
+IBJBGECL_00612	SPFH domain / Band 7 family protein
+IBJBGECL_00613	hypothetical protein
+IBJBGECL_00614	tRNA-Tyr
+IBJBGECL_00615	tRNA-Gln
+IBJBGECL_00616	hypothetical protein
+IBJBGECL_00617	TetR family dihydroxyacetone kinase regulator
+IBJBGECL_00618	hypothetical protein
+IBJBGECL_00619	GntR family transcriptional regulator
+IBJBGECL_00620	hypothetical protein
+IBJBGECL_00621	hypothetical protein
+IBJBGECL_00622	putative ABC transporter, ATP-binding protein SagG
+IBJBGECL_00623	hypothetical protein
+IBJBGECL_00624	ABC transporter ATP-binding protein
+IBJBGECL_00625	hypothetical protein
+IBJBGECL_00626	hypothetical protein
+IBJBGECL_00627	response regulator receiver domain-containing protein
+IBJBGECL_00628	hypothetical protein
+IBJBGECL_00629	thioredoxin reductase
+IBJBGECL_00630	hypothetical protein
+IBJBGECL_00631	hypothetical protein
+IBJBGECL_00632	ABC transporter ATP-binding protein/permease
+IBJBGECL_00633	hypothetical protein
+IBJBGECL_00634	ABC transporter permease
+IBJBGECL_00635	ABC transporter permease
+IBJBGECL_00636	extracellular solute-binding protein
+IBJBGECL_00637	alpha amylase
+IBJBGECL_00638	glucan 1,6-alpha-glucosidase
+IBJBGECL_00639	alpha amylase
+IBJBGECL_00640	integral membrane protein
+IBJBGECL_00641	magnesium-translocating P-type ATPase
+IBJBGECL_00642	pyruvate dehydrogenase E1 component subunit alpha
+IBJBGECL_00643	transketolase
+IBJBGECL_00644	dihydrolipoamide S-succinyltransferase
+IBJBGECL_00645	Dihydrolipoyl dehydrogenase
+IBJBGECL_00646	HTH-type transcriptional activator RhaR
+IBJBGECL_00647	glycerol dehydrogenase
+IBJBGECL_00648	dihydroxyacetone kinase, phosphotransfer subunit
+IBJBGECL_00649	dihydroxyacetone kinase subunit DhaK
+IBJBGECL_00650	dihydroxyacetone kinase, DhaL subunit
+IBJBGECL_00651	hypothetical protein
+IBJBGECL_00652	hydroxymethylglutaryl-CoA synthase
+IBJBGECL_00653	acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+IBJBGECL_00654	permease
+IBJBGECL_00655	integral membrane protein
+IBJBGECL_00656	major cold shock protein CspA
+IBJBGECL_00657	hypothetical protein
+IBJBGECL_00658	hypothetical protein
+IBJBGECL_00659	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+IBJBGECL_00660	metallo-beta-lactamase domain-containing protein
+IBJBGECL_00661	DRTGG domain-containing protein
+IBJBGECL_00662	DHHA1 domain protein
+IBJBGECL_00663	putative alkylphosphonate utilization operon protein PhnA
+IBJBGECL_00664	hypothetical protein
+IBJBGECL_00665	VanZ/RDD domain protein
+IBJBGECL_00666	DEAD/DEAH box helicase
+IBJBGECL_00667	hypothetical protein
+IBJBGECL_00668	alanyl-tRNA synthetase
+IBJBGECL_00669	SAM-dependent methyltransferase family protein
+IBJBGECL_00670	NIF3-related protein
+IBJBGECL_00671	peptidase T
+IBJBGECL_00672	membrane protein
+IBJBGECL_00673	integral membrane protein
+IBJBGECL_00674	putative molybdenum cofactor guanylyltransferase
+IBJBGECL_00675	formate/nitrite transporter
+IBJBGECL_00676	hypothetical protein
+IBJBGECL_00677	NADP-reducing hydrogenase subunit HndA
+IBJBGECL_00678	NADP-reducing hydrogenase subunit HndC
+IBJBGECL_00679	Nitrate reductase
+IBJBGECL_00680	Molybdopterin molybdenumtransferase 2
+IBJBGECL_00681	Cyclic pyranopterin monophosphate synthase
+IBJBGECL_00682	GTP 3',8-cyclase
+IBJBGECL_00683	hypothetical protein
+IBJBGECL_00684	Molybdopterin adenylyltransferase
+IBJBGECL_00685	hypothetical protein
+IBJBGECL_00686	Molybdate-binding protein ModA
+IBJBGECL_00687	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+IBJBGECL_00688	Vitamin B12 import ATP-binding protein BtuD
+IBJBGECL_00689	cadmium-translocating P-type ATPase
+IBJBGECL_00690	cell division protein ZapA
+IBJBGECL_00691	CvpA family protein
+IBJBGECL_00692	recombination and DNA strand exchange inhibitor protein
+IBJBGECL_00693	thioredoxin
+IBJBGECL_00694	excinuclease ABC subunit C
+IBJBGECL_00695	hypothetical protein
+IBJBGECL_00696	ABC transporter ATP-binding protein
+IBJBGECL_00697	putative type IV conjugative transfer system protein TraL
+IBJBGECL_00698	LacI family sugar-binding transcriptional regulator
+IBJBGECL_00699	alpha-galactosidase
+IBJBGECL_00700	hypothetical protein
+IBJBGECL_00701	ABC transporter ATP-binding protein
+IBJBGECL_00702	HI0933-like protein
+IBJBGECL_00703	NADP-specific glutamate dehydrogenase
+IBJBGECL_00704	glucose-6-phosphate isomerase
+IBJBGECL_00705	hypothetical protein
+IBJBGECL_00706	putative flavoprotein NrdI
+IBJBGECL_00707	hypothetical protein
+IBJBGECL_00708	V-type ATP synthase subunit I
+IBJBGECL_00709	V-type ATP synthase subunit K
+IBJBGECL_00710	V-type ATPase subunit E
+IBJBGECL_00711	V-type ATPase subunit C
+IBJBGECL_00712	V-type ATP synthase subunit G
+IBJBGECL_00713	V-type ATP synthase subunit A
+IBJBGECL_00714	V-type ATP synthase subunit B
+IBJBGECL_00715	V-type ATP synthase subunit D
+IBJBGECL_00716	hypothetical protein
+IBJBGECL_00717	hypothetical protein
+IBJBGECL_00718	fructose-1,6-bisphosphatase
+IBJBGECL_00719	diaminopimelate decarboxylase
+IBJBGECL_00720	Alpha/beta hydrolase family protein
+IBJBGECL_00721	hypothetical protein
+IBJBGECL_00722	hypothetical protein
+IBJBGECL_00723	hypothetical protein
+IBJBGECL_00724	hypothetical protein
+IBJBGECL_00725	metal-sulfur cluster biosynthetic enzyme
+IBJBGECL_00726	Hydrophobic dipeptide epimerase
+IBJBGECL_00727	hypothetical protein
+IBJBGECL_00728	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_00729	BglG family transcriptional antiterminator
+IBJBGECL_00730	PTS system, N-acetylglucosamine-specific IICBA component
+IBJBGECL_00731	hypothetical protein
+IBJBGECL_00732	cation transporter E1-E2 family ATPase
+IBJBGECL_00733	DNA primase
+IBJBGECL_00734	RNA polymerase sigma factor RpoD
+IBJBGECL_00735	Mid-cell-anchored protein Z
+IBJBGECL_00736	Conserved virulence factor B
+IBJBGECL_00737	transcriptional regulator, FUR family
+IBJBGECL_00738	glyceraldehyde 3-phosphate dehydrogenase
+IBJBGECL_00739	Obg family GTPase CgtA
+IBJBGECL_00740	hypothetical protein
+IBJBGECL_00741	PTS system transporter subunit IIC
+IBJBGECL_00742	TetR family transcriptional regulator
+IBJBGECL_00743	hypothetical protein
+IBJBGECL_00744	cyclophilin type peptidyl-prolyl cis-trans isomerase
+IBJBGECL_00745	alpha3-beta1 integrin-binding family protein
+IBJBGECL_00746	x-Pro dipeptidyl-peptidase
+IBJBGECL_00747	site-specific tyrosine recombinase XerD-family protein
+IBJBGECL_00748	segregation and condensation protein A
+IBJBGECL_00749	segregation and condensation protein B
+IBJBGECL_00750	16S rRNA pseudouridine synthase A
+IBJBGECL_00751	membrane protein
+IBJBGECL_00752	hypothetical protein
+IBJBGECL_00753	ferredoxin
+IBJBGECL_00754	hypothetical protein
+IBJBGECL_00755	RecQ familyATP-dependent DNA helicase
+IBJBGECL_00756	LysM domain-containing protein
+IBJBGECL_00757	cytidylate kinase
+IBJBGECL_00758	30S ribosomal protein S1
+IBJBGECL_00759	ribosome-associated GTPase EngA
+IBJBGECL_00760	DNA-binding protein HU
+IBJBGECL_00761	hypothetical protein
+IBJBGECL_00762	tetratricopeptide repeat protein
+IBJBGECL_00763	hypothetical protein
+IBJBGECL_00764	integral membrane protein
+IBJBGECL_00765	MazG nucleotide pyrophosphohydrolase domain-containing protein
+IBJBGECL_00766	dihydrodipicolinate reductase
+IBJBGECL_00767	tRNA nucleotidyltransferase/poly(A) polymerase family protein
+IBJBGECL_00768	hypothetical protein
+IBJBGECL_00769	hypothetical protein
+IBJBGECL_00770	shikimate 5-dehydrogenase
+IBJBGECL_00771	phospho-2-dehydro-3-deoxyheptonate aldolase
+IBJBGECL_00772	3-dehydroquinate synthase
+IBJBGECL_00773	chorismate synthase
+IBJBGECL_00774	prephenate dehydrogenase
+IBJBGECL_00775	3-phosphoshikimate 1-carboxyvinyltransferase
+IBJBGECL_00776	shikimate kinase
+IBJBGECL_00777	prephenate dehydratase
+IBJBGECL_00778	transcriptional regulator, PSR protein
+IBJBGECL_00779	EDD domain-containing protein, DegV family
+IBJBGECL_00780	hypothetical protein
+IBJBGECL_00781	hypothetical protein
+IBJBGECL_00782	hypothetical protein
+IBJBGECL_00783	Na+/H+ antiporter
+IBJBGECL_00784	ABC transporter ATP-binding protein
+IBJBGECL_00785	thymidylate synthase
+IBJBGECL_00786	dihydrofolate reductase
+IBJBGECL_00787	iron-sulfur cluster-binding protein
+IBJBGECL_00788	LexA repressor
+IBJBGECL_00789	hypothetical protein
+IBJBGECL_00790	transketolase
+IBJBGECL_00791	major facilitator family transporter
+IBJBGECL_00792	N-acetylmuramoyl-L-alanine amidase
+IBJBGECL_00793	cysteine synthase A
+IBJBGECL_00794	Fur family transcriptional regulator
+IBJBGECL_00795	NADH oxidase
+IBJBGECL_00796	NUDIX family hydrolase
+IBJBGECL_00797	GNAT family acetyltransferase
+IBJBGECL_00798	AraC family transcriptional regulator
+IBJBGECL_00799	ABC transporter ATP-binding protein/permease
+IBJBGECL_00800	ABC transporter ATP-binding protein/permease
+IBJBGECL_00801	RNA pyrophosphohydrolase
+IBJBGECL_00802	hypothetical protein
+IBJBGECL_00803	Vegetative catalase
+IBJBGECL_00804	Deoxyribodipyrimidine photo-lyase
+IBJBGECL_00805	Deoxyribodipyrimidine photo-lyase
+IBJBGECL_00806	helix-turn-helix domain-containing protein
+IBJBGECL_00807	PTS system, trehalose/maltose-specific, IIBCA component
+IBJBGECL_00808	alpha amylase
+IBJBGECL_00809	Glycosyl hydrolase
+IBJBGECL_00810	LacI family transcription regulator
+IBJBGECL_00811	hypothetical protein
+IBJBGECL_00812	6-phospho-beta-glucosidase
+IBJBGECL_00813	PTS system, beta-glucoside-specific IIABC component
+IBJBGECL_00814	cardiolipin synthetase
+IBJBGECL_00815	hypothetical protein
+IBJBGECL_00816	hypothetical protein
+IBJBGECL_00817	manganese-dependent inorganic pyrophosphatase
+IBJBGECL_00818	pyruvate formate-lyase activating enzyme
+IBJBGECL_00819	formate acetyltransferase
+IBJBGECL_00820	DNA topoisomerase IV subunit A
+IBJBGECL_00821	DNA topoisomerase IV subunit B
+IBJBGECL_00822	CoA-binding protein
+IBJBGECL_00823	Ethanolamine utilization protein EutQ
+IBJBGECL_00824	hypothetical protein
+IBJBGECL_00825	Carbon dioxide concentrating mechanism protein CcmL
+IBJBGECL_00826	hypothetical protein
+IBJBGECL_00827	Phosphate propanoyltransferase
+IBJBGECL_00828	hypothetical protein
+IBJBGECL_00829	Propanediol utilization protein PduA
+IBJBGECL_00830	aldehyde-alcohol dehydrogenase
+IBJBGECL_00831	hypothetical protein
+IBJBGECL_00832	Ethanolamine utilization protein EutL
+IBJBGECL_00833	Ethanolamine ammonia-lyase light chain
+IBJBGECL_00834	Ethanolamine ammonia-lyase heavy chain
+IBJBGECL_00835	hypothetical protein
+IBJBGECL_00836	hypothetical protein
+IBJBGECL_00837	putative transcriptional regulatory protein pdtaR
+IBJBGECL_00838	Propanediol utilization protein PduU
+IBJBGECL_00839	aldehyde-alcohol dehydrogenase
+IBJBGECL_00840	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+IBJBGECL_00841	Propanediol utilization protein PduV
+IBJBGECL_00842	iron ABC transporter ATP-binding protein
+IBJBGECL_00843	ferrichrome transport system permease FhuB
+IBJBGECL_00844	Vitamin B12-binding protein
+IBJBGECL_00845	acyl-phosphate glycerol 3-phosphate acyltransferase
+IBJBGECL_00846	aldose 1-epimerase
+IBJBGECL_00847	GTP-sensing transcriptional pleiotropic repressor CodY
+IBJBGECL_00848	ATP-dependent carboxylate-amine ligase
+IBJBGECL_00849	ATP-dependent protease HslVU, peptidase subunit
+IBJBGECL_00850	site-specific tyrosine recombinase XerC-family protein
+IBJBGECL_00851	glucose inhibited division protein
+IBJBGECL_00852	DNA topoisomerase I
+IBJBGECL_00853	hypothetical protein
+IBJBGECL_00854	DNA processing protein DprA
+IBJBGECL_00855	hypothetical protein
+IBJBGECL_00856	ribonuclease HII
+IBJBGECL_00857	ribosome biogenesis GTP-binding protein YlqF
+IBJBGECL_00858	2-dehydropantoate 2-reductase
+IBJBGECL_00859	LysR family transcriptional regulator
+IBJBGECL_00860	membrane protein
+IBJBGECL_00861	dihydrolipoamide S-succinyltransferase
+IBJBGECL_00862	transketolase
+IBJBGECL_00863	pyruvate dehydrogenase E1 component subunit alpha
+IBJBGECL_00864	Dihydrolipoyl dehydrogenase
+IBJBGECL_00865	putative butyrate kinase 2
+IBJBGECL_00866	Phosphate acetyltransferase
+IBJBGECL_00867	integral membrane protein
+IBJBGECL_00868	hypothetical protein
+IBJBGECL_00869	hypothetical protein
+IBJBGECL_00870	3-oxoacyl-ACP reductase
+IBJBGECL_00871	HTH-type transcriptional regulator MhqR
+IBJBGECL_00872	glyoxalase family protein
+IBJBGECL_00873	phospholipase/carboxylesterase
+IBJBGECL_00874	zinc-containing alcohol dehydrogenase
+IBJBGECL_00875	hypothetical protein
+IBJBGECL_00876	ABC transporter ATP-binding protein
+IBJBGECL_00877	hypothetical protein
+IBJBGECL_00878	bacitracin transport ATP-binding protein BcrA
+IBJBGECL_00879	hypothetical protein
+IBJBGECL_00880	hypothetical protein
+IBJBGECL_00881	signal peptidase I
+IBJBGECL_00882	Carboxy-terminal processing protease CtpA
+IBJBGECL_00883	hypothetical protein
+IBJBGECL_00884	methionine sulfoxide reductase MsrA
+IBJBGECL_00885	hypothetical protein
+IBJBGECL_00886	GDSL-like lipase/acylhydrolase
+IBJBGECL_00887	DegV family protein
+IBJBGECL_00888	hemolysin III family channel protein
+IBJBGECL_00889	hypothetical protein
+IBJBGECL_00890	adenine phosphoribosyltransferase
+IBJBGECL_00891	single-stranded-DNA-specific exonuclease RecJ
+IBJBGECL_00892	hypothetical protein
+IBJBGECL_00893	short chain dehydrogenase/reductase family oxidoreductase
+IBJBGECL_00894	Ribonuclease Z
+IBJBGECL_00895	hypothetical protein
+IBJBGECL_00896	RNA-binding protein
+IBJBGECL_00897	30S ribosomal protein S16
+IBJBGECL_00898	Mycothiol acetyltransferase
+IBJBGECL_00899	flavin reductase
+IBJBGECL_00900	transcriptional regulator, MerR family
+IBJBGECL_00901	signal recognition particle protein
+IBJBGECL_00902	DNA-binding protein
+IBJBGECL_00903	hypothetical protein
+IBJBGECL_00904	response regulator receiver domain-containing protein
+IBJBGECL_00905	sensory box histidine kinase
+IBJBGECL_00906	phosphate-binding protein
+IBJBGECL_00907	aromatic amino acid aminotransferase
+IBJBGECL_00908	glycosyl hydrolase family 38 protein
+IBJBGECL_00909	hypothetical protein
+IBJBGECL_00910	transcriptional regulator, GntR family
+IBJBGECL_00911	LysR family transcriptional regulator
+IBJBGECL_00912	carbonic anhydrase
+IBJBGECL_00913	orotate phosphoribosyltransferase
+IBJBGECL_00914	Orotidine 5'-phosphate decarboxylase
+IBJBGECL_00915	Dihydroorotate dehydrogenase 1B
+IBJBGECL_00916	dihydroorotate dehydrogenase, electron transfer subunit
+IBJBGECL_00917	carbamoyl-phosphate synthase large subunit
+IBJBGECL_00918	carbamoyl-phosphate synthase small subunit
+IBJBGECL_00919	Dihydroorotase
+IBJBGECL_00920	aspartate carbamoyltransferase
+IBJBGECL_00921	uracil permease
+IBJBGECL_00922	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR
+IBJBGECL_00923	RluA family pseudouridine synthase
+IBJBGECL_00924	lipoprotein signal peptidase
+IBJBGECL_00925	CBS domain pair protein
+IBJBGECL_00926	Formate--tetrahydrofolate ligase
+IBJBGECL_00927	cold shock domain-containing protein
+IBJBGECL_00928	hypothetical protein
+IBJBGECL_00929	ribonuclease HI
+IBJBGECL_00930	YbaK/ebsC protein
+IBJBGECL_00931	3-dehydroquinate dehydratase
+IBJBGECL_00932	ABC transporter ATP-binding protein
+IBJBGECL_00933	Multidrug resistance-like ATP-binding protein mdlA
+IBJBGECL_00934	hypothetical protein
+IBJBGECL_00935	endonuclease IV
+IBJBGECL_00936	hypothetical protein
+IBJBGECL_00937	hypothetical protein
+IBJBGECL_00938	tyrosyl-tRNA synthetase
+IBJBGECL_00939	glycosyl transferase
+IBJBGECL_00940	catabolite control protein A
+IBJBGECL_00941	Xaa-Pro dipeptidase
+IBJBGECL_00942	general stress protein
+IBJBGECL_00943	extracellular protein
+IBJBGECL_00944	UTP-glucose-1-phosphate uridylyltransferase
+IBJBGECL_00945	glycerol-3-phosphate dehydrogenase
+IBJBGECL_00946	Prolipoprotein diacylglyceryl transferase
+IBJBGECL_00947	HPr kinase/phosphorylase
+IBJBGECL_00948	excinuclease ABC
+IBJBGECL_00949	integral membrane protein
+IBJBGECL_00950	PspC domain protein
+IBJBGECL_00951	hypothetical protein
+IBJBGECL_00952	phosphate transport system regulatory protein PhoU
+IBJBGECL_00953	phosphate ABC transporter ATP-binding protein
+IBJBGECL_00954	phosphate ABC transporter ATP-binding protein
+IBJBGECL_00955	phosphate ABC transporter, permease protein PstA
+IBJBGECL_00956	phosphate ABC transporter permease PstC
+IBJBGECL_00957	phosphate binding protein
+IBJBGECL_00958	efflux ABC transporter, permease protein
+IBJBGECL_00959	cell division ATP-binding protein FtsE
+IBJBGECL_00960	peptide chain release factor 2
+IBJBGECL_00961	preprotein translocase, SecA subunit
+IBJBGECL_00962	ribosomal subunit interface protein
+IBJBGECL_00963	competence protein ComFC
+IBJBGECL_00964	helicase
+IBJBGECL_00965	hypothetical protein
+IBJBGECL_00966	PTS system cellobiose-specific transporter subunit IIB
+IBJBGECL_00967	hypothetical protein
+IBJBGECL_00968	IMPACT family member YigZ
+IBJBGECL_00969	hypothetical protein
+IBJBGECL_00970	aldose dehydrogenase
+IBJBGECL_00971	membrane protein
+IBJBGECL_00972	Tim44-like domain-containing protein
+IBJBGECL_00973	hypothetical protein
+IBJBGECL_00974	Phosphoribosylamine--glycine ligase
+IBJBGECL_00975	bifunctional purine biosynthesis protein PurH
+IBJBGECL_00976	Phosphoribosylglycinamide formyltransferase
+IBJBGECL_00977	Phosphoribosylformylglycinamidine cyclo-ligase
+IBJBGECL_00978	Amidophosphoribosyltransferase
+IBJBGECL_00979	Phosphoribosylformylglycinamidine synthase II
+IBJBGECL_00980	Phosphoribosylformylglycinamidine synthase I
+IBJBGECL_00981	phosphoribosylformylglycinamidine synthase subunit PurS
+IBJBGECL_00982	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IBJBGECL_00983	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+IBJBGECL_00984	phosphoribosylaminoimidazole carboxylase catalytic subunit
+IBJBGECL_00985	SPFH domain / Band 7 family protein
+IBJBGECL_00986	YjeF protein
+IBJBGECL_00987	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_00988	hypothetical protein
+IBJBGECL_00989	branched-chain amino acid aminotransferase
+IBJBGECL_00990	hypothetical protein
+IBJBGECL_00991	hypothetical protein
+IBJBGECL_00992	hypothetical protein
+IBJBGECL_00993	hypothetical protein
+IBJBGECL_00994	hypothetical protein
+IBJBGECL_00995	PTS system, mannose/fructose/sorbose-specific IIA component
+IBJBGECL_00996	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_00997	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_00998	PTS system, mannose/fructose/sorbose-specific IIB component
+IBJBGECL_00999	Beta-galactosidase
+IBJBGECL_01000	Tagatose-6-phosphate kinase
+IBJBGECL_01001	tagatose 1,6-diphosphate aldolase
+IBJBGECL_01002	sugar isomerase
+IBJBGECL_01003	transcriptional regulator, GntR family
+IBJBGECL_01004	glycosyl transferase family protein
+IBJBGECL_01005	glycosyl transferase family protein
+IBJBGECL_01006	sulfatase
+IBJBGECL_01007	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+IBJBGECL_01008	hypothetical protein
+IBJBGECL_01009	hypothetical protein
+IBJBGECL_01010	Glutamyl endopeptidase
+IBJBGECL_01011	Gelatinase
+IBJBGECL_01012	hypothetical protein
+IBJBGECL_01013	Accessory gene regulator protein B
+IBJBGECL_01014	Accessory gene regulator A
+IBJBGECL_01015	hypothetical protein
+IBJBGECL_01016	hypothetical protein
+IBJBGECL_01017	hypothetical protein
+IBJBGECL_01018	Alcohol dehydrogenase 1
+IBJBGECL_01019	cell wall surface anchor family protein
+IBJBGECL_01020	hypothetical protein
+IBJBGECL_01021	hypothetical protein
+IBJBGECL_01022	hypothetical protein
+IBJBGECL_01023	M protein trans-acting positive regulator
+IBJBGECL_01024	hypothetical protein
+IBJBGECL_01025	Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase
+IBJBGECL_01026	cobalt import ATP-binding protein CbiO 2
+IBJBGECL_01027	Nickel permease LarQ
+IBJBGECL_01028	putative fused nickel transport protein LarMN
+IBJBGECL_01029	CarD family transcriptional regulator
+IBJBGECL_01030	Lactate racemase
+IBJBGECL_01031	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+IBJBGECL_01032	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+IBJBGECL_01033	glycerol uptake facilitator protein
+IBJBGECL_01034	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_01035	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_01036	PTS system mannose-specific transporter subunit IIAB
+IBJBGECL_01037	PTS system, mannose/fructose/sorbose-specific IIAB component
+IBJBGECL_01038	hypothetical protein
+IBJBGECL_01039	Galactose-6-phosphate isomerase subunit LacB
+IBJBGECL_01040	Galactose-6-phosphate isomerase subunit LacA
+IBJBGECL_01041	hypothetical protein
+IBJBGECL_01042	hypothetical protein
+IBJBGECL_01043	PTS system galactitol-specific transporter subunit IIC
+IBJBGECL_01044	DeoR-like helix-turn-helix protein
+IBJBGECL_01045	hypothetical protein
+IBJBGECL_01046	HD domain-containing protein
+IBJBGECL_01047	polysaccharide deacetylase family protein
+IBJBGECL_01048	CobW/P47K family protein
+IBJBGECL_01049	hypothetical protein
+IBJBGECL_01050	50S ribosomal protein L32
+IBJBGECL_01051	hypothetical protein
+IBJBGECL_01052	hypothetical protein
+IBJBGECL_01053	hypothetical protein
+IBJBGECL_01054	hypothetical protein
+IBJBGECL_01055	hypothetical protein
+IBJBGECL_01056	hypothetical protein
+IBJBGECL_01057	hypothetical protein
+IBJBGECL_01058	hypothetical protein
+IBJBGECL_01059	hypothetical protein
+IBJBGECL_01060	hypothetical protein
+IBJBGECL_01061	hypothetical protein
+IBJBGECL_01062	50S ribosomal protein L19
+IBJBGECL_01063	tRNA (guanine-N1)-methyltransferase
+IBJBGECL_01064	16S rRNA processing protein RimM
+IBJBGECL_01065	metal ion transporter
+IBJBGECL_01066	hypothetical protein
+IBJBGECL_01067	hypothetical protein
+IBJBGECL_01068	glycerophosphodiester phosphodiesterase family protein
+IBJBGECL_01069	Inhibitor of apoptosis-promoting Bax1
+IBJBGECL_01070	MaoC like domain-containing protein
+IBJBGECL_01071	UDP-N-acetylmuramate--L-alanine ligase
+IBJBGECL_01072	hypothetical protein
+IBJBGECL_01073	membrane spanning protein
+IBJBGECL_01074	membrane protein
+IBJBGECL_01075	ROK family protein
+IBJBGECL_01076	Putative membrane protein insertion efficiency factor
+IBJBGECL_01077	hypothetical protein
+IBJBGECL_01078	ribosome biogenesis GTP-binding protein YsxC
+IBJBGECL_01079	ATP-dependent protease ATP-binding protein ClpX
+IBJBGECL_01080	3-carboxymuconate cyclase
+IBJBGECL_01081	hypothetical protein
+IBJBGECL_01082	Putative cryptic C4-dicarboxylate transporter DcuD
+IBJBGECL_01083	inosine-uridine preferring nucleoside hydrolase
+IBJBGECL_01084	Sulfofructose kinase
+IBJBGECL_01085	M protein trans-acting positive regulator
+IBJBGECL_01086	hypothetical protein
+IBJBGECL_01087	hypothetical protein
+IBJBGECL_01088	glycerol uptake facilitator protein
+IBJBGECL_01089	alpha-glycerophosphate oxidase
+IBJBGECL_01090	glycerol kinase
+IBJBGECL_01091	helix-turn-helix domain-containing protein
+IBJBGECL_01092	pyridine nucleotide-disulfide oxidoreductase
+IBJBGECL_01093	hypothetical protein
+IBJBGECL_01094	hypothetical protein
+IBJBGECL_01095	hypothetical protein
+IBJBGECL_01096	hypothetical protein
+IBJBGECL_01097	calcium-translocating P-type ATPase
+IBJBGECL_01098	hypothetical protein
+IBJBGECL_01099	Regulatory protein YeiL
+IBJBGECL_01100	hypothetical protein
+IBJBGECL_01101	Multidrug resistance protein MdtL
+IBJBGECL_01102	arylsulfatase
+IBJBGECL_01103	hypothetical protein
+IBJBGECL_01104	hypothetical protein
+IBJBGECL_01105	hypothetical protein
+IBJBGECL_01106	hypothetical protein
+IBJBGECL_01107	HD domain-containing protein
+IBJBGECL_01108	arginyl-tRNA synthetase
+IBJBGECL_01109	O-sialoglycoprotein endopeptidase
+IBJBGECL_01110	ribosomal-protein-alanine acetyltransferase
+IBJBGECL_01111	ribosomal-protein-alanine acetyltransferase
+IBJBGECL_01112	universal bacterial protein YeaZ
+IBJBGECL_01113	penicillin binding protein transpeptidase domain protein
+IBJBGECL_01114	Putative virion core protein
+IBJBGECL_01115	hypothetical protein
+IBJBGECL_01116	hypothetical protein
+IBJBGECL_01117	hypothetical protein
+IBJBGECL_01118	Phosphoglycolate phosphatase
+IBJBGECL_01119	hypothetical protein
+IBJBGECL_01120	hypothetical protein
+IBJBGECL_01121	ABC transporter
+IBJBGECL_01122	Vitamin B12 import ATP-binding protein BtuD
+IBJBGECL_01123	UDP-galactopyranose mutase
+IBJBGECL_01124	hypothetical protein
+IBJBGECL_01125	UDP-N-acetylenolpyruvoylglucosamine reductase
+IBJBGECL_01126	hypothetical protein
+IBJBGECL_01127	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IBJBGECL_01128	hypothetical protein
+IBJBGECL_01129	Teichoic acid glycerol-phosphate transferase
+IBJBGECL_01130	phosphatidate cytidylyltransferase
+IBJBGECL_01131	undecaprenyl diphosphate synthase
+IBJBGECL_01132	putative D-methionine-binding lipoprotein MetQ
+IBJBGECL_01133	ABC transporter permease
+IBJBGECL_01134	ABC transporter ATP-binding protein
+IBJBGECL_01135	glycine cleavage H-protein
+IBJBGECL_01136	ArsC family protein
+IBJBGECL_01137	FtsW/RodA/SpoVE family cell cycle protein
+IBJBGECL_01138	M protein trans-acting positive regulator
+IBJBGECL_01139	hypothetical protein
+IBJBGECL_01140	hypothetical protein
+IBJBGECL_01141	hypothetical protein
+IBJBGECL_01142	helix-turn-helix domain-containing protein
+IBJBGECL_01143	azaleucine resistance protein AzlC_1
+IBJBGECL_01144	Branched-chain amino acid transport protein
+IBJBGECL_01145	tRNA-Thr
+IBJBGECL_01146	hypothetical protein
+IBJBGECL_01147	hypothetical protein
+IBJBGECL_01148	uracil phosphoribosyltransferase
+IBJBGECL_01149	serine hydroxymethyltransferase
+IBJBGECL_01150	Sua5/YciO/YrdC/YwlC family protein
+IBJBGECL_01151	modification methylase HemK
+IBJBGECL_01152	peptide chain release factor 1
+IBJBGECL_01153	Thymidine kinase
+IBJBGECL_01154	fumarate reductase flavoprotein subunit
+IBJBGECL_01155	cation transporter
+IBJBGECL_01156	pyruvate flavodoxin oxidoreductase subunit alpha
+IBJBGECL_01157	Glutamate synthase [NADPH] small chain
+IBJBGECL_01158	dihydroorotate dehydrogenase, electron transfer subunit
+IBJBGECL_01159	flavodoxin
+IBJBGECL_01160	hypothetical protein
+IBJBGECL_01161	hypothetical protein
+IBJBGECL_01162	hypothetical protein
+IBJBGECL_01163	hypothetical protein
+IBJBGECL_01164	Selenide, water dikinase
+IBJBGECL_01165	cysteine desulfurase
+IBJBGECL_01166	Molybdenum cofactor guanylyltransferase
+IBJBGECL_01167	hypothetical protein
+IBJBGECL_01168	putative xanthine dehydrogenase subunit A
+IBJBGECL_01169	hypothetical protein
+IBJBGECL_01170	xanthine permease
+IBJBGECL_01171	2-iminobutanoate/2-iminopropanoate deaminase
+IBJBGECL_01172	Carbamate kinase
+IBJBGECL_01173	Putative carbamoyltransferase YgeW
+IBJBGECL_01174	Putative dipeptidase
+IBJBGECL_01175	Diaminopropionate ammonia-lyase
+IBJBGECL_01176	Dihydroorotase
+IBJBGECL_01177	Putative oxidoreductase YgfK
+IBJBGECL_01178	Putative aminohydrolase SsnA
+IBJBGECL_01179	Transcriptional regulator DauR
+IBJBGECL_01180	Mur ligase middle domain-containing protein
+IBJBGECL_01181	CobB/CobQ-like glutamine amidotransferase domain protein
+IBJBGECL_01182	inosine-uridine preferring nucleoside hydrolase
+IBJBGECL_01183	integral membrane protein
+IBJBGECL_01184	mannose-6-phosphate isomerase
+IBJBGECL_01185	Beta-lactamase
+IBJBGECL_01186	glyoxalase family protein
+IBJBGECL_01187	ABC transporter ATP-binding protein/permease
+IBJBGECL_01188	ABC transporter ATP-binding protein/permease
+IBJBGECL_01189	TetR family transcriptional regulator
+IBJBGECL_01190	guanylate kinase
+IBJBGECL_01191	6-phospho-beta-glucosidase
+IBJBGECL_01192	PTS system beta-glucoside-specific transporter subunit IIABC
+IBJBGECL_01193	BglG family transcriptional antiterminator
+IBJBGECL_01194	azoreductase
+IBJBGECL_01195	permease
+IBJBGECL_01196	PTS system, glucitol/sorbitol-specific IIA component
+IBJBGECL_01197	hypothetical protein
+IBJBGECL_01198	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IBJBGECL_01199	membrane protein
+IBJBGECL_01200	ATP synthase F1 subunit epsilon
+IBJBGECL_01201	ATP synthase F1 subunit beta
+IBJBGECL_01202	ATP synthase F1 subunit gamma
+IBJBGECL_01203	ATP synthase F1 subunit alpha
+IBJBGECL_01204	ATP synthase F1, delta subunit
+IBJBGECL_01205	ATP synthase F0, B subunit
+IBJBGECL_01206	ATP synthase subunit c
+IBJBGECL_01207	ATP synthase subunit C
+IBJBGECL_01208	SsrA-binding protein
+IBJBGECL_01209	ribonuclease R
+IBJBGECL_01210	carboxylesterase
+IBJBGECL_01211	preprotein translocase, SecG subunit
+IBJBGECL_01212	GNAT family acetyltransferase
+IBJBGECL_01213	hypothetical protein
+IBJBGECL_01214	cadmium-translocating P-type ATPase
+IBJBGECL_01215	NH(3)-dependent NAD(+) synthetase
+IBJBGECL_01216	Nicotinate phosphoribosyltransferase
+IBJBGECL_01217	cell wall teichoic acid glycosylation protein GtcA family protein
+IBJBGECL_01218	hypothetical protein
+IBJBGECL_01219	hypothetical protein
+IBJBGECL_01220	hypothetical protein
+IBJBGECL_01221	chaperonin GroL
+IBJBGECL_01222	chaperonin GroS
+IBJBGECL_01223	hypothetical protein
+IBJBGECL_01224	CAAX amino terminal protease
+IBJBGECL_01225	redox-sensitive transcriptional regulator
+IBJBGECL_01226	ABC transporter ATP-binding protein
+IBJBGECL_01227	GntR family transcriptional regulator
+IBJBGECL_01228	glycine betaine transporter ATP-binding subunit
+IBJBGECL_01229	Substrate binding domain of ABC-type glycine betaine transport system
+IBJBGECL_01230	hypothetical protein
+IBJBGECL_01231	diacylglycerol kinase catalytic subunit
+IBJBGECL_01232	hypothetical protein
+IBJBGECL_01233	glycerate kinase
+IBJBGECL_01234	High-affinity gluconate transporter
+IBJBGECL_01235	hypothetical protein
+IBJBGECL_01236	spermidine/putrescine-binding periplasmic protein PotD
+IBJBGECL_01237	spermidine/putrescine transport system permease protein PotC
+IBJBGECL_01238	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+IBJBGECL_01239	Spermidine/putrescine import ATP-binding protein PotA
+IBJBGECL_01240	helix-turn-helix domain-containing protein
+IBJBGECL_01241	YhdH/YhfP family quinone oxidoreductase
+IBJBGECL_01242	phosphopantothenate--cysteine ligase
+IBJBGECL_01243	phosphopantothenoylcysteine decarboxylase
+IBJBGECL_01244	integral membrane protein
+IBJBGECL_01245	Aminoacyltransferase FemB
+IBJBGECL_01246	integral membrane protein
+IBJBGECL_01247	diacylglycerol kinase catalytic subunit
+IBJBGECL_01248	RecD/TraA family helicase
+IBJBGECL_01249	phosphoglycerate mutase family protein
+IBJBGECL_01250	TrmH family RNA methyltransferase
+IBJBGECL_01251	methyltransferase domain protein
+IBJBGECL_01252	copper homeostasis protein CutC
+IBJBGECL_01253	magnesium transporter
+IBJBGECL_01254	ribosomal large subunit pseudouridine synthase
+IBJBGECL_01255	inorganic polyphosphate/ATP-NAD kinase
+IBJBGECL_01256	GTP diphosphokinase
+IBJBGECL_01257	adenylate cyclase
+IBJBGECL_01258	dithiol-disulfide isomerase
+IBJBGECL_01259	oligoendopeptidase F
+IBJBGECL_01260	hypothetical protein
+IBJBGECL_01261	MecA negative regulator of genetic competence
+IBJBGECL_01262	transcriptional regulator Spx
+IBJBGECL_01263	Tryptophanyl-tRNA synthetase II
+IBJBGECL_01264	ABC transporter ATP-binding protein
+IBJBGECL_01265	HAD superfamily hydrolase
+IBJBGECL_01266	cell wall surface anchor family protein
+IBJBGECL_01267	hypothetical protein
+IBJBGECL_01268	hypothetical protein
+IBJBGECL_01269	hypothetical protein
+IBJBGECL_01270	hypothetical protein
+IBJBGECL_01271	Snf2 family protein
+IBJBGECL_01272	exonuclease SbcC
+IBJBGECL_01273	exonuclease SbcD
+IBJBGECL_01274	acyltransferase
+IBJBGECL_01275	methyltransferase small domain-containing protein
+IBJBGECL_01276	GIY-YIG nuclease superfamily protein
+IBJBGECL_01277	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IBJBGECL_01278	hypothetical protein
+IBJBGECL_01279	nudix hydrolase, YffH family
+IBJBGECL_01280	hypothetical protein
+IBJBGECL_01281	tellurite resistance protein
+IBJBGECL_01282	NUDIX family hydrolase
+IBJBGECL_01283	acetyltransferase, GNAT family
+IBJBGECL_01284	hypothetical protein
+IBJBGECL_01285	transcriptional regulator
+IBJBGECL_01286	A/G-specific adenine glycosylase
+IBJBGECL_01287	recombination regulator RecX
+IBJBGECL_01288	23S rRNA (uracil-5-)-methyltransferase
+IBJBGECL_01289	transglycosylase associated protein
+IBJBGECL_01290	Evolved beta-galactosidase subunit alpha
+IBJBGECL_01291	amino acid permease family protein
+IBJBGECL_01292	AraC-like ligand binding domain protein
+IBJBGECL_01293	hypothetical protein
+IBJBGECL_01294	50S ribosomal protein L7/L12
+IBJBGECL_01295	50S ribosomal protein L10
+IBJBGECL_01296	50S ribosomal protein L1
+IBJBGECL_01297	50S ribosomal protein L11
+IBJBGECL_01298	ABC transporter ATP-binding protein
+IBJBGECL_01299	L-serine dehydratase, iron-sulfur-dependent subunit beta
+IBJBGECL_01300	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+IBJBGECL_01301	D-aminopeptidase
+IBJBGECL_01302	glutamyl aminopeptidase
+IBJBGECL_01303	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_01304	hypothetical protein
+IBJBGECL_01305	hypothetical protein
+IBJBGECL_01306	transcription termination/antitermination factor NusG
+IBJBGECL_01307	Preprotein translocase subunit SecE
+IBJBGECL_01308	50S ribosomal protein L33
+IBJBGECL_01309	transcriptional regulator
+IBJBGECL_01310	UDP-N-acetylenolpyruvoylglucosamine reductase
+IBJBGECL_01311	oxidoreductase family, NAD-binding Rossmann fold protein
+IBJBGECL_01312	exodeoxyribonuclease III
+IBJBGECL_01313	exonuclease, DNA polymerase III, epsilon subunit family protein
+IBJBGECL_01314	hypothetical protein
+IBJBGECL_01315	Ferredoxin--NADP reductase
+IBJBGECL_01316	alkyl hydroperoxide reductase subunit C
+IBJBGECL_01317	O-methyltransferase
+IBJBGECL_01318	lipoyltransferase and lipoate-protein ligase A
+IBJBGECL_01319	metallo-beta-lactamase domain-containing protein
+IBJBGECL_01320	integral membrane protein
+IBJBGECL_01321	M42 glutamyl aminopeptidase
+IBJBGECL_01322	D-alanyl-lipoteichoic acid synthetase, DltD
+IBJBGECL_01323	D-alanine--poly(phosphoribitol) ligase subunit 2
+IBJBGECL_01324	membrane bound O-acyl transferase
+IBJBGECL_01325	D-alanine--poly(phosphoribitol) ligase subunit 1
+IBJBGECL_01326	hypothetical protein
+IBJBGECL_01327	efflux ABC transporter permease
+IBJBGECL_01328	ABC transporter ATP-binding protein
+IBJBGECL_01329	anaerobic ribonucleoside triphosphate reductase
+IBJBGECL_01330	anaerobic ribonucleoside-triphosphate reductase activating protein
+IBJBGECL_01331	DNA polymerase IV
+IBJBGECL_01332	putative iron export permease protein FetB
+IBJBGECL_01333	ABC transporter ATP-binding protein
+IBJBGECL_01334	tetrapyrrole methylase family protein
+IBJBGECL_01335	DNA replication initiation control protein YabA
+IBJBGECL_01336	stage 0 sporulation family protein
+IBJBGECL_01337	DNA polymerase III subunit delta'
+IBJBGECL_01338	putative protein YaaQ
+IBJBGECL_01339	thymidylate kinase
+IBJBGECL_01340	recombination protein RecR
+IBJBGECL_01341	Aminopyrimidine aminohydrolase
+IBJBGECL_01342	hypothetical protein
+IBJBGECL_01343	ABC transporter ATP-binding protein
+IBJBGECL_01344	Putative HMP/thiamine permease protein YkoE
+IBJBGECL_01345	hypothetical protein
+IBJBGECL_01346	major facilitator superfamily transporter
+IBJBGECL_01347	Inner membrane transport protein YdhP
+IBJBGECL_01348	putative HTH-type transcriptional regulator YtcD
+IBJBGECL_01349	phosphomethylpyrimidine kinase
+IBJBGECL_01350	Thiamine-phosphate synthase
+IBJBGECL_01351	Hydroxyethylthiazole kinase
+IBJBGECL_01352	hypothetical protein
+IBJBGECL_01353	Nucleoid-associated protein
+IBJBGECL_01354	DNA polymerase III subunits gamma and tau
+IBJBGECL_01355	galactose-1-phosphate uridylyltransferase
+IBJBGECL_01356	UDP-glucose 4-epimerase
+IBJBGECL_01357	hypothetical protein
+IBJBGECL_01358	FAD(NAD)-dependent oxidoreductase
+IBJBGECL_01359	hypothetical protein
+IBJBGECL_01360	rhodanese family protein
+IBJBGECL_01361	glucokinase
+IBJBGECL_01362	putative protein YqgQ
+IBJBGECL_01363	peptidase, S54 family protein
+IBJBGECL_01364	5-formyltetrahydrofolate cyclo-ligase
+IBJBGECL_01365	putative lipase/esterase
+IBJBGECL_01366	hypothetical protein
+IBJBGECL_01367	hypothetical protein
+IBJBGECL_01368	hypothetical protein
+IBJBGECL_01369	hypothetical protein
+IBJBGECL_01370	tRNA-Ser
+IBJBGECL_01371	50S ribosomal protein L33
+IBJBGECL_01372	Penicillin binding protein transpeptidase domain protein
+IBJBGECL_01373	threonyl-tRNA synthetase
+IBJBGECL_01374	4-oxalocrotonate tautomerase
+IBJBGECL_01375	ErfK/YbiS/YcfS/YnhG family protein
+IBJBGECL_01376	Streptomycin adenyltransferase
+IBJBGECL_01377	integral membrane protein
+IBJBGECL_01378	Endo-beta-N-acetylglucosaminidase H
+IBJBGECL_01379	hypothetical protein
+IBJBGECL_01380	putative transcriptional regulatory protein
+IBJBGECL_01381	nucleotidyltransferase
+IBJBGECL_01382	methyltransferase domain protein
+IBJBGECL_01383	ribosome-associated protein
+IBJBGECL_01384	HD domain-containing protein
+IBJBGECL_01385	nicotinic acid mononucleotide adenylyltransferase
+IBJBGECL_01386	RNA-binding protein YhbY
+IBJBGECL_01387	ribosome biogenesis GTPase YqeH
+IBJBGECL_01388	HAD superfamily hydrolase
+IBJBGECL_01389	acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+IBJBGECL_01390	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+IBJBGECL_01391	acetyl-CoA carboxylase, biotin carboxylase subunit
+IBJBGECL_01392	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+IBJBGECL_01393	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+IBJBGECL_01394	beta-ketoacyl-acyl-carrier-protein synthase II
+IBJBGECL_01395	3-oxoacyl-ACP reductase
+IBJBGECL_01396	Malonyl CoA-acyl carrier protein transacylase
+IBJBGECL_01397	Nitronate monooxygenase
+IBJBGECL_01398	acyl carrier protein
+IBJBGECL_01399	3-oxoacyl-ACP synthase
+IBJBGECL_01400	MarR family transcriptional regulator
+IBJBGECL_01401	putative protein YkuJ
+IBJBGECL_01402	2-hydroxy-3-oxopropionate reductase
+IBJBGECL_01403	glycosyl transferase family protein
+IBJBGECL_01404	glycosyl transferase family protein
+IBJBGECL_01405	tRNA-Asn
+IBJBGECL_01406	tRNA-Gly
+IBJBGECL_01407	tRNA-Leu
+IBJBGECL_01408	tRNA-Arg
+IBJBGECL_01409	tRNA-Pro
+IBJBGECL_01410	RpiR family transcriptional regulator
+IBJBGECL_01411	PTS system, lactose/cellobiose IIC component
+IBJBGECL_01412	cystathionine gamma-synthase
+IBJBGECL_01413	firmicute transcriptional repressor of class III stress
+IBJBGECL_01414	negative regulator of genetic competence ClpC/MecB
+IBJBGECL_01415	hypothetical protein
+IBJBGECL_01416	peptidase, U32 family
+IBJBGECL_01417	peptidase, U32 family
+IBJBGECL_01418	hypothetical protein
+IBJBGECL_01419	Cytosine permease
+IBJBGECL_01420	hypothetical protein
+IBJBGECL_01421	hydantoinase/oxoprolinase
+IBJBGECL_01422	hypothetical protein
+IBJBGECL_01423	Glutathione reductase
+IBJBGECL_01424	Dihydroneopterin aldolase
+IBJBGECL_01425	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+IBJBGECL_01426	GTP cyclohydrolase 1
+IBJBGECL_01427	Ribonuclease PH/Ham1 protein
+IBJBGECL_01428	Dihydropteroate synthase
+IBJBGECL_01429	polyprenyl synthetase
+IBJBGECL_01430	Heptaprenyl diphosphate synthase component I
+IBJBGECL_01431	CobW/P47K family protein
+IBJBGECL_01432	pyridine nucleotide-disulfide family oxidoreductase
+IBJBGECL_01433	FMN-binding domain-containing protein
+IBJBGECL_01434	ApbE family protein
+IBJBGECL_01435	prenyltransferase, UbiA family
+IBJBGECL_01436	hypothetical protein
+IBJBGECL_01437	hypothetical protein
+IBJBGECL_01438	hypothetical protein
+IBJBGECL_01439	Transcriptional regulator LytR
+IBJBGECL_01440	hypothetical protein
+IBJBGECL_01441	hypothetical protein
+IBJBGECL_01442	biotin-[acetyl-CoA-carboxylase] ligase
+IBJBGECL_01443	hypothetical protein
+IBJBGECL_01444	AbrB family transcriptional regulator
+IBJBGECL_01445	toxin-antitoxin system, toxin component, MazF family
+IBJBGECL_01446	DNA-directed RNA polymerase subunit beta
+IBJBGECL_01447	DNA-directed RNA polymerase subunit beta'
+IBJBGECL_01448	bacterial Peptidase A24 protein
+IBJBGECL_01449	gluconate kinase
+IBJBGECL_01450	hypothetical protein
+IBJBGECL_01451	DNA protection during starvation protein 1
+IBJBGECL_01452	50S ribosomal protein L13
+IBJBGECL_01453	30S ribosomal protein S9
+IBJBGECL_01454	hypothetical protein
+IBJBGECL_01455	hypothetical protein
+IBJBGECL_01456	hypothetical protein
+IBJBGECL_01457	hypothetical protein
+IBJBGECL_01458	hypothetical protein
+IBJBGECL_01459	AraC family transcriptional regulator
+IBJBGECL_01460	PTS system beta-glucoside-specific transporter subunit IIABC
+IBJBGECL_01461	6-phospho-beta-glucosidase
+IBJBGECL_01462	PRD domain-containing protein
+IBJBGECL_01463	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_01464	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_01465	PTS system, mannose/fructose/sorbose-specific IIB component
+IBJBGECL_01466	PTS system, mannose/fructose/sorbose-specific IIA component
+IBJBGECL_01467	ABC transporter, ATP-binding protein
+IBJBGECL_01468	ABC transporter permease
+IBJBGECL_01469	tRNA-dihydrouridine synthase
+IBJBGECL_01470	periplasmic solute binding family protein
+IBJBGECL_01471	hypothetical protein
+IBJBGECL_01472	cobalamin synthesis protein
+IBJBGECL_01473	50S ribosomal protein L33
+IBJBGECL_01474	30S ribosomal protein S14
+IBJBGECL_01475	hypothetical protein
+IBJBGECL_01476	ABC transporter ATP-binding protein
+IBJBGECL_01477	ABC transporter permease
+IBJBGECL_01478	putative D-methionine-binding lipoprotein MetQ
+IBJBGECL_01479	Sensor histidine kinase YpdA
+IBJBGECL_01480	Sensory transduction protein LytR
+IBJBGECL_01481	Antiholin-like protein LrgA
+IBJBGECL_01482	LrgB family protein
+IBJBGECL_01483	isochorismatase family protein
+IBJBGECL_01484	esterase
+IBJBGECL_01485	hypothetical protein
+IBJBGECL_01486	hypothetical protein
+IBJBGECL_01487	hypothetical protein
+IBJBGECL_01488	hypothetical protein
+IBJBGECL_01489	hypothetical protein
+IBJBGECL_01490	cell wall surface anchor family protein
+IBJBGECL_01491	hypothetical protein
+IBJBGECL_01492	M protein trans-acting positive regulator
+IBJBGECL_01493	ECF subfamily RNA polymerase sigma-70 region 2
+IBJBGECL_01494	Anti-sigma-V factor RsiV
+IBJBGECL_01495	succinyl-diaminopimelate desuccinylase
+IBJBGECL_01496	hypothetical protein
+IBJBGECL_01497	Inner membrane protein YccF
+IBJBGECL_01498	Rrf2 family protein
+IBJBGECL_01499	NADH-flavin reductase
+IBJBGECL_01500	hypothetical protein
+IBJBGECL_01501	competence/damage-inducible protein CinA protein
+IBJBGECL_01502	DNA recombination protein RecA
+IBJBGECL_01503	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+IBJBGECL_01504	calcineurin-like phosphoesterase
+IBJBGECL_01505	putative protein YmcA
+IBJBGECL_01506	DNA mismatch repair protein MutS
+IBJBGECL_01507	DNA mismatch repair protein
+IBJBGECL_01508	maf protein
+IBJBGECL_01509	peptide methionine sulfoxide reductase MsrB
+IBJBGECL_01510	Ribose-phosphate pyrophosphokinase 1
+IBJBGECL_01511	hypothetical protein
+IBJBGECL_01512	beta-phosphoglucomutase
+IBJBGECL_01513	glycosyl hydrolase family protein
+IBJBGECL_01514	GntR family transcriptional regulator
+IBJBGECL_01515	hypothetical protein
+IBJBGECL_01516	hypothetical protein
+IBJBGECL_01517	large conductance mechanosensitive channel protein
+IBJBGECL_01518	Peptidase M16 inactive domain protein
+IBJBGECL_01519	peptidase M16 inactive domain protein
+IBJBGECL_01520	hypothetical protein
+IBJBGECL_01521	hypothetical protein
+IBJBGECL_01522	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+IBJBGECL_01523	hypothetical protein
+IBJBGECL_01524	ABC transporter ATP-binding protein/permease
+IBJBGECL_01525	phosphosugar isomerase transcriptional regulator
+IBJBGECL_01526	6-phosphogluconate dehydrogenase
+IBJBGECL_01527	4-phosphoerythronate dehydrogenase
+IBJBGECL_01528	Hydroxycarboxylate dehydrogenase A
+IBJBGECL_01529	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_01530	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_01531	PTS system, mannose/fructose/sorbose-specific IIB component
+IBJBGECL_01532	PTS system, mannose/fructose/sorbose-specific IIA component
+IBJBGECL_01533	D-mannonate dehydratase, UxuA_1
+IBJBGECL_01534	Putative KHG/KDPG aldolase
+IBJBGECL_01535	hypothetical protein
+IBJBGECL_01536	hypothetical protein
+IBJBGECL_01537	hypothetical protein
+IBJBGECL_01538	hypothetical protein
+IBJBGECL_01539	hypothetical protein
+IBJBGECL_01540	guanylate kinase
+IBJBGECL_01541	DNA-directed RNA polymerase subunit omega
+IBJBGECL_01542	Primosomal protein N'
+IBJBGECL_01543	Peptide deformylase
+IBJBGECL_01544	Methionyl-tRNA formyltransferase
+IBJBGECL_01545	Ribosomal RNA small subunit methyltransferase B
+IBJBGECL_01546	serine/threonine phosphatase
+IBJBGECL_01547	serine/threonine-protein kinase
+IBJBGECL_01548	Putative ribosome biogenesis GTPase RsgA
+IBJBGECL_01549	Ribulose-phosphate 3-epimerase
+IBJBGECL_01550	thiamin pyrophosphokinase family protein
+IBJBGECL_01551	50S ribosomal protein L28
+IBJBGECL_01552	alkaline-shock protein
+IBJBGECL_01553	DAK2 domain fusion protein YloV
+IBJBGECL_01554	ATP-dependent DNA helicase RecG
+IBJBGECL_01555	fatty acid/phospholipid synthesis protein PlsX
+IBJBGECL_01556	acyl carrier protein
+IBJBGECL_01557	peptide ABC transporter ATP-binding protein
+IBJBGECL_01558	peptide ABC transporter ATP-binding protein
+IBJBGECL_01559	ABC transporter permease
+IBJBGECL_01560	ABC transporter permease
+IBJBGECL_01561	family 5 extracellular solute-binding protein
+IBJBGECL_01562	hypothetical protein
+IBJBGECL_01563	hypothetical protein
+IBJBGECL_01564	hypothetical protein
+IBJBGECL_01565	hypothetical protein
+IBJBGECL_01566	hypothetical protein
+IBJBGECL_01567	hypothetical protein
+IBJBGECL_01568	ribonuclease III
+IBJBGECL_01569	chromosome partition protein SMC
+IBJBGECL_01570	HAD superfamily hydrolase
+IBJBGECL_01571	Signal recognition particle receptor FtsY
+IBJBGECL_01572	hypothetical protein
+IBJBGECL_01573	glyoxalase family protein
+IBJBGECL_01574	integral membrane protein
+IBJBGECL_01575	isochorismatase family hydrolase
+IBJBGECL_01576	bifunctional glutamate--cysteine ligase/glutathione synthetase
+IBJBGECL_01577	putative protein YueI
+IBJBGECL_01578	iron ABC transporter system permease
+IBJBGECL_01579	iron ABC transporter system permease
+IBJBGECL_01580	iron ABC transporter ATP-binding protein
+IBJBGECL_01581	iron ABC transporter substrate-binding protein
+IBJBGECL_01582	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_01583	peptidase T
+IBJBGECL_01584	hypothetical protein
+IBJBGECL_01585	hypothetical protein
+IBJBGECL_01586	hypothetical protein
+IBJBGECL_01587	hypothetical protein
+IBJBGECL_01588	hypothetical protein
+IBJBGECL_01589	signal peptidase I
+IBJBGECL_01590	BioY family protein
+IBJBGECL_01591	30S ribosomal protein S4
+IBJBGECL_01592	formate/nitrite transporter
+IBJBGECL_01593	DNA alkylation repair protein
+IBJBGECL_01594	HAD superfamily hydrolase
+IBJBGECL_01595	peptide deformylase
+IBJBGECL_01596	30S ribosomal protein S15
+IBJBGECL_01597	Polyribonucleotide nucleotidyltransferase
+IBJBGECL_01598	rod shape-determining protein MreC
+IBJBGECL_01599	rod shape-determining protein MreD
+IBJBGECL_01600	hypothetical protein
+IBJBGECL_01601	TetR family dihydroxyacetone kinase regulator
+IBJBGECL_01602	phosphotyrosine protein phosphatase
+IBJBGECL_01603	hypothetical protein
+IBJBGECL_01604	sortase family protein
+IBJBGECL_01605	hypothetical protein
+IBJBGECL_01606	hypothetical protein
+IBJBGECL_01607	membrane protein
+IBJBGECL_01608	hypothetical protein
+IBJBGECL_01609	hypothetical protein
+IBJBGECL_01610	DNA-3-methyladenine glycosylase I
+IBJBGECL_01611	putative HTH-type transcriptional regulator YbbH
+IBJBGECL_01612	protein YebG
+IBJBGECL_01613	hypothetical protein
+IBJBGECL_01614	hypothetical protein
+IBJBGECL_01615	PTS system, mannose/fructose/sorbose-specific IIAB component
+IBJBGECL_01616	PTS system, mannose/fructose/sorbose-specific IIB component
+IBJBGECL_01617	N-acetylglucosamine-6-phosphate deacetylase
+IBJBGECL_01618	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_01619	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_01620	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_01621	small secreted protein
+IBJBGECL_01622	glutamyl aminopeptidase
+IBJBGECL_01623	thioredoxin
+IBJBGECL_01624	universal stress family protein
+IBJBGECL_01625	tRNA-binding domain-containing protein
+IBJBGECL_01626	Serine protease do-like htrA
+IBJBGECL_01627	ribosomal RNA large subunit methyltransferase H
+IBJBGECL_01628	bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase
+IBJBGECL_01629	pur operon repressor
+IBJBGECL_01630	ABC transporter permease
+IBJBGECL_01631	ABC transporter ATP-binding protein
+IBJBGECL_01632	periplasmic solute binding family protein
+IBJBGECL_01633	hypothetical protein
+IBJBGECL_01634	DNA polymerase III PolC-type
+IBJBGECL_01635	hypothetical protein
+IBJBGECL_01636	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+IBJBGECL_01637	veg family protein
+IBJBGECL_01638	RNA polymerase sigma-70 factor family protein
+IBJBGECL_01639	putative RNA-binding protein containing a PIN domain protein
+IBJBGECL_01640	trmH family tRNA/rRNA methyltransferase
+IBJBGECL_01641	ribonuclease III
+IBJBGECL_01642	cysteinyl-tRNA synthetase
+IBJBGECL_01643	Serine O-acetyltransferase
+IBJBGECL_01644	glutamyl-tRNA synthetase
+IBJBGECL_01645	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+IBJBGECL_01646	Integral membrane protein
+IBJBGECL_01647	DNA repair protein RadA
+IBJBGECL_01648	deoxyuridine 5'-triphosphate nucleotidohydrolase
+IBJBGECL_01649	glutamate 5-kinase
+IBJBGECL_01650	Gamma-glutamyl phosphate reductase
+IBJBGECL_01651	hypothetical protein
+IBJBGECL_01652	hypothetical protein
+IBJBGECL_01653	hypothetical protein
+IBJBGECL_01654	Bacterial membrane protein YfhO
+IBJBGECL_01655	ysyl-tRNA synthetase
+IBJBGECL_01656	2-iminobutanoate/2-iminopropanoate deaminase
+IBJBGECL_01657	class II aminotransferase
+IBJBGECL_01658	PTS system, N-acetylglucosamine-specific IICBA component
+IBJBGECL_01659	phosphosugar isomerase transcriptional regulator
+IBJBGECL_01660	hypothetical protein
+IBJBGECL_01661	acid-resistance membrane protein
+IBJBGECL_01662	hypothetical protein
+IBJBGECL_01663	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_01664	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_01665	PTS system, mannose/fructose/sorbose-specific IIAB component
+IBJBGECL_01666	PTS system, mannose/fructose/sorbose-specific IIB component
+IBJBGECL_01667	transcriptional antiterminator bglG:Sigma-54 factor
+IBJBGECL_01668	ABC transporter ATP-binding protein
+IBJBGECL_01669	DegV family protein
+IBJBGECL_01670	adenylosuccinate synthetase
+IBJBGECL_01671	replicative DNA helicase
+IBJBGECL_01672	50S ribosomal protein L9
+IBJBGECL_01673	DHH family protein
+IBJBGECL_01674	30S ribosomal protein S18
+IBJBGECL_01675	single-strand binding protein
+IBJBGECL_01676	30S ribosomal protein S6
+IBJBGECL_01677	DNA gyrase, A subunit, GyrA
+IBJBGECL_01678	DNA gyrase subunit B, GyrB
+IBJBGECL_01679	recombination protein F, RecF
+IBJBGECL_01680	S4 domain protein, YaaA
+IBJBGECL_01681	DNA polymerase III subunit beta, DnaB
+IBJBGECL_01682	chromosomal replication initiation protein, DnaA
+IBJBGECL_01683	50S ribosomal protein L34
+IBJBGECL_01684	Ribonuclease P protein component
+IBJBGECL_01685	putative stage III sporulation protein J
+IBJBGECL_01686	r3H domain protein
+IBJBGECL_01687	DNA-binding response regulator
+IBJBGECL_01688	GntR family transcriptional regulator
+IBJBGECL_01689	Citrate transporter
+IBJBGECL_01690	hypothetical protein
+IBJBGECL_01691	Glutaconyl-CoA decarboxylase subunit gamma
+IBJBGECL_01692	Glutaconyl-CoA decarboxylase subunit beta
+IBJBGECL_01693	hypothetical protein
+IBJBGECL_01694	[Citrate [pro-3S]-lyase] ligase
+IBJBGECL_01695	Citrate lyase gamma chain
+IBJBGECL_01696	Citrate lyase subunit beta
+IBJBGECL_01697	Citrate lyase alpha chain
+IBJBGECL_01698	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+IBJBGECL_01699	pyruvate carboxylase
+IBJBGECL_01700	NADP-dependent malic enzyme
+IBJBGECL_01701	triphosphoribosyl-dephospho-CoA synthase
+IBJBGECL_01702	hypothetical protein
+IBJBGECL_01703	tRNA modification GTPase MnmE
+IBJBGECL_01704	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+IBJBGECL_01705	site-specific tyrosine recombinase XerC-family protein
+IBJBGECL_01706	Helix-turn-helix domain protein
+IBJBGECL_01707	Helix-turn-helix domain protein
+IBJBGECL_01708	hypothetical protein
+IBJBGECL_01709	helix-turn-helix domain-containing protein
+IBJBGECL_01710	helix-turn-helix domain-containing protein
+IBJBGECL_01711	hypothetical protein
+IBJBGECL_01712	hypothetical protein
+IBJBGECL_01713	hypothetical protein
+IBJBGECL_01714	hypothetical protein
+IBJBGECL_01715	short chain dehydrogenase/reductase family oxidoreductase
+IBJBGECL_01716	PRD domain-containing protein
+IBJBGECL_01717	glucitol operon activator protein
+IBJBGECL_01718	PTS system, glucitol/sorbitol-specific IIC component
+IBJBGECL_01719	PTS system, glucitol/sorbitol-specific, IIBC component
+IBJBGECL_01720	PTS system glucitol/sorbitol-specific transporter subunit IIA
+IBJBGECL_01721	fructose-6-phosphate aldolase
+IBJBGECL_01722	myosin-cross-reactive antigen-like protein
+IBJBGECL_01723	hypothetical protein
+IBJBGECL_01724	Ribosomal RNA small subunit methyltransferase G
+IBJBGECL_01725	sporulation initiation inhibitor protein Soj
+IBJBGECL_01726	ParB family chromosome partitioning protein
+IBJBGECL_01727	translation-associated GTPase
+IBJBGECL_01728	translation-associated GTPase
+IBJBGECL_01729	hypothetical protein
+IBJBGECL_01730	integral membrane protein
+IBJBGECL_01731	Inosine-5'-monophosphate dehydrogenase
+IBJBGECL_01732	seryl-tRNA synthetase
+IBJBGECL_01733	histidine kinase
+IBJBGECL_01734	putative regulatory protein VanR
+IBJBGECL_01735	arginine repressor protein
+IBJBGECL_01736	arginine repressor protein
+IBJBGECL_01737	Monoacylglycerol lipase
+IBJBGECL_01738	seryl-tRNA synthetase
+IBJBGECL_01739	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+IBJBGECL_01740	L-serine dehydratase, iron-sulfur-dependent subunit beta
+IBJBGECL_01741	hypothetical protein
+IBJBGECL_01742	hypothetical protein
+IBJBGECL_01743	hypothetical protein
+IBJBGECL_01744	putative formate transporter 1
+IBJBGECL_01745	hypothetical protein
+IBJBGECL_01746	hypothetical protein
+IBJBGECL_01747	M protein trans-acting positive regulator
+IBJBGECL_01748	diacylglycerol kinase catalytic subunit
+IBJBGECL_01749	hypothetical protein
+IBJBGECL_01750	hypothetical protein
+IBJBGECL_01751	hypothetical protein
+IBJBGECL_01752	hypothetical protein
+IBJBGECL_01753	transporter, major facilitator family protein
+IBJBGECL_01754	transglycosylase associated protein
+IBJBGECL_01755	alkaline shock protein 23 family protein
+IBJBGECL_01756	alkaline shock protein 23 family protein
+IBJBGECL_01757	small integral membrane protein
+IBJBGECL_01758	hypothetical protein
+IBJBGECL_01759	short chain dehydrogenase/reductase family oxidoreductase
+IBJBGECL_01760	CarD family transcriptional regulator
+IBJBGECL_01761	hypothetical protein
+IBJBGECL_01762	Glucosidase YgjK
+IBJBGECL_01763	N-acetylmannosamine-6-phosphate 2-epimerase
+IBJBGECL_01764	hypothetical protein
+IBJBGECL_01765	Holliday junction DNA helicase RuvB
+IBJBGECL_01766	Holliday junction DNA helicase RuvA
+IBJBGECL_01767	F420-dependent glucose-6-phosphate dehydrogenase
+IBJBGECL_01768	hypothetical protein
+IBJBGECL_01769	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_01770	Trifunctional nucleotide phosphoesterase protein YfkN
+IBJBGECL_01771	sensor histidine kinase
+IBJBGECL_01772	DNA-binding response regulator
+IBJBGECL_01773	6-phosphogluconate dehydrogenase
+IBJBGECL_01774	50S ribosomal protein L32
+IBJBGECL_01775	nucleic acid-binding protein
+IBJBGECL_01776	Pyruvate kinase
+IBJBGECL_01777	6-phosphofructokinase
+IBJBGECL_01778	DNA polymerase III subunit alpha
+IBJBGECL_01779	hypothetical protein
+IBJBGECL_01780	transporter, major facilitator family protein
+IBJBGECL_01781	xanthine/uracil/vitamin C permease
+IBJBGECL_01782	hypothetical protein
+IBJBGECL_01783	HAD superfamily hydrolase
+IBJBGECL_01784	hypothetical protein
+IBJBGECL_01785	Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+IBJBGECL_01786	nucleoside diphosphate kinase
+IBJBGECL_01787	hypothetical protein
+IBJBGECL_01788	hypothetical protein
+IBJBGECL_01789	Glutamyl-tRNA(Gln) amidotransferase subunit A
+IBJBGECL_01790	excinuclease ABC subunit A
+IBJBGECL_01791	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IBJBGECL_01792	hypothetical protein
+IBJBGECL_01793	hypothetical protein
+IBJBGECL_01794	alpha/beta hydrolase
+IBJBGECL_01795	ysyl-tRNA synthetase
+IBJBGECL_01796	Putative phosphotransferase
+IBJBGECL_01797	Transcriptional repressor CcpN
+IBJBGECL_01798	Pyruvate, phosphate dikinase
+IBJBGECL_01799	antibiotic biosynthesis monooxygenase
+IBJBGECL_01800	tRNA-Arg
+IBJBGECL_01801	hypothetical protein
+IBJBGECL_01802	acetyltransferase
+IBJBGECL_01803	6-phospho-beta-glucosidase
+IBJBGECL_01804	PTS system lactose/cellobiose-specific transporter subunit IIC
+IBJBGECL_01805	PTS system, lactose/cellobiose-specific IIA component
+IBJBGECL_01806	PTS system cellobiose-specific transporter subunit IIB
+IBJBGECL_01807	hypothetical protein
+IBJBGECL_01808	hypothetical protein
+IBJBGECL_01809	hypothetical protein
+IBJBGECL_01810	PTS system lactose/cellobiose-specific transporter subunit IIC
+IBJBGECL_01811	PTS system cellobiose-specific transporter subunit IIB
+IBJBGECL_01812	transcriptional antiterminator bglG:Sigma-54 factor
+IBJBGECL_01813	DEAD/DEAH box helicase
+IBJBGECL_01814	oxidoreductase family, NAD-binding Rossmann fold protein
+IBJBGECL_01815	sugar fermentation stimulation protein
+IBJBGECL_01816	hypothetical protein
+IBJBGECL_01817	iron dependent repressor, DNA binding domain protein
+IBJBGECL_01818	glucose-6-phosphate 1-dehydrogenase
+IBJBGECL_01819	isoleucyl-tRNA synthetase
+IBJBGECL_01820	cell division protein DivIVA
+IBJBGECL_01821	S4 domain-containing protein
+IBJBGECL_01822	hypothetical protein
+IBJBGECL_01823	Cell division protein SepF
+IBJBGECL_01824	alanine racemase
+IBJBGECL_01825	cell division protein FtsZ
+IBJBGECL_01826	cell division protein FtsA
+IBJBGECL_01827	cell division protein FtsQ
+IBJBGECL_01828	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+IBJBGECL_01829	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+IBJBGECL_01830	phospho-N-acetylmuramoyl-pentapeptide- transferase
+IBJBGECL_01831	peptidoglycan glycosyltransferase
+IBJBGECL_01832	cell division protein FtsL
+IBJBGECL_01833	S-adenosyl-methyltransferase MraW
+IBJBGECL_01834	cell division protein MraZ
+IBJBGECL_01835	hypothetical protein
+IBJBGECL_01836	CorA-like Mg2+ transporter protein
+IBJBGECL_01837	hypothetical protein
+IBJBGECL_01838	DNA repair protein RecN
+IBJBGECL_01839	arginine repressor protein
+IBJBGECL_01840	hemolysin A
+IBJBGECL_01841	geranyltranstransferase
+IBJBGECL_01842	exodeoxyribonuclease VII small subunit
+IBJBGECL_01843	exodeoxyribonuclease VII large subunit
+IBJBGECL_01844	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+IBJBGECL_01845	transcription antitermination factor NusB
+IBJBGECL_01846	alkaline-shock protein
+IBJBGECL_01847	hypothetical protein
+IBJBGECL_01848	Xaa-Pro dipeptidase
+IBJBGECL_01849	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+IBJBGECL_01850	Protein PsiE
+IBJBGECL_01851	50S ribosomal protein L27
+IBJBGECL_01852	putative ribosomal protein
+IBJBGECL_01853	50S ribosomal protein L21
+IBJBGECL_01854	tRNA-Arg
+IBJBGECL_01855	hypothetical protein
+IBJBGECL_01856	hypothetical protein
+IBJBGECL_01857	putative peptide export permease protein YydJ
+IBJBGECL_01858	MazG nucleotide pyrophosphohydrolase
+IBJBGECL_01859	hypothetical protein
+IBJBGECL_01860	HTH-type transcriptional activator RhaS
+IBJBGECL_01861	delta 1-pyrroline-5-carboxylate reductase
+IBJBGECL_01862	endonuclease/exonuclease/phosphatase family protein
+IBJBGECL_01863	PTS system glucose-specific transporter subunit IIABC
+IBJBGECL_01864	glycoside hydrolase, family 65
+IBJBGECL_01865	beta-phosphoglucomutase
+IBJBGECL_01866	aldose 1-epimerase
+IBJBGECL_01867	LacI family sugar-binding transcriptional regulator
+IBJBGECL_01868	hypothetical protein
+IBJBGECL_01869	GNAT family acetyltransferase
+IBJBGECL_01870	ATPase
+IBJBGECL_01871	phosphate acetyltransferase
+IBJBGECL_01872	uracil-DNA glycosylase
+IBJBGECL_01873	HAD superfamily hydrolase
+IBJBGECL_01874	hypothetical protein
+IBJBGECL_01875	GNAT family acetyltransferase
+IBJBGECL_01876	hypothetical protein
+IBJBGECL_01877	hypothetical protein
+IBJBGECL_01878	ABC transporter ATP-binding protein/permease
+IBJBGECL_01879	ABC transporter ATP-binding protein/permease
+IBJBGECL_01880	membrane protein
+IBJBGECL_01881	methylglyoxal synthase
+IBJBGECL_01882	ABC transporter ATP-binding protein
+IBJBGECL_01883	Niacin transporter NiaX
+IBJBGECL_01884	ribosomal RNA small subunit methyltransferase A
+IBJBGECL_01885	ribonuclease M5
+IBJBGECL_01886	TatD family hydrolase
+IBJBGECL_01887	ATP-dependent DNA helicase IV
+IBJBGECL_01888	hypothetical protein
+IBJBGECL_01889	hypothetical protein
+IBJBGECL_01890	methionyl-tRNA synthetase
+IBJBGECL_01891	amino acid permease
+IBJBGECL_01892	glucose uptake protein
+IBJBGECL_01893	sensor histidine kinase
+IBJBGECL_01894	DNA-binding response regulator
+IBJBGECL_01895	hypothetical protein
+IBJBGECL_01896	hypothetical protein
+IBJBGECL_01897	LysR family transcriptional regulator
+IBJBGECL_01898	membrane protein
+IBJBGECL_01899	sulfate transporter/STAS domain-containing protein
+IBJBGECL_01900	hypothetical protein
+IBJBGECL_01901	putative N-acetyltransferase YjaB
+IBJBGECL_01902	membrane protein
+IBJBGECL_01903	hypothetical protein
+IBJBGECL_01904	50S ribosomal protein L20
+IBJBGECL_01905	50S ribosomal protein L35
+IBJBGECL_01906	translation initiation factor IF-3
+IBJBGECL_01907	transposase
+IBJBGECL_01908	ABC transporter ATP-binding protein
+IBJBGECL_01909	ABC transporter ATP-binding protein
+IBJBGECL_01910	oligopeptide ABC transporter, permease protein OppC family protein
+IBJBGECL_01911	oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein
+IBJBGECL_01912	hypothetical protein
+IBJBGECL_01913	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+IBJBGECL_01914	hypothetical protein
+IBJBGECL_01915	pentapeptide repeat-containing protein
+IBJBGECL_01916	mevalonate kinase
+IBJBGECL_01917	diphosphomevalonate decarboxylase
+IBJBGECL_01918	phosphomevalonate kinase
+IBJBGECL_01919	isopentenyl-diphosphate delta-isomerase
+IBJBGECL_01920	aldehyde-alcohol dehydrogenase
+IBJBGECL_01921	hypothetical protein
+IBJBGECL_01922	hypothetical protein
+IBJBGECL_01923	queuine tRNA-ribosyltransferase
+IBJBGECL_01924	Hydroxycarboxylate dehydrogenase A
+IBJBGECL_01925	amino acid ABC transporter permease
+IBJBGECL_01926	amino acid ABC transporter ATP-binding protein
+IBJBGECL_01927	aspartate aminotransferase
+IBJBGECL_01928	hypothetical protein
+IBJBGECL_01929	hypothetical protein
+IBJBGECL_01930	hypothetical protein
+IBJBGECL_01931	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IBJBGECL_01932	hypothetical protein
+IBJBGECL_01933	hypothetical protein
+IBJBGECL_01934	hypothetical protein
+IBJBGECL_01935	primosomal protein DnaI
+IBJBGECL_01936	replication initiation and membrane attachment protein
+IBJBGECL_01937	transcriptional repressor NrdR
+IBJBGECL_01938	Dephospho-CoA kinase
+IBJBGECL_01939	Formamidopyrimidine-DNA glycosylase
+IBJBGECL_01940	DNA polymerase I
+IBJBGECL_01941	oxidoreductase, aldo/keto reductase family protein
+IBJBGECL_01942	hypothetical protein
+IBJBGECL_01943	copper-translocating P-type ATPase
+IBJBGECL_01944	hypothetical protein
+IBJBGECL_01945	K+ uptake transporter
+IBJBGECL_01946	calcium-translocating P-type ATPase
+IBJBGECL_01947	hypothetical protein
+IBJBGECL_01948	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+IBJBGECL_01949	glyoxalase family protein
+IBJBGECL_01950	glycine betaine/carnitine/choline transporter ATP-binding protein
+IBJBGECL_01951	glycine betaine/carnitine/choline ABC transporter permease
+IBJBGECL_01952	glycine betaine/carnitine/choline ABC transporter
+IBJBGECL_01953	ABC transporter permease
+IBJBGECL_01954	GNAT family acetyltransferase
+IBJBGECL_01955	amino acid permease
+IBJBGECL_01956	cation diffusion facilitator family transporter
+IBJBGECL_01957	phage infection protein
+IBJBGECL_01958	hypothetical protein
+IBJBGECL_01959	Tyrosine-protein phosphatase
+IBJBGECL_01960	helix-turn-helix domain-containing protein
+IBJBGECL_01961	Signal peptidase IB
+IBJBGECL_01962	hypothetical protein
+IBJBGECL_01963	hypothetical protein
+IBJBGECL_01964	toxin-antitoxin system, toxin component, MazF family
+IBJBGECL_01965	alanine racemase
+IBJBGECL_01966	holo-[acyl-carrier-protein] synthase
+IBJBGECL_01967	DEAD/DEAH box helicase
+IBJBGECL_01968	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+IBJBGECL_01969	D-alanine--D-alanine ligase
+IBJBGECL_01970	YaiI/YqxD family protein
+IBJBGECL_01971	DNA gyrase subunit B, GyrB
+IBJBGECL_01972	2-dehydro-3-deoxygluconokinase
+IBJBGECL_01973	2-dehydro-3-deoxy-phosphogluconate aldolase
+IBJBGECL_01974	tRNA-Val
+IBJBGECL_01975	5S ribosomal RNA
+IBJBGECL_01976	23S ribosomal RNA
+IBJBGECL_01977	16S ribosomal RNA
+IBJBGECL_01978	hypothetical protein
+IBJBGECL_01979	general stress protein 13
+IBJBGECL_01980	class II aminotransferase
+IBJBGECL_01981	hypothetical protein
+IBJBGECL_01982	cyclophilin type peptidyl-prolyl cis-trans isomerase
+IBJBGECL_01983	ferredoxin--NADP reductase
+IBJBGECL_01984	4-phosphoerythronate dehydrogenase
+IBJBGECL_01985	Trifunctional nucleotide phosphoesterase protein YfkN
+IBJBGECL_01986	extracellular solute-binding protein
+IBJBGECL_01987	Ribonuclease J
+IBJBGECL_01988	inner membrane component transport system
+IBJBGECL_01989	ABC transporter ATP-binding protein
+IBJBGECL_01990	ABC transporter ATP-binding protein
+IBJBGECL_01991	glycosyl transferase family protein
+IBJBGECL_01992	HesB-like domain-containing protein
+IBJBGECL_01993	TrkA-C domain-containing protein
+IBJBGECL_01994	LuxR family DNA-binding response regulator
+IBJBGECL_01995	sensor histidine kinase
+IBJBGECL_01996	membrane protein
+IBJBGECL_01997	transcription elongation factor GreA
+IBJBGECL_01998	Endolytic murein transglycosylase
+IBJBGECL_01999	5'-nucleotidase
+IBJBGECL_02000	UDP-N-acetylglucosamine 2-epimerase
+IBJBGECL_02001	Carbonic anhydrase/acetyltransferase
+IBJBGECL_02002	ABC transporter ATP-binding protein/permease
+IBJBGECL_02003	ABC transporter ATP-binding protein/permease
+IBJBGECL_02004	hypothetical protein
+IBJBGECL_02005	hypothetical protein
+IBJBGECL_02006	Ribonuclease J 1
+IBJBGECL_02007	major cold shock protein CspE
+IBJBGECL_02008	DNA repair protein RadC
+IBJBGECL_02009	HAD-superfamily hydrolase
+IBJBGECL_02010	Folylpolyglutamate synthase
+IBJBGECL_02011	Bacterial membrane protein YfhO
+IBJBGECL_02012	hypothetical protein
+IBJBGECL_02013	valyl-tRNA synthetase
+IBJBGECL_02014	Thiol peroxidase
+IBJBGECL_02015	redox-sensing transcriptional repressor Rex
+IBJBGECL_02016	thiamine biosynthesis protein ThiI
+IBJBGECL_02017	site-specific tyrosine recombinase XerC-family protein
+IBJBGECL_02018	hypothetical protein
+IBJBGECL_02019	hypothetical protein
+IBJBGECL_02020	hypothetical protein
+IBJBGECL_02021	hypothetical protein
+IBJBGECL_02022	hypothetical protein
+IBJBGECL_02023	hypothetical protein
+IBJBGECL_02024	ATP/GTP-binding protein
+IBJBGECL_02025	hypothetical protein
+IBJBGECL_02026	hypothetical protein
+IBJBGECL_02027	hypothetical protein
+IBJBGECL_02028	hypothetical protein
+IBJBGECL_02029	hypothetical protein
+IBJBGECL_02030	hypothetical protein
+IBJBGECL_02031	hypothetical protein
+IBJBGECL_02032	hypothetical protein
+IBJBGECL_02033	hypothetical protein
+IBJBGECL_02034	helix-turn-helix protein
+IBJBGECL_02035	hypothetical protein
+IBJBGECL_02036	hypothetical protein
+IBJBGECL_02037	hypothetical protein
+IBJBGECL_02038	FtsK/SpoIIIE family protein
+IBJBGECL_02039	hypothetical protein
+IBJBGECL_02040	hypothetical protein
+IBJBGECL_02041	hypothetical protein
+IBJBGECL_02042	hypothetical protein
+IBJBGECL_02043	hypothetical protein
+IBJBGECL_02044	hypothetical protein
+IBJBGECL_02045	hypothetical protein
+IBJBGECL_02046	hypothetical protein
+IBJBGECL_02047	hypothetical protein
+IBJBGECL_02048	hypothetical protein
+IBJBGECL_02049	putative HTH-type transcriptional regulator YybR
+IBJBGECL_02050	pyridine nucleotide-disulfide oxidoreductase
+IBJBGECL_02051	hypothetical protein
+IBJBGECL_02052	hypothetical protein
+IBJBGECL_02053	hypothetical protein
+IBJBGECL_02054	major cold shock protein CspA
+IBJBGECL_02055	hypothetical protein
+IBJBGECL_02056	hypothetical protein
+IBJBGECL_02057	hypothetical protein
+IBJBGECL_02058	hypothetical protein
+IBJBGECL_02059	hypothetical protein
+IBJBGECL_02060	cell wall surface anchor family protein
+IBJBGECL_02061	hypothetical protein
+IBJBGECL_02062	hypothetical protein
+IBJBGECL_02063	hypothetical protein
+IBJBGECL_02064	xanthine/uracil permease family protein
+IBJBGECL_02065	short chain dehydrogenase/reductase family oxidoreductase
+IBJBGECL_02066	maltose O-acetyltransferase family protein
+IBJBGECL_02067	LysR family transcriptional regulator
+IBJBGECL_02068	sugar transport protein
+IBJBGECL_02069	D-ribose pyranase
+IBJBGECL_02070	ribokinase
+IBJBGECL_02071	LacI family transcriptional regulator
+IBJBGECL_02072	hypothetical protein
+IBJBGECL_02073	PTS system ascorbate-specific transporter subunit IIC
+IBJBGECL_02074	PTS system ascorbate-specific transporter subunit IIB
+IBJBGECL_02075	PTS system ascorbate-specific transporter subunit IIA
+IBJBGECL_02076	hypothetical protein
+IBJBGECL_02077	hypothetical protein
+IBJBGECL_02078	cell wall surface anchor family protein
+IBJBGECL_02079	hypothetical protein
+IBJBGECL_02080	hypothetical protein
+IBJBGECL_02081	Alkaline phosphatase 3
+IBJBGECL_02082	DNA mismatch repair protein MutS2
+IBJBGECL_02083	2-dehydro-3-deoxy-phosphogluconate aldolase
+IBJBGECL_02084	hypothetical protein
+IBJBGECL_02085	enolase
+IBJBGECL_02086	triosephosphate isomerase
+IBJBGECL_02087	phosphoglycerate kinase
+IBJBGECL_02088	glyceraldehyde-3-phosphate dehydrogenase
+IBJBGECL_02089	SorC family transcriptional regulator
+IBJBGECL_02090	integral membrane protein
+IBJBGECL_02091	hypothetical protein
+IBJBGECL_02092	Thiamine precursor transporter HmpT
+IBJBGECL_02093	phosphomethylpyrimidine kinase
+IBJBGECL_02094	aspartyl-tRNA synthetase
+IBJBGECL_02095	histidyl-tRNA synthetase
+IBJBGECL_02096	D-tyrosyl-tRNA(Tyr) deacylase
+IBJBGECL_02097	GTP diphosphokinase
+IBJBGECL_02098	16S ribosomal RNA methyltransferase RsmE
+IBJBGECL_02099	50S ribosomal protein L11 methyltransferase
+IBJBGECL_02100	DNA-3-methyladenine glycosylase
+IBJBGECL_02101	DNA-3-methyladenine glycosylase
+IBJBGECL_02102	recombination factor protein RarA
+IBJBGECL_02103	hypothetical protein
+IBJBGECL_02104	universal stress protein
+IBJBGECL_02105	acetate kinase
+IBJBGECL_02106	adenine-specific methyltransferase
+IBJBGECL_02107	hypothetical protein
+IBJBGECL_02108	Competence protein ComGF
+IBJBGECL_02109	hypothetical protein
+IBJBGECL_02110	hypothetical protein
+IBJBGECL_02111	Ferrochelatase
+IBJBGECL_02112	tRNA-Met
+IBJBGECL_02113	hypothetical protein
+IBJBGECL_02114	Cold shock protein CspC
+IBJBGECL_02115	hypothetical protein
+IBJBGECL_02116	hypothetical protein
+IBJBGECL_02117	hypothetical protein
+IBJBGECL_02118	hypothetical protein
+IBJBGECL_02119	hypothetical protein
+IBJBGECL_02120	hypothetical protein
+IBJBGECL_02121	hypothetical protein
+IBJBGECL_02122	hypothetical protein
+IBJBGECL_02123	hypothetical protein
+IBJBGECL_02124	hypothetical protein
+IBJBGECL_02125	hypothetical protein
+IBJBGECL_02126	hypothetical protein
+IBJBGECL_02127	hypothetical protein
+IBJBGECL_02128	hypothetical protein
+IBJBGECL_02129	hypothetical protein
+IBJBGECL_02130	hypothetical protein
+IBJBGECL_02131	hypothetical protein
+IBJBGECL_02132	tRNA-Trp
+IBJBGECL_02133	phage transcriptional regulator, ArpU family
+IBJBGECL_02134	hypothetical protein
+IBJBGECL_02135	hypothetical protein
+IBJBGECL_02136	MazG nucleotide pyrophosphohydrolase domain protein
+IBJBGECL_02137	hypothetical protein
+IBJBGECL_02138	hypothetical protein
+IBJBGECL_02139	hypothetical protein
+IBJBGECL_02140	hypothetical protein
+IBJBGECL_02141	hypothetical protein
+IBJBGECL_02142	hypothetical protein
+IBJBGECL_02143	hypothetical protein
+IBJBGECL_02144	hypothetical protein
+IBJBGECL_02145	hypothetical protein
+IBJBGECL_02146	phage anti-repressor protein
+IBJBGECL_02147	hypothetical protein
+IBJBGECL_02148	hypothetical protein
+IBJBGECL_02149	helix-turn-helix domain-containing protein
+IBJBGECL_02150	hypothetical protein
+IBJBGECL_02151	hypothetical protein
+IBJBGECL_02152	site-specific tyrosine recombinase XerC-family protein
+IBJBGECL_02153	hypothetical protein
+IBJBGECL_02154	prepilin-type cleavage/methylation domain protein
+IBJBGECL_02155	type II secretion system F domain protein
+IBJBGECL_02156	type II/IV secretion system protein
+IBJBGECL_02157	amino acid permease family protein
+IBJBGECL_02158	ribosomal RNA large subunit methyltransferase N
+IBJBGECL_02159	peptide ABC transporter permease/transmembrane protein
+IBJBGECL_02160	ABC transporter ATP-binding protein
+IBJBGECL_02161	GntR family transcriptional regulator
+IBJBGECL_02162	cell division protein FtsK
+IBJBGECL_02163	pyridine nucleotide-disulfide family oxidoreductase
+IBJBGECL_02164	prenyltransferase, UbiA family
+IBJBGECL_02165	polyprenyl synthetase
+IBJBGECL_02166	putative ABC transporter ATP-binding protein
+IBJBGECL_02167	ABC transporter ATP-binding protein
+IBJBGECL_02168	Cytochrome bd-I ubiquinol oxidase subunit 2
+IBJBGECL_02169	Cytochrome bd ubiquinol oxidase subunit 1
+IBJBGECL_02170	AraC family transcriptional regulator
+IBJBGECL_02171	DNA topoisomerase III
+IBJBGECL_02172	hypothetical protein
+IBJBGECL_02173	TetR family transcriptional regulator
+IBJBGECL_02174	hypothetical protein
+IBJBGECL_02175	major facilitator superfamily transporter
+IBJBGECL_02176	tRNA-specific 2-thiouridylase MnmA
+IBJBGECL_02177	hypothetical protein
+IBJBGECL_02178	Putative cysteine desulfurase
+IBJBGECL_02179	ribose-phosphate pyrophosphokinase
+IBJBGECL_02180	ABC transporter ATP-binding protein
+IBJBGECL_02181	metal ion ABC transporter permease
+IBJBGECL_02182	periplasmic solute binding protein
+IBJBGECL_02183	ABC transporter ATP-binding protein
+IBJBGECL_02184	peptidase M20D
+IBJBGECL_02185	YaeC family lipoprotein
+IBJBGECL_02186	ABC transporter permease
+IBJBGECL_02187	ABC transporter ATP-binding protein
+IBJBGECL_02188	tRNA-Thr
+IBJBGECL_02189	hypothetical protein
+IBJBGECL_02190	hypothetical protein
+IBJBGECL_02191	hypothetical protein
+IBJBGECL_02192	hypothetical protein
+IBJBGECL_02193	Aminoacyltransferase FemA
+IBJBGECL_02194	glucosamine--fructose-6-phosphate aminotransferase
+IBJBGECL_02195	Energy-coupling factor transporter transmembrane protein EcfT
+IBJBGECL_02196	ABC transporter ATP-binding protein
+IBJBGECL_02197	hypothetical protein
+IBJBGECL_02198	phosphoglucosamine mutase
+IBJBGECL_02199	YbbR-like protein
+IBJBGECL_02200	Cyclic di-AMP synthase CdaA
+IBJBGECL_02201	pyruvate flavodoxin oxidoreductase subunit alpha
+IBJBGECL_02202	glutamine synthetase, type I
+IBJBGECL_02203	MerR family transcriptional regulator
+IBJBGECL_02204	GTP-binding protein HflX
+IBJBGECL_02205	tRNA dimethylallyltransferase
+IBJBGECL_02206	glycerophosphodiester phosphodiesterase family protein
+IBJBGECL_02207	hypothetical protein
+IBJBGECL_02208	NAD-dependent epimerase/dehydratase
+IBJBGECL_02209	hypothetical protein
+IBJBGECL_02210	hypothetical protein
+IBJBGECL_02211	hypothetical protein
+IBJBGECL_02212	hypothetical protein
+IBJBGECL_02213	putative glycosyltransferase EpsJ
+IBJBGECL_02214	dTDP-glucose 4,6-dehydratase
+IBJBGECL_02215	Ribitol-5-phosphate cytidylyltransferase
+IBJBGECL_02216	hypothetical protein
+IBJBGECL_02217	hypothetical protein
+IBJBGECL_02218	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+IBJBGECL_02219	undecaprenyl-phosphate galactosephosphotransferase
+IBJBGECL_02220	hypothetical protein
+IBJBGECL_02221	hypothetical protein
+IBJBGECL_02222	glycosyl transferase family protein
+IBJBGECL_02223	hypothetical protein
+IBJBGECL_02224	ABC transporter ATP-binding protein
+IBJBGECL_02225	ABC transporter
+IBJBGECL_02226	hypothetical protein
+IBJBGECL_02227	hypothetical protein
+IBJBGECL_02228	hypothetical protein
+IBJBGECL_02229	glycosyl transferase family protein
+IBJBGECL_02230	dTDP-4-dehydrorhamnose reductase
+IBJBGECL_02231	dTDP-glucose 4,6-dehydratase
+IBJBGECL_02232	dTDP-4-dehydrorhamnose 3,5-epimerase
+IBJBGECL_02233	glucose-1-phosphate thymidylyltransferase
+IBJBGECL_02234	glycosyl transferase family protein
+IBJBGECL_02235	glycosyl transferase family protein
+IBJBGECL_02236	glycosyl transferase family protein
+IBJBGECL_02237	glycoside hydrolase family protein
+IBJBGECL_02238	ribonuclease BN
+IBJBGECL_02239	Methionine aminopeptidase, type I
+IBJBGECL_02240	flavodoxin
+IBJBGECL_02241	TspO/MBR family protein
+IBJBGECL_02242	TetR family transcriptional regulator
+IBJBGECL_02243	aminopeptidase PepS
+IBJBGECL_02244	hypothetical protein
+IBJBGECL_02245	cytidine/deoxycytidylate deaminase family protein
+IBJBGECL_02246	transcriptional regulator, Fis family
+IBJBGECL_02247	phenazine biosynthesis protein PhzF family protein
+IBJBGECL_02248	hypothetical protein
+IBJBGECL_02249	Zn-dependent protease
+IBJBGECL_02250	hypothetical protein
+IBJBGECL_02251	hypothetical protein
+IBJBGECL_02252	PTS system, trehalose/maltose-specific, IIBCA component
+IBJBGECL_02253	glyoxylase
+IBJBGECL_02254	hypothetical protein
+IBJBGECL_02255	hypothetical protein
+IBJBGECL_02256	alpha-1,2-mannosidase
+IBJBGECL_02257	AraC family transcriptional regulator
+IBJBGECL_02258	sensor histidine kinase
+IBJBGECL_02259	integral membrane protein
+IBJBGECL_02260	extracellular solute-binding protein
+IBJBGECL_02261	ABC transporter permease
+IBJBGECL_02262	ABC transporter permease
+IBJBGECL_02263	hypothetical protein
+IBJBGECL_02264	MerR family transcriptional regulator
+IBJBGECL_02265	ABC transporter ATP-binding protein
+IBJBGECL_02266	ABC transporter ATP-binding protein
+IBJBGECL_02267	Tryptophanyl-tRNA synthetase II
+IBJBGECL_02268	hypothetical protein
+IBJBGECL_02269	hypothetical protein
+IBJBGECL_02270	hypothetical protein
+IBJBGECL_02271	ABC transporter, permease protein
+IBJBGECL_02272	ABC transporter ATP-binding protein
+IBJBGECL_02273	hypothetical protein
+IBJBGECL_02274	glycosyl hydrolase family protein
+IBJBGECL_02275	hypothetical protein
+IBJBGECL_02276	hypothetical protein
+IBJBGECL_02277	LacI family transcriptional regulator
+IBJBGECL_02278	hypothetical protein
+IBJBGECL_02279	PTS system, lactose/cellobiose-specific IIB component
+IBJBGECL_02280	Sodium/myo-inositol cotransporter
+IBJBGECL_02281	inosose dehydratase
+IBJBGECL_02282	oxidoreductase family, NAD-binding Rossmann fold protein
+IBJBGECL_02283	oxidoreductase family, NAD-binding Rossmann fold protein
+IBJBGECL_02284	methylmalonate-semialdehyde dehydrogenase
+IBJBGECL_02285	5-deoxy-glucuronate isomerase
+IBJBGECL_02286	pyruvate oxidase
+IBJBGECL_02287	2-dehydro-3-deoxygluconokinase
+IBJBGECL_02288	transcriptional regulator, LacI family
+IBJBGECL_02289	GTP-binding protein LepA
+IBJBGECL_02290	GNAT family acetyltransferase
+IBJBGECL_02291	Nucleoside 2-deoxyribosyltransferase
+IBJBGECL_02292	ATP-dependent chaperone protein ClpB
+IBJBGECL_02293	Putative oxidoreductase CatD
+IBJBGECL_02294	Adenylosuccinate lyase
+IBJBGECL_02295	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+IBJBGECL_02296	xanthine permease
+IBJBGECL_02297	xanthine phosphoribosyltransferase
+IBJBGECL_02298	hypothetical protein
+IBJBGECL_02299	N-acetylmuramoyl-L-alanine amidase
+IBJBGECL_02300	hypothetical protein
+IBJBGECL_02301	hypothetical protein
+IBJBGECL_02302	oxidoreductase family, NAD-binding Rossmann fold protein
+IBJBGECL_02303	asparaginyl-tRNA synthetase
+IBJBGECL_02304	aspartate aminotransferase
+IBJBGECL_02305	hypothetical protein
+IBJBGECL_02306	DnaQ family exonuclease/DinG family helicase
+IBJBGECL_02307	hypothetical protein
+IBJBGECL_02308	amino acid permease family protein
+IBJBGECL_02309	DNA polymerase III PolC-type
+IBJBGECL_02310	prolyl-tRNA synthetase
+IBJBGECL_02311	membrane-associated zinc metalloprotease
+IBJBGECL_02312	glucose 1-dehydrogenase, Gdh
+IBJBGECL_02313	hypothetical protein
+IBJBGECL_02314	hypothetical protein
+IBJBGECL_02315	hypothetical protein
+IBJBGECL_02316	hypothetical protein
+IBJBGECL_02317	hypothetical protein
+IBJBGECL_02318	UvrABC system protein B
+IBJBGECL_02319	hypothetical protein
+IBJBGECL_02320	hypothetical protein
+IBJBGECL_02321	FeS assembly protein SufB
+IBJBGECL_02322	NifU family SUF system FeS assembly protein
+IBJBGECL_02323	cysteine desulfurase
+IBJBGECL_02324	FeS assembly protein SufD
+IBJBGECL_02325	ABC transporter ATP-binding protein
+IBJBGECL_02326	ribosome recycling factor
+IBJBGECL_02327	uridylate kinase
+IBJBGECL_02328	translation elongation factor Ts
+IBJBGECL_02329	30S ribosomal protein S2
+IBJBGECL_02330	GNAT family acetyltransferase
+IBJBGECL_02331	RNA methyltransferase
+IBJBGECL_02332	acylphosphatase
+IBJBGECL_02333	putative OxaA-like protein
+IBJBGECL_02334	hypothetical protein
+IBJBGECL_02335	glycyl-tRNA synthetase subunit beta
+IBJBGECL_02336	Glycyl-tRNA synthetase alpha subunit
+IBJBGECL_02337	DNA repair protein RecO
+IBJBGECL_02338	GTP-binding protein Era
+IBJBGECL_02339	diacylglycerol kinase
+IBJBGECL_02340	Putative metalloprotease
+IBJBGECL_02341	HD domain-containing protein
+IBJBGECL_02342	KH domain-containing protein
+IBJBGECL_02343	Glutamyl-tRNA(Gln) amidotransferase subunit E
+IBJBGECL_02344	30S ribosomal protein S21
+IBJBGECL_02345	Fur family transcriptional regulator
+IBJBGECL_02346	Putative phosphotransferase
+IBJBGECL_02347	Homoserine kinase
+IBJBGECL_02348	Threonine synthase
+IBJBGECL_02349	Homoserine dehydrogenase
+IBJBGECL_02350	ArsR family transcriptional regulator
+IBJBGECL_02351	delta 1-pyrroline-5-carboxylate reductase
+IBJBGECL_02352	phosphoglucomutase/phosphomannomutase family protein
+IBJBGECL_02353	GntR family transcriptional regulator
+IBJBGECL_02354	hypothetical protein
+IBJBGECL_02355	PadR family transcriptional regulator
+IBJBGECL_02356	guanosine 5'-monophosphate oxidoreductase
+IBJBGECL_02357	xanthine permease
+IBJBGECL_02358	Guanine deaminase
+IBJBGECL_02359	Metallo-beta-lactamase superfamily protein
+IBJBGECL_02360	phosphoglycerate mutase family protein
+IBJBGECL_02361	RpiR family transcriptional regulator
+IBJBGECL_02362	PTS system, sugar-specific IIBC component
+IBJBGECL_02363	N-acetylmuramic acid 6-phosphate etherase
+IBJBGECL_02364	alpha3-beta1 integrin-binding family protein
+IBJBGECL_02365	PTS system, sugar-specific IIBC component
+IBJBGECL_02366	undecaprenyl-diphosphatase
+IBJBGECL_02367	protein YebG
+IBJBGECL_02368	hypothetical protein
+IBJBGECL_02369	hypothetical protein
+IBJBGECL_02370	30S ribosomal protein S20
+IBJBGECL_02371	hypothetical protein
+IBJBGECL_02372	2-dehydropantoate 2-reductase
+IBJBGECL_02373	DNA polymerase III subunit delta
+IBJBGECL_02374	DNA internalization-related competence protein ComEC/Rec2
+IBJBGECL_02375	ComE operon protein 2
+IBJBGECL_02376	competence protein, ComEA
+IBJBGECL_02377	PDZ domain protein
+IBJBGECL_02378	Phosphopantetheine adenylyltransferase, CoaD
+IBJBGECL_02379	RsmD family RNA methyltransferase
+IBJBGECL_02380	hypothetical protein
+IBJBGECL_02381	hypothetical protein
+IBJBGECL_02382	hypothetical protein
+IBJBGECL_02383	pyruvate carboxylase
+IBJBGECL_02384	cell cycle protein FtsW
+IBJBGECL_02385	hypothetical protein
+IBJBGECL_02386	ATP-dependent DNA helicase RecQ
+IBJBGECL_02387	GTP-binding protein TypA/BipA
+IBJBGECL_02388	inositol monophosphatase family protein
+IBJBGECL_02389	hypothetical protein
+IBJBGECL_02390	voltage-gated chloride channel family protein
+IBJBGECL_02391	Beta-monoglucosyldiacylglycerol synthase
+IBJBGECL_02392	hypothetical protein
+IBJBGECL_02393	hypothetical protein
+IBJBGECL_02394	tRNA-Leu
+IBJBGECL_02395	tRNA-Arg
+IBJBGECL_02396	tRNA-Pro
+IBJBGECL_02397	tRNA-Ala
+IBJBGECL_02398	tRNA-Met
+IBJBGECL_02399	tRNA-Met
+IBJBGECL_02400	tRNA-Ser
+IBJBGECL_02401	tRNA-Met
+IBJBGECL_02402	tRNA-Asp
+IBJBGECL_02403	tRNA-Gly
+IBJBGECL_02404	tRNA-Ile
+IBJBGECL_02405	tRNA-Glu
+IBJBGECL_02406	tRNA-Ser
+IBJBGECL_02407	tRNA-Met
+IBJBGECL_02408	tRNA-Asp
+IBJBGECL_02409	tRNA-Phe
+IBJBGECL_02410	tRNA-Gly
+IBJBGECL_02411	tRNA-Ile
+IBJBGECL_02412	tRNA-Ser
+IBJBGECL_02413	tRNA-Glu
+IBJBGECL_02414	transcriptional antiterminator bglG/CAT RNA-binding protein
+IBJBGECL_02415	PTS system, beta-glucoside-specific IIABC component
+IBJBGECL_02416	6-phospho-beta-glucosidase
+IBJBGECL_02417	6-phospho-beta-glucosidase
+IBJBGECL_02418	phosphoglycerate mutase family protein
+IBJBGECL_02419	hydrolase
+IBJBGECL_02420	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+IBJBGECL_02421	Methylated-DNA--protein-cysteine methyltransferase, inducible
+IBJBGECL_02422	DNA-3-methyladenine glycosylase I
+IBJBGECL_02423	HD domain-containing protein
+IBJBGECL_02424	cation diffusion facilitator family transporter
+IBJBGECL_02425	hypothetical protein
+IBJBGECL_02426	Enoyl-[acyl-carrier-protein] reductase
+IBJBGECL_02427	beta-ketoacyl-acyl-carrier-protein synthase II
+IBJBGECL_02428	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+IBJBGECL_02429	dihydroorotate dehydrogenase 1A
+IBJBGECL_02430	fibronectin-binding protein
+IBJBGECL_02431	translation elongation factor P
+IBJBGECL_02432	hypothetical protein
+IBJBGECL_02433	cysteine synthase A
+IBJBGECL_02434	cystathionine gamma-synthase
+IBJBGECL_02435	6-phospho-beta-glucosidase
+IBJBGECL_02436	PTS system, lactose/cellobiose IIC component
+IBJBGECL_02437	HTH-type transcriptional regulator MurR
+IBJBGECL_02438	riboflavin biosynthesis protein RibD protein
+IBJBGECL_02439	V-type sodium ATP synthase subunit J
+IBJBGECL_02440	transporter, monovalent cation:proton antiporter-2 family protein
+IBJBGECL_02441	CopY/TcrY family copper transport repressor
+IBJBGECL_02442	copper-translocating P-type ATPase
+IBJBGECL_02443	hypothetical protein
+IBJBGECL_02444	hypothetical protein
+IBJBGECL_02445	hypothetical protein
+IBJBGECL_02446	Aminopeptidase C
+IBJBGECL_02447	Flavin reductase-like domain protein
+IBJBGECL_02448	glyoxalase family protein
+IBJBGECL_02449	SMR family multidrug resistance protein
+IBJBGECL_02450	SMR family multidrug resistance protein
+IBJBGECL_02451	Chitinase D
+IBJBGECL_02452	chitin binding protein
+IBJBGECL_02453	Acyl-ACP thioesterase
+IBJBGECL_02454	hypothetical protein
+IBJBGECL_02455	hypothetical protein
+IBJBGECL_02456	aspartate kinase
+IBJBGECL_02457	HAD superfamily hydrolase
+IBJBGECL_02458	septation ring formation regulator EzrA
+IBJBGECL_02459	class V aminotransferase
+IBJBGECL_02460	putative regulatory protein VanR
+IBJBGECL_02461	response regulator receiver domain-containing protein
+IBJBGECL_02462	Sensor histidine kinase RcsC
+IBJBGECL_02463	hypothetical protein
+IBJBGECL_02464	hypothetical protein
+IBJBGECL_02465	hypothetical protein
+IBJBGECL_02466	hypothetical protein
+IBJBGECL_02467	5'-deoxyadenosine deaminase
+IBJBGECL_02468	toxin-antitoxin system, toxin component, Fic family
+IBJBGECL_02469	hypothetical protein
+IBJBGECL_02470	hypothetical protein
+IBJBGECL_02471	Purine catabolism regulatory protein
+IBJBGECL_02472	hypothetical protein
+IBJBGECL_02473	hypothetical protein
+IBJBGECL_02474	Hexuronate transporter
+IBJBGECL_02475	Carbamate kinase
+IBJBGECL_02476	sodium/dicarboxylate symporter family protein
+IBJBGECL_02477	Ureidoglycolate dehydrogenase (NAD(+))
+IBJBGECL_02478	hypothetical protein
+IBJBGECL_02479	N-isopropylammelide isopropyl amidohydrolase
+IBJBGECL_02480	hypothetical protein
+IBJBGECL_02481	hypothetical protein
+IBJBGECL_02482	methionine synthase
+IBJBGECL_02483	putative permease
+IBJBGECL_02484	hypothetical protein
+IBJBGECL_02485	hypothetical protein
+IBJBGECL_02486	membrane protein
+IBJBGECL_02487	pyrrolidone-carboxylate peptidase
+IBJBGECL_02488	Na+/H+ antiporter
+IBJBGECL_02489	ArsR family transcriptional regulator
+IBJBGECL_02490	nitroreductase family protein
+IBJBGECL_02491	HAD superfamily hydrolase
+IBJBGECL_02492	PTS system, mannitol-specific IICB component
+IBJBGECL_02493	transcriptional antiterminator bglG
+IBJBGECL_02494	PTS system, mannitol-specific IIA component
+IBJBGECL_02495	PTS system, mannitol-specific IICBA component
+IBJBGECL_02496	PTS system mannitol-specific transporter subunit IIA
+IBJBGECL_02497	Mannitol-1-phosphate 5-dehydrogenase
+IBJBGECL_02498	FAD dependent oxidoreductase
+IBJBGECL_02499	hypothetical protein
+IBJBGECL_02500	hypothetical protein
+IBJBGECL_02501	ABC transporter ATP-binding protein/permease
+IBJBGECL_02502	Macrolide export ATP-binding/permease protein MacB
+IBJBGECL_02503	Urea transporter
+IBJBGECL_02504	major facilitator superfamily transporter
+IBJBGECL_02505	MerR family transcriptional regulator
+IBJBGECL_02506	IclR transcriptional regulator
+IBJBGECL_02507	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+IBJBGECL_02508	2-dehydro-3-deoxygluconokinase
+IBJBGECL_02509	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+IBJBGECL_02510	gluconate 5-dehydrogenase
+IBJBGECL_02511	Glycosyl Hydrolase Family 88
+IBJBGECL_02512	TRAP dicarboxylate transporter subunit DctP
+IBJBGECL_02513	TRAP dicarboxylate transporter subunit DctQ
+IBJBGECL_02514	TRAP dicarboxylate transporter subunit DctM
+IBJBGECL_02515	AraC family transcriptional regulator
+IBJBGECL_02516	rhamnulokinase
+IBJBGECL_02517	L-rhamnose isomerase
+IBJBGECL_02518	rhamnulose-1-phosphate aldolase
+IBJBGECL_02519	L-rhamnose mutarotase
+IBJBGECL_02520	AraC family transcriptional regulator
+IBJBGECL_02521	AP endonuclease
+IBJBGECL_02522	hypothetical protein
+IBJBGECL_02523	amino acid/peptide transporter
+IBJBGECL_02524	peptidoglycan-binding protein LysM
+IBJBGECL_02525	1,4-dihydroxy-2-naphthoyl-CoA synthase
+IBJBGECL_02526	D-alanine--poly(phosphoribitol) ligase subunit 1
+IBJBGECL_02527	Salicylate biosynthesis isochorismate synthase
+IBJBGECL_02528	2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase
+IBJBGECL_02529	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase
+IBJBGECL_02530	o-succinylbenzoate synthase
+IBJBGECL_02531	glucosamine-6-phosphate deaminase
+IBJBGECL_02532	AMP-binding family protein
+IBJBGECL_02533	peroxiredoxin, Ohr family protein
+IBJBGECL_02534	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_02535	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_02536	PTS system mannose-specific transporter subunit IIAB
+IBJBGECL_02537	hypothetical protein
+IBJBGECL_02538	transcriptional antiterminator bglG:Sigma-54 factor
+IBJBGECL_02539	phosphoglycerate mutase family protein
+IBJBGECL_02540	amidase
+IBJBGECL_02541	hypothetical protein
+IBJBGECL_02542	Macrolide export ATP-binding/permease protein MacB
+IBJBGECL_02543	ABC transporter ATP-binding protein
+IBJBGECL_02544	Putative efflux system component YknX
+IBJBGECL_02545	rhodanese-like domain-containing protein
+IBJBGECL_02546	coenzyme A disulfide reductase
+IBJBGECL_02547	rhodanese-like domain protein
+IBJBGECL_02548	regulator protein FrmR
+IBJBGECL_02549	putative sulfoacetate transporter SauU
+IBJBGECL_02550	2-aminoethylphosphonate--pyruvate transaminase
+IBJBGECL_02551	Purine catabolism regulatory protein
+IBJBGECL_02552	(S)-ureidoglycine aminohydrolase
+IBJBGECL_02553	Allantoate amidohydrolase
+IBJBGECL_02554	Dihydroorotase
+IBJBGECL_02555	Putative allantoin permease
+IBJBGECL_02556	GNAT family acetyltransferase
+IBJBGECL_02557	MarR family transcriptional regulator
+IBJBGECL_02558	hypothetical protein
+IBJBGECL_02559	sulfate transporter/STAS domain-containing protein
+IBJBGECL_02560	choloylglycine hydrolase family protein
+IBJBGECL_02561	glucose-6-phosphate 1-dehydrogenase
+IBJBGECL_02562	hypothetical protein
+IBJBGECL_02563	Purine catabolism regulatory protein
+IBJBGECL_02564	hypothetical protein
+IBJBGECL_02565	Protein FdrA
+IBJBGECL_02566	hypothetical protein
+IBJBGECL_02567	hypothetical protein
+IBJBGECL_02568	helix-turn-helix domain-containing protein
+IBJBGECL_02569	calcium-translocating P-type ATPase, PMCA-type
+IBJBGECL_02570	transporter, dicarboxylate/amino acid:cation symporter family protein
+IBJBGECL_02571	hypothetical protein
+IBJBGECL_02572	hypothetical protein
+IBJBGECL_02573	tRNA pseudouridine synthase A
+IBJBGECL_02574	hypothetical protein
+IBJBGECL_02575	sodium/dicarboxylate symporter family protein
+IBJBGECL_02576	hypothetical protein
+IBJBGECL_02577	RNA polymerase sigma factor YlaC
+IBJBGECL_02578	hypothetical protein
+IBJBGECL_02579	hypothetical protein
+IBJBGECL_02580	hypothetical protein
+IBJBGECL_02581	SIS domain-containing protein
+IBJBGECL_02582	transcriptional antiterminator bglG:Sigma-54 factor
+IBJBGECL_02583	PTS system, mannose/fructose/sorbose-specific IIA component
+IBJBGECL_02584	PTS system, mannose/fructose/sorbose-specific IIB component
+IBJBGECL_02585	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_02586	PTS system, mannose/fructose/sorbose-specific IIC component
+IBJBGECL_02587	PTS system, mannose/fructose/sorbose-specific IID component
+IBJBGECL_02588	SIS domain-containing protein
+IBJBGECL_02589	hypothetical protein
+IBJBGECL_02590	D-glucosaminate-6-phosphate ammonia lyase
+IBJBGECL_02591	Deacetylase
+IBJBGECL_02592	alpha3-beta1 integrin-binding family protein
+IBJBGECL_02593	hypothetical protein
+IBJBGECL_02594	PTS system transporter subunit IIC
+IBJBGECL_02595	hypothetical protein
+IBJBGECL_02596	hypothetical protein
+IBJBGECL_02597	hypothetical protein
+IBJBGECL_02598	hypothetical protein
+IBJBGECL_02599	PRD domain-containing protein
+IBJBGECL_02600	transcriptional antiterminator bglG
+IBJBGECL_02601	oxidoreductase family, NAD-binding Rossmann fold protein
+IBJBGECL_02602	toxin-antitoxin system, toxin component, MazF family
+IBJBGECL_02603	uridine kinase
+IBJBGECL_02604	GNAT family acetyltransferase

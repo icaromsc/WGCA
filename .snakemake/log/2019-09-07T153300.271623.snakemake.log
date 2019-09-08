@@ -1,0 +1,4 @@
+Building DAG of jobs...
+WildcardError in line 153 of /home/icaro/Documentos/WGCA/Snakefile:
+Wildcards in input files cannot be determined from output files:
+'sample'

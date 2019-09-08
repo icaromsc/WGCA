@@ -1,0 +1,2743 @@
+GAKPLOIL_00001	hypothetical protein
+GAKPLOIL_00002	diacylglycerol kinase catalytic subunit
+GAKPLOIL_00003	integral membrane protein
+GAKPLOIL_00004	Aminoacyltransferase FemB
+GAKPLOIL_00005	integral membrane protein
+GAKPLOIL_00006	phosphopantothenoylcysteine decarboxylase
+GAKPLOIL_00007	phosphopantothenate--cysteine ligase
+GAKPLOIL_00008	YhdH/YhfP family quinone oxidoreductase
+GAKPLOIL_00009	helix-turn-helix domain-containing protein
+GAKPLOIL_00010	Spermidine/putrescine import ATP-binding protein PotA
+GAKPLOIL_00011	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+GAKPLOIL_00012	spermidine/putrescine transport system permease protein PotC
+GAKPLOIL_00013	spermidine/putrescine-binding periplasmic protein PotD
+GAKPLOIL_00014	hypothetical protein
+GAKPLOIL_00015	High-affinity gluconate transporter
+GAKPLOIL_00016	glycerate kinase
+GAKPLOIL_00017	hypothetical protein
+GAKPLOIL_00018	diacylglycerol kinase catalytic subunit
+GAKPLOIL_00019	hypothetical protein
+GAKPLOIL_00020	Substrate binding domain of ABC-type glycine betaine transport system
+GAKPLOIL_00021	glycine betaine transporter ATP-binding subunit
+GAKPLOIL_00022	GntR family transcriptional regulator
+GAKPLOIL_00023	ABC transporter ATP-binding protein
+GAKPLOIL_00024	redox-sensitive transcriptional regulator
+GAKPLOIL_00025	CAAX amino terminal protease
+GAKPLOIL_00026	hypothetical protein
+GAKPLOIL_00027	chaperonin GroS
+GAKPLOIL_00028	chaperonin GroL
+GAKPLOIL_00029	hypothetical protein
+GAKPLOIL_00030	hypothetical protein
+GAKPLOIL_00031	hypothetical protein
+GAKPLOIL_00032	cell wall teichoic acid glycosylation protein GtcA family protein
+GAKPLOIL_00033	Nicotinate phosphoribosyltransferase
+GAKPLOIL_00034	NH(3)-dependent NAD(+) synthetase
+GAKPLOIL_00035	cadmium-translocating P-type ATPase
+GAKPLOIL_00036	hypothetical protein
+GAKPLOIL_00037	GNAT family acetyltransferase
+GAKPLOIL_00038	preprotein translocase, SecG subunit
+GAKPLOIL_00039	carboxylesterase
+GAKPLOIL_00040	ribonuclease R
+GAKPLOIL_00041	SsrA-binding protein
+GAKPLOIL_00042	ATP synthase subunit C
+GAKPLOIL_00043	ATP synthase subunit c
+GAKPLOIL_00044	ATP synthase F0, B subunit
+GAKPLOIL_00045	ATP synthase F1, delta subunit
+GAKPLOIL_00046	ATP synthase F1 subunit alpha
+GAKPLOIL_00047	ATP synthase F1 subunit gamma
+GAKPLOIL_00048	ATP synthase F1 subunit beta
+GAKPLOIL_00049	ATP synthase F1 subunit epsilon
+GAKPLOIL_00050	membrane protein
+GAKPLOIL_00051	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GAKPLOIL_00052	hypothetical protein
+GAKPLOIL_00053	PTS system, glucitol/sorbitol-specific IIA component
+GAKPLOIL_00054	permease
+GAKPLOIL_00055	azoreductase
+GAKPLOIL_00056	BglG family transcriptional antiterminator
+GAKPLOIL_00057	PTS system beta-glucoside-specific transporter subunit IIABC
+GAKPLOIL_00058	6-phospho-beta-glucosidase
+GAKPLOIL_00059	guanylate kinase
+GAKPLOIL_00060	TetR family transcriptional regulator
+GAKPLOIL_00061	ABC transporter ATP-binding protein/permease
+GAKPLOIL_00062	ABC transporter ATP-binding protein/permease
+GAKPLOIL_00063	glyoxalase family protein
+GAKPLOIL_00064	Beta-lactamase
+GAKPLOIL_00065	mannose-6-phosphate isomerase
+GAKPLOIL_00066	integral membrane protein
+GAKPLOIL_00067	inosine-uridine preferring nucleoside hydrolase
+GAKPLOIL_00068	CobB/CobQ-like glutamine amidotransferase domain protein
+GAKPLOIL_00069	Mur ligase middle domain-containing protein
+GAKPLOIL_00070	Transcriptional regulator DauR
+GAKPLOIL_00071	Putative aminohydrolase SsnA
+GAKPLOIL_00072	Putative oxidoreductase YgfK
+GAKPLOIL_00073	Putative oxidoreductase YgfK
+GAKPLOIL_00074	Dihydroorotase
+GAKPLOIL_00075	Diaminopropionate ammonia-lyase
+GAKPLOIL_00076	Putative dipeptidase
+GAKPLOIL_00077	Putative carbamoyltransferase YgeW
+GAKPLOIL_00078	Carbamate kinase
+GAKPLOIL_00079	2-iminobutanoate/2-iminopropanoate deaminase
+GAKPLOIL_00080	xanthine permease
+GAKPLOIL_00081	hypothetical protein
+GAKPLOIL_00082	putative xanthine dehydrogenase subunit A
+GAKPLOIL_00083	hypothetical protein
+GAKPLOIL_00084	Molybdenum cofactor guanylyltransferase
+GAKPLOIL_00085	cysteine desulfurase
+GAKPLOIL_00086	Selenide, water dikinase
+GAKPLOIL_00087	hypothetical protein
+GAKPLOIL_00088	hypothetical protein
+GAKPLOIL_00089	hypothetical protein
+GAKPLOIL_00090	hypothetical protein
+GAKPLOIL_00091	flavodoxin
+GAKPLOIL_00092	dihydroorotate dehydrogenase, electron transfer subunit
+GAKPLOIL_00093	Glutamate synthase [NADPH] small chain
+GAKPLOIL_00094	pyruvate flavodoxin oxidoreductase subunit alpha
+GAKPLOIL_00095	cation transporter
+GAKPLOIL_00096	fumarate reductase flavoprotein subunit
+GAKPLOIL_00097	Thymidine kinase
+GAKPLOIL_00098	peptide chain release factor 1
+GAKPLOIL_00099	modification methylase HemK
+GAKPLOIL_00100	Sua5/YciO/YrdC/YwlC family protein
+GAKPLOIL_00101	serine hydroxymethyltransferase
+GAKPLOIL_00102	uracil phosphoribosyltransferase
+GAKPLOIL_00103	hypothetical protein
+GAKPLOIL_00104	hypothetical protein
+GAKPLOIL_00105	tRNA-Thr
+GAKPLOIL_00106	Branched-chain amino acid transport protein
+GAKPLOIL_00107	azaleucine resistance protein AzlC_1
+GAKPLOIL_00108	helix-turn-helix domain-containing protein
+GAKPLOIL_00109	hypothetical protein
+GAKPLOIL_00110	hypothetical protein
+GAKPLOIL_00111	hypothetical protein
+GAKPLOIL_00112	M protein trans-acting positive regulator
+GAKPLOIL_00113	FtsW/RodA/SpoVE family cell cycle protein
+GAKPLOIL_00114	ArsC family protein
+GAKPLOIL_00115	glycine cleavage H-protein
+GAKPLOIL_00116	ABC transporter ATP-binding protein
+GAKPLOIL_00117	ABC transporter permease
+GAKPLOIL_00118	putative D-methionine-binding lipoprotein MetQ
+GAKPLOIL_00119	undecaprenyl diphosphate synthase
+GAKPLOIL_00120	phosphatidate cytidylyltransferase
+GAKPLOIL_00121	Teichoic acid glycerol-phosphate transferase
+GAKPLOIL_00122	hypothetical protein
+GAKPLOIL_00123	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GAKPLOIL_00124	hypothetical protein
+GAKPLOIL_00125	UDP-N-acetylenolpyruvoylglucosamine reductase
+GAKPLOIL_00126	hypothetical protein
+GAKPLOIL_00127	UDP-galactopyranose mutase
+GAKPLOIL_00128	Vitamin B12 import ATP-binding protein BtuD
+GAKPLOIL_00129	ABC transporter
+GAKPLOIL_00130	hypothetical protein
+GAKPLOIL_00131	hypothetical protein
+GAKPLOIL_00132	Phosphoglycolate phosphatase
+GAKPLOIL_00133	hypothetical protein
+GAKPLOIL_00134	hypothetical protein
+GAKPLOIL_00135	hypothetical protein
+GAKPLOIL_00136	Putative virion core protein
+GAKPLOIL_00137	penicillin binding protein transpeptidase domain protein
+GAKPLOIL_00138	universal bacterial protein YeaZ
+GAKPLOIL_00139	ribosomal-protein-alanine acetyltransferase
+GAKPLOIL_00140	ribosomal-protein-alanine acetyltransferase
+GAKPLOIL_00141	O-sialoglycoprotein endopeptidase
+GAKPLOIL_00142	arginyl-tRNA synthetase
+GAKPLOIL_00143	HD domain-containing protein
+GAKPLOIL_00144	hypothetical protein
+GAKPLOIL_00145	hypothetical protein
+GAKPLOIL_00146	hypothetical protein
+GAKPLOIL_00147	hypothetical protein
+GAKPLOIL_00148	Beta-monoglucosyldiacylglycerol synthase
+GAKPLOIL_00149	voltage-gated chloride channel family protein
+GAKPLOIL_00150	hypothetical protein
+GAKPLOIL_00151	inositol monophosphatase family protein
+GAKPLOIL_00152	GTP-binding protein TypA/BipA
+GAKPLOIL_00153	ATP-dependent DNA helicase RecQ
+GAKPLOIL_00154	hypothetical protein
+GAKPLOIL_00155	cell cycle protein FtsW
+GAKPLOIL_00156	pyruvate carboxylase
+GAKPLOIL_00157	hypothetical protein
+GAKPLOIL_00158	hypothetical protein
+GAKPLOIL_00159	hypothetical protein
+GAKPLOIL_00160	RsmD family RNA methyltransferase
+GAKPLOIL_00161	Phosphopantetheine adenylyltransferase, CoaD
+GAKPLOIL_00162	PDZ domain protein
+GAKPLOIL_00163	competence protein, ComEA
+GAKPLOIL_00164	ComE operon protein 2
+GAKPLOIL_00165	DNA internalization-related competence protein ComEC/Rec2
+GAKPLOIL_00166	DNA polymerase III subunit delta
+GAKPLOIL_00167	2-dehydropantoate 2-reductase
+GAKPLOIL_00168	hypothetical protein
+GAKPLOIL_00169	30S ribosomal protein S20
+GAKPLOIL_00170	hypothetical protein
+GAKPLOIL_00171	hypothetical protein
+GAKPLOIL_00172	protein YebG
+GAKPLOIL_00173	undecaprenyl-diphosphatase
+GAKPLOIL_00174	PTS system, sugar-specific IIBC component
+GAKPLOIL_00175	alpha3-beta1 integrin-binding family protein
+GAKPLOIL_00176	N-acetylmuramic acid 6-phosphate etherase
+GAKPLOIL_00177	PTS system, sugar-specific IIBC component
+GAKPLOIL_00178	RpiR family transcriptional regulator
+GAKPLOIL_00179	phosphoglycerate mutase family protein
+GAKPLOIL_00180	Metallo-beta-lactamase superfamily protein
+GAKPLOIL_00181	Guanine deaminase
+GAKPLOIL_00182	xanthine permease
+GAKPLOIL_00183	guanosine 5'-monophosphate oxidoreductase
+GAKPLOIL_00184	PadR family transcriptional regulator
+GAKPLOIL_00185	hypothetical protein
+GAKPLOIL_00186	GntR family transcriptional regulator
+GAKPLOIL_00187	phosphoglucomutase/phosphomannomutase family protein
+GAKPLOIL_00188	delta 1-pyrroline-5-carboxylate reductase
+GAKPLOIL_00189	ArsR family transcriptional regulator
+GAKPLOIL_00190	Homoserine dehydrogenase
+GAKPLOIL_00191	Threonine synthase
+GAKPLOIL_00192	Homoserine kinase
+GAKPLOIL_00193	Putative phosphotransferase
+GAKPLOIL_00194	Fur family transcriptional regulator
+GAKPLOIL_00195	30S ribosomal protein S21
+GAKPLOIL_00196	Glutamyl-tRNA(Gln) amidotransferase subunit E
+GAKPLOIL_00197	KH domain-containing protein
+GAKPLOIL_00198	HD domain-containing protein
+GAKPLOIL_00199	Putative metalloprotease
+GAKPLOIL_00200	diacylglycerol kinase
+GAKPLOIL_00201	GTP-binding protein Era
+GAKPLOIL_00202	DNA repair protein RecO
+GAKPLOIL_00203	Glycyl-tRNA synthetase alpha subunit
+GAKPLOIL_00204	glycyl-tRNA synthetase subunit beta
+GAKPLOIL_00205	hypothetical protein
+GAKPLOIL_00206	putative OxaA-like protein
+GAKPLOIL_00207	acylphosphatase
+GAKPLOIL_00208	RNA methyltransferase
+GAKPLOIL_00209	GNAT family acetyltransferase
+GAKPLOIL_00210	30S ribosomal protein S2
+GAKPLOIL_00211	translation elongation factor Ts
+GAKPLOIL_00212	uridylate kinase
+GAKPLOIL_00213	ribosome recycling factor
+GAKPLOIL_00214	ABC transporter ATP-binding protein
+GAKPLOIL_00215	FeS assembly protein SufD
+GAKPLOIL_00216	cysteine desulfurase
+GAKPLOIL_00217	NifU family SUF system FeS assembly protein
+GAKPLOIL_00218	FeS assembly protein SufB
+GAKPLOIL_00219	hypothetical protein
+GAKPLOIL_00220	glucose 1-dehydrogenase, Gdh
+GAKPLOIL_00221	membrane-associated zinc metalloprotease
+GAKPLOIL_00222	prolyl-tRNA synthetase
+GAKPLOIL_00223	DNA polymerase III PolC-type
+GAKPLOIL_00224	amino acid permease family protein
+GAKPLOIL_00225	hypothetical protein
+GAKPLOIL_00226	DnaQ family exonuclease/DinG family helicase
+GAKPLOIL_00227	hypothetical protein
+GAKPLOIL_00228	aspartate aminotransferase
+GAKPLOIL_00229	asparaginyl-tRNA synthetase
+GAKPLOIL_00230	oxidoreductase family, NAD-binding Rossmann fold protein
+GAKPLOIL_00231	hypothetical protein
+GAKPLOIL_00232	hypothetical protein
+GAKPLOIL_00233	N-acetylmuramoyl-L-alanine amidase
+GAKPLOIL_00234	hypothetical protein
+GAKPLOIL_00235	xanthine phosphoribosyltransferase
+GAKPLOIL_00236	xanthine permease
+GAKPLOIL_00237	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+GAKPLOIL_00238	Adenylosuccinate lyase
+GAKPLOIL_00239	Putative oxidoreductase CatD
+GAKPLOIL_00240	ATP-dependent chaperone protein ClpB
+GAKPLOIL_00241	Nucleoside 2-deoxyribosyltransferase
+GAKPLOIL_00242	GNAT family acetyltransferase
+GAKPLOIL_00243	GTP-binding protein LepA
+GAKPLOIL_00244	transcriptional regulator, LacI family
+GAKPLOIL_00245	2-dehydro-3-deoxygluconokinase
+GAKPLOIL_00246	pyruvate oxidase
+GAKPLOIL_00247	5-deoxy-glucuronate isomerase
+GAKPLOIL_00248	methylmalonate-semialdehyde dehydrogenase
+GAKPLOIL_00249	oxidoreductase family, NAD-binding Rossmann fold protein
+GAKPLOIL_00250	oxidoreductase family, NAD-binding Rossmann fold protein
+GAKPLOIL_00251	inosose dehydratase
+GAKPLOIL_00252	Sodium/myo-inositol cotransporter
+GAKPLOIL_00253	PTS system, lactose/cellobiose-specific IIB component
+GAKPLOIL_00254	hypothetical protein
+GAKPLOIL_00255	LacI family transcriptional regulator
+GAKPLOIL_00256	hypothetical protein
+GAKPLOIL_00257	hypothetical protein
+GAKPLOIL_00258	glycosyl hydrolase family protein
+GAKPLOIL_00259	hypothetical protein
+GAKPLOIL_00260	ABC transporter ATP-binding protein
+GAKPLOIL_00261	ABC transporter, permease protein
+GAKPLOIL_00262	hypothetical protein
+GAKPLOIL_00263	hypothetical protein
+GAKPLOIL_00264	hypothetical protein
+GAKPLOIL_00265	Tryptophanyl-tRNA synthetase II
+GAKPLOIL_00266	ABC transporter ATP-binding protein
+GAKPLOIL_00267	ABC transporter ATP-binding protein
+GAKPLOIL_00268	MerR family transcriptional regulator
+GAKPLOIL_00269	hypothetical protein
+GAKPLOIL_00270	ABC transporter permease
+GAKPLOIL_00271	ABC transporter permease
+GAKPLOIL_00272	extracellular solute-binding protein
+GAKPLOIL_00273	integral membrane protein
+GAKPLOIL_00274	sensor histidine kinase
+GAKPLOIL_00275	AraC family transcriptional regulator
+GAKPLOIL_00276	alpha-1,2-mannosidase
+GAKPLOIL_00277	hypothetical protein
+GAKPLOIL_00278	hypothetical protein
+GAKPLOIL_00279	glyoxylase
+GAKPLOIL_00280	PTS system, trehalose/maltose-specific, IIBCA component
+GAKPLOIL_00281	hypothetical protein
+GAKPLOIL_00282	hypothetical protein
+GAKPLOIL_00283	Zn-dependent protease
+GAKPLOIL_00284	hypothetical protein
+GAKPLOIL_00285	phenazine biosynthesis protein PhzF family protein
+GAKPLOIL_00286	transcriptional regulator, Fis family
+GAKPLOIL_00287	cytidine/deoxycytidylate deaminase family protein
+GAKPLOIL_00288	hypothetical protein
+GAKPLOIL_00289	aminopeptidase PepS
+GAKPLOIL_00290	TetR family transcriptional regulator
+GAKPLOIL_00291	TspO/MBR family protein
+GAKPLOIL_00292	flavodoxin
+GAKPLOIL_00293	Methionine aminopeptidase, type I
+GAKPLOIL_00294	ribonuclease BN
+GAKPLOIL_00295	glycoside hydrolase family protein
+GAKPLOIL_00296	glycosyl transferase family protein
+GAKPLOIL_00297	glycosyl transferase family protein
+GAKPLOIL_00298	glycosyl transferase family protein
+GAKPLOIL_00299	glucose-1-phosphate thymidylyltransferase
+GAKPLOIL_00300	dTDP-4-dehydrorhamnose 3,5-epimerase
+GAKPLOIL_00301	dTDP-glucose 4,6-dehydratase
+GAKPLOIL_00302	dTDP-4-dehydrorhamnose reductase
+GAKPLOIL_00303	glycosyl transferase family protein
+GAKPLOIL_00304	hypothetical protein
+GAKPLOIL_00305	hypothetical protein
+GAKPLOIL_00306	hypothetical protein
+GAKPLOIL_00307	ABC transporter
+GAKPLOIL_00308	ABC transporter ATP-binding protein
+GAKPLOIL_00309	hypothetical protein
+GAKPLOIL_00310	glycosyl transferase family protein
+GAKPLOIL_00311	hypothetical protein
+GAKPLOIL_00312	hypothetical protein
+GAKPLOIL_00313	undecaprenyl-phosphate galactosephosphotransferase
+GAKPLOIL_00314	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+GAKPLOIL_00315	hypothetical protein
+GAKPLOIL_00316	hypothetical protein
+GAKPLOIL_00317	Ribitol-5-phosphate cytidylyltransferase
+GAKPLOIL_00318	dTDP-glucose 4,6-dehydratase
+GAKPLOIL_00319	putative glycosyltransferase EpsJ
+GAKPLOIL_00320	hypothetical protein
+GAKPLOIL_00321	hypothetical protein
+GAKPLOIL_00322	hypothetical protein
+GAKPLOIL_00323	hypothetical protein
+GAKPLOIL_00324	NAD-dependent epimerase/dehydratase
+GAKPLOIL_00325	hypothetical protein
+GAKPLOIL_00326	glycerophosphodiester phosphodiesterase family protein
+GAKPLOIL_00327	tRNA dimethylallyltransferase
+GAKPLOIL_00328	GTP-binding protein HflX
+GAKPLOIL_00329	MerR family transcriptional regulator
+GAKPLOIL_00330	glutamine synthetase, type I
+GAKPLOIL_00331	pyruvate flavodoxin oxidoreductase subunit alpha
+GAKPLOIL_00332	Cyclic di-AMP synthase CdaA
+GAKPLOIL_00333	YbbR-like protein
+GAKPLOIL_00334	phosphoglucosamine mutase
+GAKPLOIL_00335	hypothetical protein
+GAKPLOIL_00336	ABC transporter ATP-binding protein
+GAKPLOIL_00337	Energy-coupling factor transporter transmembrane protein EcfT
+GAKPLOIL_00338	glucosamine--fructose-6-phosphate aminotransferase
+GAKPLOIL_00339	Aminoacyltransferase FemA
+GAKPLOIL_00340	hypothetical protein
+GAKPLOIL_00341	hypothetical protein
+GAKPLOIL_00342	hypothetical protein
+GAKPLOIL_00343	hypothetical protein
+GAKPLOIL_00344	tRNA-Thr
+GAKPLOIL_00345	ABC transporter ATP-binding protein
+GAKPLOIL_00346	ABC transporter permease
+GAKPLOIL_00347	YaeC family lipoprotein
+GAKPLOIL_00348	peptidase M20D
+GAKPLOIL_00349	ABC transporter ATP-binding protein
+GAKPLOIL_00350	periplasmic solute binding protein
+GAKPLOIL_00351	metal ion ABC transporter permease
+GAKPLOIL_00352	ABC transporter ATP-binding protein
+GAKPLOIL_00353	ribose-phosphate pyrophosphokinase
+GAKPLOIL_00354	Putative cysteine desulfurase
+GAKPLOIL_00355	hypothetical protein
+GAKPLOIL_00356	tRNA-specific 2-thiouridylase MnmA
+GAKPLOIL_00357	major facilitator superfamily transporter
+GAKPLOIL_00358	hypothetical protein
+GAKPLOIL_00359	TetR family transcriptional regulator
+GAKPLOIL_00360	hypothetical protein
+GAKPLOIL_00361	DNA topoisomerase III
+GAKPLOIL_00362	AraC family transcriptional regulator
+GAKPLOIL_00363	Cytochrome bd ubiquinol oxidase subunit 1
+GAKPLOIL_00364	Cytochrome bd-I ubiquinol oxidase subunit 2
+GAKPLOIL_00365	ABC transporter ATP-binding protein
+GAKPLOIL_00366	putative ABC transporter ATP-binding protein
+GAKPLOIL_00367	polyprenyl synthetase
+GAKPLOIL_00368	prenyltransferase, UbiA family
+GAKPLOIL_00369	pyridine nucleotide-disulfide family oxidoreductase
+GAKPLOIL_00370	cell division protein FtsK
+GAKPLOIL_00371	GntR family transcriptional regulator
+GAKPLOIL_00372	ABC transporter ATP-binding protein
+GAKPLOIL_00373	peptide ABC transporter permease/transmembrane protein
+GAKPLOIL_00374	ribosomal RNA large subunit methyltransferase N
+GAKPLOIL_00375	amino acid permease family protein
+GAKPLOIL_00376	type II/IV secretion system protein
+GAKPLOIL_00377	type II secretion system F domain protein
+GAKPLOIL_00378	prepilin-type cleavage/methylation domain protein
+GAKPLOIL_00379	hypothetical protein
+GAKPLOIL_00380	site-specific tyrosine recombinase XerC-family protein
+GAKPLOIL_00381	hypothetical protein
+GAKPLOIL_00382	hypothetical protein
+GAKPLOIL_00383	hypothetical protein
+GAKPLOIL_00384	hypothetical protein
+GAKPLOIL_00385	hypothetical protein
+GAKPLOIL_00386	phage anti-repressor protein
+GAKPLOIL_00387	hypothetical protein
+GAKPLOIL_00388	hypothetical protein
+GAKPLOIL_00389	hypothetical protein
+GAKPLOIL_00390	hypothetical protein
+GAKPLOIL_00391	hypothetical protein
+GAKPLOIL_00392	hypothetical protein
+GAKPLOIL_00393	hypothetical protein
+GAKPLOIL_00394	hypothetical protein
+GAKPLOIL_00395	hypothetical protein
+GAKPLOIL_00396	MazG nucleotide pyrophosphohydrolase domain protein
+GAKPLOIL_00397	hypothetical protein
+GAKPLOIL_00398	phage transcriptional regulator, ArpU family
+GAKPLOIL_00399	tRNA-Trp
+GAKPLOIL_00400	hypothetical protein
+GAKPLOIL_00401	hypothetical protein
+GAKPLOIL_00402	hypothetical protein
+GAKPLOIL_00403	hypothetical protein
+GAKPLOIL_00404	hypothetical protein
+GAKPLOIL_00405	hypothetical protein
+GAKPLOIL_00406	hypothetical protein
+GAKPLOIL_00407	phage portal protein
+GAKPLOIL_00408	hypothetical protein
+GAKPLOIL_00409	hypothetical protein
+GAKPLOIL_00410	hypothetical protein
+GAKPLOIL_00411	hypothetical protein
+GAKPLOIL_00412	hypothetical protein
+GAKPLOIL_00413	hypothetical protein
+GAKPLOIL_00414	hypothetical protein
+GAKPLOIL_00415	hypothetical protein
+GAKPLOIL_00416	hypothetical protein
+GAKPLOIL_00417	hypothetical protein
+GAKPLOIL_00418	hypothetical protein
+GAKPLOIL_00419	hypothetical protein
+GAKPLOIL_00420	phage putative tail component protein
+GAKPLOIL_00421	phage minor structural protein
+GAKPLOIL_00422	hypothetical protein
+GAKPLOIL_00423	hypothetical protein
+GAKPLOIL_00424	hypothetical protein
+GAKPLOIL_00425	hypothetical protein
+GAKPLOIL_00426	hypothetical protein
+GAKPLOIL_00427	hypothetical protein
+GAKPLOIL_00428	hypothetical protein
+GAKPLOIL_00429	hypothetical protein
+GAKPLOIL_00430	Cold shock protein CspC
+GAKPLOIL_00431	hypothetical protein
+GAKPLOIL_00432	tRNA-Met
+GAKPLOIL_00433	Ferrochelatase
+GAKPLOIL_00434	hypothetical protein
+GAKPLOIL_00435	hypothetical protein
+GAKPLOIL_00436	Competence protein ComGF
+GAKPLOIL_00437	hypothetical protein
+GAKPLOIL_00438	adenine-specific methyltransferase
+GAKPLOIL_00439	acetate kinase
+GAKPLOIL_00440	universal stress protein
+GAKPLOIL_00441	hypothetical protein
+GAKPLOIL_00442	recombination factor protein RarA
+GAKPLOIL_00443	DNA-3-methyladenine glycosylase
+GAKPLOIL_00444	DNA-3-methyladenine glycosylase
+GAKPLOIL_00445	50S ribosomal protein L11 methyltransferase
+GAKPLOIL_00446	16S ribosomal RNA methyltransferase RsmE
+GAKPLOIL_00447	GTP diphosphokinase
+GAKPLOIL_00448	D-tyrosyl-tRNA(Tyr) deacylase
+GAKPLOIL_00449	histidyl-tRNA synthetase
+GAKPLOIL_00450	aspartyl-tRNA synthetase
+GAKPLOIL_00451	phosphomethylpyrimidine kinase
+GAKPLOIL_00452	Thiamine precursor transporter HmpT
+GAKPLOIL_00453	hypothetical protein
+GAKPLOIL_00454	integral membrane protein
+GAKPLOIL_00455	SorC family transcriptional regulator
+GAKPLOIL_00456	glyceraldehyde-3-phosphate dehydrogenase
+GAKPLOIL_00457	phosphoglycerate kinase
+GAKPLOIL_00458	triosephosphate isomerase
+GAKPLOIL_00459	enolase
+GAKPLOIL_00460	hypothetical protein
+GAKPLOIL_00461	Deoxyguanosinetriphosphate triphosphohydrolase
+GAKPLOIL_00462	transcriptional antiterminator bglG:Sigma-54 factor
+GAKPLOIL_00463	PTS system, mannose/fructose/sorbose-specific IIA component
+GAKPLOIL_00464	PTS system, mannose/fructose/sorbose-specific IIB component
+GAKPLOIL_00465	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_00466	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_00467	SIS domain-containing protein
+GAKPLOIL_00468	SIS domain-containing protein
+GAKPLOIL_00469	hypothetical protein
+GAKPLOIL_00470	hypothetical protein
+GAKPLOIL_00471	hypothetical protein
+GAKPLOIL_00472	arylsulfatase
+GAKPLOIL_00473	Multidrug resistance protein MdtL
+GAKPLOIL_00474	hypothetical protein
+GAKPLOIL_00475	Regulatory protein YeiL
+GAKPLOIL_00476	hypothetical protein
+GAKPLOIL_00477	calcium-translocating P-type ATPase
+GAKPLOIL_00478	hypothetical protein
+GAKPLOIL_00479	hypothetical protein
+GAKPLOIL_00480	hypothetical protein
+GAKPLOIL_00481	hypothetical protein
+GAKPLOIL_00482	pyridine nucleotide-disulfide oxidoreductase
+GAKPLOIL_00483	helix-turn-helix domain-containing protein
+GAKPLOIL_00484	glycerol kinase
+GAKPLOIL_00485	alpha-glycerophosphate oxidase
+GAKPLOIL_00486	glycerol uptake facilitator protein
+GAKPLOIL_00487	hypothetical protein
+GAKPLOIL_00488	hypothetical protein
+GAKPLOIL_00489	M protein trans-acting positive regulator
+GAKPLOIL_00490	Sulfofructose kinase
+GAKPLOIL_00491	inosine-uridine preferring nucleoside hydrolase
+GAKPLOIL_00492	Putative cryptic C4-dicarboxylate transporter DcuD
+GAKPLOIL_00493	hypothetical protein
+GAKPLOIL_00494	3-carboxymuconate cyclase
+GAKPLOIL_00495	ATP-dependent protease ATP-binding protein ClpX
+GAKPLOIL_00496	ribosome biogenesis GTP-binding protein YsxC
+GAKPLOIL_00497	hypothetical protein
+GAKPLOIL_00498	Putative membrane protein insertion efficiency factor
+GAKPLOIL_00499	ROK family protein
+GAKPLOIL_00500	membrane protein
+GAKPLOIL_00501	membrane spanning protein
+GAKPLOIL_00502	hypothetical protein
+GAKPLOIL_00503	UDP-N-acetylmuramate--L-alanine ligase
+GAKPLOIL_00504	MaoC like domain-containing protein
+GAKPLOIL_00505	Inhibitor of apoptosis-promoting Bax1
+GAKPLOIL_00506	glycerophosphodiester phosphodiesterase family protein
+GAKPLOIL_00507	hypothetical protein
+GAKPLOIL_00508	hypothetical protein
+GAKPLOIL_00509	metal ion transporter
+GAKPLOIL_00510	16S rRNA processing protein RimM
+GAKPLOIL_00511	tRNA (guanine-N1)-methyltransferase
+GAKPLOIL_00512	50S ribosomal protein L19
+GAKPLOIL_00513	hypothetical protein
+GAKPLOIL_00514	polysaccharide deacetylase family protein
+GAKPLOIL_00515	HD domain-containing protein
+GAKPLOIL_00516	hypothetical protein
+GAKPLOIL_00517	DeoR-like helix-turn-helix protein
+GAKPLOIL_00518	PTS system galactitol-specific transporter subunit IIC
+GAKPLOIL_00519	hypothetical protein
+GAKPLOIL_00520	hypothetical protein
+GAKPLOIL_00521	Galactose-6-phosphate isomerase subunit LacA
+GAKPLOIL_00522	Galactose-6-phosphate isomerase subunit LacB
+GAKPLOIL_00523	hypothetical protein
+GAKPLOIL_00524	PTS system mannose-specific EIIAB component
+GAKPLOIL_00525	PTS system mannose-specific transporter subunit IIAB
+GAKPLOIL_00526	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_00527	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_00528	glycerol uptake facilitator protein
+GAKPLOIL_00529	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+GAKPLOIL_00530	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+GAKPLOIL_00531	Lactate racemase
+GAKPLOIL_00532	CarD family transcriptional regulator
+GAKPLOIL_00533	putative fused nickel transport protein LarMN
+GAKPLOIL_00534	Nickel permease LarQ
+GAKPLOIL_00535	cobalt import ATP-binding protein CbiO 2
+GAKPLOIL_00536	Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase
+GAKPLOIL_00537	hypothetical protein
+GAKPLOIL_00538	M protein trans-acting positive regulator
+GAKPLOIL_00539	hypothetical protein
+GAKPLOIL_00540	hypothetical protein
+GAKPLOIL_00541	hypothetical protein
+GAKPLOIL_00542	cell wall surface anchor family protein
+GAKPLOIL_00543	Alcohol dehydrogenase 1
+GAKPLOIL_00544	hypothetical protein
+GAKPLOIL_00545	hypothetical protein
+GAKPLOIL_00546	hypothetical protein
+GAKPLOIL_00547	Accessory gene regulator A
+GAKPLOIL_00548	Accessory gene regulator protein B
+GAKPLOIL_00549	hypothetical protein
+GAKPLOIL_00550	Gelatinase
+GAKPLOIL_00551	Glutamyl endopeptidase
+GAKPLOIL_00552	hypothetical protein
+GAKPLOIL_00553	hypothetical protein
+GAKPLOIL_00554	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+GAKPLOIL_00555	sulfatase
+GAKPLOIL_00556	glycosyl transferase family protein
+GAKPLOIL_00557	glycosyl transferase family protein
+GAKPLOIL_00558	transcriptional regulator, GntR family
+GAKPLOIL_00559	sugar isomerase
+GAKPLOIL_00560	tagatose 1,6-diphosphate aldolase
+GAKPLOIL_00561	Tagatose-6-phosphate kinase
+GAKPLOIL_00562	Beta-galactosidase
+GAKPLOIL_00563	PTS system, mannose/fructose/sorbose-specific IIB component
+GAKPLOIL_00564	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_00565	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_00566	PTS system, mannose/fructose/sorbose-specific IIA component
+GAKPLOIL_00567	hypothetical protein
+GAKPLOIL_00568	hypothetical protein
+GAKPLOIL_00569	hypothetical protein
+GAKPLOIL_00570	hypothetical protein
+GAKPLOIL_00571	hypothetical protein
+GAKPLOIL_00572	branched-chain amino acid aminotransferase
+GAKPLOIL_00573	hypothetical protein
+GAKPLOIL_00574	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_00575	YjeF protein
+GAKPLOIL_00576	SPFH domain / Band 7 family protein
+GAKPLOIL_00577	phosphoribosylaminoimidazole carboxylase catalytic subunit
+GAKPLOIL_00578	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+GAKPLOIL_00579	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GAKPLOIL_00580	phosphoribosylformylglycinamidine synthase subunit PurS
+GAKPLOIL_00581	Phosphoribosylformylglycinamidine synthase I
+GAKPLOIL_00582	Phosphoribosylformylglycinamidine synthase II
+GAKPLOIL_00583	Amidophosphoribosyltransferase
+GAKPLOIL_00584	Phosphoribosylformylglycinamidine cyclo-ligase
+GAKPLOIL_00585	Phosphoribosylglycinamide formyltransferase
+GAKPLOIL_00586	bifunctional purine biosynthesis protein PurH
+GAKPLOIL_00587	Phosphoribosylamine--glycine ligase
+GAKPLOIL_00588	hypothetical protein
+GAKPLOIL_00589	Tim44-like domain-containing protein
+GAKPLOIL_00590	membrane protein
+GAKPLOIL_00591	aldose dehydrogenase
+GAKPLOIL_00592	hypothetical protein
+GAKPLOIL_00593	IMPACT family member YigZ
+GAKPLOIL_00594	hypothetical protein
+GAKPLOIL_00595	PTS system cellobiose-specific transporter subunit IIB
+GAKPLOIL_00596	hypothetical protein
+GAKPLOIL_00597	helicase
+GAKPLOIL_00598	helicase
+GAKPLOIL_00599	competence protein ComFC
+GAKPLOIL_00600	ribosomal subunit interface protein
+GAKPLOIL_00601	preprotein translocase, SecA subunit
+GAKPLOIL_00602	peptide chain release factor 2
+GAKPLOIL_00603	cell division ATP-binding protein FtsE
+GAKPLOIL_00604	efflux ABC transporter, permease protein
+GAKPLOIL_00605	phosphate binding protein
+GAKPLOIL_00606	phosphate ABC transporter permease PstC
+GAKPLOIL_00607	phosphate ABC transporter, permease protein PstA
+GAKPLOIL_00608	phosphate ABC transporter ATP-binding protein
+GAKPLOIL_00609	phosphate ABC transporter ATP-binding protein
+GAKPLOIL_00610	phosphate transport system regulatory protein PhoU
+GAKPLOIL_00611	hypothetical protein
+GAKPLOIL_00612	PspC domain protein
+GAKPLOIL_00613	integral membrane protein
+GAKPLOIL_00614	excinuclease ABC
+GAKPLOIL_00615	HPr kinase/phosphorylase
+GAKPLOIL_00616	Prolipoprotein diacylglyceryl transferase
+GAKPLOIL_00617	glycerol-3-phosphate dehydrogenase
+GAKPLOIL_00618	UTP-glucose-1-phosphate uridylyltransferase
+GAKPLOIL_00619	extracellular protein
+GAKPLOIL_00620	general stress protein
+GAKPLOIL_00621	Xaa-Pro dipeptidase
+GAKPLOIL_00622	catabolite control protein A
+GAKPLOIL_00623	glycosyl transferase
+GAKPLOIL_00624	tyrosyl-tRNA synthetase
+GAKPLOIL_00625	hypothetical protein
+GAKPLOIL_00626	hypothetical protein
+GAKPLOIL_00627	endonuclease IV
+GAKPLOIL_00628	hypothetical protein
+GAKPLOIL_00629	Multidrug resistance-like ATP-binding protein mdlA
+GAKPLOIL_00630	ABC transporter ATP-binding protein
+GAKPLOIL_00631	3-dehydroquinate dehydratase
+GAKPLOIL_00632	YbaK/ebsC protein
+GAKPLOIL_00633	ribonuclease HI
+GAKPLOIL_00634	EbsA
+GAKPLOIL_00635	cold shock domain-containing protein
+GAKPLOIL_00636	Formate--tetrahydrofolate ligase
+GAKPLOIL_00637	CBS domain pair protein
+GAKPLOIL_00638	lipoprotein signal peptidase
+GAKPLOIL_00639	RluA family pseudouridine synthase
+GAKPLOIL_00640	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR
+GAKPLOIL_00641	uracil permease
+GAKPLOIL_00642	aspartate carbamoyltransferase
+GAKPLOIL_00643	Dihydroorotase
+GAKPLOIL_00644	carbamoyl-phosphate synthase small subunit
+GAKPLOIL_00645	carbamoyl-phosphate synthase large subunit
+GAKPLOIL_00646	dihydroorotate dehydrogenase, electron transfer subunit
+GAKPLOIL_00647	Dihydroorotate dehydrogenase 1B
+GAKPLOIL_00648	Orotidine 5'-phosphate decarboxylase
+GAKPLOIL_00649	orotate phosphoribosyltransferase
+GAKPLOIL_00650	carbonic anhydrase
+GAKPLOIL_00651	LysR family transcriptional regulator
+GAKPLOIL_00652	transcriptional regulator, GntR family
+GAKPLOIL_00653	hypothetical protein
+GAKPLOIL_00654	glycosyl hydrolase family 38 protein
+GAKPLOIL_00655	aromatic amino acid aminotransferase
+GAKPLOIL_00656	phosphate-binding protein
+GAKPLOIL_00657	sensory box histidine kinase
+GAKPLOIL_00658	response regulator receiver domain-containing protein
+GAKPLOIL_00659	hypothetical protein
+GAKPLOIL_00660	DNA-binding protein
+GAKPLOIL_00661	signal recognition particle protein
+GAKPLOIL_00662	transcriptional regulator, MerR family
+GAKPLOIL_00663	flavin reductase
+GAKPLOIL_00664	Mycothiol acetyltransferase
+GAKPLOIL_00665	30S ribosomal protein S16
+GAKPLOIL_00666	RNA-binding protein
+GAKPLOIL_00667	hypothetical protein
+GAKPLOIL_00668	Ribonuclease Z
+GAKPLOIL_00669	short chain dehydrogenase/reductase family oxidoreductase
+GAKPLOIL_00670	hypothetical protein
+GAKPLOIL_00671	single-stranded-DNA-specific exonuclease RecJ
+GAKPLOIL_00672	adenine phosphoribosyltransferase
+GAKPLOIL_00673	hypothetical protein
+GAKPLOIL_00674	hemolysin III family channel protein
+GAKPLOIL_00675	DegV family protein
+GAKPLOIL_00676	GDSL-like lipase/acylhydrolase
+GAKPLOIL_00677	hypothetical protein
+GAKPLOIL_00678	methionine sulfoxide reductase MsrA
+GAKPLOIL_00679	hypothetical protein
+GAKPLOIL_00680	Carboxy-terminal processing protease CtpA
+GAKPLOIL_00681	signal peptidase I
+GAKPLOIL_00682	hypothetical protein
+GAKPLOIL_00683	hypothetical protein
+GAKPLOIL_00684	bacitracin transport ATP-binding protein BcrA
+GAKPLOIL_00685	hypothetical protein
+GAKPLOIL_00686	ABC transporter ATP-binding protein
+GAKPLOIL_00687	hypothetical protein
+GAKPLOIL_00688	NAD(P)H quinone oxidoreductase
+GAKPLOIL_00689	phospholipase/carboxylesterase
+GAKPLOIL_00690	glyoxalase family protein
+GAKPLOIL_00691	HTH-type transcriptional regulator MhqR
+GAKPLOIL_00692	3-oxoacyl-ACP reductase
+GAKPLOIL_00693	hypothetical protein
+GAKPLOIL_00694	hypothetical protein
+GAKPLOIL_00695	integral membrane protein
+GAKPLOIL_00696	Phosphate acetyltransferase
+GAKPLOIL_00697	putative butyrate kinase 2
+GAKPLOIL_00698	Dihydrolipoyl dehydrogenase
+GAKPLOIL_00699	pyruvate dehydrogenase E1 component subunit alpha
+GAKPLOIL_00700	transketolase
+GAKPLOIL_00701	dihydrolipoamide S-succinyltransferase
+GAKPLOIL_00702	membrane protein
+GAKPLOIL_00703	LysR family transcriptional regulator
+GAKPLOIL_00704	2-dehydropantoate 2-reductase
+GAKPLOIL_00705	ribosome biogenesis GTP-binding protein YlqF
+GAKPLOIL_00706	ribonuclease HII
+GAKPLOIL_00707	DNA processing protein DprA
+GAKPLOIL_00708	hypothetical protein
+GAKPLOIL_00709	DNA topoisomerase I
+GAKPLOIL_00710	glucose inhibited division protein
+GAKPLOIL_00711	site-specific tyrosine recombinase XerC-family protein
+GAKPLOIL_00712	ATP-dependent protease HslVU, peptidase subunit
+GAKPLOIL_00713	ATP-dependent carboxylate-amine ligase
+GAKPLOIL_00714	GTP-sensing transcriptional pleiotropic repressor CodY
+GAKPLOIL_00715	aldose 1-epimerase
+GAKPLOIL_00716	acyl-phosphate glycerol 3-phosphate acyltransferase
+GAKPLOIL_00717	Vitamin B12-binding protein
+GAKPLOIL_00718	ferrichrome transport system permease FhuB
+GAKPLOIL_00719	iron ABC transporter ATP-binding protein
+GAKPLOIL_00720	Propanediol utilization protein PduV
+GAKPLOIL_00721	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+GAKPLOIL_00722	aldehyde-alcohol dehydrogenase
+GAKPLOIL_00723	Propanediol utilization protein PduU
+GAKPLOIL_00724	putative transcriptional regulatory protein pdtaR
+GAKPLOIL_00725	hypothetical protein
+GAKPLOIL_00726	hypothetical protein
+GAKPLOIL_00727	Ethanolamine ammonia-lyase heavy chain
+GAKPLOIL_00728	Ethanolamine ammonia-lyase light chain
+GAKPLOIL_00729	Ethanolamine utilization protein EutL
+GAKPLOIL_00730	hypothetical protein
+GAKPLOIL_00731	aldehyde-alcohol dehydrogenase
+GAKPLOIL_00732	Propanediol utilization protein PduA
+GAKPLOIL_00733	hypothetical protein
+GAKPLOIL_00734	Phosphate propanoyltransferase
+GAKPLOIL_00735	hypothetical protein
+GAKPLOIL_00736	Carbon dioxide concentrating mechanism protein CcmL
+GAKPLOIL_00737	hypothetical protein
+GAKPLOIL_00738	Ethanolamine utilization protein EutQ
+GAKPLOIL_00739	CoA-binding protein
+GAKPLOIL_00740	DNA topoisomerase IV subunit B
+GAKPLOIL_00741	DNA topoisomerase IV subunit A
+GAKPLOIL_00742	formate acetyltransferase
+GAKPLOIL_00743	pyruvate formate-lyase activating enzyme
+GAKPLOIL_00744	manganese-dependent inorganic pyrophosphatase
+GAKPLOIL_00745	hypothetical protein
+GAKPLOIL_00746	hypothetical protein
+GAKPLOIL_00747	cardiolipin synthetase
+GAKPLOIL_00748	PTS system, beta-glucoside-specific IIABC component
+GAKPLOIL_00749	6-phospho-beta-glucosidase
+GAKPLOIL_00750	hypothetical protein
+GAKPLOIL_00751	LacI family transcription regulator
+GAKPLOIL_00752	Glycosyl hydrolase
+GAKPLOIL_00753	alpha amylase
+GAKPLOIL_00754	PTS system, trehalose/maltose-specific, IIBCA component
+GAKPLOIL_00755	helix-turn-helix domain-containing protein
+GAKPLOIL_00756	Deoxyribodipyrimidine photo-lyase
+GAKPLOIL_00757	Vegetative catalase
+GAKPLOIL_00758	hypothetical protein
+GAKPLOIL_00759	RNA pyrophosphohydrolase
+GAKPLOIL_00760	ABC transporter ATP-binding protein/permease
+GAKPLOIL_00761	ABC transporter ATP-binding protein/permease
+GAKPLOIL_00762	AraC family transcriptional regulator
+GAKPLOIL_00763	GNAT family acetyltransferase
+GAKPLOIL_00764	hypothetical protein
+GAKPLOIL_00765	NUDIX family hydrolase
+GAKPLOIL_00766	NADH oxidase
+GAKPLOIL_00767	Fur family transcriptional regulator
+GAKPLOIL_00768	cysteine synthase A
+GAKPLOIL_00769	N-acetylmuramoyl-L-alanine amidase
+GAKPLOIL_00770	major facilitator family transporter
+GAKPLOIL_00771	transketolase
+GAKPLOIL_00772	hypothetical protein
+GAKPLOIL_00773	LexA repressor
+GAKPLOIL_00774	iron-sulfur cluster-binding protein
+GAKPLOIL_00775	dihydrofolate reductase
+GAKPLOIL_00776	thymidylate synthase
+GAKPLOIL_00777	ABC transporter ATP-binding protein
+GAKPLOIL_00778	Na+/H+ antiporter
+GAKPLOIL_00779	hypothetical protein
+GAKPLOIL_00780	hypothetical protein
+GAKPLOIL_00781	hypothetical protein
+GAKPLOIL_00782	EDD domain-containing protein, DegV family
+GAKPLOIL_00783	transcriptional regulator, PSR protein
+GAKPLOIL_00784	prephenate dehydratase
+GAKPLOIL_00785	shikimate kinase
+GAKPLOIL_00786	3-phosphoshikimate 1-carboxyvinyltransferase
+GAKPLOIL_00787	prephenate dehydrogenase
+GAKPLOIL_00788	chorismate synthase
+GAKPLOIL_00789	3-dehydroquinate synthase
+GAKPLOIL_00790	phospho-2-dehydro-3-deoxyheptonate aldolase
+GAKPLOIL_00791	shikimate 5-dehydrogenase
+GAKPLOIL_00792	hypothetical protein
+GAKPLOIL_00793	hypothetical protein
+GAKPLOIL_00794	tRNA nucleotidyltransferase/poly(A) polymerase family protein
+GAKPLOIL_00795	dihydrodipicolinate reductase
+GAKPLOIL_00796	MazG nucleotide pyrophosphohydrolase domain-containing protein
+GAKPLOIL_00797	integral membrane protein
+GAKPLOIL_00798	hypothetical protein
+GAKPLOIL_00799	tetratricopeptide repeat protein
+GAKPLOIL_00800	hypothetical protein
+GAKPLOIL_00801	DNA-binding protein HU
+GAKPLOIL_00802	ribosome-associated GTPase EngA
+GAKPLOIL_00803	30S ribosomal protein S1
+GAKPLOIL_00804	cytidylate kinase
+GAKPLOIL_00805	LysM domain-containing protein
+GAKPLOIL_00806	RecQ familyATP-dependent DNA helicase
+GAKPLOIL_00807	hypothetical protein
+GAKPLOIL_00808	ferredoxin
+GAKPLOIL_00809	hypothetical protein
+GAKPLOIL_00810	membrane protein
+GAKPLOIL_00811	16S rRNA pseudouridine synthase A
+GAKPLOIL_00812	segregation and condensation protein B
+GAKPLOIL_00813	segregation and condensation protein A
+GAKPLOIL_00814	site-specific tyrosine recombinase XerD-family protein
+GAKPLOIL_00815	x-Pro dipeptidyl-peptidase
+GAKPLOIL_00816	alpha3-beta1 integrin-binding family protein
+GAKPLOIL_00817	cyclophilin type peptidyl-prolyl cis-trans isomerase
+GAKPLOIL_00818	hypothetical protein
+GAKPLOIL_00819	TetR family transcriptional regulator
+GAKPLOIL_00820	PTS system transporter subunit IIC
+GAKPLOIL_00821	hypothetical protein
+GAKPLOIL_00822	Obg family GTPase CgtA
+GAKPLOIL_00823	glyceraldehyde 3-phosphate dehydrogenase
+GAKPLOIL_00824	transcriptional regulator, FUR family
+GAKPLOIL_00825	Conserved virulence factor B
+GAKPLOIL_00826	Mid-cell-anchored protein Z
+GAKPLOIL_00827	RNA polymerase sigma factor RpoD
+GAKPLOIL_00828	DNA primase
+GAKPLOIL_00829	cation transporter E1-E2 family ATPase
+GAKPLOIL_00830	hypothetical protein
+GAKPLOIL_00831	PTS system, N-acetylglucosamine-specific IICBA component
+GAKPLOIL_00832	BglG family transcriptional antiterminator
+GAKPLOIL_00833	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_00834	hypothetical protein
+GAKPLOIL_00835	Hydrophobic dipeptide epimerase
+GAKPLOIL_00836	metal-sulfur cluster biosynthetic enzyme
+GAKPLOIL_00837	hypothetical protein
+GAKPLOIL_00838	hypothetical protein
+GAKPLOIL_00839	hypothetical protein
+GAKPLOIL_00840	Alpha/beta hydrolase family protein
+GAKPLOIL_00841	diaminopimelate decarboxylase
+GAKPLOIL_00842	fructose-1,6-bisphosphatase
+GAKPLOIL_00843	hypothetical protein
+GAKPLOIL_00844	hypothetical protein
+GAKPLOIL_00845	V-type ATP synthase subunit D
+GAKPLOIL_00846	V-type ATP synthase subunit B
+GAKPLOIL_00847	V-type ATP synthase subunit A
+GAKPLOIL_00848	V-type ATP synthase subunit G
+GAKPLOIL_00849	V-type ATPase subunit C
+GAKPLOIL_00850	V-type ATPase subunit E
+GAKPLOIL_00851	V-type ATP synthase subunit K
+GAKPLOIL_00852	V-type ATP synthase subunit I
+GAKPLOIL_00853	hypothetical protein
+GAKPLOIL_00854	putative flavoprotein NrdI
+GAKPLOIL_00855	hypothetical protein
+GAKPLOIL_00856	glucose-6-phosphate isomerase
+GAKPLOIL_00857	NADP-specific glutamate dehydrogenase
+GAKPLOIL_00858	HI0933-like protein
+GAKPLOIL_00859	ABC transporter ATP-binding protein
+GAKPLOIL_00860	hypothetical protein
+GAKPLOIL_00861	alpha-galactosidase
+GAKPLOIL_00862	LacI family sugar-binding transcriptional regulator
+GAKPLOIL_00863	putative type IV conjugative transfer system protein TraL
+GAKPLOIL_00864	ABC transporter ATP-binding protein
+GAKPLOIL_00865	hypothetical protein
+GAKPLOIL_00866	excinuclease ABC subunit C
+GAKPLOIL_00867	thioredoxin
+GAKPLOIL_00868	recombination and DNA strand exchange inhibitor protein
+GAKPLOIL_00869	CvpA family protein
+GAKPLOIL_00870	cell division protein ZapA
+GAKPLOIL_00871	cadmium-translocating P-type ATPase
+GAKPLOIL_00872	Vitamin B12 import ATP-binding protein BtuD
+GAKPLOIL_00873	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+GAKPLOIL_00874	Molybdate-binding protein ModA
+GAKPLOIL_00875	hypothetical protein
+GAKPLOIL_00876	Molybdopterin adenylyltransferase
+GAKPLOIL_00877	hypothetical protein
+GAKPLOIL_00878	GTP 3',8-cyclase
+GAKPLOIL_00879	Cyclic pyranopterin monophosphate synthase
+GAKPLOIL_00880	Molybdopterin molybdenumtransferase 2
+GAKPLOIL_00881	Nitrate reductase
+GAKPLOIL_00882	NADP-reducing hydrogenase subunit HndC
+GAKPLOIL_00883	NADP-reducing hydrogenase subunit HndA
+GAKPLOIL_00884	hypothetical protein
+GAKPLOIL_00885	formate/nitrite transporter
+GAKPLOIL_00886	putative molybdenum cofactor guanylyltransferase
+GAKPLOIL_00887	integral membrane protein
+GAKPLOIL_00888	membrane protein
+GAKPLOIL_00889	peptidase T
+GAKPLOIL_00890	NIF3-related protein
+GAKPLOIL_00891	SAM-dependent methyltransferase family protein
+GAKPLOIL_00892	alanyl-tRNA synthetase
+GAKPLOIL_00893	hypothetical protein
+GAKPLOIL_00894	DEAD/DEAH box helicase
+GAKPLOIL_00895	VanZ/RDD domain protein
+GAKPLOIL_00896	hypothetical protein
+GAKPLOIL_00897	putative alkylphosphonate utilization operon protein PhnA
+GAKPLOIL_00898	DHHA1 domain protein
+GAKPLOIL_00899	DRTGG domain-containing protein
+GAKPLOIL_00900	metallo-beta-lactamase domain-containing protein
+GAKPLOIL_00901	drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+GAKPLOIL_00902	hypothetical protein
+GAKPLOIL_00903	hypothetical protein
+GAKPLOIL_00904	major cold shock protein CspA
+GAKPLOIL_00905	integral membrane protein
+GAKPLOIL_00906	permease
+GAKPLOIL_00907	acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+GAKPLOIL_00908	hydroxymethylglutaryl-CoA synthase
+GAKPLOIL_00909	hypothetical protein
+GAKPLOIL_00910	dihydroxyacetone kinase, DhaL subunit
+GAKPLOIL_00911	dihydroxyacetone kinase subunit DhaK
+GAKPLOIL_00912	dihydroxyacetone kinase, phosphotransfer subunit
+GAKPLOIL_00913	glycerol dehydrogenase
+GAKPLOIL_00914	HTH-type transcriptional activator RhaR
+GAKPLOIL_00915	Dihydrolipoyl dehydrogenase
+GAKPLOIL_00916	dihydrolipoamide S-succinyltransferase
+GAKPLOIL_00917	transketolase
+GAKPLOIL_00918	pyruvate dehydrogenase E1 component subunit alpha
+GAKPLOIL_00919	magnesium-translocating P-type ATPase
+GAKPLOIL_00920	integral membrane protein
+GAKPLOIL_00921	alpha amylase
+GAKPLOIL_00922	glucan 1,6-alpha-glucosidase
+GAKPLOIL_00923	alpha amylase
+GAKPLOIL_00924	extracellular solute-binding protein
+GAKPLOIL_00925	ABC transporter permease
+GAKPLOIL_00926	ABC transporter permease
+GAKPLOIL_00927	hypothetical protein
+GAKPLOIL_00928	ABC transporter ATP-binding protein/permease
+GAKPLOIL_00929	hypothetical protein
+GAKPLOIL_00930	hypothetical protein
+GAKPLOIL_00931	thioredoxin reductase
+GAKPLOIL_00932	hypothetical protein
+GAKPLOIL_00933	response regulator receiver domain-containing protein
+GAKPLOIL_00934	hypothetical protein
+GAKPLOIL_00935	hypothetical protein
+GAKPLOIL_00936	ABC transporter ATP-binding protein
+GAKPLOIL_00937	hypothetical protein
+GAKPLOIL_00938	putative ABC transporter, ATP-binding protein SagG
+GAKPLOIL_00939	hypothetical protein
+GAKPLOIL_00940	hypothetical protein
+GAKPLOIL_00941	GntR family transcriptional regulator
+GAKPLOIL_00942	hypothetical protein
+GAKPLOIL_00943	TetR family dihydroxyacetone kinase regulator
+GAKPLOIL_00944	hypothetical protein
+GAKPLOIL_00945	tRNA-Gln
+GAKPLOIL_00946	tRNA-Tyr
+GAKPLOIL_00947	hypothetical protein
+GAKPLOIL_00948	SPFH domain / Band 7 family protein
+GAKPLOIL_00949	putative membrane protein YuaF
+GAKPLOIL_00950	efflux ABC transporter permease
+GAKPLOIL_00951	ABC transporter ATP-binding protein
+GAKPLOIL_00952	DNA-entry nuclease
+GAKPLOIL_00953	hypothetical protein
+GAKPLOIL_00954	N-acetylglucosamine-6-phosphate deacetylase
+GAKPLOIL_00955	helix-turn-helix domain-containing protein
+GAKPLOIL_00956	hypothetical protein
+GAKPLOIL_00957	aminotransferase AlaT
+GAKPLOIL_00958	tRNA-Leu
+GAKPLOIL_00959	SprT-like family protein
+GAKPLOIL_00960	RNA binding protein S1
+GAKPLOIL_00961	metallophosphoesterase
+GAKPLOIL_00962	chaperone protein DnaJ
+GAKPLOIL_00963	chaperone protein DnaK
+GAKPLOIL_00964	co-chaperone GrpE
+GAKPLOIL_00965	heat-inducible transcription repressor HrcA
+GAKPLOIL_00966	putative oxygen-independent coproporphyrinogen III oxidase
+GAKPLOIL_00967	magnesium-translocating P-type ATPase
+GAKPLOIL_00968	HTH-type transcriptional regulator CynR
+GAKPLOIL_00969	HTH-type transcriptional regulator CynR
+GAKPLOIL_00970	FtsW/RodA/SpoVE family cell cycle protein
+GAKPLOIL_00971	FtsW/RodA/SpoVE family cell cycle protein
+GAKPLOIL_00972	transcriptional regulator
+GAKPLOIL_00973	hypothetical protein
+GAKPLOIL_00974	PadR family transcriptional regulator
+GAKPLOIL_00975	hypothetical protein
+GAKPLOIL_00976	riboflavin biosynthesis protein RibF
+GAKPLOIL_00977	tRNA pseudouridine synthase B
+GAKPLOIL_00978	hypothetical protein
+GAKPLOIL_00979	holin
+GAKPLOIL_00980	hypothetical protein
+GAKPLOIL_00981	hypothetical protein
+GAKPLOIL_00982	hypothetical protein
+GAKPLOIL_00983	hypothetical protein
+GAKPLOIL_00984	hypothetical protein
+GAKPLOIL_00985	hypothetical protein
+GAKPLOIL_00986	hypothetical protein
+GAKPLOIL_00987	hypothetical protein
+GAKPLOIL_00988	hypothetical protein
+GAKPLOIL_00989	hypothetical protein
+GAKPLOIL_00990	hypothetical protein
+GAKPLOIL_00991	DNA replication protein
+GAKPLOIL_00992	hypothetical protein
+GAKPLOIL_00993	hypothetical protein
+GAKPLOIL_00994	hypothetical protein
+GAKPLOIL_00995	hypothetical protein
+GAKPLOIL_00996	ribosome-binding factor A
+GAKPLOIL_00997	translation initiation factor IF-2
+GAKPLOIL_00998	50S ribosomal protein L7Ae
+GAKPLOIL_00999	cytosolic protein YlxR
+GAKPLOIL_01000	transcription termination factor NusA
+GAKPLOIL_01001	ribosome maturation protein RimP
+GAKPLOIL_01002	hypothetical protein
+GAKPLOIL_01003	cation transporter E1-E2 family ATPase
+GAKPLOIL_01004	ribonuclease HIII
+GAKPLOIL_01005	SAM-dependent methyltransferase
+GAKPLOIL_01006	sulfatase
+GAKPLOIL_01007	hypothetical protein
+GAKPLOIL_01008	hypothetical protein
+GAKPLOIL_01009	sensor histidine kinase
+GAKPLOIL_01010	response regulator receiver domain-containing protein
+GAKPLOIL_01011	HAD superfamily hydrolase
+GAKPLOIL_01012	hypothetical protein
+GAKPLOIL_01013	hypothetical protein
+GAKPLOIL_01014	ABC transporter ATP-binding protein
+GAKPLOIL_01015	amino acid or sugar ABC transport system, permease protein
+GAKPLOIL_01016	ABC transporter substrate binding protein
+GAKPLOIL_01017	hypothetical protein
+GAKPLOIL_01018	hypothetical protein
+GAKPLOIL_01019	fibronectin-binding protein A
+GAKPLOIL_01020	hypothetical protein
+GAKPLOIL_01021	hypothetical protein
+GAKPLOIL_01022	hypothetical protein
+GAKPLOIL_01023	oxidoreductase family, NAD-binding Rossmann fold protein
+GAKPLOIL_01024	6-phospho-beta-galactosidase
+GAKPLOIL_01025	GntR family transcriptional regulator
+GAKPLOIL_01026	hypothetical protein
+GAKPLOIL_01027	LacI family transcriptional regulator
+GAKPLOIL_01028	1,2-beta-oligoglucan phosphorylase
+GAKPLOIL_01029	Beta-glucosidase BoGH3B
+GAKPLOIL_01030	hypothetical protein
+GAKPLOIL_01031	Cephalosporin-C deacetylase
+GAKPLOIL_01032	hypothetical protein
+GAKPLOIL_01033	hypothetical protein
+GAKPLOIL_01034	ABC transporter permease
+GAKPLOIL_01035	ABC transporter permease
+GAKPLOIL_01036	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+GAKPLOIL_01037	hypothetical protein
+GAKPLOIL_01038	hypothetical protein
+GAKPLOIL_01039	M protein trans-acting positive regulator
+GAKPLOIL_01040	hypothetical protein
+GAKPLOIL_01041	hypothetical protein
+GAKPLOIL_01042	ApbE family protein
+GAKPLOIL_01043	helix-turn-helix domain-containing protein
+GAKPLOIL_01044	Melamine deaminase
+GAKPLOIL_01045	adenine deaminase
+GAKPLOIL_01046	Putrescine-binding periplasmic protein SpuD
+GAKPLOIL_01047	Sulfate/thiosulfate import ATP-binding protein CysA
+GAKPLOIL_01048	spermidine/putrescine transport system permease protein PotC
+GAKPLOIL_01049	spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+GAKPLOIL_01050	hypothetical protein
+GAKPLOIL_01051	hypothetical protein
+GAKPLOIL_01052	hypothetical protein
+GAKPLOIL_01053	alpha-acetolactate decarboxylase
+GAKPLOIL_01054	acetolactate synthase
+GAKPLOIL_01055	transcriptional regulator
+GAKPLOIL_01056	NADH peroxidase
+GAKPLOIL_01057	response regulator receiver domain-containing protein
+GAKPLOIL_01058	Sensor histidine kinase DcuS
+GAKPLOIL_01059	Na+/citrate symporter
+GAKPLOIL_01060	NADP-dependent malic enzyme
+GAKPLOIL_01061	helix-turn-helix domain-containing protein
+GAKPLOIL_01062	hypothetical protein
+GAKPLOIL_01063	Holliday junction resolvase-like protein
+GAKPLOIL_01064	hypothetical protein
+GAKPLOIL_01065	hypothetical protein
+GAKPLOIL_01066	hypothetical protein
+GAKPLOIL_01067	membrane protein
+GAKPLOIL_01068	putative permease
+GAKPLOIL_01069	metallo-beta-lactamase YycJ
+GAKPLOIL_01070	YycH protein
+GAKPLOIL_01071	YycH protein
+GAKPLOIL_01072	PAS domain sensory box histidine kinase
+GAKPLOIL_01073	DNA-binding response regulator
+GAKPLOIL_01074	glycerol uptake facilitator protein
+GAKPLOIL_01075	EDD domain protein, DegV family
+GAKPLOIL_01076	hypothetical protein
+GAKPLOIL_01077	integral membrane protein
+GAKPLOIL_01078	HAD superfamily hydrolase
+GAKPLOIL_01079	hypothetical protein
+GAKPLOIL_01080	Ser/Thr protein phosphatase family protein
+GAKPLOIL_01081	Ribonuclease J 2
+GAKPLOIL_01082	dihydrodipicolinate synthase
+GAKPLOIL_01083	aspartate-semialdehyde dehydrogenase
+GAKPLOIL_01084	S-ribosylhomocysteinase
+GAKPLOIL_01085	FMN reductase (NADPH)
+GAKPLOIL_01086	hypothetical protein
+GAKPLOIL_01087	fructokinase
+GAKPLOIL_01088	hypothetical protein
+GAKPLOIL_01089	cell wall surface anchor family protein
+GAKPLOIL_01090	Glycerol-3-phosphate cytidylyltransferase
+GAKPLOIL_01091	hypothetical protein
+GAKPLOIL_01092	glycosyl transferase, WecB/TagA/CpsF family
+GAKPLOIL_01093	Teichoic acid glycerol-phosphate primase
+GAKPLOIL_01094	50S ribosomal protein L31
+GAKPLOIL_01095	transcription termination factor Rho
+GAKPLOIL_01096	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GAKPLOIL_01097	fructose-bisphosphate aldolase
+GAKPLOIL_01098	integral membrane protein
+GAKPLOIL_01099	N-(5'phosphoribosyl)anthranilate isomerase family protein
+GAKPLOIL_01100	hypothetical protein
+GAKPLOIL_01101	L-asparaginase
+GAKPLOIL_01102	DEAD_2 helicase
+GAKPLOIL_01103	Glycine reductase complex component B subunit gamma
+GAKPLOIL_01104	PTS system lactose/cellobiose-specific transporter subunit IIC
+GAKPLOIL_01105	PTS system lactose/cellobiose-specific transporter subunit IIB
+GAKPLOIL_01106	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+GAKPLOIL_01107	dipeptidase PepV
+GAKPLOIL_01108	GntR family transcriptional regulator
+GAKPLOIL_01109	endonuclease III
+GAKPLOIL_01110	DnaD and phage-associated domain protein
+GAKPLOIL_01111	carboxypeptidase Taq metallopeptidase
+GAKPLOIL_01112	putative methylase
+GAKPLOIL_01113	cell division protein DivIVA
+GAKPLOIL_01114	hypothetical protein
+GAKPLOIL_01115	recombination protein U
+GAKPLOIL_01116	penicillin-binding protein 1A
+GAKPLOIL_01117	CTP synthase
+GAKPLOIL_01118	DNA-directed RNA polymerase subunit delta
+GAKPLOIL_01119	hypothetical protein
+GAKPLOIL_01120	lipoate-protein ligase A
+GAKPLOIL_01121	HD domain-containing protein
+GAKPLOIL_01122	HAD superfamily hydrolase
+GAKPLOIL_01123	NUDIX family hydrolase
+GAKPLOIL_01124	lactoylglutathione lyase
+GAKPLOIL_01125	glutamine amidotransferase
+GAKPLOIL_01126	oxidoreductase, aldo/keto reductase family protein
+GAKPLOIL_01127	hypothetical protein
+GAKPLOIL_01128	transporter, small conductance mechanosensitive ion channel family protein
+GAKPLOIL_01129	peptidase M20D
+GAKPLOIL_01130	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+GAKPLOIL_01131	CBS domain pair protein
+GAKPLOIL_01132	L-ribulose-5-phosphate 4-epimerase
+GAKPLOIL_01133	L-xylulose 5-phosphate 3-epimerase
+GAKPLOIL_01134	3-keto-L-gulonate-6-phosphate decarboxylase
+GAKPLOIL_01135	PTS system ascorbate-specific transporter subunit IIB
+GAKPLOIL_01136	PTS system ascorbate-specific transporter subunit IIC
+GAKPLOIL_01137	PTS system ascorbate-specific transporter subunit IIA
+GAKPLOIL_01138	L-ascorbate 6-phosphate lactonase, UlaG
+GAKPLOIL_01139	DeoR-like helix-turn-helix protein
+GAKPLOIL_01140	phosphodiesterase
+GAKPLOIL_01141	Ribonuclease PH/Ham1 protein
+GAKPLOIL_01142	glutamate racemase
+GAKPLOIL_01143	ABC transporter ATP-binding protein
+GAKPLOIL_01144	putative adhesin/ABC transporter aspartate/glutamate-binding protein
+GAKPLOIL_01145	ABC transporter permease
+GAKPLOIL_01146	ABC transporter permease
+GAKPLOIL_01147	phenylalanyl-tRNA synthetase subunit beta
+GAKPLOIL_01148	phenylalanyl-tRNA synthetase subunit alpha
+GAKPLOIL_01149	HxlR-like helix-turn-helix
+GAKPLOIL_01150	ATP-dependent helicase/nuclease subunit A
+GAKPLOIL_01151	ATP-dependent helicase/deoxyribonuclease subunit B
+GAKPLOIL_01152	signal peptidase I
+GAKPLOIL_01153	Lactate utilization protein C
+GAKPLOIL_01154	Lactate utilization protein B
+GAKPLOIL_01155	Lactate utilization protein A
+GAKPLOIL_01156	hypothetical protein
+GAKPLOIL_01157	hypothetical protein
+GAKPLOIL_01158	amino acid permease
+GAKPLOIL_01159	hypothetical protein
+GAKPLOIL_01160	methyltransferase
+GAKPLOIL_01161	Vitamin B12 import ATP-binding protein BtuD
+GAKPLOIL_01162	hypothetical protein
+GAKPLOIL_01163	Collagen-binding protein
+GAKPLOIL_01164	hypothetical protein
+GAKPLOIL_01165	transfer-messenger RNA, SsrA
+GAKPLOIL_01166	hypothetical protein
+GAKPLOIL_01167	hypothetical protein
+GAKPLOIL_01168	hypothetical protein
+GAKPLOIL_01169	peptidase C60
+GAKPLOIL_01170	LPXTG-motif protein cell wall anchor domain protein
+GAKPLOIL_01171	LPXTG-motif protein cell wall anchor domain protein
+GAKPLOIL_01172	von Willebrand factor type A domain-containing protein
+GAKPLOIL_01173	M protein trans-acting positive regulator
+GAKPLOIL_01174	hypothetical protein
+GAKPLOIL_01175	hypothetical protein
+GAKPLOIL_01176	Spermine/spermidine acetyltransferase
+GAKPLOIL_01177	hypothetical protein
+GAKPLOIL_01178	universal stress protein UspA
+GAKPLOIL_01179	hypothetical protein
+GAKPLOIL_01180	hypothetical protein
+GAKPLOIL_01181	hypothetical protein
+GAKPLOIL_01182	DNA directed DNA polymerase
+GAKPLOIL_01183	hypothetical protein
+GAKPLOIL_01184	major facilitator superfamily transporter
+GAKPLOIL_01185	GNAT family acetyltransferase
+GAKPLOIL_01186	Streptomycin 3''-adenylyltransferase
+GAKPLOIL_01187	hypothetical protein
+GAKPLOIL_01188	hypothetical protein
+GAKPLOIL_01189	hypothetical protein
+GAKPLOIL_01190	LacI family transcriptional regulator
+GAKPLOIL_01191	galactose-1-phosphate uridylyltransferase
+GAKPLOIL_01192	UDP-glucose 4-epimerase
+GAKPLOIL_01193	galactokinase
+GAKPLOIL_01194	aldose 1-epimerase
+GAKPLOIL_01195	hypothetical protein
+GAKPLOIL_01196	maltose O-acetyltransferase
+GAKPLOIL_01197	3-demethylubiquinone-9 3-methyltransferase
+GAKPLOIL_01198	GAF domain-containing protein
+GAKPLOIL_01199	hypothetical protein
+GAKPLOIL_01200	N-isopropylammelide isopropyl amidohydrolase
+GAKPLOIL_01201	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_01202	Purine catabolism regulatory protein
+GAKPLOIL_01203	universal stress protein UspA
+GAKPLOIL_01204	metal ion transporter
+GAKPLOIL_01205	Tunicamycin resistance protein
+GAKPLOIL_01206	hypothetical protein
+GAKPLOIL_01207	ABC transporter ATPase
+GAKPLOIL_01208	hypothetical protein
+GAKPLOIL_01209	tRNA-Leu
+GAKPLOIL_01210	tRNA-Cys
+GAKPLOIL_01211	tRNA-Gln
+GAKPLOIL_01212	tRNA-His
+GAKPLOIL_01213	tRNA-Trp
+GAKPLOIL_01214	tRNA-Tyr
+GAKPLOIL_01215	tRNA-Phe
+GAKPLOIL_01216	tRNA-Asp
+GAKPLOIL_01217	tRNA-Val
+GAKPLOIL_01218	tRNA-Glu
+GAKPLOIL_01219	tRNA-Ser
+GAKPLOIL_01220	tRNA-Arg
+GAKPLOIL_01221	tRNA-Pro
+GAKPLOIL_01222	RpiR family transcriptional regulator
+GAKPLOIL_01223	PTS system, lactose/cellobiose IIC component
+GAKPLOIL_01224	cystathionine gamma-synthase
+GAKPLOIL_01225	firmicute transcriptional repressor of class III stress
+GAKPLOIL_01226	negative regulator of genetic competence ClpC/MecB
+GAKPLOIL_01227	hypothetical protein
+GAKPLOIL_01228	peptidase, U32 family
+GAKPLOIL_01229	peptidase, U32 family
+GAKPLOIL_01230	hypothetical protein
+GAKPLOIL_01231	Cytosine permease
+GAKPLOIL_01232	hypothetical protein
+GAKPLOIL_01233	hydantoinase/oxoprolinase
+GAKPLOIL_01234	hypothetical protein
+GAKPLOIL_01235	hypothetical protein
+GAKPLOIL_01236	hypothetical protein
+GAKPLOIL_01237	Glutathione reductase
+GAKPLOIL_01238	Dihydroneopterin aldolase
+GAKPLOIL_01239	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+GAKPLOIL_01240	GTP cyclohydrolase 1
+GAKPLOIL_01241	Ribonuclease PH/Ham1 protein
+GAKPLOIL_01242	Dihydropteroate synthase
+GAKPLOIL_01243	toxin-antitoxin system, toxin component, MazF family
+GAKPLOIL_01244	AbrB family transcriptional regulator
+GAKPLOIL_01245	polyprenyl synthetase
+GAKPLOIL_01246	Heptaprenyl diphosphate synthase component I
+GAKPLOIL_01247	CobW/P47K family protein
+GAKPLOIL_01248	pyridine nucleotide-disulfide family oxidoreductase
+GAKPLOIL_01249	FMN-binding domain-containing protein
+GAKPLOIL_01250	ApbE family protein
+GAKPLOIL_01251	prenyltransferase, UbiA family
+GAKPLOIL_01252	hypothetical protein
+GAKPLOIL_01253	hypothetical protein
+GAKPLOIL_01254	hypothetical protein
+GAKPLOIL_01255	hypothetical protein
+GAKPLOIL_01256	hypothetical protein
+GAKPLOIL_01257	hypothetical protein
+GAKPLOIL_01258	Transcriptional regulator LytR
+GAKPLOIL_01259	hypothetical protein
+GAKPLOIL_01260	hypothetical protein
+GAKPLOIL_01261	biotin-[acetyl-CoA-carboxylase] ligase
+GAKPLOIL_01262	hypothetical protein
+GAKPLOIL_01263	DNA-directed RNA polymerase subunit beta
+GAKPLOIL_01264	DNA-directed RNA polymerase subunit beta'
+GAKPLOIL_01265	bacterial Peptidase A24 protein
+GAKPLOIL_01266	gluconate kinase
+GAKPLOIL_01267	hypothetical protein
+GAKPLOIL_01268	DNA protection during starvation protein 1
+GAKPLOIL_01269	50S ribosomal protein L13
+GAKPLOIL_01270	30S ribosomal protein S9
+GAKPLOIL_01271	site-specific tyrosine recombinase XerC-family protein
+GAKPLOIL_01272	hypothetical protein
+GAKPLOIL_01273	hypothetical protein
+GAKPLOIL_01274	hypothetical protein
+GAKPLOIL_01275	hypothetical protein
+GAKPLOIL_01276	hypothetical protein
+GAKPLOIL_01277	FtsK/SpoIIIE family protein
+GAKPLOIL_01278	hypothetical protein
+GAKPLOIL_01279	hypothetical protein
+GAKPLOIL_01280	hypothetical protein
+GAKPLOIL_01281	hypothetical protein
+GAKPLOIL_01282	hypothetical protein
+GAKPLOIL_01283	hypothetical protein
+GAKPLOIL_01284	hypothetical protein
+GAKPLOIL_01285	hypothetical protein
+GAKPLOIL_01286	hypothetical protein
+GAKPLOIL_01287	hypothetical protein
+GAKPLOIL_01288	AraC family transcriptional regulator
+GAKPLOIL_01289	PTS system beta-glucoside-specific transporter subunit IIABC
+GAKPLOIL_01290	6-phospho-beta-glucosidase
+GAKPLOIL_01291	PRD domain-containing protein
+GAKPLOIL_01292	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_01293	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_01294	PTS system, mannose/fructose/sorbose-specific IIB component
+GAKPLOIL_01295	PTS system, mannose/fructose/sorbose-specific IIA component
+GAKPLOIL_01296	ABC transporter, ATP-binding protein
+GAKPLOIL_01297	ABC transporter permease
+GAKPLOIL_01298	tRNA-dihydrouridine synthase
+GAKPLOIL_01299	periplasmic solute binding family protein
+GAKPLOIL_01300	hypothetical protein
+GAKPLOIL_01301	cobalamin synthesis protein
+GAKPLOIL_01302	50S ribosomal protein L33
+GAKPLOIL_01303	30S ribosomal protein S14
+GAKPLOIL_01304	hypothetical protein
+GAKPLOIL_01305	ABC transporter ATP-binding protein
+GAKPLOIL_01306	ABC transporter permease
+GAKPLOIL_01307	putative D-methionine-binding lipoprotein MetQ
+GAKPLOIL_01308	Sensor histidine kinase YpdA
+GAKPLOIL_01309	Sensory transduction protein LytR
+GAKPLOIL_01310	Antiholin-like protein LrgA
+GAKPLOIL_01311	LrgB family protein
+GAKPLOIL_01312	isochorismatase family protein
+GAKPLOIL_01313	esterase
+GAKPLOIL_01314	hypothetical protein
+GAKPLOIL_01315	hypothetical protein
+GAKPLOIL_01316	hypothetical protein
+GAKPLOIL_01317	hypothetical protein
+GAKPLOIL_01318	hypothetical protein
+GAKPLOIL_01319	cell wall surface anchor family protein
+GAKPLOIL_01320	hypothetical protein
+GAKPLOIL_01321	M protein trans-acting positive regulator
+GAKPLOIL_01322	ECF subfamily RNA polymerase sigma-70 region 2
+GAKPLOIL_01323	Anti-sigma-V factor RsiV
+GAKPLOIL_01324	succinyl-diaminopimelate desuccinylase
+GAKPLOIL_01325	hypothetical protein
+GAKPLOIL_01326	Inner membrane protein YccF
+GAKPLOIL_01327	Rrf2 family protein
+GAKPLOIL_01328	NADH-flavin reductase
+GAKPLOIL_01329	hypothetical protein
+GAKPLOIL_01330	competence/damage-inducible protein CinA protein
+GAKPLOIL_01331	DNA recombination protein RecA
+GAKPLOIL_01332	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+GAKPLOIL_01333	calcineurin-like phosphoesterase
+GAKPLOIL_01334	putative protein YmcA
+GAKPLOIL_01335	DNA mismatch repair protein MutS
+GAKPLOIL_01336	DNA mismatch repair protein
+GAKPLOIL_01337	maf protein
+GAKPLOIL_01338	peptide methionine sulfoxide reductase MsrB
+GAKPLOIL_01339	Ribose-phosphate pyrophosphokinase 1
+GAKPLOIL_01340	hypothetical protein
+GAKPLOIL_01341	hypothetical protein
+GAKPLOIL_01342	hypothetical protein
+GAKPLOIL_01343	beta-phosphoglucomutase
+GAKPLOIL_01344	glycosyl hydrolase family protein
+GAKPLOIL_01345	GntR family transcriptional regulator
+GAKPLOIL_01346	hypothetical protein
+GAKPLOIL_01347	hypothetical protein
+GAKPLOIL_01348	hypothetical protein
+GAKPLOIL_01349	large conductance mechanosensitive channel protein
+GAKPLOIL_01350	Peptidase M16 inactive domain protein
+GAKPLOIL_01351	peptidase M16 inactive domain protein
+GAKPLOIL_01352	hypothetical protein
+GAKPLOIL_01353	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GAKPLOIL_01354	hypothetical protein
+GAKPLOIL_01355	phosphosugar isomerase transcriptional regulator
+GAKPLOIL_01356	6-phosphogluconate dehydrogenase
+GAKPLOIL_01357	4-phosphoerythronate dehydrogenase
+GAKPLOIL_01358	Hydroxycarboxylate dehydrogenase A
+GAKPLOIL_01359	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_01360	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_01361	PTS system, mannose/fructose/sorbose-specific IIB component
+GAKPLOIL_01362	PTS system, mannose/fructose/sorbose-specific IIA component
+GAKPLOIL_01363	D-mannonate dehydratase, UxuA_1
+GAKPLOIL_01364	Putative KHG/KDPG aldolase
+GAKPLOIL_01365	hypothetical protein
+GAKPLOIL_01366	hypothetical protein
+GAKPLOIL_01367	hypothetical protein
+GAKPLOIL_01368	hypothetical protein
+GAKPLOIL_01369	hypothetical protein
+GAKPLOIL_01370	guanylate kinase
+GAKPLOIL_01371	DNA-directed RNA polymerase subunit omega
+GAKPLOIL_01372	Primosomal protein N'
+GAKPLOIL_01373	Peptide deformylase
+GAKPLOIL_01374	Methionyl-tRNA formyltransferase
+GAKPLOIL_01375	Ribosomal RNA small subunit methyltransferase B
+GAKPLOIL_01376	serine/threonine phosphatase
+GAKPLOIL_01377	serine/threonine-protein kinase
+GAKPLOIL_01378	Putative ribosome biogenesis GTPase RsgA
+GAKPLOIL_01379	Ribulose-phosphate 3-epimerase
+GAKPLOIL_01380	thiamin pyrophosphokinase family protein
+GAKPLOIL_01381	50S ribosomal protein L28
+GAKPLOIL_01382	alkaline-shock protein
+GAKPLOIL_01383	DAK2 domain fusion protein YloV
+GAKPLOIL_01384	ATP-dependent DNA helicase RecG
+GAKPLOIL_01385	fatty acid/phospholipid synthesis protein PlsX
+GAKPLOIL_01386	acyl carrier protein
+GAKPLOIL_01387	peptide ABC transporter ATP-binding protein
+GAKPLOIL_01388	peptide ABC transporter ATP-binding protein
+GAKPLOIL_01389	ABC transporter permease
+GAKPLOIL_01390	ABC transporter permease
+GAKPLOIL_01391	family 5 extracellular solute-binding protein
+GAKPLOIL_01392	hypothetical protein
+GAKPLOIL_01393	hypothetical protein
+GAKPLOIL_01394	hypothetical protein
+GAKPLOIL_01395	hypothetical protein
+GAKPLOIL_01396	hypothetical protein
+GAKPLOIL_01397	hypothetical protein
+GAKPLOIL_01398	ribonuclease III
+GAKPLOIL_01399	chromosome partition protein SMC
+GAKPLOIL_01400	HAD superfamily hydrolase
+GAKPLOIL_01401	Signal recognition particle receptor FtsY
+GAKPLOIL_01402	hypothetical protein
+GAKPLOIL_01403	glyoxalase family protein
+GAKPLOIL_01404	integral membrane protein
+GAKPLOIL_01405	isochorismatase family hydrolase
+GAKPLOIL_01406	bifunctional glutamate--cysteine ligase/glutathione synthetase
+GAKPLOIL_01407	putative protein YueI
+GAKPLOIL_01408	iron ABC transporter system permease
+GAKPLOIL_01409	iron ABC transporter system permease
+GAKPLOIL_01410	iron ABC transporter ATP-binding protein
+GAKPLOIL_01411	iron ABC transporter substrate-binding protein
+GAKPLOIL_01412	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_01413	peptidase T
+GAKPLOIL_01414	hypothetical protein
+GAKPLOIL_01415	hypothetical protein
+GAKPLOIL_01416	hypothetical protein
+GAKPLOIL_01417	hypothetical protein
+GAKPLOIL_01418	hypothetical protein
+GAKPLOIL_01419	hypothetical protein
+GAKPLOIL_01420	hypothetical protein
+GAKPLOIL_01421	signal peptidase I
+GAKPLOIL_01422	BioY family protein
+GAKPLOIL_01423	30S ribosomal protein S4
+GAKPLOIL_01424	formate/nitrite transporter
+GAKPLOIL_01425	DNA alkylation repair protein
+GAKPLOIL_01426	HAD superfamily hydrolase
+GAKPLOIL_01427	peptide deformylase
+GAKPLOIL_01428	30S ribosomal protein S15
+GAKPLOIL_01429	Polyribonucleotide nucleotidyltransferase
+GAKPLOIL_01430	rod shape-determining protein MreC
+GAKPLOIL_01431	rod shape-determining protein MreD
+GAKPLOIL_01432	hypothetical protein
+GAKPLOIL_01433	TetR family dihydroxyacetone kinase regulator
+GAKPLOIL_01434	phosphotyrosine protein phosphatase
+GAKPLOIL_01435	hypothetical protein
+GAKPLOIL_01436	sortase family protein
+GAKPLOIL_01437	hypothetical protein
+GAKPLOIL_01438	hypothetical protein
+GAKPLOIL_01439	membrane protein
+GAKPLOIL_01440	hypothetical protein
+GAKPLOIL_01441	hypothetical protein
+GAKPLOIL_01442	DNA-3-methyladenine glycosylase I
+GAKPLOIL_01443	putative HTH-type transcriptional regulator YbbH
+GAKPLOIL_01444	protein YebG
+GAKPLOIL_01445	hypothetical protein
+GAKPLOIL_01446	PTS system, mannose/fructose/sorbose-specific IIAB component
+GAKPLOIL_01447	PTS system, mannose/fructose/sorbose-specific IIB component
+GAKPLOIL_01448	N-acetylglucosamine-6-phosphate deacetylase
+GAKPLOIL_01449	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_01450	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_01451	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_01452	small secreted protein
+GAKPLOIL_01453	glutamyl aminopeptidase
+GAKPLOIL_01454	thioredoxin
+GAKPLOIL_01455	universal stress family protein
+GAKPLOIL_01456	GntR family transcriptional regulator
+GAKPLOIL_01457	PTS system, mannose/fructose/sorbose-specific IIA component
+GAKPLOIL_01458	hypothetical protein
+GAKPLOIL_01459	PTS system, mannose/fructose/sorbose-specific IIB component
+GAKPLOIL_01460	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_01461	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_01462	tRNA-binding domain-containing protein
+GAKPLOIL_01463	Serine protease do-like htrA
+GAKPLOIL_01464	ribosomal RNA large subunit methyltransferase H
+GAKPLOIL_01465	sodium/dicarboxylate symporter family protein
+GAKPLOIL_01466	hypothetical protein
+GAKPLOIL_01467	RNA polymerase sigma factor YlaC
+GAKPLOIL_01468	hypothetical protein
+GAKPLOIL_01469	hypothetical protein
+GAKPLOIL_01470	tRNA pseudouridine synthase A
+GAKPLOIL_01471	hypothetical protein
+GAKPLOIL_01472	transporter, dicarboxylate/amino acid:cation symporter family protein
+GAKPLOIL_01473	calcium-translocating P-type ATPase, PMCA-type
+GAKPLOIL_01474	helix-turn-helix domain-containing protein
+GAKPLOIL_01475	hypothetical protein
+GAKPLOIL_01476	hypothetical protein
+GAKPLOIL_01477	Protein FdrA
+GAKPLOIL_01478	hypothetical protein
+GAKPLOIL_01479	hypothetical protein
+GAKPLOIL_01480	hypothetical protein
+GAKPLOIL_01481	glucose-6-phosphate 1-dehydrogenase
+GAKPLOIL_01482	choloylglycine hydrolase family protein
+GAKPLOIL_01483	sulfate transporter/STAS domain-containing protein
+GAKPLOIL_01484	hypothetical protein
+GAKPLOIL_01485	MarR family transcriptional regulator
+GAKPLOIL_01486	GNAT family acetyltransferase
+GAKPLOIL_01487	Putative allantoin permease
+GAKPLOIL_01488	Dihydroorotase
+GAKPLOIL_01489	Allantoate amidohydrolase
+GAKPLOIL_01490	(S)-ureidoglycine aminohydrolase
+GAKPLOIL_01491	Purine catabolism regulatory protein
+GAKPLOIL_01492	2-aminoethylphosphonate--pyruvate transaminase
+GAKPLOIL_01493	putative sulfoacetate transporter SauU
+GAKPLOIL_01494	regulator protein FrmR
+GAKPLOIL_01495	rhodanese-like domain protein
+GAKPLOIL_01496	coenzyme A disulfide reductase
+GAKPLOIL_01497	rhodanese-like domain-containing protein
+GAKPLOIL_01498	Putative efflux system component YknX
+GAKPLOIL_01499	ABC transporter ATP-binding protein
+GAKPLOIL_01500	Macrolide export ATP-binding/permease protein MacB
+GAKPLOIL_01501	hypothetical protein
+GAKPLOIL_01502	amidase
+GAKPLOIL_01503	phosphoglycerate mutase family protein
+GAKPLOIL_01504	transcriptional antiterminator bglG:Sigma-54 factor
+GAKPLOIL_01505	hypothetical protein
+GAKPLOIL_01506	PTS system mannose-specific transporter subunit IIAB
+GAKPLOIL_01507	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_01508	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_01509	Deacetylase
+GAKPLOIL_01510	alpha3-beta1 integrin-binding family protein
+GAKPLOIL_01511	hypothetical protein
+GAKPLOIL_01512	PTS system transporter subunit IIC
+GAKPLOIL_01513	hypothetical protein
+GAKPLOIL_01514	hypothetical protein
+GAKPLOIL_01515	hypothetical protein
+GAKPLOIL_01516	hypothetical protein
+GAKPLOIL_01517	PRD domain-containing protein
+GAKPLOIL_01518	transcriptional antiterminator bglG
+GAKPLOIL_01519	oxidoreductase family, NAD-binding Rossmann fold protein
+GAKPLOIL_01520	toxin-antitoxin system, toxin component, MazF family
+GAKPLOIL_01521	uridine kinase
+GAKPLOIL_01522	GNAT family acetyltransferase
+GAKPLOIL_01523	HAD superfamily hydrolase
+GAKPLOIL_01524	16S rRNA pseudouridine synthase A
+GAKPLOIL_01525	50S ribosomal protein L25
+GAKPLOIL_01526	hypothetical protein
+GAKPLOIL_01527	hypothetical protein
+GAKPLOIL_01528	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_01529	PTS system mannose-specific transporter subunit IIC
+GAKPLOIL_01530	PTS system, mannose/fructose/sorbose-specific IIAB component
+GAKPLOIL_01531	transcriptional regulator, GntR family
+GAKPLOIL_01532	Beta-galactosidase
+GAKPLOIL_01533	glycosyl hydrolase family protein
+GAKPLOIL_01534	hypothetical protein
+GAKPLOIL_01535	hypothetical protein
+GAKPLOIL_01536	transglycosylase
+GAKPLOIL_01537	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_01538	amino acid ABC transporter permease
+GAKPLOIL_01539	putative glutamine ABC transporter ATP-binding protein
+GAKPLOIL_01540	family 3 extracellular solute-binding protein
+GAKPLOIL_01541	hypothetical protein
+GAKPLOIL_01542	hypothetical protein
+GAKPLOIL_01543	leucyl-tRNA synthetase
+GAKPLOIL_01544	N-acetylmuramoyl-L-alanine amidase
+GAKPLOIL_01545	hypothetical protein
+GAKPLOIL_01546	hypothetical protein
+GAKPLOIL_01547	PAP2 family protein
+GAKPLOIL_01548	radical SAM protein family protein
+GAKPLOIL_01549	rRNA methylase family protein
+GAKPLOIL_01550	ABC transporter ATP-binding protein
+GAKPLOIL_01551	efflux ABC transporter permease
+GAKPLOIL_01552	TetR family transcriptional regulator
+GAKPLOIL_01553	ABC transporter ATP-binding protein
+GAKPLOIL_01554	ABC transporter ATP-binding protein
+GAKPLOIL_01555	TetR family transcriptional regulator
+GAKPLOIL_01556	esterase
+GAKPLOIL_01557	major facilitator superfamily transporter
+GAKPLOIL_01558	S-adenosylmethionine synthetase
+GAKPLOIL_01559	acyltransferase
+GAKPLOIL_01560	RNA polymerase factor sigma-54
+GAKPLOIL_01561	tRNA-Arg
+GAKPLOIL_01562	major cold shock protein CspA
+GAKPLOIL_01563	hypothetical protein
+GAKPLOIL_01564	glycerophosphodiester phosphodiesterase family protein
+GAKPLOIL_01565	hypothetical protein
+GAKPLOIL_01566	hypothetical protein
+GAKPLOIL_01567	hypothetical protein
+GAKPLOIL_01568	membrane protein
+GAKPLOIL_01569	hypothetical protein
+GAKPLOIL_01570	ATP-dependent Clp protease proteolytic subunit
+GAKPLOIL_01571	bifunctional disulfide isomerase/thiol-disulfide oxidase
+GAKPLOIL_01572	hypothetical protein
+GAKPLOIL_01573	hypothetical protein
+GAKPLOIL_01574	Putative gluconeogenesis factor
+GAKPLOIL_01575	ATP-binding protein
+GAKPLOIL_01576	hypothetical protein
+GAKPLOIL_01577	excinuclease ABC subunit A
+GAKPLOIL_01578	excinuclease ABC subunit B
+GAKPLOIL_01579	Membrane-bound lytic murein transglycosylase F
+GAKPLOIL_01580	amino acid ABC transporter ATP-binding protein
+GAKPLOIL_01581	Protein SapB
+GAKPLOIL_01582	cadmium-translocating P-type ATPase
+GAKPLOIL_01583	hypothetical protein
+GAKPLOIL_01584	hypothetical protein
+GAKPLOIL_01585	cell wall surface anchor family protein
+GAKPLOIL_01586	hypothetical protein
+GAKPLOIL_01587	hypothetical protein
+GAKPLOIL_01588	hypothetical protein
+GAKPLOIL_01589	hypothetical protein
+GAKPLOIL_01590	hypothetical protein
+GAKPLOIL_01591	rhodanese-like domain-containing protein
+GAKPLOIL_01592	hypothetical protein
+GAKPLOIL_01593	D-aminopeptidase
+GAKPLOIL_01594	glyoxalase family protein
+GAKPLOIL_01595	sodium/dicarboxylate symporter family protein
+GAKPLOIL_01596	hypothetical protein
+GAKPLOIL_01597	hypothetical protein
+GAKPLOIL_01598	hypothetical protein
+GAKPLOIL_01599	deoxynucleoside kinase
+GAKPLOIL_01600	nicotinamide mononucleotide transporter PnuC
+GAKPLOIL_01601	glutamyl-tRNA(Gln) amidotransferase subunit A
+GAKPLOIL_01602	Carbamate kinase
+GAKPLOIL_01603	Putative agmatine deiminase
+GAKPLOIL_01604	amino acid permease family protein
+GAKPLOIL_01605	ornithine carbamoyltransferase
+GAKPLOIL_01606	HTH-type transcriptional regulator MalT
+GAKPLOIL_01607	thioredoxin domain-containing protein
+GAKPLOIL_01608	hypothetical protein
+GAKPLOIL_01609	23S rRNA (uracil-5-)-methyltransferase
+GAKPLOIL_01610	Diacylglycerol kinase
+GAKPLOIL_01611	aspartyl/glutamyl-tRNA amidotransferase subunit B
+GAKPLOIL_01612	glutamyl-tRNA(Gln) amidotransferase subunit A
+GAKPLOIL_01613	aspartyl/glutamyl-tRNA amidotransferase subunit C
+GAKPLOIL_01614	NAD-dependent DNA ligase
+GAKPLOIL_01615	ATP-dependent DNA helicase
+GAKPLOIL_01616	voltage-gated cchloride transporter, chloride channel family protein
+GAKPLOIL_01617	DeoR-like helix-turn-helix protein
+GAKPLOIL_01618	hexose kinase, 1-phosphofructokinase family protein
+GAKPLOIL_01619	PTS system fructose-specific transporter subunit IIABC
+GAKPLOIL_01620	hypothetical protein
+GAKPLOIL_01621	hypothetical protein
+GAKPLOIL_01622	trigger factor
+GAKPLOIL_01623	hypothetical protein
+GAKPLOIL_01624	hypothetical protein
+GAKPLOIL_01625	cell wall surface anchor family protein
+GAKPLOIL_01626	Phosphoenolpyruvate-protein phosphotransferase
+GAKPLOIL_01627	phosphocarrier protein HPr
+GAKPLOIL_01628	hypothetical protein
+GAKPLOIL_01629	UvrB/UvrC protein/AAA ATPase
+GAKPLOIL_01630	hypothetical protein
+GAKPLOIL_01631	hypothetical protein
+GAKPLOIL_01632	membrane protein
+GAKPLOIL_01633	hypothetical protein
+GAKPLOIL_01634	peptide chain release factor 3
+GAKPLOIL_01635	hemolysin
+GAKPLOIL_01636	permease
+GAKPLOIL_01637	GNAT family acetyltransferase
+GAKPLOIL_01638	hypothetical protein
+GAKPLOIL_01639	tagatose 1,6-diphosphate aldolase
+GAKPLOIL_01640	PTS system fructose-specific transporter subunit IIA
+GAKPLOIL_01641	PTS system fructose-specific transporter subunit IIBC
+GAKPLOIL_01642	1-phosphofructokinase
+GAKPLOIL_01643	HTH-type transcriptional regulator MurR
+GAKPLOIL_01644	tRNA (guanine-N(7)-)-methyltransferase
+GAKPLOIL_01645	Phosphotransferase
+GAKPLOIL_01646	Bacterial ABC transporter protein EcsB
+GAKPLOIL_01647	ABC transporter ATP-binding protein
+GAKPLOIL_01648	histidine triad protein
+GAKPLOIL_01649	YtxH-like protein
+GAKPLOIL_01650	Foldase protein prsA
+GAKPLOIL_01651	3'-5' exoribonuclease yhaM
+GAKPLOIL_01652	putative protein YhaN
+GAKPLOIL_01653	Ser/Thr protein phosphatase family protein
+GAKPLOIL_01654	hypothetical protein
+GAKPLOIL_01655	penicillin-binding protein, 1A family
+GAKPLOIL_01656	23S rRNA pseudouridine synthase D
+GAKPLOIL_01657	hypothetical protein
+GAKPLOIL_01658	phosphoglucomutase/phosphomannomutase family protein
+GAKPLOIL_01659	arginine repressor protein
+GAKPLOIL_01660	glycine betaine/carnitine/choline ABC transporter
+GAKPLOIL_01661	ABC transporter ATP-binding protein
+GAKPLOIL_01662	hypothetical protein
+GAKPLOIL_01663	hypothetical protein
+GAKPLOIL_01664	dipeptidase PepV
+GAKPLOIL_01665	16S rRNA pseudouridylate synthase A
+GAKPLOIL_01666	polysaccharide biosynthesis family protein
+GAKPLOIL_01667	UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase
+GAKPLOIL_01668	phospholipase/carboxylesterase
+GAKPLOIL_01669	glyoxalase family protein
+GAKPLOIL_01670	hypothetical protein
+GAKPLOIL_01671	hypothetical protein
+GAKPLOIL_01672	putative transcriptional regulatory protein
+GAKPLOIL_01673	integral membrane protein
+GAKPLOIL_01674	oligoendopeptidase, PepF/M3 family
+GAKPLOIL_01675	Multidrug export protein MepA
+GAKPLOIL_01676	uracil-DNA glycosylase, family 4
+GAKPLOIL_01677	hypothetical protein
+GAKPLOIL_01678	DeoR-like helix-turn-helix protein
+GAKPLOIL_01679	glyoxalase family protein
+GAKPLOIL_01680	nitroreductase family protein
+GAKPLOIL_01681	LacI family sugar-binding transcriptional regulator
+GAKPLOIL_01682	hypothetical protein
+GAKPLOIL_01683	hypothetical protein
+GAKPLOIL_01684	Protease HtpX
+GAKPLOIL_01685	lipoyltransferase and lipoate-protein ligase A
+GAKPLOIL_01686	nitroreductase family protein
+GAKPLOIL_01687	putative HTH-type transcriptional regulator YtcD
+GAKPLOIL_01688	NAD-dependent epimerase/dehydratase
+GAKPLOIL_01689	C4-dicarboxylate transporter/malic acid transport protein
+GAKPLOIL_01690	LysR family transcriptional regulator
+GAKPLOIL_01691	hypothetical protein
+GAKPLOIL_01692	hypothetical protein
+GAKPLOIL_01693	L-lactate dehydrogenase
+GAKPLOIL_01694	phosphatidylglycerophosphatase A
+GAKPLOIL_01695	putative lipoprotein YehR
+GAKPLOIL_01696	hypothetical protein
+GAKPLOIL_01697	Na+/H+ antiporter
+GAKPLOIL_01698	amino acid permease
+GAKPLOIL_01699	tyrosine decarboxylase
+GAKPLOIL_01700	tyrosyl-tRNA synthetase
+GAKPLOIL_01701	cardiolipin synthetase
+GAKPLOIL_01702	2-epi-5-epi-valiolone epimerase
+GAKPLOIL_01703	oxidoreductase, aldo/keto reductase family protein
+GAKPLOIL_01704	PTS system, mannose/fructose/sorbose-specific IIA component
+GAKPLOIL_01705	hypothetical protein
+GAKPLOIL_01706	hypothetical protein
+GAKPLOIL_01707	hypothetical protein
+GAKPLOIL_01708	hypothetical protein
+GAKPLOIL_01709	PTS system mannose-specific transporter subunit IID
+GAKPLOIL_01710	hypothetical protein
+GAKPLOIL_01711	hypothetical protein
+GAKPLOIL_01712	hypothetical protein
+GAKPLOIL_01713	transcriptional regulator
+GAKPLOIL_01714	hypothetical protein
+GAKPLOIL_01715	ornithine cyclodeaminase/mu-crystallin family protein
+GAKPLOIL_01716	IS200/IS605 family transposase ISAac3
+GAKPLOIL_01717	hypothetical protein
+GAKPLOIL_01718	hypothetical protein
+GAKPLOIL_01719	putative protein YbdM
+GAKPLOIL_01720	DNA protection during starvation protein 1
+GAKPLOIL_01721	hypothetical protein
+GAKPLOIL_01722	hypothetical protein
+GAKPLOIL_01723	alkaline shock protein 23 family protein
+GAKPLOIL_01724	hypothetical protein
+GAKPLOIL_01725	ISEfa8, transposase
+GAKPLOIL_01726	hypothetical protein
+GAKPLOIL_01727	hypothetical protein
+GAKPLOIL_01728	hypothetical protein
+GAKPLOIL_01729	hypothetical protein
+GAKPLOIL_01730	IS1182 family transposase IS1182
+GAKPLOIL_01731	IS1182 family transposase IS663
+GAKPLOIL_01732	hypothetical protein
+GAKPLOIL_01733	hypothetical protein
+GAKPLOIL_01734	hypothetical protein
+GAKPLOIL_01735	cobalamin synthesis protein
+GAKPLOIL_01736	50S ribosomal protein L33
+GAKPLOIL_01737	hypothetical protein
+GAKPLOIL_01738	50S ribosomal protein L32
+GAKPLOIL_01739	30S ribosomal protein S14
+GAKPLOIL_01740	ABC transporter, ATP-binding protein
+GAKPLOIL_01741	ABC transporter ATP-binding protein
+GAKPLOIL_01742	hypothetical protein
+GAKPLOIL_01743	ABC transporter ATP-binding protein
+GAKPLOIL_01744	Cobalt transport protein
+GAKPLOIL_01745	transcriptional regulator
+GAKPLOIL_01746	iron dependent repressor, DNA binding domain protein
+GAKPLOIL_01747	adhesion lipoprotein
+GAKPLOIL_01748	metal ion ABC transporter permease
+GAKPLOIL_01749	ABC transporter, ATP-binding protein
+GAKPLOIL_01750	hypothetical protein
+GAKPLOIL_01751	hypothetical protein
+GAKPLOIL_01752	hypothetical protein
+GAKPLOIL_01753	tRNA-Met
+GAKPLOIL_01754	DNA-binding response regulator
+GAKPLOIL_01755	Sensor protein KdpD
+GAKPLOIL_01756	Potassium-transporting ATPase KdpC subunit
+GAKPLOIL_01757	Potassium-transporting ATPase ATP-binding subunit
+GAKPLOIL_01758	Potassium-transporting ATPase potassium-binding subunit
+GAKPLOIL_01759	hypothetical protein
+GAKPLOIL_01760	hypothetical protein
+GAKPLOIL_01761	hypothetical protein
+GAKPLOIL_01762	hypothetical protein
+GAKPLOIL_01763	hypothetical protein
+GAKPLOIL_01764	hypothetical protein
+GAKPLOIL_01765	polysaccharide biosynthesis family protein
+GAKPLOIL_01766	gluconate kinase
+GAKPLOIL_01767	Xylose isomerase
+GAKPLOIL_01768	PTS system, mannose/fructose/sorbose-specific IIA component
+GAKPLOIL_01769	PTS system mannose-specific transporter subunit IIAB
+GAKPLOIL_01770	PTS system mannose-specific transporter subunit IID
+GAKPLOIL_01771	PTS system mannose-specific transporter subunit IIC
+GAKPLOIL_01772	hypothetical protein
+GAKPLOIL_01773	N-acetylglucosamine repressor
+GAKPLOIL_01774	hypothetical protein
+GAKPLOIL_01775	hypothetical protein
+GAKPLOIL_01776	Baeyer-Villiger flavin-containing monooxygenase
+GAKPLOIL_01777	ammonium transporter family protein
+GAKPLOIL_01778	CobW/P47K family protein
+GAKPLOIL_01779	hypothetical protein
+GAKPLOIL_01780	50S ribosomal protein L32
+GAKPLOIL_01781	YibE/F-like protein
+GAKPLOIL_01782	YibE/F-like protein
+GAKPLOIL_01783	PTS system, trehalose/maltose-specific, IIBCA component
+GAKPLOIL_01784	PTS system, N-acetylglucosamine-specific IIABC component
+GAKPLOIL_01785	N-acetylmannosamine-6-phosphate 2-epimerase
+GAKPLOIL_01786	phosphosugar isomerase transcriptional regulator
+GAKPLOIL_01787	hypothetical protein
+GAKPLOIL_01788	hypothetical protein
+GAKPLOIL_01789	hypothetical protein
+GAKPLOIL_01790	hypothetical protein
+GAKPLOIL_01791	hypothetical protein
+GAKPLOIL_01792	hypothetical protein
+GAKPLOIL_01793	hypothetical protein
+GAKPLOIL_01794	hypothetical protein
+GAKPLOIL_01795	hypothetical protein
+GAKPLOIL_01796	hypothetical protein
+GAKPLOIL_01797	IS605/IS200 family transposase
+GAKPLOIL_01798	DNA directed DNA polymerase
+GAKPLOIL_01799	DNA directed DNA polymerase
+GAKPLOIL_01800	hypothetical protein
+GAKPLOIL_01801	hypothetical protein
+GAKPLOIL_01802	hypothetical protein
+GAKPLOIL_01803	hypothetical protein
+GAKPLOIL_01804	hypothetical protein
+GAKPLOIL_01805	Resolvase protein
+GAKPLOIL_01806	hypothetical protein
+GAKPLOIL_01807	hypothetical protein
+GAKPLOIL_01808	hypothetical protein
+GAKPLOIL_01809	hypothetical protein
+GAKPLOIL_01810	hypothetical protein
+GAKPLOIL_01811	hypothetical protein
+GAKPLOIL_01812	hypothetical protein
+GAKPLOIL_01813	hypothetical protein
+GAKPLOIL_01814	hypothetical protein
+GAKPLOIL_01815	hypothetical protein
+GAKPLOIL_01816	hypothetical protein
+GAKPLOIL_01817	hypothetical protein
+GAKPLOIL_01818	hypothetical protein
+GAKPLOIL_01819	hypothetical protein
+GAKPLOIL_01820	mRNA interferase toxin YafQ
+GAKPLOIL_01821	hypothetical protein
+GAKPLOIL_01822	hypothetical protein
+GAKPLOIL_01823	SPBc2 prophage-derived endonuclease YokF
+GAKPLOIL_01824	Single-stranded DNA-binding protein
+GAKPLOIL_01825	hypothetical protein
+GAKPLOIL_01826	hypothetical protein
+GAKPLOIL_01827	hypothetical protein
+GAKPLOIL_01828	hypothetical protein
+GAKPLOIL_01829	hypothetical protein
+GAKPLOIL_01830	hypothetical protein
+GAKPLOIL_01831	amino acid transporter
+GAKPLOIL_01832	hypothetical protein
+GAKPLOIL_01833	hypothetical protein
+GAKPLOIL_01834	hypothetical protein
+GAKPLOIL_01835	hypothetical protein
+GAKPLOIL_01836	single-strand binding protein
+GAKPLOIL_01837	hypothetical protein
+GAKPLOIL_01838	hypothetical protein
+GAKPLOIL_01839	hypothetical protein
+GAKPLOIL_01840	hypothetical protein
+GAKPLOIL_01841	hypothetical protein
+GAKPLOIL_01842	hypothetical protein
+GAKPLOIL_01843	hypothetical protein
+GAKPLOIL_01844	hypothetical protein
+GAKPLOIL_01845	hypothetical protein
+GAKPLOIL_01846	hypothetical protein
+GAKPLOIL_01847	hypothetical protein
+GAKPLOIL_01848	hypothetical protein
+GAKPLOIL_01849	Aggregation substance
+GAKPLOIL_01850	RNA polymerase sigma-70 factor, region 4
+GAKPLOIL_01851	RNA polymerase sigma-70 factor, region 4
+GAKPLOIL_01852	Helix-turn-helix domain protein
+GAKPLOIL_01853	hypothetical protein
+GAKPLOIL_01854	tRNA-Lys
+GAKPLOIL_01855	hypothetical protein
+GAKPLOIL_01856	Tyrosine recombinase XerC
+GAKPLOIL_01857	hypothetical protein
+GAKPLOIL_01858	ferrous iron transport protein B
+GAKPLOIL_01859	ferrous iron transport protein A
+GAKPLOIL_01860	glutaredoxin
+GAKPLOIL_01861	putative flavoprotein NrdI
+GAKPLOIL_01862	ribonucleoside-diphosphate reductase subunit alpha
+GAKPLOIL_01863	ribonucleotide-diphosphate reductase, beta subunit
+GAKPLOIL_01864	hypothetical protein
+GAKPLOIL_01865	Protein LemA
+GAKPLOIL_01866	MgtC family protein
+GAKPLOIL_01867	glucosamine-6-phosphate deaminase
+GAKPLOIL_01868	transcriptional regulator
+GAKPLOIL_01869	Diaminopimelate epimerase
+GAKPLOIL_01870	hypothetical protein
+GAKPLOIL_01871	hypothetical protein
+GAKPLOIL_01872	Aminopeptidase C
+GAKPLOIL_01873	Flavin reductase-like domain protein
+GAKPLOIL_01874	glyoxalase family protein
+GAKPLOIL_01875	SMR family multidrug resistance protein
+GAKPLOIL_01876	SMR family multidrug resistance protein
+GAKPLOIL_01877	Chitinase D
+GAKPLOIL_01878	chitin binding protein
+GAKPLOIL_01879	Acyl-ACP thioesterase
+GAKPLOIL_01880	hypothetical protein
+GAKPLOIL_01881	hypothetical protein
+GAKPLOIL_01882	aspartate kinase
+GAKPLOIL_01883	HAD superfamily hydrolase
+GAKPLOIL_01884	septation ring formation regulator EzrA
+GAKPLOIL_01885	class V aminotransferase
+GAKPLOIL_01886	response regulator receiver domain-containing protein
+GAKPLOIL_01887	Sensor histidine kinase RcsC
+GAKPLOIL_01888	hypothetical protein
+GAKPLOIL_01889	hypothetical protein
+GAKPLOIL_01890	hypothetical protein
+GAKPLOIL_01891	hypothetical protein
+GAKPLOIL_01892	5'-deoxyadenosine deaminase
+GAKPLOIL_01893	toxin-antitoxin system, toxin component, Fic family
+GAKPLOIL_01894	hypothetical protein
+GAKPLOIL_01895	hypothetical protein
+GAKPLOIL_01896	Purine catabolism regulatory protein
+GAKPLOIL_01897	hypothetical protein
+GAKPLOIL_01898	hypothetical protein
+GAKPLOIL_01899	Hexuronate transporter
+GAKPLOIL_01900	Carbamate kinase
+GAKPLOIL_01901	sodium/dicarboxylate symporter family protein
+GAKPLOIL_01902	Ureidoglycolate dehydrogenase (NAD(+))
+GAKPLOIL_01903	hypothetical protein
+GAKPLOIL_01904	N-isopropylammelide isopropyl amidohydrolase
+GAKPLOIL_01905	hypothetical protein
+GAKPLOIL_01906	hypothetical protein
+GAKPLOIL_01907	methionine synthase
+GAKPLOIL_01908	putative permease
+GAKPLOIL_01909	hypothetical protein
+GAKPLOIL_01910	hypothetical protein
+GAKPLOIL_01911	membrane protein
+GAKPLOIL_01912	pyrrolidone-carboxylate peptidase
+GAKPLOIL_01913	Na+/H+ antiporter
+GAKPLOIL_01914	ArsR family transcriptional regulator
+GAKPLOIL_01915	nitroreductase family protein
+GAKPLOIL_01916	HAD superfamily hydrolase
+GAKPLOIL_01917	PTS system, mannitol-specific IICB component
+GAKPLOIL_01918	transcriptional antiterminator bglG
+GAKPLOIL_01919	PTS system, mannitol-specific IIA component
+GAKPLOIL_01920	PTS system, mannitol-specific IICBA component
+GAKPLOIL_01921	PTS system mannitol-specific transporter subunit IIA
+GAKPLOIL_01922	Mannitol-1-phosphate 5-dehydrogenase
+GAKPLOIL_01923	FAD dependent oxidoreductase
+GAKPLOIL_01924	hypothetical protein
+GAKPLOIL_01925	hypothetical protein
+GAKPLOIL_01926	ABC transporter ATP-binding protein/permease
+GAKPLOIL_01927	Macrolide export ATP-binding/permease protein MacB
+GAKPLOIL_01928	Urea transporter
+GAKPLOIL_01929	major facilitator superfamily transporter
+GAKPLOIL_01930	MerR family transcriptional regulator
+GAKPLOIL_01931	IclR transcriptional regulator
+GAKPLOIL_01932	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+GAKPLOIL_01933	2-dehydro-3-deoxygluconokinase
+GAKPLOIL_01934	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+GAKPLOIL_01935	gluconate 5-dehydrogenase
+GAKPLOIL_01936	Glycosyl Hydrolase Family 88
+GAKPLOIL_01937	TRAP dicarboxylate transporter subunit DctP
+GAKPLOIL_01938	TRAP dicarboxylate transporter subunit DctQ
+GAKPLOIL_01939	TRAP dicarboxylate transporter subunit DctM
+GAKPLOIL_01940	AraC family transcriptional regulator
+GAKPLOIL_01941	rhamnulokinase
+GAKPLOIL_01942	L-rhamnose isomerase
+GAKPLOIL_01943	rhamnulose-1-phosphate aldolase
+GAKPLOIL_01944	L-rhamnose mutarotase
+GAKPLOIL_01945	AraC family transcriptional regulator
+GAKPLOIL_01946	AraC family transcriptional regulator
+GAKPLOIL_01947	AP endonuclease
+GAKPLOIL_01948	hypothetical protein
+GAKPLOIL_01949	amino acid/peptide transporter
+GAKPLOIL_01950	peptidoglycan-binding protein LysM
+GAKPLOIL_01951	1,4-dihydroxy-2-naphthoyl-CoA synthase
+GAKPLOIL_01952	D-alanine--poly(phosphoribitol) ligase subunit 1
+GAKPLOIL_01953	Salicylate biosynthesis isochorismate synthase
+GAKPLOIL_01954	2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase
+GAKPLOIL_01955	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase
+GAKPLOIL_01956	o-succinylbenzoate synthase
+GAKPLOIL_01957	glucosamine-6-phosphate deaminase
+GAKPLOIL_01958	AMP-binding family protein
+GAKPLOIL_01959	peroxiredoxin, Ohr family protein
+GAKPLOIL_01960	Sulfite exporter TauE/SafE
+GAKPLOIL_01961	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_01962	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_01963	PTS system mannose-specific transporter subunit IIAB
+GAKPLOIL_01964	RpiR family transcriptional regulator
+GAKPLOIL_01965	N-acetylmuramic acid 6-phosphate etherase
+GAKPLOIL_01966	Beta-lactamase
+GAKPLOIL_01967	PTS system sorbose-specific EIIA component
+GAKPLOIL_01968	hypothetical protein
+GAKPLOIL_01969	superoxide dismutase
+GAKPLOIL_01970	putative regulatory protein VanR
+GAKPLOIL_01971	histidine kinase
+GAKPLOIL_01972	seryl-tRNA synthetase
+GAKPLOIL_01973	Inosine-5'-monophosphate dehydrogenase
+GAKPLOIL_01974	integral membrane protein
+GAKPLOIL_01975	hypothetical protein
+GAKPLOIL_01976	translation-associated GTPase
+GAKPLOIL_01977	translation-associated GTPase
+GAKPLOIL_01978	ParB family chromosome partitioning protein
+GAKPLOIL_01979	sporulation initiation inhibitor protein Soj
+GAKPLOIL_01980	Ribosomal RNA small subunit methyltransferase G
+GAKPLOIL_01981	hypothetical protein
+GAKPLOIL_01982	myosin-cross-reactive antigen-like protein
+GAKPLOIL_01983	fructose-6-phosphate aldolase
+GAKPLOIL_01984	PTS system glucitol/sorbitol-specific transporter subunit IIA
+GAKPLOIL_01985	PTS system, glucitol/sorbitol-specific, IIBC component
+GAKPLOIL_01986	PTS system, glucitol/sorbitol-specific IIC component
+GAKPLOIL_01987	glucitol operon activator protein
+GAKPLOIL_01988	PRD domain-containing protein
+GAKPLOIL_01989	short chain dehydrogenase/reductase family oxidoreductase
+GAKPLOIL_01990	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+GAKPLOIL_01991	tRNA modification GTPase MnmE
+GAKPLOIL_01992	hypothetical protein
+GAKPLOIL_01993	triphosphoribosyl-dephospho-CoA synthase
+GAKPLOIL_01994	NADP-dependent malic enzyme
+GAKPLOIL_01995	pyruvate carboxylase
+GAKPLOIL_01996	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+GAKPLOIL_01997	Citrate lyase alpha chain
+GAKPLOIL_01998	Citrate lyase subunit beta
+GAKPLOIL_01999	Citrate lyase gamma chain
+GAKPLOIL_02000	[Citrate [pro-3S]-lyase] ligase
+GAKPLOIL_02001	hypothetical protein
+GAKPLOIL_02002	Glutaconyl-CoA decarboxylase subunit beta
+GAKPLOIL_02003	Glutaconyl-CoA decarboxylase subunit gamma
+GAKPLOIL_02004	hypothetical protein
+GAKPLOIL_02005	Citrate transporter
+GAKPLOIL_02006	GntR family transcriptional regulator
+GAKPLOIL_02007	DNA-binding response regulator
+GAKPLOIL_02008	r3H domain protein
+GAKPLOIL_02009	putative stage III sporulation protein J
+GAKPLOIL_02010	Ribonuclease P protein component
+GAKPLOIL_02011	50S ribosomal protein L34
+GAKPLOIL_02012	chromosomal replication initiation protein, DnaA
+GAKPLOIL_02013	DNA polymerase III subunit beta, DnaB
+GAKPLOIL_02014	S4 domain protein, YaaA
+GAKPLOIL_02015	recombination protein F, RecF
+GAKPLOIL_02016	DNA gyrase subunit B, GyrB
+GAKPLOIL_02017	DNA gyrase, A subunit, GyrA
+GAKPLOIL_02018	30S ribosomal protein S6
+GAKPLOIL_02019	single-strand binding protein
+GAKPLOIL_02020	30S ribosomal protein S18
+GAKPLOIL_02021	DHH family protein
+GAKPLOIL_02022	50S ribosomal protein L9
+GAKPLOIL_02023	replicative DNA helicase
+GAKPLOIL_02024	adenylosuccinate synthetase
+GAKPLOIL_02025	DegV family protein
+GAKPLOIL_02026	ABC transporter ATP-binding protein
+GAKPLOIL_02027	transcriptional antiterminator bglG:Sigma-54 factor
+GAKPLOIL_02028	PTS system, mannose/fructose/sorbose-specific IIB component
+GAKPLOIL_02029	PTS system, mannose/fructose/sorbose-specific IIAB component
+GAKPLOIL_02030	PTS system, mannose/fructose/sorbose-specific IIC component
+GAKPLOIL_02031	PTS system, mannose/fructose/sorbose-specific IID component
+GAKPLOIL_02032	hypothetical protein
+GAKPLOIL_02033	acid-resistance membrane protein
+GAKPLOIL_02034	hypothetical protein
+GAKPLOIL_02035	phosphosugar isomerase transcriptional regulator
+GAKPLOIL_02036	PTS system, N-acetylglucosamine-specific IICBA component
+GAKPLOIL_02037	class II aminotransferase
+GAKPLOIL_02038	2-iminobutanoate/2-iminopropanoate deaminase
+GAKPLOIL_02039	ysyl-tRNA synthetase
+GAKPLOIL_02040	Bacterial membrane protein YfhO
+GAKPLOIL_02041	hypothetical protein
+GAKPLOIL_02042	hypothetical protein
+GAKPLOIL_02043	hypothetical protein
+GAKPLOIL_02044	Gamma-glutamyl phosphate reductase
+GAKPLOIL_02045	glutamate 5-kinase
+GAKPLOIL_02046	deoxyuridine 5'-triphosphate nucleotidohydrolase
+GAKPLOIL_02047	DNA repair protein RadA
+GAKPLOIL_02048	Integral membrane protein
+GAKPLOIL_02049	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+GAKPLOIL_02050	glutamyl-tRNA synthetase
+GAKPLOIL_02051	Serine O-acetyltransferase
+GAKPLOIL_02052	cysteinyl-tRNA synthetase
+GAKPLOIL_02053	ribonuclease III
+GAKPLOIL_02054	trmH family tRNA/rRNA methyltransferase
+GAKPLOIL_02055	putative RNA-binding protein containing a PIN domain protein
+GAKPLOIL_02056	RNA polymerase sigma-70 factor family protein
+GAKPLOIL_02057	veg family protein
+GAKPLOIL_02058	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GAKPLOIL_02059	periplasmic solute binding family protein
+GAKPLOIL_02060	ABC transporter ATP-binding protein
+GAKPLOIL_02061	ABC transporter permease
+GAKPLOIL_02062	pur operon repressor
+GAKPLOIL_02063	bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase
+GAKPLOIL_02064	Trifunctional nucleotide phosphoesterase protein YfkN
+GAKPLOIL_02065	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_02066	hypothetical protein
+GAKPLOIL_02067	F420-dependent glucose-6-phosphate dehydrogenase
+GAKPLOIL_02068	Holliday junction DNA helicase RuvA
+GAKPLOIL_02069	Holliday junction DNA helicase RuvB
+GAKPLOIL_02070	hypothetical protein
+GAKPLOIL_02071	N-acetylmannosamine-6-phosphate 2-epimerase
+GAKPLOIL_02072	Glucosidase YgjK
+GAKPLOIL_02073	hypothetical protein
+GAKPLOIL_02074	CarD family transcriptional regulator
+GAKPLOIL_02075	short chain dehydrogenase/reductase family oxidoreductase
+GAKPLOIL_02076	hypothetical protein
+GAKPLOIL_02077	small integral membrane protein
+GAKPLOIL_02078	alkaline shock protein 23 family protein
+GAKPLOIL_02079	alkaline shock protein 23 family protein
+GAKPLOIL_02080	transglycosylase associated protein
+GAKPLOIL_02081	transporter, major facilitator family protein
+GAKPLOIL_02082	hypothetical protein
+GAKPLOIL_02083	hypothetical protein
+GAKPLOIL_02084	hypothetical protein
+GAKPLOIL_02085	hypothetical protein
+GAKPLOIL_02086	diacylglycerol kinase catalytic subunit
+GAKPLOIL_02087	M protein trans-acting positive regulator
+GAKPLOIL_02088	hypothetical protein
+GAKPLOIL_02089	putative formate transporter 1
+GAKPLOIL_02090	hypothetical protein
+GAKPLOIL_02091	hypothetical protein
+GAKPLOIL_02092	hypothetical protein
+GAKPLOIL_02093	L-serine dehydratase, iron-sulfur-dependent subunit beta
+GAKPLOIL_02094	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+GAKPLOIL_02095	seryl-tRNA synthetase
+GAKPLOIL_02096	Monoacylglycerol lipase
+GAKPLOIL_02097	arginine repressor protein
+GAKPLOIL_02098	arginine repressor protein
+GAKPLOIL_02099	arginine deiminase
+GAKPLOIL_02100	ornithine carbamoyltransferase
+GAKPLOIL_02101	Carbamate kinase
+GAKPLOIL_02102	cyclic nucleotide-binding domain-containing protein
+GAKPLOIL_02103	C4-dicarboxylate anaerobic carrier
+GAKPLOIL_02104	DJ-1/PfpI family protein
+GAKPLOIL_02105	hypothetical protein
+GAKPLOIL_02106	zinc-binding alcohol dehydrogenase family protein
+GAKPLOIL_02107	hypothetical protein
+GAKPLOIL_02108	hypothetical protein
+GAKPLOIL_02109	hypothetical protein
+GAKPLOIL_02110	Putative aminoacrylate peracid reductase RutC
+GAKPLOIL_02111	hypothetical protein
+GAKPLOIL_02112	GntR family transcriptional regulator
+GAKPLOIL_02113	ornithine cyclodeaminase/mu-crystallin family protein
+GAKPLOIL_02114	phenazine biosynthesis protein PhzF family protein
+GAKPLOIL_02115	hypothetical protein
+GAKPLOIL_02116	hypothetical protein
+GAKPLOIL_02117	hypothetical protein
+GAKPLOIL_02118	hypothetical protein
+GAKPLOIL_02119	hypothetical protein
+GAKPLOIL_02120	hypothetical protein
+GAKPLOIL_02121	GMP synthase
+GAKPLOIL_02122	pantothenate kinase
+GAKPLOIL_02123	hypothetical protein
+GAKPLOIL_02124	16S rRNA small subunit methyltransferase C
+GAKPLOIL_02125	Adenosine deaminase
+GAKPLOIL_02126	LacI family transcriptional regulator
+GAKPLOIL_02127	pyrimidine-nucleoside phosphorylase
+GAKPLOIL_02128	deoxyribose-phosphate aldolase
+GAKPLOIL_02129	cytidine deaminase
+GAKPLOIL_02130	Basic membrane lipopprotein
+GAKPLOIL_02131	Basic membrane lipopprotein
+GAKPLOIL_02132	ABC transporter ATP-binding protein
+GAKPLOIL_02133	ABC transporter permease
+GAKPLOIL_02134	ABC transporter permease
+GAKPLOIL_02135	integral membrane protein
+GAKPLOIL_02136	phosphopentomutase
+GAKPLOIL_02137	purine nucleoside phosphorylase
+GAKPLOIL_02138	purine nucleoside phosphorylase
+GAKPLOIL_02139	periplasmic binding protein
+GAKPLOIL_02140	ferrichrome transport ATP-binding protein FhuC
+GAKPLOIL_02141	ferrichrome transport system permease FhuB
+GAKPLOIL_02142	ferrichrome transport system permease FhuG
+GAKPLOIL_02143	aldehyde-alcohol dehydrogenase
+GAKPLOIL_02144	phosphoglycerate mutase
+GAKPLOIL_02145	resolvase family site-specific recombinase
+GAKPLOIL_02146	ribose 5-phosphate isomerase A
+GAKPLOIL_02147	30S ribosomal protein S12
+GAKPLOIL_02148	30S ribosomal protein S7
+GAKPLOIL_02149	translation elongation factor G
+GAKPLOIL_02150	elongation factor Tu
+GAKPLOIL_02151	phosphomethylpyrimidine kinase
+GAKPLOIL_02152	cyclopropane-fatty-acyl-phospholipid synthase
+GAKPLOIL_02153	30S ribosomal protein S10
+GAKPLOIL_02154	50S ribosomal protein L3
+GAKPLOIL_02155	50S ribosomal protein L4
+GAKPLOIL_02156	50S ribosomal protein L23
+GAKPLOIL_02157	50S ribosomal protein L2
+GAKPLOIL_02158	30S ribosomal protein S19
+GAKPLOIL_02159	50S ribosomal protein L22
+GAKPLOIL_02160	30S ribosomal protein S3
+GAKPLOIL_02161	50S ribosomal protein L16
+GAKPLOIL_02162	50S ribosomal protein L29
+GAKPLOIL_02163	30S ribosomal protein S17
+GAKPLOIL_02164	50S ribosomal protein L14
+GAKPLOIL_02165	50S ribosomal protein L24
+GAKPLOIL_02166	50S ribosomal protein L5
+GAKPLOIL_02167	30S ribosomal protein S14
+GAKPLOIL_02168	30S ribosomal protein S8
+GAKPLOIL_02169	50S ribosomal protein L6
+GAKPLOIL_02170	50S ribosomal protein L18
+GAKPLOIL_02171	30S ribosomal protein S5
+GAKPLOIL_02172	50S ribosomal protein L30
+GAKPLOIL_02173	50S ribosomal protein L15
+GAKPLOIL_02174	preprotein translocase subunit SecY
+GAKPLOIL_02175	adenylate kinase
+GAKPLOIL_02176	translation initiation factor IF-1
+GAKPLOIL_02177	50S ribosomal protein L36
+GAKPLOIL_02178	30S ribosomal protein S13
+GAKPLOIL_02179	30S ribosomal protein S11
+GAKPLOIL_02180	DNA-directed RNA polymerase subunit alpha
+GAKPLOIL_02181	50S ribosomal protein L17
+GAKPLOIL_02182	hypothetical protein
+GAKPLOIL_02183	peptidase M20D
+GAKPLOIL_02184	cobalt import ATP-binding protein CbiO
+GAKPLOIL_02185	cobalt import ATP-binding protein CbiO 2
+GAKPLOIL_02186	cobalt transport family protein
+GAKPLOIL_02187	tRNA pseudouridine synthase A
+GAKPLOIL_02188	hypothetical protein
+GAKPLOIL_02189	branched-chain amino acid transport system II carrier protein
+GAKPLOIL_02190	Spermidine N(1)-acetyltransferase
+GAKPLOIL_02191	putative lysine decarboxylase
+GAKPLOIL_02192	amino acid ABC transporter ATP-binding protein
+GAKPLOIL_02193	amino acid ABC transporter permease
+GAKPLOIL_02194	hypothetical protein
+GAKPLOIL_02195	NAD-dependent deacetylase
+GAKPLOIL_02196	maltose O-acetyltransferase
+GAKPLOIL_02197	transcriptional regulator
+GAKPLOIL_02198	hypothetical protein
+GAKPLOIL_02199	methylmalonate-semialdehyde dehydrogenase
+GAKPLOIL_02200	L-lactate dehydrogenase
+GAKPLOIL_02201	Peptidyl-tRNA hydrolase
+GAKPLOIL_02202	transcription-repair coupling factor
+GAKPLOIL_02203	polysaccharide biosynthesis family protein
+GAKPLOIL_02204	S4 RNA-binding domain-containing protein
+GAKPLOIL_02205	septum formation initiator
+GAKPLOIL_02206	S1 RNA binding domain-containing protein
+GAKPLOIL_02207	tRNA(Ile)-lysidine synthase
+GAKPLOIL_02208	Hypoxanthine-guanine phosphoribosyltransferase
+GAKPLOIL_02209	ATP-dependent metalloprotease
+GAKPLOIL_02210	chaperonin HslO
+GAKPLOIL_02211	tRNA-dihydrouridine synthase
+GAKPLOIL_02212	lysyl-tRNA synthetase
+GAKPLOIL_02213	D-glucosaminate-6-phosphate ammonia lyase
+GAKPLOIL_02214	2-dehydro-3-deoxy-phosphogluconate aldolase
+GAKPLOIL_02215	kinase, PfkB family
+GAKPLOIL_02216	DNA gyrase subunit B, GyrB
+GAKPLOIL_02217	YaiI/YqxD family protein
+GAKPLOIL_02218	D-alanine--D-alanine ligase
+GAKPLOIL_02219	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+GAKPLOIL_02220	DEAD/DEAH box helicase
+GAKPLOIL_02221	holo-[acyl-carrier-protein] synthase
+GAKPLOIL_02222	alanine racemase
+GAKPLOIL_02223	toxin-antitoxin system, toxin component, MazF family
+GAKPLOIL_02224	hypothetical protein
+GAKPLOIL_02225	Chromosome partition protein Smc
+GAKPLOIL_02226	Signal peptidase IB
+GAKPLOIL_02227	helix-turn-helix domain-containing protein
+GAKPLOIL_02228	Tyrosine-protein phosphatase
+GAKPLOIL_02229	hypothetical protein
+GAKPLOIL_02230	phage infection protein
+GAKPLOIL_02231	cation diffusion facilitator family transporter
+GAKPLOIL_02232	amino acid permease
+GAKPLOIL_02233	GNAT family acetyltransferase
+GAKPLOIL_02234	ABC transporter permease
+GAKPLOIL_02235	glycine betaine/carnitine/choline ABC transporter
+GAKPLOIL_02236	glycine betaine/carnitine/choline ABC transporter permease
+GAKPLOIL_02237	glycine betaine/carnitine/choline transporter ATP-binding protein
+GAKPLOIL_02238	glyoxalase family protein
+GAKPLOIL_02239	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+GAKPLOIL_02240	hypothetical protein
+GAKPLOIL_02241	calcium-translocating P-type ATPase
+GAKPLOIL_02242	K+ uptake transporter
+GAKPLOIL_02243	hypothetical protein
+GAKPLOIL_02244	copper-translocating P-type ATPase
+GAKPLOIL_02245	hypothetical protein
+GAKPLOIL_02246	oxidoreductase, aldo/keto reductase family protein
+GAKPLOIL_02247	DNA polymerase I
+GAKPLOIL_02248	Formamidopyrimidine-DNA glycosylase
+GAKPLOIL_02249	Dephospho-CoA kinase
+GAKPLOIL_02250	transcriptional repressor NrdR
+GAKPLOIL_02251	replication initiation and membrane attachment protein
+GAKPLOIL_02252	primosomal protein DnaI
+GAKPLOIL_02253	hypothetical protein
+GAKPLOIL_02254	hypothetical protein
+GAKPLOIL_02255	hypothetical protein
+GAKPLOIL_02256	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GAKPLOIL_02257	hypothetical protein
+GAKPLOIL_02258	hypothetical protein
+GAKPLOIL_02259	hypothetical protein
+GAKPLOIL_02260	aspartate aminotransferase
+GAKPLOIL_02261	amino acid ABC transporter ATP-binding protein
+GAKPLOIL_02262	amino acid ABC transporter permease
+GAKPLOIL_02263	Hydroxycarboxylate dehydrogenase A
+GAKPLOIL_02264	queuine tRNA-ribosyltransferase
+GAKPLOIL_02265	hypothetical protein
+GAKPLOIL_02266	hypothetical protein
+GAKPLOIL_02267	aldehyde-alcohol dehydrogenase
+GAKPLOIL_02268	isopentenyl-diphosphate delta-isomerase
+GAKPLOIL_02269	phosphomevalonate kinase
+GAKPLOIL_02270	diphosphomevalonate decarboxylase
+GAKPLOIL_02271	mevalonate kinase
+GAKPLOIL_02272	pentapeptide repeat-containing protein
+GAKPLOIL_02273	hypothetical protein
+GAKPLOIL_02274	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_02275	hypothetical protein
+GAKPLOIL_02276	oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein
+GAKPLOIL_02277	oligopeptide ABC transporter, permease protein OppC family protein
+GAKPLOIL_02278	ABC transporter ATP-binding protein
+GAKPLOIL_02279	ABC transporter ATP-binding protein
+GAKPLOIL_02280	transposase
+GAKPLOIL_02281	translation initiation factor IF-3
+GAKPLOIL_02282	50S ribosomal protein L35
+GAKPLOIL_02283	50S ribosomal protein L20
+GAKPLOIL_02284	hypothetical protein
+GAKPLOIL_02285	membrane protein
+GAKPLOIL_02286	putative N-acetyltransferase YjaB
+GAKPLOIL_02287	hypothetical protein
+GAKPLOIL_02288	sulfate transporter/STAS domain-containing protein
+GAKPLOIL_02289	membrane protein
+GAKPLOIL_02290	LysR family transcriptional regulator
+GAKPLOIL_02291	hypothetical protein
+GAKPLOIL_02292	hypothetical protein
+GAKPLOIL_02293	DNA-binding response regulator
+GAKPLOIL_02294	sensor histidine kinase
+GAKPLOIL_02295	glucose uptake protein
+GAKPLOIL_02296	amino acid permease
+GAKPLOIL_02297	methionyl-tRNA synthetase
+GAKPLOIL_02298	hypothetical protein
+GAKPLOIL_02299	hypothetical protein
+GAKPLOIL_02300	ATP-dependent DNA helicase IV
+GAKPLOIL_02301	TatD family hydrolase
+GAKPLOIL_02302	ribonuclease M5
+GAKPLOIL_02303	ribosomal RNA small subunit methyltransferase A
+GAKPLOIL_02304	Niacin transporter NiaX
+GAKPLOIL_02305	ABC transporter ATP-binding protein
+GAKPLOIL_02306	methylglyoxal synthase
+GAKPLOIL_02307	membrane protein
+GAKPLOIL_02308	ABC transporter ATP-binding protein/permease
+GAKPLOIL_02309	ABC transporter ATP-binding protein/permease
+GAKPLOIL_02310	hypothetical protein
+GAKPLOIL_02311	hypothetical protein
+GAKPLOIL_02312	GNAT family acetyltransferase
+GAKPLOIL_02313	hypothetical protein
+GAKPLOIL_02314	HAD superfamily hydrolase
+GAKPLOIL_02315	uracil-DNA glycosylase
+GAKPLOIL_02316	phosphate acetyltransferase
+GAKPLOIL_02317	ATPase
+GAKPLOIL_02318	GNAT family acetyltransferase
+GAKPLOIL_02319	hypothetical protein
+GAKPLOIL_02320	LacI family sugar-binding transcriptional regulator
+GAKPLOIL_02321	aldose 1-epimerase
+GAKPLOIL_02322	beta-phosphoglucomutase
+GAKPLOIL_02323	glycoside hydrolase, family 65
+GAKPLOIL_02324	PTS system glucose-specific transporter subunit IIABC
+GAKPLOIL_02325	endonuclease/exonuclease/phosphatase family protein
+GAKPLOIL_02326	delta 1-pyrroline-5-carboxylate reductase
+GAKPLOIL_02327	HTH-type transcriptional activator RhaS
+GAKPLOIL_02328	hypothetical protein
+GAKPLOIL_02329	MazG nucleotide pyrophosphohydrolase
+GAKPLOIL_02330	putative peptide export permease protein YydJ
+GAKPLOIL_02331	hypothetical protein
+GAKPLOIL_02332	hypothetical protein
+GAKPLOIL_02333	tRNA-Arg
+GAKPLOIL_02334	50S ribosomal protein L21
+GAKPLOIL_02335	putative ribosomal protein
+GAKPLOIL_02336	50S ribosomal protein L27
+GAKPLOIL_02337	Protein PsiE
+GAKPLOIL_02338	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+GAKPLOIL_02339	Xaa-Pro dipeptidase
+GAKPLOIL_02340	hypothetical protein
+GAKPLOIL_02341	alkaline-shock protein
+GAKPLOIL_02342	transcription antitermination factor NusB
+GAKPLOIL_02343	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+GAKPLOIL_02344	exodeoxyribonuclease VII large subunit
+GAKPLOIL_02345	exodeoxyribonuclease VII small subunit
+GAKPLOIL_02346	geranyltranstransferase
+GAKPLOIL_02347	hemolysin A
+GAKPLOIL_02348	arginine repressor protein
+GAKPLOIL_02349	DNA repair protein RecN
+GAKPLOIL_02350	hypothetical protein
+GAKPLOIL_02351	CorA-like Mg2+ transporter protein
+GAKPLOIL_02352	hypothetical protein
+GAKPLOIL_02353	cell division protein MraZ
+GAKPLOIL_02354	S-adenosyl-methyltransferase MraW
+GAKPLOIL_02355	cell division protein FtsL
+GAKPLOIL_02356	peptidoglycan glycosyltransferase
+GAKPLOIL_02357	phospho-N-acetylmuramoyl-pentapeptide- transferase
+GAKPLOIL_02358	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GAKPLOIL_02359	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+GAKPLOIL_02360	cell division protein FtsQ
+GAKPLOIL_02361	cell division protein FtsA
+GAKPLOIL_02362	cell division protein FtsZ
+GAKPLOIL_02363	alanine racemase
+GAKPLOIL_02364	Cell division protein SepF
+GAKPLOIL_02365	hypothetical protein
+GAKPLOIL_02366	S4 domain-containing protein
+GAKPLOIL_02367	cell division protein DivIVA
+GAKPLOIL_02368	isoleucyl-tRNA synthetase
+GAKPLOIL_02369	glucose-6-phosphate 1-dehydrogenase
+GAKPLOIL_02370	iron dependent repressor, DNA binding domain protein
+GAKPLOIL_02371	hypothetical protein
+GAKPLOIL_02372	sugar fermentation stimulation protein
+GAKPLOIL_02373	oxidoreductase family, NAD-binding Rossmann fold protein
+GAKPLOIL_02374	DEAD/DEAH box helicase
+GAKPLOIL_02375	transcriptional antiterminator bglG:Sigma-54 factor
+GAKPLOIL_02376	PTS system cellobiose-specific transporter subunit IIB
+GAKPLOIL_02377	PTS system lactose/cellobiose-specific transporter subunit IIC
+GAKPLOIL_02378	hypothetical protein
+GAKPLOIL_02379	hypothetical protein
+GAKPLOIL_02380	hypothetical protein
+GAKPLOIL_02381	PTS system cellobiose-specific transporter subunit IIB
+GAKPLOIL_02382	PTS system, lactose/cellobiose-specific IIA component
+GAKPLOIL_02383	PTS system lactose/cellobiose-specific transporter subunit IIC
+GAKPLOIL_02384	6-phospho-beta-glucosidase
+GAKPLOIL_02385	acetyltransferase
+GAKPLOIL_02386	hypothetical protein
+GAKPLOIL_02387	tRNA-Arg
+GAKPLOIL_02388	antibiotic biosynthesis monooxygenase
+GAKPLOIL_02389	Pyruvate, phosphate dikinase
+GAKPLOIL_02390	Transcriptional repressor CcpN
+GAKPLOIL_02391	Putative phosphotransferase
+GAKPLOIL_02392	ysyl-tRNA synthetase
+GAKPLOIL_02393	alpha/beta hydrolase
+GAKPLOIL_02394	hypothetical protein
+GAKPLOIL_02395	hypothetical protein
+GAKPLOIL_02396	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+GAKPLOIL_02397	excinuclease ABC subunit A
+GAKPLOIL_02398	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GAKPLOIL_02399	hypothetical protein
+GAKPLOIL_02400	hypothetical protein
+GAKPLOIL_02401	nucleoside diphosphate kinase
+GAKPLOIL_02402	Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+GAKPLOIL_02403	hypothetical protein
+GAKPLOIL_02404	HAD superfamily hydrolase
+GAKPLOIL_02405	hypothetical protein
+GAKPLOIL_02406	xanthine/uracil/vitamin C permease
+GAKPLOIL_02407	transporter, major facilitator family protein
+GAKPLOIL_02408	hypothetical protein
+GAKPLOIL_02409	DNA polymerase III subunit alpha
+GAKPLOIL_02410	6-phosphofructokinase
+GAKPLOIL_02411	Pyruvate kinase
+GAKPLOIL_02412	nucleic acid-binding protein
+GAKPLOIL_02413	50S ribosomal protein L32
+GAKPLOIL_02414	6-phosphogluconate dehydrogenase
+GAKPLOIL_02415	DNA-binding response regulator
+GAKPLOIL_02416	sensor histidine kinase
+GAKPLOIL_02417	D-glucosaminate-6-phosphate ammonia lyase
+GAKPLOIL_02418	2-dehydro-3-deoxy-phosphogluconate aldolase
+GAKPLOIL_02419	DNA mismatch repair protein MutS2
+GAKPLOIL_02420	Alkaline phosphatase 3
+GAKPLOIL_02421	hypothetical protein
+GAKPLOIL_02422	hypothetical protein
+GAKPLOIL_02423	cell wall surface anchor family protein
+GAKPLOIL_02424	hypothetical protein
+GAKPLOIL_02425	hypothetical protein
+GAKPLOIL_02426	PTS system ascorbate-specific transporter subunit IIA
+GAKPLOIL_02427	PTS system ascorbate-specific transporter subunit IIB
+GAKPLOIL_02428	PTS system ascorbate-specific transporter subunit IIC
+GAKPLOIL_02429	hypothetical protein
+GAKPLOIL_02430	LacI family transcriptional regulator
+GAKPLOIL_02431	ribokinase
+GAKPLOIL_02432	D-ribose pyranase
+GAKPLOIL_02433	sugar transport protein
+GAKPLOIL_02434	LysR family transcriptional regulator
+GAKPLOIL_02435	maltose O-acetyltransferase family protein
+GAKPLOIL_02436	short chain dehydrogenase/reductase family oxidoreductase
+GAKPLOIL_02437	xanthine/uracil permease family protein
+GAKPLOIL_02438	hypothetical protein
+GAKPLOIL_02439	hypothetical protein
+GAKPLOIL_02440	hypothetical protein
+GAKPLOIL_02441	cell wall surface anchor family protein
+GAKPLOIL_02442	hypothetical protein
+GAKPLOIL_02443	hypothetical protein
+GAKPLOIL_02444	hypothetical protein
+GAKPLOIL_02445	hypothetical protein
+GAKPLOIL_02446	hypothetical protein
+GAKPLOIL_02447	hypothetical protein
+GAKPLOIL_02448	Protein/nucleic acid deglycase HchA
+GAKPLOIL_02449	hypothetical protein
+GAKPLOIL_02450	hypothetical protein
+GAKPLOIL_02451	hypothetical protein
+GAKPLOIL_02452	hypothetical protein
+GAKPLOIL_02453	phosphoglycerate mutase family protein
+GAKPLOIL_02454	MerR family transcriptional regulator
+GAKPLOIL_02455	oxidoreductase, aldo/keto reductase family protein
+GAKPLOIL_02456	pyridine nucleotide-disulfide oxidoreductase
+GAKPLOIL_02457	HTH-type transcriptional regulator YodB
+GAKPLOIL_02458	hypothetical protein
+GAKPLOIL_02459	hypothetical protein
+GAKPLOIL_02460	hypothetical protein
+GAKPLOIL_02461	hypothetical protein
+GAKPLOIL_02462	hypothetical protein
+GAKPLOIL_02463	hypothetical protein
+GAKPLOIL_02464	hypothetical protein
+GAKPLOIL_02465	hypothetical protein
+GAKPLOIL_02466	hypothetical protein
+GAKPLOIL_02467	hypothetical protein
+GAKPLOIL_02468	hypothetical protein
+GAKPLOIL_02469	hypothetical protein
+GAKPLOIL_02470	hypothetical protein
+GAKPLOIL_02471	hypothetical protein
+GAKPLOIL_02472	hypothetical protein
+GAKPLOIL_02473	FtsK/SpoIIIE family protein
+GAKPLOIL_02474	hypothetical protein
+GAKPLOIL_02475	hypothetical protein
+GAKPLOIL_02476	hypothetical protein
+GAKPLOIL_02477	hypothetical protein
+GAKPLOIL_02478	helix-turn-helix protein
+GAKPLOIL_02479	hypothetical protein
+GAKPLOIL_02480	hypothetical protein
+GAKPLOIL_02481	hypothetical protein
+GAKPLOIL_02482	hypothetical protein
+GAKPLOIL_02483	hypothetical protein
+GAKPLOIL_02484	hypothetical protein
+GAKPLOIL_02485	hypothetical protein
+GAKPLOIL_02486	hypothetical protein
+GAKPLOIL_02487	hypothetical protein
+GAKPLOIL_02488	ATP/GTP-binding protein
+GAKPLOIL_02489	hypothetical protein
+GAKPLOIL_02490	hypothetical protein
+GAKPLOIL_02491	hypothetical protein
+GAKPLOIL_02492	hypothetical protein
+GAKPLOIL_02493	hypothetical protein
+GAKPLOIL_02494	hypothetical protein
+GAKPLOIL_02495	site-specific tyrosine recombinase XerC-family protein
+GAKPLOIL_02496	thiamine biosynthesis protein ThiI
+GAKPLOIL_02497	redox-sensing transcriptional repressor Rex
+GAKPLOIL_02498	Thiol peroxidase
+GAKPLOIL_02499	valyl-tRNA synthetase
+GAKPLOIL_02500	hypothetical protein
+GAKPLOIL_02501	Bacterial membrane protein YfhO
+GAKPLOIL_02502	Folylpolyglutamate synthase
+GAKPLOIL_02503	HAD-superfamily hydrolase
+GAKPLOIL_02504	DNA repair protein RadC
+GAKPLOIL_02505	major cold shock protein CspE
+GAKPLOIL_02506	Ribonuclease J 1
+GAKPLOIL_02507	hypothetical protein
+GAKPLOIL_02508	hypothetical protein
+GAKPLOIL_02509	ABC transporter ATP-binding protein/permease
+GAKPLOIL_02510	ABC transporter ATP-binding protein/permease
+GAKPLOIL_02511	Carbonic anhydrase/acetyltransferase
+GAKPLOIL_02512	UDP-N-acetylglucosamine 2-epimerase
+GAKPLOIL_02513	5'-nucleotidase
+GAKPLOIL_02514	Endolytic murein transglycosylase
+GAKPLOIL_02515	transcription elongation factor GreA
+GAKPLOIL_02516	membrane protein
+GAKPLOIL_02517	sensor histidine kinase
+GAKPLOIL_02518	LuxR family DNA-binding response regulator
+GAKPLOIL_02519	TrkA-C domain-containing protein
+GAKPLOIL_02520	HesB-like domain-containing protein
+GAKPLOIL_02521	glycosyl transferase family protein
+GAKPLOIL_02522	ABC transporter ATP-binding protein
+GAKPLOIL_02523	ABC transporter ATP-binding protein
+GAKPLOIL_02524	inner membrane component transport system
+GAKPLOIL_02525	Ribonuclease J
+GAKPLOIL_02526	extracellular solute-binding protein
+GAKPLOIL_02527	Trifunctional nucleotide phosphoesterase protein YfkN
+GAKPLOIL_02528	4-phosphoerythronate dehydrogenase
+GAKPLOIL_02529	ferredoxin--NADP reductase
+GAKPLOIL_02530	cyclophilin type peptidyl-prolyl cis-trans isomerase
+GAKPLOIL_02531	hypothetical protein
+GAKPLOIL_02532	class II aminotransferase
+GAKPLOIL_02533	general stress protein 13
+GAKPLOIL_02534	hypothetical protein
+GAKPLOIL_02535	alkyl hydroperoxide reductase subunit C
+GAKPLOIL_02536	Ferredoxin--NADP reductase
+GAKPLOIL_02537	hypothetical protein
+GAKPLOIL_02538	exonuclease, DNA polymerase III, epsilon subunit family protein
+GAKPLOIL_02539	exodeoxyribonuclease III
+GAKPLOIL_02540	oxidoreductase family, NAD-binding Rossmann fold protein
+GAKPLOIL_02541	UDP-N-acetylenolpyruvoylglucosamine reductase
+GAKPLOIL_02542	transcriptional regulator
+GAKPLOIL_02543	50S ribosomal protein L33
+GAKPLOIL_02544	Preprotein translocase subunit SecE
+GAKPLOIL_02545	transcription termination/antitermination factor NusG
+GAKPLOIL_02546	hypothetical protein
+GAKPLOIL_02547	hypothetical protein
+GAKPLOIL_02548	oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+GAKPLOIL_02549	glutamyl aminopeptidase
+GAKPLOIL_02550	D-aminopeptidase
+GAKPLOIL_02551	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+GAKPLOIL_02552	L-serine dehydratase, iron-sulfur-dependent subunit beta
+GAKPLOIL_02553	ABC transporter ATP-binding protein
+GAKPLOIL_02554	50S ribosomal protein L11
+GAKPLOIL_02555	50S ribosomal protein L1
+GAKPLOIL_02556	50S ribosomal protein L10
+GAKPLOIL_02557	50S ribosomal protein L7/L12
+GAKPLOIL_02558	hypothetical protein
+GAKPLOIL_02559	AraC-like ligand binding domain protein
+GAKPLOIL_02560	amino acid permease family protein
+GAKPLOIL_02561	Evolved beta-galactosidase subunit alpha
+GAKPLOIL_02562	transglycosylase associated protein
+GAKPLOIL_02563	23S rRNA (uracil-5-)-methyltransferase
+GAKPLOIL_02564	recombination regulator RecX
+GAKPLOIL_02565	A/G-specific adenine glycosylase
+GAKPLOIL_02566	transcriptional regulator
+GAKPLOIL_02567	hypothetical protein
+GAKPLOIL_02568	acetyltransferase, GNAT family
+GAKPLOIL_02569	NUDIX family hydrolase
+GAKPLOIL_02570	tellurite resistance protein
+GAKPLOIL_02571	hypothetical protein
+GAKPLOIL_02572	nudix hydrolase, YffH family
+GAKPLOIL_02573	hypothetical protein
+GAKPLOIL_02574	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+GAKPLOIL_02575	GIY-YIG nuclease superfamily protein
+GAKPLOIL_02576	methyltransferase small domain-containing protein
+GAKPLOIL_02577	acyltransferase
+GAKPLOIL_02578	exonuclease SbcD
+GAKPLOIL_02579	exonuclease SbcC
+GAKPLOIL_02580	Snf2 family protein
+GAKPLOIL_02581	hypothetical protein
+GAKPLOIL_02582	hypothetical protein
+GAKPLOIL_02583	hypothetical protein
+GAKPLOIL_02584	hypothetical protein
+GAKPLOIL_02585	cell wall surface anchor family protein
+GAKPLOIL_02586	HAD superfamily hydrolase
+GAKPLOIL_02587	ABC transporter ATP-binding protein
+GAKPLOIL_02588	Tryptophanyl-tRNA synthetase II
+GAKPLOIL_02589	transcriptional regulator Spx
+GAKPLOIL_02590	MecA negative regulator of genetic competence
+GAKPLOIL_02591	hypothetical protein
+GAKPLOIL_02592	oligoendopeptidase F
+GAKPLOIL_02593	dithiol-disulfide isomerase
+GAKPLOIL_02594	adenylate cyclase
+GAKPLOIL_02595	GTP diphosphokinase
+GAKPLOIL_02596	inorganic polyphosphate/ATP-NAD kinase
+GAKPLOIL_02597	ribosomal large subunit pseudouridine synthase
+GAKPLOIL_02598	magnesium transporter
+GAKPLOIL_02599	copper homeostasis protein CutC
+GAKPLOIL_02600	methyltransferase domain protein
+GAKPLOIL_02601	TrmH family RNA methyltransferase
+GAKPLOIL_02602	phosphoglycerate mutase family protein
+GAKPLOIL_02603	RecD/TraA family helicase
+GAKPLOIL_02604	hypothetical protein
+GAKPLOIL_02605	tRNA-Asn
+GAKPLOIL_02606	glycosyl transferase family protein
+GAKPLOIL_02607	glycosyl transferase family protein
+GAKPLOIL_02608	2-hydroxy-3-oxopropionate reductase
+GAKPLOIL_02609	putative protein YkuJ
+GAKPLOIL_02610	MarR family transcriptional regulator
+GAKPLOIL_02611	3-oxoacyl-ACP synthase
+GAKPLOIL_02612	acyl carrier protein
+GAKPLOIL_02613	Nitronate monooxygenase
+GAKPLOIL_02614	Malonyl CoA-acyl carrier protein transacylase
+GAKPLOIL_02615	3-oxoacyl-ACP reductase
+GAKPLOIL_02616	beta-ketoacyl-acyl-carrier-protein synthase II
+GAKPLOIL_02617	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+GAKPLOIL_02618	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+GAKPLOIL_02619	acetyl-CoA carboxylase, biotin carboxylase subunit
+GAKPLOIL_02620	acetyl-CoA carboxylase, carboxyl transferase subunit beta
+GAKPLOIL_02621	acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+GAKPLOIL_02622	HAD superfamily hydrolase
+GAKPLOIL_02623	ribosome biogenesis GTPase YqeH
+GAKPLOIL_02624	RNA-binding protein YhbY
+GAKPLOIL_02625	nicotinic acid mononucleotide adenylyltransferase
+GAKPLOIL_02626	HD domain-containing protein
+GAKPLOIL_02627	ribosome-associated protein
+GAKPLOIL_02628	methyltransferase domain protein
+GAKPLOIL_02629	nucleotidyltransferase
+GAKPLOIL_02630	putative transcriptional regulatory protein
+GAKPLOIL_02631	hypothetical protein
+GAKPLOIL_02632	Endo-beta-N-acetylglucosaminidase H
+GAKPLOIL_02633	integral membrane protein
+GAKPLOIL_02634	Streptomycin adenyltransferase
+GAKPLOIL_02635	ErfK/YbiS/YcfS/YnhG family protein
+GAKPLOIL_02636	4-oxalocrotonate tautomerase
+GAKPLOIL_02637	threonyl-tRNA synthetase
+GAKPLOIL_02638	Penicillin binding protein transpeptidase domain protein
+GAKPLOIL_02639	50S ribosomal protein L33
+GAKPLOIL_02640	tRNA-Ser
+GAKPLOIL_02641	hypothetical protein
+GAKPLOIL_02642	hypothetical protein
+GAKPLOIL_02643	hypothetical protein
+GAKPLOIL_02644	hypothetical protein
+GAKPLOIL_02645	putative lipase/esterase
+GAKPLOIL_02646	5-formyltetrahydrofolate cyclo-ligase
+GAKPLOIL_02647	peptidase, S54 family protein
+GAKPLOIL_02648	putative protein YqgQ
+GAKPLOIL_02649	glucokinase
+GAKPLOIL_02650	rhodanese family protein
+GAKPLOIL_02651	hypothetical protein
+GAKPLOIL_02652	FAD(NAD)-dependent oxidoreductase
+GAKPLOIL_02653	hypothetical protein
+GAKPLOIL_02654	UDP-glucose 4-epimerase
+GAKPLOIL_02655	galactose-1-phosphate uridylyltransferase
+GAKPLOIL_02656	DNA polymerase III subunits gamma and tau
+GAKPLOIL_02657	Nucleoid-associated protein
+GAKPLOIL_02658	hypothetical protein
+GAKPLOIL_02659	Hydroxyethylthiazole kinase
+GAKPLOIL_02660	Thiamine-phosphate synthase
+GAKPLOIL_02661	phosphomethylpyrimidine kinase
+GAKPLOIL_02662	putative HTH-type transcriptional regulator YtcD
+GAKPLOIL_02663	Inner membrane transport protein YdhP
+GAKPLOIL_02664	major facilitator superfamily transporter
+GAKPLOIL_02665	hypothetical protein
+GAKPLOIL_02666	Putative HMP/thiamine permease protein YkoE
+GAKPLOIL_02667	ABC transporter ATP-binding protein
+GAKPLOIL_02668	hypothetical protein
+GAKPLOIL_02669	Aminopyrimidine aminohydrolase
+GAKPLOIL_02670	recombination protein RecR
+GAKPLOIL_02671	thymidylate kinase
+GAKPLOIL_02672	putative protein YaaQ
+GAKPLOIL_02673	DNA polymerase III subunit delta'
+GAKPLOIL_02674	stage 0 sporulation family protein
+GAKPLOIL_02675	DNA replication initiation control protein YabA
+GAKPLOIL_02676	tetrapyrrole methylase family protein
+GAKPLOIL_02677	ABC transporter ATP-binding protein
+GAKPLOIL_02678	putative iron export permease protein FetB
+GAKPLOIL_02679	DNA polymerase IV
+GAKPLOIL_02680	anaerobic ribonucleoside-triphosphate reductase activating protein
+GAKPLOIL_02681	anaerobic ribonucleoside triphosphate reductase
+GAKPLOIL_02682	ABC transporter ATP-binding protein
+GAKPLOIL_02683	efflux ABC transporter permease
+GAKPLOIL_02684	hypothetical protein
+GAKPLOIL_02685	D-alanine--poly(phosphoribitol) ligase subunit 1
+GAKPLOIL_02686	membrane bound O-acyl transferase
+GAKPLOIL_02687	D-alanine--poly(phosphoribitol) ligase subunit 2
+GAKPLOIL_02688	D-alanyl-lipoteichoic acid synthetase, DltD
+GAKPLOIL_02689	M42 glutamyl aminopeptidase
+GAKPLOIL_02690	integral membrane protein
+GAKPLOIL_02691	metallo-beta-lactamase domain-containing protein
+GAKPLOIL_02692	lipoyltransferase and lipoate-protein ligase A
+GAKPLOIL_02693	O-methyltransferase
+GAKPLOIL_02694	hypothetical protein
+GAKPLOIL_02695	translation elongation factor P
+GAKPLOIL_02696	fibronectin-binding protein
+GAKPLOIL_02697	dihydroorotate dehydrogenase 1A
+GAKPLOIL_02698	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+GAKPLOIL_02699	beta-ketoacyl-acyl-carrier-protein synthase II
+GAKPLOIL_02700	Enoyl-[acyl-carrier-protein] reductase
+GAKPLOIL_02701	hypothetical protein
+GAKPLOIL_02702	cation diffusion facilitator family transporter
+GAKPLOIL_02703	HD domain-containing protein
+GAKPLOIL_02704	DNA-3-methyladenine glycosylase I
+GAKPLOIL_02705	Methylated-DNA--protein-cysteine methyltransferase, inducible
+GAKPLOIL_02706	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+GAKPLOIL_02707	hydrolase
+GAKPLOIL_02708	phosphoglycerate mutase family protein
+GAKPLOIL_02709	6-phospho-beta-glucosidase
+GAKPLOIL_02710	6-phospho-beta-glucosidase
+GAKPLOIL_02711	PTS system, beta-glucoside-specific IIABC component
+GAKPLOIL_02712	transcriptional antiterminator bglG/CAT RNA-binding protein
+GAKPLOIL_02713	tRNA-Glu
+GAKPLOIL_02714	tRNA-Ser
+GAKPLOIL_02715	tRNA-Ile
+GAKPLOIL_02716	tRNA-Gly
+GAKPLOIL_02717	tRNA-Phe
+GAKPLOIL_02718	tRNA-Asp
+GAKPLOIL_02719	tRNA-Met
+GAKPLOIL_02720	tRNA-Ser
+GAKPLOIL_02721	tRNA-Glu
+GAKPLOIL_02722	tRNA-Ile
+GAKPLOIL_02723	tRNA-Gly
+GAKPLOIL_02724	tRNA-Asp
+GAKPLOIL_02725	tRNA-Met
+GAKPLOIL_02726	tRNA-Ser
+GAKPLOIL_02727	tRNA-Met
+GAKPLOIL_02728	tRNA-Met
+GAKPLOIL_02729	tRNA-Ala
+GAKPLOIL_02730	tRNA-Pro
+GAKPLOIL_02731	tRNA-Arg
+GAKPLOIL_02732	tRNA-Leu
+GAKPLOIL_02733	tRNA-Asn
+GAKPLOIL_02734	5S ribosomal RNA
+GAKPLOIL_02735	23S ribosomal RNA
+GAKPLOIL_02736	16S ribosomal RNA
+GAKPLOIL_02737	CopY/TcrY family copper transport repressor
+GAKPLOIL_02738	transporter, monovalent cation:proton antiporter-2 family protein
+GAKPLOIL_02739	V-type sodium ATP synthase subunit J
+GAKPLOIL_02740	cysteine synthase A
+GAKPLOIL_02741	PTS system, lactose/cellobiose IIC component
+GAKPLOIL_02742	riboflavin biosynthesis protein RibD protein
+GAKPLOIL_02743	V-type sodium ATP synthase subunit J
