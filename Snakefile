@@ -108,11 +108,11 @@ rule summary_results:
         pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES)
     output:
         r="WGCA_analysis_result/RGI_heatmap",
-        v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="Virulence factors"),
-        p=report("WGCA_analysis_result/plasmid_summary.tsv", caption="report_description/plasmid.rst", category="Plasmid Prediction"),
-        t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="Antimicrobial Resistance"),
-        rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Antimicrobial Resistance")
-
+        v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="General"),
+        p=report("WGCA_analysis_result/plasmid_summary.tsv", caption="report_description/plasmid.rst", category="General"),
+        t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
+        rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Resistance"),
+        compact=report("jamira_integrative_results.zip", caption="report_description/report.rst", category="General")
     run:
         shell("cp {input.p} {output.p}")
         shell("cp {input.v} {output.v}")
@@ -123,6 +123,7 @@ rule summary_results:
         shell("cd WGCA_analysis_result/ ; rename 's/.txt/.tsv/' *")
         for i,s in zip(input.pr,SAMPLES):
             shell("cp {i} WGCA_analysis_result/{s}_prophage_coordinates.tsv")
+        shell("zip -r jamira_integrative_results plasmid_prediction/ prophage_prediction/ virulence_genes/ resistome_summary/ genomic_islands/")
 
 rule genome_annotation:
     input:
@@ -167,9 +168,9 @@ rule prophage_prediction:
         "seeds/{sample}"
     output:
         #d = dir("prophage_prediction/{sample}"),
-        r1 = report("prophage_prediction/{sample}/prophage.tbl", category="Prophages"),
+        r1 = "prophage_prediction/{sample}/prophage.tbl",
         r2 = report("prophage_prediction/{sample}/prophage_coordinates.tsv", category="Prophages"),
-        r3 = report("prophage_prediction/{sample}/prophage_tbl.tsv", category="Prophages")
+        r3 = "prophage_prediction/{sample}/prophage_tbl.tsv"
     conda:
         "envs/phispy.yaml"
     shell:
