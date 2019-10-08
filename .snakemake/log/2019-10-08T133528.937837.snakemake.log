@@ -1,0 +1,40 @@
+Building DAG of jobs...
+Creating report...
+Adding virulence_summary.tsv (0.0059 MB).
+Adding plasmid_summary.tsv (0.0023 MB).
+Adding RGI_heatmap-31.png (0.22 MB).
+Adding MP2-6.tsv (0.013 MB).
+Adding MP7-18.tsv (0.00031 MB).
+Adding MP10-1.tsv (0.0083 MB).
+Adding J2.tsv (0.0054 MB).
+Adding C7.tsv (0.0051 MB).
+Adding MP5-1.tsv (0.013 MB).
+Adding OG1RF.tsv (0.013 MB).
+Adding GT3-2.tsv (0.013 MB).
+Adding WS1-5.tsv (0.013 MB).
+Adding GT4-4.tsv (0.013 MB).
+Adding HT1-12.tsv (0.013 MB).
+Adding MP9-10.tsv (0.013 MB).
+Adding MP1-5.tsv (0.0016 MB).
+Adding HT2-4.tsv (0.013 MB).
+Adding D2.tsv (0.013 MB).
+Adding B9.tsv (0.013 MB).
+Adding MP8-1.tsv (0.013 MB).
+Adding MP1-1.tsv (0.0078 MB).
+Adding J4.tsv (0.0055 MB).
+Adding GT6-1.tsv (0.013 MB).
+Adding MP8-17.tsv (0.013 MB).
+Adding HT1-3.tsv (0.0055 MB).
+Adding MP1-2.tsv (0.0016 MB).
+Adding MP1-4.tsv (0.0016 MB).
+Adding DMW1-1.tsv (0.0016 MB).
+Adding GT5-1.tsv (0.013 MB).
+Adding V583.tsv (0.031 MB).
+Adding RD1-1.tsv (0.013 MB).
+Adding HW1-1.tsv (0.013 MB).
+Adding ST1-20.tsv (0.013 MB).
+Adding L8.tsv (0.00031 MB).
+Adding jamira_integrative_results.zip (9.5 MB).
+WorkflowError:
+File prophage_prediction/prophage_summary.tsv marked for report but does not exist.
+  File "/home/icaro/snakemake/.venv/lib/python3.6/site-packages/snakemake-5.5.4+34.g31dd345c-py3.6.egg/snakemake/report/__init__.py", line 462, in auto_report

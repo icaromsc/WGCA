@@ -105,14 +105,16 @@ rule summary_results:
         r="resistome_summary/RGI_heatmap",
         gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
         rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES),
-        pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES)
+        pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES),
+        #spr="prophage_prediction/prophage_summary.tsv"
     output:
         r="WGCA_analysis_result/RGI_heatmap",
         v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="General"),
         p=report("WGCA_analysis_result/plasmid_summary.tsv", caption="report_description/plasmid.rst", category="General"),
         t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
         rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Resistance"),
-        compact=report("jamira_integrative_results.zip", caption="report_description/report.rst", category="General")
+        compact=report("jamira_integrative_results.zip", caption="report_description/report.rst", category="General"),
+        spr=report("prophage_prediction/prophage_summary.tsv", category="General")
     run:
         shell("cp {input.p} {output.p}")
         shell("cp {input.v} {output.v}")
@@ -175,3 +177,28 @@ rule prophage_prediction:
         "envs/phispy.yaml"
     shell:
         "scripts/phispy/PhiSpy.py -i {input} -o prophage_prediction/{wildcards.sample} -t 25 "
+
+rule summarize_prophage_prediction:
+    input:
+        pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES)
+    output:
+        spr=report("prophage_prediction/prophage_summary.tsv", category="General")
+    run:
+        import csv
+        print("Saving file to tsv format...")
+        head = ["Sample","Prophages"]
+        # write file
+        with open('prophage_prediction/prophage_summary.tsv', 'w', newline='') as f_output:
+            tsv_output = csv.writer(f_output, delimiter='\t')
+            tsv_output.writerow(head)
+            for i in input.pr:
+                filepath=i
+                #get number of prophages
+                n_prophages = len(open(filepath).readlines(  ))
+
+                #get filename alias
+                sample = filepath.split("/")[-2]
+                data = [sample, n_prophages]
+                print("sample:",sample," | prophages:",n_prophages)
+                tsv_output.writerow(data)
+        print("Done!")
