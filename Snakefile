@@ -105,8 +105,8 @@ rule summary_results:
         r="resistome_summary/RGI_heatmap",
         gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
         rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES),
-        pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES),
-        #spr="prophage_prediction/prophage_summary.tsv"
+        #pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES),
+        spr="prophage_prediction/prophage_summary.tsv"
     output:
         r="WGCA_analysis_result/RGI_heatmap",
         v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="General"),
@@ -114,7 +114,7 @@ rule summary_results:
         t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
         rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Resistance"),
         compact=report("jamira_integrative_results.zip", caption="report_description/report.rst", category="General"),
-        spr=report("prophage_prediction/prophage_summary.tsv", category="General")
+        spr=report("WGCA_analysis_result/prophage_summary.tsv", category="General")
     run:
         shell("cp {input.p} {output.p}")
         shell("cp {input.v} {output.v}")
@@ -122,9 +122,10 @@ rule summary_results:
         shell("cp resistome_summary/RGI_* WGCA_analysis_result/")
         shell("cp {input.gi} WGCA_analysis_result/")
         shell("cp {input.rt} WGCA_analysis_result/")
+        shell("cp {input.spr} WGCA_analysis_result/")
         shell("cd WGCA_analysis_result/ ; rename 's/.txt/.tsv/' *")
-        for i,s in zip(input.pr,SAMPLES):
-            shell("cp {i} WGCA_analysis_result/{s}_prophage_coordinates.tsv")
+        #for i,s in zip(input.pr,SAMPLES):
+        #    shell("cp {i} WGCA_analysis_result/{s}_prophage_coordinates.tsv")
         shell("zip -r jamira_integrative_results plasmid_prediction/ prophage_prediction/ virulence_genes/ resistome_summary/ genomic_islands/")
 
 rule genome_annotation:
@@ -182,7 +183,7 @@ rule summarize_prophage_prediction:
     input:
         pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES)
     output:
-        spr=report("prophage_prediction/prophage_summary.tsv", category="General")
+        spr="prophage_prediction/prophage_summary.tsv"
     run:
         import csv
         print("Saving file to tsv format...")
