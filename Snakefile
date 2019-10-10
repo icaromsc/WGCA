@@ -103,10 +103,11 @@ rule summary_results:
         p="plasmid_prediction/summary.tsv",
         v="virulence_genes/summary.tsv",
         r="resistome_summary/RGI_heatmap",
-        gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
+        #gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
         rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES),
         #pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES),
-        spr="prophage_prediction/prophage_summary.tsv"
+        spr="prophage_prediction/prophage_summary.tsv",
+        sgi="genomic_islands/GI_summary.tsv"
     output:
         r="WGCA_analysis_result/RGI_heatmap",
         v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="General"),
@@ -114,13 +115,14 @@ rule summary_results:
         t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
         rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Resistance"),
         compact=report("jamira_integrative_results.zip", caption="report_description/report.rst", category="General"),
-        spr=report("WGCA_analysis_result/prophage_summary.tsv", category="General")
+        spr=report("WGCA_analysis_result/prophage_summary.tsv", category="General"),
+        rgi=report("WGCA_analysis_result/GI_summary.tsv", category="General")
     run:
         shell("cp {input.p} {output.p}")
         shell("cp {input.v} {output.v}")
         shell("cp {input.r} {output.r}")
         shell("cp resistome_summary/RGI_* WGCA_analysis_result/")
-        shell("cp {input.gi} WGCA_analysis_result/")
+        shell("cp {input.sgi} WGCA_analysis_result/")
         shell("cp {input.rt} WGCA_analysis_result/")
         shell("cp {input.spr} WGCA_analysis_result/")
         shell("cd WGCA_analysis_result/ ; rename 's/.txt/.tsv/' *")
@@ -201,5 +203,31 @@ rule summarize_prophage_prediction:
                 sample = filepath.split("/")[-2]
                 data = [sample, n_prophages]
                 print("sample:",sample," | prophages:",n_prophages)
+                tsv_output.writerow(data)
+        print("Done!")
+
+rule summarize_genomic_islands:
+    input:
+        gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES)
+    output:
+        sgi="genomic_islands/GI_summary.tsv"
+    run:
+        import csv
+        print("Saving file to tsv format...")
+        head = ["Sample","GIs"]
+        # write file
+        with open(output.sgi, 'w', newline='') as f_output:
+            tsv_output = csv.writer(f_output, delimiter='\t')
+            tsv_output.writerow(head)
+            for i in input.gi:
+                filepath=i
+                #get number of prophages
+                n_gi = (len(open(filepath).readlines(  ))) -1
+
+                #get filename alias
+                sample = filepath.split("_")[-2]
+                sample = sample.split("/")[-1]
+                data = [sample, n_gi]
+                print("sample:",sample," | genomic_islands:",n_gi)
                 tsv_output.writerow(data)
         print("Done!")

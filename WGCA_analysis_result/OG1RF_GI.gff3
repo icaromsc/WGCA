@@ -1,4 +1,0 @@
-##gff-version 3
-unknown	islandpath	genomic_island	153728	179181	.	-	.	ID=unknown_gi1
-unknown	islandpath	genomic_island	678379	682523	.	+	.	ID=unknown_gi2
-unknown	islandpath	genomic_island	811346	875357	.	+	.	ID=unknown_gi3
