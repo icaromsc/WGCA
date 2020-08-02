@@ -1,1 +1,0 @@
-abricate --minid=90 --db=vfdb data/samples/MP2-6.fasta > virulence_genes/MP2-6.tsv

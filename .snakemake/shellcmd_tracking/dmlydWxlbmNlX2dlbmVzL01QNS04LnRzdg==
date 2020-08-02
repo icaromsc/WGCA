@@ -1,1 +1,0 @@
-abricate --minid=90 --db=vfdb data/samples/MP5-8.fasta > virulence_genes/MP5-8.tsv

@@ -3821,3 +3821,133 @@
 [TRACE] 2019/09/06 00:25:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
 [INFO] 2019/09/06 00:25:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 137) Printing results
 [INFO] 2019/09/06 00:25:34 (/home/icaro/Documentos/WGCA/.snakemake/conda/8cd2193e/bin/islandpath line 167) Removing tmp files
+[DEBUG] 2020/08/02 00:51:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 96) Logging initialized
+[INFO] 2020/08/02 00:51:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2020/08/02 00:51:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 122) This is the /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF
+[DEBUG] 2020/08/02 00:51:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF, gbk
+[TRACE] 2020/08/02 00:51:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2020/08/02 00:51:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF.gbk has been read.
+[TRACE] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 201) We have 1 contigs
+[DEBUG] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF, gbk
+[TRACE] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF
+[TRACE] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF.gbk has been read.
+[INFO] 2020/08/02 00:51:39 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2020/08/02 00:51:46 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF
+[INFO] 2020/08/02 00:51:46 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2020/08/02 00:51:46 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF, found formats: .faa .ffn .ptt
+[DEBUG] 2020/08/02 00:51:46 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2020/08/02 00:51:46 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/OG1RF.faa >/home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp9gQtgoeRQ4/blasttmpMML_q8AxrQ
+[DEBUG] 2020/08/02 00:52:04 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2020/08/02 00:52:04 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2020/08/02 00:52:06 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2020/08/02 00:52:06 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2020/08/02 00:52:21 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2020/08/02 00:52:21 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2020/08/02 00:52:21 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2020/08/02 00:52:21 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 137) Printing results
+[INFO] 2020/08/02 00:52:21 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 167) Removing tmp files
+[DEBUG] 2020/08/02 00:52:23 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 96) Logging initialized
+[INFO] 2020/08/02 00:52:23 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2020/08/02 00:52:23 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 122) This is the /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583
+[DEBUG] 2020/08/02 00:52:23 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583, gbk
+[TRACE] 2020/08/02 00:52:23 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2020/08/02 00:52:23 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583.gbk has been read.
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 201) We have 4 contigs
+[DEBUG] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583, gbk
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583
+[TRACE] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583.gbk has been read.
+[INFO] 2020/08/02 00:52:26 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583
+[TRACE] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583
+[TRACE] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583
+[TRACE] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583
+[INFO] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583, found formats: .faa .ffn .ptt
+[DEBUG] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2020/08/02 00:52:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/V583.faa >/home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmp89n3lAmGea/blasttmpGDAmMHvxfC
+[DEBUG] 2020/08/02 00:52:35 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2020/08/02 00:52:35 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2020/08/02 00:52:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2020/08/02 00:52:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2020/08/02 00:52:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2020/08/02 00:52:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2020/08/02 00:52:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2020/08/02 00:52:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 137) Printing results
+[INFO] 2020/08/02 00:52:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 167) Removing tmp files
+[DEBUG] 2020/08/02 13:02:24 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 96) Logging initialized
+[INFO] 2020/08/02 13:02:24 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2020/08/02 13:02:24 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 122) This is the /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF
+[DEBUG] 2020/08/02 13:02:24 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF, gbk
+[TRACE] 2020/08/02 13:02:24 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2020/08/02 13:02:24 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF.gbk has been read.
+[TRACE] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 201) We have 1 contigs
+[DEBUG] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF, gbk
+[TRACE] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF
+[TRACE] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF.gbk has been read.
+[INFO] 2020/08/02 13:02:25 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2020/08/02 13:02:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF
+[INFO] 2020/08/02 13:02:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2020/08/02 13:02:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF, found formats: .faa .ffn .ptt
+[DEBUG] 2020/08/02 13:02:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2020/08/02 13:02:29 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/OG1RF.faa >/home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpLKG2bCIVFI/blasttmpbMPcQp7ETs
+[DEBUG] 2020/08/02 13:02:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2020/08/02 13:02:36 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2020/08/02 13:02:37 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2020/08/02 13:02:37 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2020/08/02 13:02:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2020/08/02 13:02:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2020/08/02 13:02:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2020/08/02 13:02:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 137) Printing results
+[INFO] 2020/08/02 13:02:48 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 167) Removing tmp files
+[DEBUG] 2020/08/02 13:03:55 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 96) Logging initialized
+[INFO] 2020/08/02 13:03:55 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 101) Creating temp directory with needed files
+[INFO] 2020/08/02 13:03:55 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 122) This is the /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583
+[DEBUG] 2020/08/02 13:03:55 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 110) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583, gbk
+[TRACE] 2020/08/02 13:03:55 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 125) Reading genbank format file
+[INFO] 2020/08/02 13:03:55 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 137) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583.gbk has been read.
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 153) Checking contig unknown
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 163) Found sequence in the genbank/embl file
+[INFO] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 201) We have 4 contigs
+[DEBUG] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 285) From filename /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583.gbk got /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583, gbk
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583
+[TRACE] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 295) Found formats: 
+[INFO] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 318) The genome sequence in /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583.gbk has been read.
+[INFO] 2020/08/02 13:03:57 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 319) Now generating required file formats (faa, ffn and ptt)
+[TRACE] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583
+[TRACE] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583
+[TRACE] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583
+[TRACE] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/GenomeUtils.pm line 725) No base filename given in args, trying to use object default: /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583
+[INFO] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 134) Running IslandPath-DIMOB
+[TRACE] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 129) Genome /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583, found formats: .faa .ffn .ptt
+[DEBUG] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 149) Looking for mobility genes using hmmer
+[DEBUG] 2020/08/02 13:03:59 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 158) Running hmmer command hmmscan /home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/hmmpfam/Pfam-A_mobgenes_201512_prok /home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/V583.faa >/home/icaro/Documentos/JAMIRA/WGCA/genome_annotation/dimob_tmpFI_Yy6gHNj/blasttmpee_jljM46k
+[DEBUG] 2020/08/02 13:04:08 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 172) Parsing hmmer results with Mobgene
+[TRACE] 2020/08/02 13:04:08 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob/mobgene.pm line 56) Using extended ids
+[DEBUG] 2020/08/02 13:04:09 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 185) Retrieving mobility genes from ptt file
+[DEBUG] 2020/08/02 13:04:10 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 194) Calculating dinucleotide bias
+[DEBUG] 2020/08/02 13:04:32 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 215) Looking for regions with dinuc bias and mobility genes
+[DEBUG] 2020/08/02 13:04:32 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 234) Cleaning temporary files
+[TRACE] 2020/08/02 13:04:32 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/opt/islandpath/lib/Dimob.pm line 237) Cleaning up temp files for Dimob
+[INFO] 2020/08/02 13:04:32 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 137) Printing results
+[INFO] 2020/08/02 13:04:32 (/home/icaro/Documentos/JAMIRA/WGCA/.snakemake/conda/5c82d2e0/bin/islandpath line 167) Removing tmp files

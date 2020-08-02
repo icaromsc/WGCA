@@ -1,4 +1,0 @@
-Building DAG of jobs...
-MissingInputException in line 85 of /home/icaro/WGCA/Snakefile:
-Missing input files for rule resistome_prediction:
-data/samples/MP2-6.txt.fasta

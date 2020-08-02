@@ -1,9 +1,0 @@
-organism: Enterococcus species strain 
-contigs: 1
-bases: 2739625
-CDS: 2510
-gene: 2581
-rRNA: 12
-repeat_region: 2
-tRNA: 58
-tmRNA: 1

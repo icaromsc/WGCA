@@ -1,9 +1,0 @@
-Building DAG of jobs...
-Creating report...
-Adding virulence_summary.tsv (0.00069 MB).
-Adding plasmid_summary.tsv (0.00029 MB).
-WorkflowError:
-Error loading caption file of output marked for report.
-FileNotFoundError: [Errno 2] No such file or directory: '/home/icaro/WGCA/Virulence Factors predicted using VFDB database'
-  File "/home/icaro/snakemake/.venv/lib/python3.6/site-packages/snakemake-5.5.4+34.g31dd345c-py3.6.egg/snakemake/report/__init__.py", line 545, in auto_report
-  File "/home/icaro/snakemake/.venv/lib/python3.6/site-packages/snakemake-5.5.4+34.g31dd345c-py3.6.egg/snakemake/report/__init__.py", line 367, in render

@@ -24,6 +24,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ## Configuration
+- Add the bioconda channel:
+
+```
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
+```
+
 - Create a conda environment to use SnakeMake:
 ```
 conda env create -f envs/config.yaml -n jamira
@@ -36,10 +44,17 @@ conda activate jamira
 
 
 ## How to run the pipeline:
+
 - Run full pipeline:
+```
+snakemake --use-conda
+```
+
+- Run full pipeline using 4 cores:
 ```
 snakemake -j 4 --use-conda
 ```
+
 - Generate a summary of the results in HTML format:
 ```
 snakemake -n --report myresults.html
@@ -61,7 +76,9 @@ IslandPath-DIMOB is a standalone software to predict genomic islands in bacteria
 
 
 ## Authors
-* **Ícaro Castro** - *Initial work* - [Github](https://github.com/icaromsc)
+* **Ícaro Castro** - *Pipeline development* - [Github](https://github.com/icaromsc)
+* **Rafaella Bueno** - *Web server development* - [Github](https://github.com/rafaellabueno)
+* **Robson Ruiz** - *Web server development* - [Github](https://github.com/robsonruiz)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)

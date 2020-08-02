@@ -1,1 +1,0 @@
-abricate --minid=90 --db=vfdb data/samples/MP9-10.fasta > virulence_genes/MP9-10.tsv

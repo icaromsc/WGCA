@@ -1,7 +1,0 @@
-Building DAG of jobs...
-Creating report...
-WorkflowError:
-Python packages networkx and pygraphviz must be installed to create reports.
-ModuleNotFoundError: No module named 'networkx'
-  File "/home/icaro/snakemake/.venv/lib/python3.6/site-packages/snakemake-5.5.4+34.g31dd345c-py3.6.egg/snakemake/report/__init__.py", line 522, in auto_report
-  File "/home/icaro/snakemake/.venv/lib/python3.6/site-packages/snakemake-5.5.4+34.g31dd345c-py3.6.egg/snakemake/report/__init__.py", line 403, in rulegraph_d3_spec

@@ -1,1 +1,0 @@
-abricate --minid=90 --db=card data/samples/MP9-10.fasta > resistance_genes/MP9-10.tsv

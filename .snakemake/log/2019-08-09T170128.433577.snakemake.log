@@ -1,2 +1,0 @@
-SyntaxError in line 40 of /home/bioinfo/WGCA/Snakefile:
-No rule keywords allowed after run/shell/script/wrapper/cwl in rule resistance_identification. (Snakefile, line 40)

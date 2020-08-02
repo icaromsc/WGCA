@@ -1,3 +1,0 @@
-TypeError in line 152 of /home/icaro/WGCA/Snakefile:
-must be str, not int
-  File "/home/icaro/WGCA/Snakefile", line 152, in <module>

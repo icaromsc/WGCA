@@ -1,767 +1,0 @@
-Building DAG of jobs...
-Creating conda environment envs/abricate.yaml...
-Downloading remote packages.
-CreateCondaEnvironmentException:
-Could not create conda environment from /home/icaro/WGCA/envs/abricate.yaml:
-Collecting package metadata (repodata.json): ...working... done
-Solving environment: ...working... done
-
-Downloading and Extracting Packages
-libwebp-1.0.2        | 920 KB    |            |   0% libwebp-1.0.2        | 920 KB    | ##6        |  26% libwebp-1.0.2        | 920 KB    | ########6  |  87% libwebp-1.0.2        | 920 KB    | ########## | 100% 
-perl-parse-recdescen | 71 KB     |            |   0% perl-parse-recdescen | 71 KB     | ########## | 100% 
-perl-xml-writer-0.62 | 18 KB     |            |   0% perl-xml-writer-0.62 | 18 KB     | ########## | 100% 
-perl-text-diff-1.45  | 20 KB     |            |   0% perl-text-diff-1.45  | 20 KB     | ########## | 100% 
-perl-html-element-ex | 24 KB     |            |   0% perl-html-element-ex | 24 KB     | ########## | 100% 
-perl-test-harness-3. | 82 KB     |            |   0% perl-test-harness-3. | 82 KB     | ########## | 100% 
-perl-package-stash-x | 21 KB     |            |   0% perl-package-stash-x | 21 KB     | ########## | 100% 
-t_coffee-11.0.8      | 33.2 MB   |            |   0% t_coffee-11.0.8      | 33.2 MB   | 1          |   1% t_coffee-11.0.8      | 33.2 MB   | 2          |   3% t_coffee-11.0.8      | 33.2 MB   | 4          |   4% t_coffee-11.0.8      | 33.2 MB   | 5          |   5% t_coffee-11.0.8      | 33.2 MB   | 6          |   6% t_coffee-11.0.8      | 33.2 MB   | 7          |   8% t_coffee-11.0.8      | 33.2 MB   | 8          |   9% t_coffee-11.0.8      | 33.2 MB   | 9          |  10% t_coffee-11.0.8      | 33.2 MB   | #          |  11% t_coffee-11.0.8      | 33.2 MB   | #2         |  12% t_coffee-11.0.8      | 33.2 MB   | #3         |  13% t_coffee-11.0.8      | 33.2 MB   | #4         |  14% t_coffee-11.0.8      | 33.2 MB   | #5         |  16% t_coffee-11.0.8      | 33.2 MB   | #7         |  17% t_coffee-11.0.8      | 33.2 MB   | #8         |  18% t_coffee-11.0.8      | 33.2 MB   | #9         |  19% t_coffee-11.0.8      | 33.2 MB   | ##         |  21% t_coffee-11.0.8      | 33.2 MB   | ##2        |  22% t_coffee-11.0.8      | 33.2 MB   | ##3        |  24% t_coffee-11.0.8      | 33.2 MB   | ##4        |  25% t_coffee-11.0.8      | 33.2 MB   | ##5        |  26% t_coffee-11.0.8      | 33.2 MB   | ##7        |  27% t_coffee-11.0.8      | 33.2 MB   | ##8        |  28% t_coffee-11.0.8      | 33.2 MB   | ##9        |  29% t_coffee-11.0.8      | 33.2 MB   | ###        |  30% t_coffee-11.0.8      | 33.2 MB   | ###1       |  32% t_coffee-11.0.8      | 33.2 MB   | ###3       |  33% t_coffee-11.0.8      | 33.2 MB   | ###4       |  34% t_coffee-11.0.8      | 33.2 MB   | ###5       |  36% t_coffee-11.0.8      | 33.2 MB   | ###6       |  37% t_coffee-11.0.8      | 33.2 MB   | ###8       |  38% t_coffee-11.0.8      | 33.2 MB   | ###9       |  39% t_coffee-11.0.8      | 33.2 MB   | ####       |  41% t_coffee-11.0.8      | 33.2 MB   | ####2      |  42% t_coffee-11.0.8      | 33.2 MB   | ####3      |  43% t_coffee-11.0.8      | 33.2 MB   | ####4      |  44% t_coffee-11.0.8      | 33.2 MB   | ####5      |  46% t_coffee-11.0.8      | 33.2 MB   | ####6      |  47% t_coffee-11.0.8      | 33.2 MB   | ####8      |  48% t_coffee-11.0.8      | 33.2 MB   | ####9      |  49% t_coffee-11.0.8      | 33.2 MB   | #####      |  50% t_coffee-11.0.8      | 33.2 MB   | #####1     |  52% t_coffee-11.0.8      | 33.2 MB   | #####2     |  53% t_coffee-11.0.8      | 33.2 MB   | #####4     |  54% t_coffee-11.0.8      | 33.2 MB   | #####5     |  55% t_coffee-11.0.8      | 33.2 MB   | #####6     |  56% t_coffee-11.0.8      | 33.2 MB   | #####7     |  58% t_coffee-11.0.8      | 33.2 MB   | #####9     |  59% t_coffee-11.0.8      | 33.2 MB   | ######     |  60% t_coffee-11.0.8      | 33.2 MB   | ######1    |  62% t_coffee-11.0.8      | 33.2 MB   | ######2    |  63% t_coffee-11.0.8      | 33.2 MB   | ######4    |  64% t_coffee-11.0.8      | 33.2 MB   | ######5    |  65% t_coffee-11.0.8      | 33.2 MB   | ######6    |  67% t_coffee-11.0.8      | 33.2 MB   | ######7    |  68% t_coffee-11.0.8      | 33.2 MB   | ######8    |  69% t_coffee-11.0.8      | 33.2 MB   | #######    |  70% t_coffee-11.0.8      | 33.2 MB   | #######1   |  71% t_coffee-11.0.8      | 33.2 MB   | #######2   |  72% t_coffee-11.0.8      | 33.2 MB   | #######3   |  73% t_coffee-11.0.8      | 33.2 MB   | #######4   |  74% t_coffee-11.0.8      | 33.2 MB   | #######5   |  75% t_coffee-11.0.8      | 33.2 MB   | #######6   |  77% t_coffee-11.0.8      | 33.2 MB   | #######7   |  78% t_coffee-11.0.8      | 33.2 MB   | #######9   |  79% t_coffee-11.0.8      | 33.2 MB   | ########   |  81% t_coffee-11.0.8      | 33.2 MB   | ########2  |  82% t_coffee-11.0.8      | 33.2 MB   | ########3  |  83% t_coffee-11.0.8      | 33.2 MB   | ########4  |  85% t_coffee-11.0.8      | 33.2 MB   | ########5  |  86% t_coffee-11.0.8      | 33.2 MB   | ########7  |  87% t_coffee-11.0.8      | 33.2 MB   | ########8  |  89% t_coffee-11.0.8      | 33.2 MB   | ########9  |  90% t_coffee-11.0.8      | 33.2 MB   | #########  |  91% t_coffee-11.0.8      | 33.2 MB   | #########1 |  92% t_coffee-11.0.8      | 33.2 MB   | #########2 |  93% t_coffee-11.0.8      | 33.2 MB   | #########4 |  94% t_coffee-11.0.8      | 33.2 MB   | #########5 |  95% t_coffee-11.0.8      | 33.2 MB   | #########6 |  96% t_coffee-11.0.8      | 33.2 MB   | #########7 |  97% t_coffee-11.0.8      | 33.2 MB   | #########8 |  99% t_coffee-11.0.8      | 33.2 MB   | #########9 | 100% t_coffee-11.0.8      | 33.2 MB   | ########## | 100% 
-perl-pod-escapes-1.0 | 10 KB     |            |   0% perl-pod-escapes-1.0 | 10 KB     | ########## | 100% 
-perl-file-slurp-tiny | 8 KB      |            |   0% perl-file-slurp-tiny | 8 KB      | ########## | 100% 
-libxml2-2.9.9        | 1.3 MB    |            |   0% libxml2-2.9.9        | 1.3 MB    | ##3        |  23% libxml2-2.9.9        | 1.3 MB    | #####4     |  55% libxml2-2.9.9        | 1.3 MB    | ########   |  80% libxml2-2.9.9        | 1.3 MB    | ########## | 100% 
-perl-tie-ixhash-1.23 | 11 KB     |            |   0% perl-tie-ixhash-1.23 | 11 KB     | ########## | 100% 
-perl-convert-binary- | 252 KB    |            |   0% perl-convert-binary- | 252 KB    | #########5 |  95% perl-convert-binary- | 252 KB    | ########## | 100% 
-perl-pdf-api2-2.035  | 2.3 MB    |            |   0% perl-pdf-api2-2.035  | 2.3 MB    | 6          |   6% perl-pdf-api2-2.035  | 2.3 MB    | ##         |  20% perl-pdf-api2-2.035  | 2.3 MB    | ###        |  30% perl-pdf-api2-2.035  | 2.3 MB    | ####3      |  43% perl-pdf-api2-2.035  | 2.3 MB    | #####8     |  58% perl-pdf-api2-2.035  | 2.3 MB    | ######9    |  70% perl-pdf-api2-2.035  | 2.3 MB    | ########5  |  86% perl-pdf-api2-2.035  | 2.3 MB    | ########## | 100% 
-perl-text-csv-2.00   | 66 KB     |            |   0% perl-text-csv-2.00   | 66 KB     | ########## | 100% 
-perl-mldbm-2.05      | 15 KB     |            |   0% perl-mldbm-2.05      | 15 KB     | ########## | 100% 
-perl-io-stringy-2.11 | 35 KB     |            |   0% perl-io-stringy-2.11 | 35 KB     | ########## | 100% 
-perl-lwp-simple-6.15 | 348 KB    |            |   0% perl-lwp-simple-6.15 | 348 KB    | #########1 |  92% perl-lwp-simple-6.15 | 348 KB    | ########## | 100% 
-perl-aceperl-1.92    | 149 KB    |            |   0% perl-aceperl-1.92    | 149 KB    | ########## | 100% 
-perl-dbi-1.642       | 549 KB    |            |   0% perl-dbi-1.642       | 549 KB    | #####8     |  58% perl-dbi-1.642       | 549 KB    | ########## | 100% 
-perl-test-deep-1.128 | 36 KB     |            |   0% perl-test-deep-1.128 | 36 KB     | ########## | 100% 
-perl-html-formatter- | 30 KB     |            |   0% perl-html-formatter- | 30 KB     | ########## | 100% 
-perl-clone-0.42      | 13 KB     |            |   0% perl-clone-0.42      | 13 KB     | ########## | 100% 
-perl-ipc-run-2018052 | 74 KB     |            |   0% perl-ipc-run-2018052 | 74 KB     | ########## | 100% 
-perl-mro-compat-0.13 | 10 KB     |            |   0% perl-mro-compat-0.13 | 10 KB     | ########## | 100% 
-perl-xml-dom-xpath-0 | 9 KB      |            |   0% perl-xml-dom-xpath-0 | 9 KB      | ########## | 100% 
-perl-sub-exporter-0. | 30 KB     |            |   0% perl-sub-exporter-0. | 30 KB     | ########## | 100% 
-perl-array-compare-3 | 12 KB     |            |   0% perl-array-compare-3 | 12 KB     | ########## | 100% 
-perl-bioperl-run-1.0 | 424 KB    |            |   0% perl-bioperl-run-1.0 | 424 KB    | ##6        |  26% perl-bioperl-run-1.0 | 424 KB    | #########8 |  98% perl-bioperl-run-1.0 | 424 KB    | ########## | 100% 
-perl-data-optlist-0. | 10 KB     |            |   0% perl-data-optlist-0. | 10 KB     | ########## | 100% 
-perl-xml-libxslt-1.9 | 40 KB     |            |   0% perl-xml-libxslt-1.9 | 40 KB     | ########## | 100% 
-perl-svg-2.84        | 37 KB     |            |   0% perl-svg-2.84        | 37 KB     | ########## | 100% 
-perl-test-most-0.35  | 18 KB     |            |   0% perl-test-most-0.35  | 18 KB     | ########## | 100% 
-perl-xml-dom-1.46    | 56 KB     |            |   0% perl-xml-dom-1.46    | 56 KB     | ########## | 100% 
-libgd-2.2.5          | 302 KB    |            |   0% libgd-2.2.5          | 302 KB    | ########## | 100% 
-icu-64.2             | 12.6 MB   |            |   0% icu-64.2             | 12.6 MB   | 2          |   2% icu-64.2             | 12.6 MB   | 5          |   6% icu-64.2             | 12.6 MB   | 9          |   9% icu-64.2             | 12.6 MB   | #1         |  11% icu-64.2             | 12.6 MB   | #3         |  14% icu-64.2             | 12.6 MB   | #5         |  16% icu-64.2             | 12.6 MB   | #8         |  18% icu-64.2             | 12.6 MB   | ##         |  20% icu-64.2             | 12.6 MB   | ##3        |  23% icu-64.2             | 12.6 MB   | ##5        |  26% icu-64.2             | 12.6 MB   | ##7        |  28% icu-64.2             | 12.6 MB   | ###        |  30% icu-64.2             | 12.6 MB   | ###2       |  33% icu-64.2             | 12.6 MB   | ###5       |  36% icu-64.2             | 12.6 MB   | ###8       |  39% icu-64.2             | 12.6 MB   | ####1      |  41% icu-64.2             | 12.6 MB   | ####3      |  44% icu-64.2             | 12.6 MB   | ####5      |  46% icu-64.2             | 12.6 MB   | ####9      |  49% icu-64.2             | 12.6 MB   | #####2     |  52% icu-64.2             | 12.6 MB   | #####5     |  56% icu-64.2             | 12.6 MB   | #####8     |  59% icu-64.2             | 12.6 MB   | ######2    |  62% icu-64.2             | 12.6 MB   | ######5    |  65% icu-64.2             | 12.6 MB   | ######8    |  69% icu-64.2             | 12.6 MB   | #######2   |  72% icu-64.2             | 12.6 MB   | #######5   |  76% icu-64.2             | 12.6 MB   | #######9   |  80% icu-64.2             | 12.6 MB   | ########2  |  83% icu-64.2             | 12.6 MB   | ########6  |  86% icu-64.2             | 12.6 MB   | ########9  |  90% icu-64.2             | 12.6 MB   | #########3 |  93% icu-64.2             | 12.6 MB   | #########6 |  96% icu-64.2             | 12.6 MB   | ########## | 100% 
-perl-xml-twig-3.52   | 144 KB    |            |   0% perl-xml-twig-3.52   | 144 KB    | ########## | 100% 
-perl-dbd-sqlite-1.64 | 2.3 MB    |            |   0% perl-dbd-sqlite-1.64 | 2.3 MB    | #4         |  15% perl-dbd-sqlite-1.64 | 2.3 MB    | ###1       |  31% perl-dbd-sqlite-1.64 | 2.3 MB    | ####6      |  46% perl-dbd-sqlite-1.64 | 2.3 MB    | ######4    |  64% perl-dbd-sqlite-1.64 | 2.3 MB    | #######9   |  80% perl-dbd-sqlite-1.64 | 2.3 MB    | #########6 |  96% perl-dbd-sqlite-1.64 | 2.3 MB    | ########## | 100% 
-perl-type-tiny-1.004 | 119 KB    |            |   0% perl-type-tiny-1.004 | 119 KB    | ########## | 100% 
-perl-algorithm-diff- | 34 KB     |            |   0% perl-algorithm-diff- | 34 KB     | ########## | 100% 
-perl-ipc-sharelite-0 | 24 KB     |            |   0% perl-ipc-sharelite-0 | 24 KB     | ########## | 100% 
-perl-time-hires-1.97 | 25 KB     |            |   0% perl-time-hires-1.97 | 25 KB     | ########## | 100% 
-perl-gd-2.71         | 114 KB    |            |   0% perl-gd-2.71         | 114 KB    | ########## | 100% 
-perl-dist-checkconfl | 10 KB     |            |   0% perl-dist-checkconfl | 10 KB     | ########## | 100% 
-perl-bio-samtools-1. | 172 KB    |            |   0% perl-bio-samtools-1. | 172 KB    | ########## | 100% 
-tidyp-1.04           | 288 KB    |            |   0% tidyp-1.04           | 288 KB    | ########## | 100% 
-perl-bio-asn1-entrez | 22 KB     |            |   0% perl-bio-asn1-entrez | 22 KB     | ########## | 100% 
-perl-html-entities-n | 11 KB     |            |   0% perl-html-entities-n | 11 KB     | ########## | 100% 
-perl-module-implemen | 9 KB      |            |   0% perl-module-implemen | 9 KB      | ########## | 100% 
-perl-mime-lite-3.030 | 51 KB     |            |   0% perl-mime-lite-3.030 | 51 KB     | ########## | 100% 
-perl-class-method-mo | 13 KB     |            |   0% perl-class-method-mo | 13 KB     | ########## | 100% 
-perl-compress-raw-bz | 44 KB     |            |   0% perl-compress-raw-bz | 44 KB     | ########## | 100% 
-perl-math-spline-0.0 | 8 KB      |            |   0% perl-math-spline-0.0 | 8 KB      | ########## | 100% 
-perl-mime-tools-5.50 | 113 KB    |            |   0% perl-mime-tools-5.50 | 113 KB    | ########## | 100% 
-perl-devel-overloadi | 8 KB      |            |   0% perl-devel-overloadi | 8 KB      | ########## | 100% 
-perl-db-file-1.852   | 52 KB     |            |   0% perl-db-file-1.852   | 52 KB     | ########## | 100% 
-perl-xml-filter-buff | 7 KB      |            |   0% perl-xml-filter-buff | 7 KB      | ########## | 100% 
-fontconfig-2.13.1    | 340 KB    |            |   0% fontconfig-2.13.1    | 340 KB    | ######5    |  66% fontconfig-2.13.1    | 340 KB    | ########## | 100% 
-perl-apache-test-1.4 | 115 KB    |            |   0% perl-apache-test-1.4 | 115 KB    | ########## | 100% 
-wheel-0.33.6         | 35 KB     |            |   0% wheel-0.33.6         | 35 KB     | ########## | 100% 
-perl-scalar-list-uti | 38 KB     |            |   0% perl-scalar-list-uti | 38 KB     | ########## | 100% 
-perl-image-info-1.38 | 41 KB     |            |   0% perl-image-info-1.38 | 41 KB     | ########## | 100% 
-perl-bioperl-core-1. | 3.1 MB    |            |   0% perl-bioperl-core-1. | 3.1 MB    | 9          |   9% perl-bioperl-core-1. | 3.1 MB    | ##         |  21% perl-bioperl-core-1. | 3.1 MB    | ###2       |  33% perl-bioperl-core-1. | 3.1 MB    | ####       |  40% perl-bioperl-core-1. | 3.1 MB    | #####2     |  53% perl-bioperl-core-1. | 3.1 MB    | ######4    |  65% perl-bioperl-core-1. | 3.1 MB    | #######7   |  77% perl-bioperl-core-1. | 3.1 MB    | #########1 |  91% perl-bioperl-core-1. | 3.1 MB    | ########## | 100% 
-perl-unicode-map-0.1 | 254 KB    |            |   0% perl-unicode-map-0.1 | 254 KB    | ########## | 100% 
-perl-sub-name-0.21   | 13 KB     |            |   0% perl-sub-name-0.21   | 13 KB     | ########## | 100% 
-perl-graph-0.9704    | 73 KB     |            |   0% perl-graph-0.9704    | 73 KB     | ########## | 100% 
-perl-spreadsheet-wri | 259 KB    |            |   0% perl-spreadsheet-wri | 259 KB    | ########## | 100% 
-perl-date-format-2.3 | 29 KB     |            |   0% perl-date-format-2.3 | 29 KB     | ########## | 100% 
-perl-package-stash-0 | 66 KB     |            |   0% perl-package-stash-0 | 66 KB     | ########## | 100% 
-perl-class-load-xs-0 | 13 KB     |            |   0% perl-class-load-xs-0 | 13 KB     | ########## | 100% 
-perl-appconfig-1.71  | 42 KB     |            |   0% perl-appconfig-1.71  | 42 KB     | ########## | 100% 
-perl-io-compress-2.0 | 81 KB     |            |   0% perl-io-compress-2.0 | 81 KB     | ########## | 100% 
-emboss-6.6.0         | 94.5 MB   |            |   0% emboss-6.6.0         | 94.5 MB   |            |   0% emboss-6.6.0         | 94.5 MB   |            |   0% emboss-6.6.0         | 94.5 MB   |            |   1% emboss-6.6.0         | 94.5 MB   | 1          |   1% emboss-6.6.0         | 94.5 MB   | 1          |   2% emboss-6.6.0         | 94.5 MB   | 1          |   2% emboss-6.6.0         | 94.5 MB   | 2          |   2% emboss-6.6.0         | 94.5 MB   | 2          |   3% emboss-6.6.0         | 94.5 MB   | 2          |   3% emboss-6.6.0         | 94.5 MB   | 3          |   3% emboss-6.6.0         | 94.5 MB   | 3          |   4% emboss-6.6.0         | 94.5 MB   | 4          |   4% emboss-6.6.0         | 94.5 MB   | 4          |   5% emboss-6.6.0         | 94.5 MB   | 4          |   5% emboss-6.6.0         | 94.5 MB   | 5          |   5% emboss-6.6.0         | 94.5 MB   | 5          |   6% emboss-6.6.0         | 94.5 MB   | 6          |   6% emboss-6.6.0         | 94.5 MB   | 6          |   6% emboss-6.6.0         | 94.5 MB   | 6          |   7% emboss-6.6.0         | 94.5 MB   | 7          |   7% emboss-6.6.0         | 94.5 MB   | 7          |   8% emboss-6.6.0         | 94.5 MB   | 8          |   8% emboss-6.6.0         | 94.5 MB   | 8          |   9% emboss-6.6.0         | 94.5 MB   | 8          |   9% emboss-6.6.0         | 94.5 MB   | 9          |   9% emboss-6.6.0         | 94.5 MB   | 9          |  10% emboss-6.6.0         | 94.5 MB   | #          |  10% emboss-6.6.0         | 94.5 MB   | #          |  10% emboss-6.6.0         | 94.5 MB   | #          |  11% emboss-6.6.0         | 94.5 MB   | #1         |  11% emboss-6.6.0         | 94.5 MB   | #1         |  12% emboss-6.6.0         | 94.5 MB   | #2         |  12% emboss-6.6.0         | 94.5 MB   | #2         |  12% emboss-6.6.0         | 94.5 MB   | #2         |  13% emboss-6.6.0         | 94.5 MB   | #3         |  13% emboss-6.6.0         | 94.5 MB   | #3         |  14% emboss-6.6.0         | 94.5 MB   | #4         |  14% emboss-6.6.0         | 94.5 MB   | #4         |  15% emboss-6.6.0         | 94.5 MB   | #4         |  15% emboss-6.6.0         | 94.5 MB   | #5         |  15% emboss-6.6.0         | 94.5 MB   | #5         |  16% emboss-6.6.0         | 94.5 MB   | #6         |  16% emboss-6.6.0         | 94.5 MB   | #6         |  17% emboss-6.6.0         | 94.5 MB   | #6         |  17% emboss-6.6.0         | 94.5 MB   | #7         |  17% emboss-6.6.0         | 94.5 MB   | #7         |  17% emboss-6.6.0         | 94.5 MB   | #7         |  18% emboss-6.6.0         | 94.5 MB   | #7         |  18% emboss-6.6.0         | 94.5 MB   | #8         |  18% emboss-6.6.0         | 94.5 MB   | #8         |  19% emboss-6.6.0         | 94.5 MB   | #9         |  19% emboss-6.6.0         | 94.5 MB   | #9         |  19% emboss-6.6.0         | 94.5 MB   | #9         |  20% emboss-6.6.0         | 94.5 MB   | ##         |  20% emboss-6.6.0         | 94.5 MB   | ##         |  21% emboss-6.6.0         | 94.5 MB   | ##1        |  21% emboss-6.6.0         | 94.5 MB   | ##1        |  22% emboss-6.6.0         | 94.5 MB   | ##2        |  22% emboss-6.6.0         | 94.5 MB   | ##2        |  22% emboss-6.6.0         | 94.5 MB   | ##2        |  23% emboss-6.6.0         | 94.5 MB   | ##3        |  23% emboss-6.6.0         | 94.5 MB   | ##3        |  24% emboss-6.6.0         | 94.5 MB   | ##4        |  24% emboss-6.6.0         | 94.5 MB   | ##4        |  25% emboss-6.6.0         | 94.5 MB   | ##5        |  25% emboss-6.6.0         | 94.5 MB   | ##5        |  26% emboss-6.6.0         | 94.5 MB   | ##5        |  26% emboss-6.6.0         | 94.5 MB   | ##6        |  26% emboss-6.6.0         | 94.5 MB   | ##6        |  27% emboss-6.6.0         | 94.5 MB   | ##7        |  27% emboss-6.6.0         | 94.5 MB   | ##7        |  28% emboss-6.6.0         | 94.5 MB   | ##7        |  28% emboss-6.6.0         | 94.5 MB   | ##8        |  28% emboss-6.6.0         | 94.5 MB   | ##8        |  29% emboss-6.6.0         | 94.5 MB   | ##8        |  29% emboss-6.6.0         | 94.5 MB   | ##9        |  29% emboss-6.6.0         | 94.5 MB   | ##9        |  30% emboss-6.6.0         | 94.5 MB   | ##9        |  30% emboss-6.6.0         | 94.5 MB   | ###        |  30% emboss-6.6.0         | 94.5 MB   | ###        |  31% emboss-6.6.0         | 94.5 MB   | ###1       |  31% emboss-6.6.0         | 94.5 MB   | ###1       |  31% emboss-6.6.0         | 94.5 MB   | ###1       |  32% emboss-6.6.0         | 94.5 MB   | ###2       |  32% emboss-6.6.0         | 94.5 MB   | ###2       |  32% emboss-6.6.0         | 94.5 MB   | ###2       |  33% emboss-6.6.0         | 94.5 MB   | ###3       |  33% emboss-6.6.0         | 94.5 MB   | ###3       |  33% emboss-6.6.0         | 94.5 MB   | ###3       |  34% emboss-6.6.0         | 94.5 MB   | ###3       |  34% emboss-6.6.0         | 94.5 MB   | ###4       |  34% emboss-6.6.0         | 94.5 MB   | ###4       |  35% emboss-6.6.0         | 94.5 MB   | ###4       |  35% emboss-6.6.0         | 94.5 MB   | ###5       |  35% emboss-6.6.0         | 94.5 MB   | ###5       |  35% emboss-6.6.0         | 94.5 MB   | ###5       |  36% emboss-6.6.0         | 94.5 MB   | ###5       |  36% emboss-6.6.0         | 94.5 MB   | ###6       |  36% emboss-6.6.0         | 94.5 MB   | ###6       |  36% emboss-6.6.0         | 94.5 MB   | ###6       |  36% emboss-6.6.0         | 94.5 MB   | ###6       |  37% emboss-6.6.0         | 94.5 MB   | ###7       |  37% emboss-6.6.0         | 94.5 MB   | ###7       |  37% emboss-6.6.0         | 94.5 MB   | ###7       |  38% emboss-6.6.0         | 94.5 MB   | ###7       |  38% emboss-6.6.0         | 94.5 MB   | ###8       |  38% emboss-6.6.0         | 94.5 MB   | ###8       |  39% emboss-6.6.0         | 94.5 MB   | ###8       |  39% emboss-6.6.0         | 94.5 MB   | ###9       |  39% emboss-6.6.0         | 94.5 MB   | ###9       |  40% emboss-6.6.0         | 94.5 MB   | ####       |  40% emboss-6.6.0         | 94.5 MB   | ####       |  41% emboss-6.6.0         | 94.5 MB   | ####       |  41% emboss-6.6.0         | 94.5 MB   | ####1      |  41% emboss-6.6.0         | 94.5 MB   | ####1      |  42% emboss-6.6.0         | 94.5 MB   | ####1      |  42% emboss-6.6.0         | 94.5 MB   | ####2      |  42% emboss-6.6.0         | 94.5 MB   | ####2      |  42% emboss-6.6.0         | 94.5 MB   | ####2      |  43% emboss-6.6.0         | 94.5 MB   | ####2      |  43% emboss-6.6.0         | 94.5 MB   | ####3      |  43% emboss-6.6.0         | 94.5 MB   | ####3      |  44% emboss-6.6.0         | 94.5 MB   | ####3      |  44% emboss-6.6.0         | 94.5 MB   | ####4      |  44% emboss-6.6.0         | 94.5 MB   | ####4      |  44% emboss-6.6.0         | 94.5 MB   | ####4      |  45% emboss-6.6.0         | 94.5 MB   | ####4      |  45% emboss-6.6.0         | 94.5 MB   | ####5      |  45% emboss-6.6.0         | 94.5 MB   | ####5      |  46% emboss-6.6.0         | 94.5 MB   | ####6      |  46% emboss-6.6.0         | 94.5 MB   | ####6      |  46% emboss-6.6.0         | 94.5 MB   | ####6      |  47% emboss-6.6.0         | 94.5 MB   | ####6      |  47% emboss-6.6.0         | 94.5 MB   | ####7      |  47% emboss-6.6.0         | 94.5 MB   | ####7      |  48% emboss-6.6.0         | 94.5 MB   | ####8      |  48% emboss-6.6.0         | 94.5 MB   | ####8      |  48% emboss-6.6.0         | 94.5 MB   | ####8      |  49% emboss-6.6.0         | 94.5 MB   | ####9      |  49% emboss-6.6.0         | 94.5 MB   | ####9      |  50% emboss-6.6.0         | 94.5 MB   | ####9      |  50% emboss-6.6.0         | 94.5 MB   | #####      |  50% emboss-6.6.0         | 94.5 MB   | #####      |  50% emboss-6.6.0         | 94.5 MB   | #####      |  51% emboss-6.6.0         | 94.5 MB   | #####1     |  51% emboss-6.6.0         | 94.5 MB   | #####1     |  51% emboss-6.6.0         | 94.5 MB   | #####1     |  52% emboss-6.6.0         | 94.5 MB   | #####2     |  52% emboss-6.6.0         | 94.5 MB   | #####2     |  52% emboss-6.6.0         | 94.5 MB   | #####2     |  53% emboss-6.6.0         | 94.5 MB   | #####2     |  53% emboss-6.6.0         | 94.5 MB   | #####3     |  53% emboss-6.6.0         | 94.5 MB   | #####3     |  54% emboss-6.6.0         | 94.5 MB   | #####4     |  54% emboss-6.6.0         | 94.5 MB   | #####4     |  54% emboss-6.6.0         | 94.5 MB   | #####4     |  55% emboss-6.6.0         | 94.5 MB   | #####5     |  55% emboss-6.6.0         | 94.5 MB   | #####5     |  55% emboss-6.6.0         | 94.5 MB   | #####5     |  56% emboss-6.6.0         | 94.5 MB   | #####6     |  56% emboss-6.6.0         | 94.5 MB   | #####6     |  57% emboss-6.6.0         | 94.5 MB   | #####6     |  57% emboss-6.6.0         | 94.5 MB   | #####7     |  57% emboss-6.6.0         | 94.5 MB   | #####7     |  58% emboss-6.6.0         | 94.5 MB   | #####7     |  58% emboss-6.6.0         | 94.5 MB   | #####8     |  58% emboss-6.6.0         | 94.5 MB   | #####8     |  59% emboss-6.6.0         | 94.5 MB   | #####9     |  59% emboss-6.6.0         | 94.5 MB   | #####9     |  59% emboss-6.6.0         | 94.5 MB   | #####9     |  60% emboss-6.6.0         | 94.5 MB   | ######     |  60% emboss-6.6.0         | 94.5 MB   | ######     |  60% emboss-6.6.0         | 94.5 MB   | ######     |  61% emboss-6.6.0         | 94.5 MB   | ######1    |  61% emboss-6.6.0         | 94.5 MB   | ######1    |  62% emboss-6.6.0         | 94.5 MB   | ######1    |  62% emboss-6.6.0         | 94.5 MB   | ######2    |  62% emboss-6.6.0         | 94.5 MB   | ######2    |  63% emboss-6.6.0         | 94.5 MB   | ######3    |  63% emboss-6.6.0         | 94.5 MB   | ######3    |  63% emboss-6.6.0         | 94.5 MB   | ######3    |  64% emboss-6.6.0         | 94.5 MB   | ######4    |  64% emboss-6.6.0         | 94.5 MB   | ######4    |  64% emboss-6.6.0         | 94.5 MB   | ######4    |  65% emboss-6.6.0         | 94.5 MB   | ######5    |  65% emboss-6.6.0         | 94.5 MB   | ######5    |  65% emboss-6.6.0         | 94.5 MB   | ######5    |  66% emboss-6.6.0         | 94.5 MB   | ######6    |  66% emboss-6.6.0         | 94.5 MB   | ######6    |  66% emboss-6.6.0         | 94.5 MB   | ######6    |  67% emboss-6.6.0         | 94.5 MB   | ######7    |  67% emboss-6.6.0         | 94.5 MB   | ######7    |  67% emboss-6.6.0         | 94.5 MB   | ######7    |  68% emboss-6.6.0         | 94.5 MB   | ######8    |  68% emboss-6.6.0         | 94.5 MB   | ######8    |  68% emboss-6.6.0         | 94.5 MB   | ######8    |  69% emboss-6.6.0         | 94.5 MB   | ######9    |  69% emboss-6.6.0         | 94.5 MB   | ######9    |  69% emboss-6.6.0         | 94.5 MB   | ######9    |  70% emboss-6.6.0         | 94.5 MB   | ######9    |  70% emboss-6.6.0         | 94.5 MB   | #######    |  70% emboss-6.6.0         | 94.5 MB   | #######    |  71% emboss-6.6.0         | 94.5 MB   | #######    |  71% emboss-6.6.0         | 94.5 MB   | #######1   |  71% emboss-6.6.0         | 94.5 MB   | #######1   |  71% emboss-6.6.0         | 94.5 MB   | #######1   |  72% emboss-6.6.0         | 94.5 MB   | #######1   |  72% emboss-6.6.0         | 94.5 MB   | #######2   |  72% emboss-6.6.0         | 94.5 MB   | #######2   |  73% emboss-6.6.0         | 94.5 MB   | #######3   |  73% emboss-6.6.0         | 94.5 MB   | #######3   |  74% emboss-6.6.0         | 94.5 MB   | #######4   |  74% emboss-6.6.0         | 94.5 MB   | #######4   |  75% emboss-6.6.0         | 94.5 MB   | #######5   |  75% emboss-6.6.0         | 94.5 MB   | #######5   |  76% emboss-6.6.0         | 94.5 MB   | #######6   |  76% emboss-6.6.0         | 94.5 MB   | #######6   |  77% emboss-6.6.0         | 94.5 MB   | #######6   |  77% emboss-6.6.0         | 94.5 MB   | #######7   |  77% emboss-6.6.0         | 94.5 MB   | #######7   |  78% emboss-6.6.0         | 94.5 MB   | #######8   |  78% emboss-6.6.0         | 94.5 MB   | #######8   |  79% emboss-6.6.0         | 94.5 MB   | #######8   |  79% emboss-6.6.0         | 94.5 MB   | #######9   |  79% emboss-6.6.0         | 94.5 MB   | #######9   |  80% emboss-6.6.0         | 94.5 MB   | #######9   |  80% emboss-6.6.0         | 94.5 MB   | ########   |  80% emboss-6.6.0         | 94.5 MB   | ########   |  81% emboss-6.6.0         | 94.5 MB   | ########   |  81% emboss-6.6.0         | 94.5 MB   | ########1  |  81% emboss-6.6.0         | 94.5 MB   | ########1  |  82% emboss-6.6.0         | 94.5 MB   | ########2  |  82% emboss-6.6.0         | 94.5 MB   | ########2  |  82% emboss-6.6.0         | 94.5 MB   | ########2  |  83% emboss-6.6.0         | 94.5 MB   | ########3  |  83% emboss-6.6.0         | 94.5 MB   | ########3  |  84% emboss-6.6.0         | 94.5 MB   | ########4  |  84% emboss-6.6.0         | 94.5 MB   | ########4  |  84% emboss-6.6.0         | 94.5 MB   | ########4  |  85% emboss-6.6.0         | 94.5 MB   | ########5  |  85% emboss-6.6.0         | 94.5 MB   | ########5  |  86% emboss-6.6.0         | 94.5 MB   | ########6  |  86% emboss-6.6.0         | 94.5 MB   | ########6  |  87% emboss-6.6.0         | 94.5 MB   | ########7  |  87% emboss-6.6.0         | 94.5 MB   | ########7  |  88% emboss-6.6.0         | 94.5 MB   | ########8  |  88% emboss-6.6.0         | 94.5 MB   | ########8  |  88% emboss-6.6.0         | 94.5 MB   | ########8  |  89% emboss-6.6.0         | 94.5 MB   | ########9  |  89% emboss-6.6.0         | 94.5 MB   | ########9  |  90% emboss-6.6.0         | 94.5 MB   | #########  |  90% emboss-6.6.0         | 94.5 MB   | #########  |  91% emboss-6.6.0         | 94.5 MB   | #########  |  91% emboss-6.6.0         | 94.5 MB   | #########1 |  91% emboss-6.6.0         | 94.5 MB   | #########1 |  92% emboss-6.6.0         | 94.5 MB   | #########2 |  92% emboss-6.6.0         | 94.5 MB   | #########2 |  93% emboss-6.6.0         | 94.5 MB   | #########3 |  93% emboss-6.6.0         | 94.5 MB   | #########3 |  94% emboss-6.6.0         | 94.5 MB   | #########4 |  94% emboss-6.6.0         | 94.5 MB   | #########4 |  94% emboss-6.6.0         | 94.5 MB   | #########4 |  95% emboss-6.6.0         | 94.5 MB   | #########5 |  95% emboss-6.6.0         | 94.5 MB   | #########5 |  96% emboss-6.6.0         | 94.5 MB   | #########5 |  96% emboss-6.6.0         | 94.5 MB   | #########6 |  96% emboss-6.6.0         | 94.5 MB   | #########6 |  97% emboss-6.6.0         | 94.5 MB   | #########7 |  97% emboss-6.6.0         | 94.5 MB   | #########7 |  98% emboss-6.6.0         | 94.5 MB   | #########7 |  98% emboss-6.6.0         | 94.5 MB   | #########8 |  98% emboss-6.6.0         | 94.5 MB   | #########8 |  99% emboss-6.6.0         | 94.5 MB   | #########9 |  99% emboss-6.6.0         | 94.5 MB   | #########9 | 100% emboss-6.6.0         | 94.5 MB   | ########## | 100% 
-perl-module-runtime- | 7 KB      |            |   0% perl-module-runtime- | 7 KB      | ########## | 100% 
-perl-xml-xpathengine | 26 KB     |            |   0% perl-xml-xpathengine | 26 KB     | ########## | 100% 
-perl-math-cdf-0.1    | 69 KB     |            |   0% perl-math-cdf-0.1    | 69 KB     | ########## | 100% 
-perl-compress-raw-zl | 72 KB     |            |   0% 
-perl-postscript-0.06 | 22 KB     |            |   0% 
-perl-sub-quote-2.006 | 18 KB     |            |   0% 
-perl-font-ttf-1.06   | 200 KB    |            |   0% 
-perl-html-tableextra | 23 KB     |            |   0% 
-perl-html-tidy-1.60  | 20 KB     |            |   0% 
-perl-email-date-form | 8 KB      |            |   0% 
-perl-moose-2.2011    | 444 KB    |            |   0% 
-libxslt-1.1.32       | 520 KB    |            |   0% 
-perl-font-afm-1.20   | 14 KB     |            |   0% 
-perl-autoloader-5.74 | 5 KB      |            |   0% 
-perl-bio-tools-run-a | 22 KB     |            |   0% 
-perl-capture-tiny-0. | 17 KB     |            |   0% 
-perl-test-1.26       | 14 KB     |            |   0% 
-perl-graphviz-2.24   | 36 KB     |            |   0% 
-perl-statistics-desc | 32 KB     |            |   0% 
-perl-math-random-0.7 | 55 KB     |            |   0% 
-perl-svg-graph-0.02  | 26 KB     |            |   0% 
-perl-sort-naturally- | 14 KB     |            |   0% 
-pango-1.42.4         | 517 KB    |            |   0% 
-perl-role-tiny-2.000 | 15 KB     |            |   0% 
-fribidi-1.0.5        | 112 KB    |            |   0% 
-perl-data-stag-0.14  | 78 KB     |            |   0% 
-clustalw-2.1         | 334 KB    |            |   0% 
-perl-sub-identify-0. | 12 KB     |            |   0% 
-perl-set-scalar-1.29 | 19 KB     |            |   0% 
-perl-tree-dag_node-1 | 40 KB     |            |   0% 
-cairo-1.16.0         | 1.5 MB    |            |   0% 
-harfbuzz-2.4.0       | 1.5 MB    |            |   0% 
-perl-xml-libxml-2.01 | 260 KB    |            |   0% 
-perl-digest-sha1-2.1 | 20 KB     |            |   0% 
-perl-eval-closure-0. | 11 KB     |            |   0% 
-perl-mailtools-2.21  | 48 KB     |            |   0% 
-perl-digest-perl-md5 | 11 KB     |            |   0% 
-giflib-5.1.9         | 108 KB    |            |   0% 
-perl-crypt-rc4-2.02  | 8 KB      |            |   0% 
-paml-4.9             | 1.2 MB    |            |   0% 
-abricate-0.8.13      | 10.6 MB   |            |   0% 
-perl-xml-sax-writer- | 16 KB     |            |   0% 
-perl-pod-usage-1.69  | 13 KB     |            |   0% 
-python-3.7.3         | 36.0 MB   |            |   0% 
-perl-html-treebuilde | 12 KB     |            |   0% 
-perl-task-weaken-1.0 | 8 KB      |            |   0% 
-perl-image-size-3.30 | 26 KB     |            |   0% 
-perl-devel-stacktrac | 16 KB     |            |   0% 
-perl-class-data-inhe | 7 KB      |            |   0% 
-perl-mime-types-2.17 | 56 KB     |            |   0% 
-perl-timedate-2.30   | 29 KB     |            |   0% 
-perl-moo-2.003004    | 38 KB     |            |   0% 
-perl-io-sessiondata- | 8 KB      |            |   0% 
-perl-test-difference | 15 KB     |            |   0% 
-perl-spreadsheet-par | 63 KB     |            |   0% 
-pip-19.2.3           | 1.9 MB    |            |   0% 
-perl-bio-phylo-0.58  | 302 KB    |            |   0% 
-graphviz-2.40.1      | 6.4 MB    |            |   0% 
-unzip-6.0            | 90 KB     |            |   0% 
-perl-module-runtime- | 15 KB     |            |   0% 
-perl-xml-regexp-0.04 | 8 KB      |            |   0% 
-perl-algorithm-munkr | 11 KB     |            |   0% 
-perl-libxml-perl-0.0 | 38 KB     |            |   0% 
-perl-bioperl-1.7.2   | 13 KB     |            |   0% 
-perl-convert-binhex- | 25 KB     |            |   0% 
-perl-getopt-long-2.5 | 27 KB     |            |   0% 
-perl-io-string-1.08  | 10 KB     |            |   0% 
-perl-params-util-1.0 | 14 KB     |            |   0% 
-perl-file-slurp-9999 | 17 KB     |            |   0% 
-perl-bio-featureio-1 | 37 KB     |            |   0% 
-perl-io-tty-1.12     | 30 KB     |            |   0% 
-perl-soap-lite-1.19  | 117 KB    |            |   0% 
-perl-class-inspector | 14 KB     |            |   0% 
-perl-exception-class | 19 KB     |            |   0% 
-perl-template-toolki | 319 KB    |            |   0% 
-setuptools-41.2.0    | 635 KB    |            |   0% 
-perl-class-load-0.25 | 12 KB     |            |   0% 
-perl-bio-tools-run-a | 23 KB     |            |   0% 
-perl-test-leaktrace- | 23 KB     |            |   0% 
-perl-dynaloader-1.25 | 3 KB      |            |   0% 
-perl-jcode-2.07      | 24 KB     |            |   0% 
-perl-file-which-1.23 | 12 KB     |            |   0% 
-perl-bio-tools-phylo | 55 KB     |            |   0% 
-perl-error-0.17027   | 20 KB     |            |   0% 
-perl-devel-globaldes | 7 KB      |            |   0% 
-perl-cache-cache-1.0 | 31 KB     |            |   0% 
-perl-xml-xpath-1.44  | 42 KB     |            |   0% 
-libdb-6.1.26         | 21.5 MB   |            |   0% 
-certifi-2019.6.16    | 149 KB    |            |   0% 
-perl-bio-coordinate- | 33 KB     |            |   0% 
-perl-file-sort-1.01  | 18 KB     |            |   0% 
-perl-test-warn-0.36  | 13 KB     |            |   0% 
-perl-package-depreca | 10 KB     |            |   0% 
-perl-test-exception- | 12 KB     |            |   0% 
-perl-sub-install-0.9 | 10 KB     |            |   0% 
-perl-math-derivative | 9 KB      |            |   0% 
-perl-lib-0.63        | 6 KB      |            |   0% 
-perl-ole-storage_lit | 18 KB     |            |   0% 
-perl-sub-exporter-pr | 8 KB      |            |   0% 
-perl-sub-uplevel-0.2 | 13 KB     |            |   0% 
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-compress-raw-zlib-2.087-pl526hc9558a2_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-postscript-0.06-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-sub-quote-2.006003-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-font-ttf-1.06-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-html-tableextract-2.13-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-html-tidy-1.60-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-email-date-format-1.005-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-moose-2.2011-pl526hf484d3e_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/libxslt-1.1.32-h31b3aaa_1004.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-font-afm-1.20-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-autoloader-5.74-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-bio-tools-run-alignment-clustalw-1.7.4-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-capture-tiny-0.48-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-test-1.26-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-graphviz-2.24-pl526h734ff71_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-statistics-descriptive-3.0702-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-math-random-0.72-pl526h14c3975_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-svg-graph-0.02-pl526_3.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-sort-naturally-1.03-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/pango-1.42.4-ha030887_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/noarch/perl-role-tiny-2.000008-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/fribidi-1.0.5-h516909a_1002.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-data-stag-0.14-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/clustalw-2.1-h6bb024c_4.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-sub-identify-0.14-pl526h14c3975_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-set-scalar-1.29-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-tree-dag_node-1.31-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/cairo-1.16.0-hfb77d84_1002.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/harfbuzz-2.4.0-h9f30f68_3.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-xml-libxml-2.0132-pl526h7ec2d77_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-digest-sha1-2.13-pl526h6bb024c_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-eval-closure-0.14-pl526h6bb024c_4.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/noarch/perl-mailtools-2.21-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-digest-perl-md5-1.9-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/giflib-5.1.9-h516909a_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-crypt-rc4-2.02-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/paml-4.9-h14c3975_4.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/abricate-0.8.13-h1341992_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-xml-sax-writer-0.57-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-pod-usage-1.69-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/python-3.7.3-h33d41f4_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-html-treebuilder-xpath-0.14-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-task-weaken-1.06-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-image-size-3.300-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/noarch/perl-devel-stacktrace-2.04-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-class-data-inheritable-0.08-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-mime-types-2.17-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-timedate-2.30-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-moo-2.003004-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-io-sessiondata-1.03-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/noarch/perl-test-differences-0.67-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-spreadsheet-parseexcel-0.65-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/pip-19.2.3-py37_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-bio-phylo-0.58-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/graphviz-2.40.1-h5933667_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/unzip-6.0-h516909a_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-module-runtime-0.016-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-xml-regexp-0.04-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-algorithm-munkres-0.08-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-libxml-perl-0.08-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-bioperl-1.7.2-pl526_10.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-convert-binhex-1.125-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-getopt-long-2.50-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-io-string-1.08-pl526_3.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-params-util-1.07-pl526h6bb024c_4.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-file-slurp-9999.27-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-bio-featureio-1.6.905-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-io-tty-1.12-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-soap-lite-1.19-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-class-inspector-1.34-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-exception-class-1.44-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-template-toolkit-2.26-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/setuptools-41.2.0-py37_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-class-load-0.25-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-bio-tools-run-alignment-tcoffee-1.7.4-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-test-leaktrace-0.16-pl526h14c3975_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-dynaloader-1.25-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-jcode-2.07-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-file-which-1.23-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-bio-tools-phylo-paml-1.7.3-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-error-0.17027-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-devel-globaldestruction-0.14-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-cache-cache-1.08-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-xml-xpath-1.44-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/libdb-6.1.26-0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/conda-forge/linux-64/certifi-2019.6.16-py37_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-bio-coordinate-1.007001-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-file-sort-1.01-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-test-warn-0.36-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-package-deprecationmanager-0.17-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-test-exception-0.43-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-sub-install-0.928-pl526_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-math-derivative-1.01-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-lib-0.63-pl526_1.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-ole-storage_lite-0.19-pl526_3.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-sub-exporter-progressive-0.001013-pl526_0.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-CondaHTTPError: HTTP 000 CONNECTION FAILED for url <https://conda.anaconda.org/bioconda/linux-64/perl-sub-uplevel-0.2800-pl526h14c3975_2.tar.bz2>
-Elapsed: -
-
-An HTTP error occurred when trying to retrieve this URL.
-HTTP errors are often intermittent, and a simple retry will get you on your way.
-
-
-
-

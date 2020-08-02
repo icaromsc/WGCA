@@ -1,3 +1,0 @@
-SyntaxError:
-Not all output, log and benchmark files of rule prophage_prediction contain the same wildcards. This is crucial though, in order to avoid that two or more jobs write to the same file.
-  File "/home/icaro/Documentos/WGCA/Snakefile", line 174, in <module>

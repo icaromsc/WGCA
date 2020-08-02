@@ -1,4 +1,0 @@
-Building DAG of jobs...
-MissingInputException in line 114 of /home/icaro/WGCA/Snakefile:
-Missing input files for rule generate_resistome_heatmap_v2:
-resistome_summary/

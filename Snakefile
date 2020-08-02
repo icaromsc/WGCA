@@ -27,7 +27,7 @@ rule virulence_identification:
     input:
         "data/samples/{sample}.fasta"
     output:
-        report("virulence_genes/{sample}.tsv", category="Virulence factors")
+        report("virulence_prediction/{sample}.tsv", category="Virulence factors")
     conda:
         "envs/abricate.yaml"
     shell:
@@ -35,9 +35,9 @@ rule virulence_identification:
 
 rule summarize_virulence:
     input:
-        expand("virulence_genes/{sample}.tsv", sample=SAMPLES)
+        expand("virulence_prediction/{sample}.tsv", sample=SAMPLES)
     output:
-        "virulence_genes/summary.tsv"
+        "virulence_prediction/summary.tsv"
     conda:
         "envs/abricate.yaml"
     shell:
@@ -74,6 +74,7 @@ rule resistome_prediction:
     shell:
         "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{input} -o data/resistome_prediction/{wildcards.sample} -t contig --clean --debug > {output.log}"
 
+
 rule resistome_all:
     input:
         expand("data/samples/{sample}.fasta", sample=SAMPLES)
@@ -83,6 +84,7 @@ rule resistome_all:
         for i,s in zip(input,SAMPLES):
              #print("input file:",i,"\n name:",s)
              shell("docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{i} -o data/res_prediction/{s} -t contig --clean --debug > res_prediction/{s}")
+
 
 rule generate_resistome_heatmap:
     input:
@@ -101,10 +103,10 @@ rule generate_resistome_heatmap:
 rule summary_results:
     input:
         p="plasmid_prediction/summary.tsv",
-        v="virulence_genes/summary.tsv",
+        v="virulence_prediction/summary.tsv",
         r="resistome_summary/RGI_heatmap",
         #gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
-        rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES),
+        #rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES),
         #pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES),
         spr="prophage_prediction/prophage_summary.tsv",
         sgi="genomic_islands/GI_summary.tsv"
@@ -112,18 +114,19 @@ rule summary_results:
         r="WGCA_analysis_result/RGI_heatmap",
         v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="General"),
         p=report("WGCA_analysis_result/plasmid_summary.tsv", caption="report_description/plasmid.rst", category="General"),
-        t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
-        rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Resistance"),
+        #t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
+        #rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Resistance"),
         compact=report("jamira_integrative_results.zip", caption="report_description/report.rst", category="General"),
         spr=report("WGCA_analysis_result/prophage_summary.tsv", category="General"),
         rgi=report("WGCA_analysis_result/GI_summary.tsv", category="General")
     run:
+
         shell("cp {input.p} {output.p}")
         shell("cp {input.v} {output.v}")
         shell("cp {input.r} {output.r}")
         shell("cp resistome_summary/RGI_* WGCA_analysis_result/")
         shell("cp {input.sgi} WGCA_analysis_result/")
-        shell("cp {input.rt} WGCA_analysis_result/")
+        #shell("cp {input.rt} WGCA_analysis_result/")
         shell("cp {input.spr} WGCA_analysis_result/")
         shell("cd WGCA_analysis_result/ ; rename 's/.txt/.tsv/' *")
         #for i,s in zip(input.pr,SAMPLES):
@@ -138,7 +141,7 @@ rule genome_annotation:
     conda:
         "envs/prokka.yaml"
     shell:
-        "prokka --force --outdir genome_annotation/ --usegenus --Genus Enterococcus --compliant --prefix {wildcards.sample} {input}"
+        "prokka --force --outdir genome_annotation/ --cpus 1 --usegenus --Genus Enterococcus --compliant --prefix {wildcards.sample} {input}"
 
 # rule genomic_island_prediction_docker:
 #     input:
