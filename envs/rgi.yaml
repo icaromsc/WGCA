@@ -2,5 +2,4 @@ channels:
   - bioconda
   - conda-forge
 dependencies:
-  - python =3.6
-  - rgi =4.2.2
+  - rgi =5.1.1

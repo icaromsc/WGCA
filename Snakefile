@@ -4,15 +4,11 @@ def list_files():
     import os
     l=os.listdir('data/samples/')
     li=[x.split('.')[0] for x in l]
-    return li
+    li_unique=set(li)
+    li_f=(list(li_unique))
+    return li_f
 
 SAMPLES = list_files()
-
-# rule get_files:
-#     input: myfunc
-#     output: "someoutput.{somewildcard}.txt"
-#     shell: "..."
-
 
 # Define default rule to run full pipeline
 rule all:
@@ -27,7 +23,8 @@ rule virulence_identification:
     input:
         "data/samples/{sample}.fasta"
     output:
-        report("virulence_prediction/{sample}.tsv", category="Virulence factors")
+        #report("virulence_prediction/{sample}.tsv", category="Virulence factors")
+        "virulence_prediction/{sample}.tsv"
     conda:
         "envs/abricate.yaml"
     shell:
@@ -47,12 +44,12 @@ rule plasmid_prediction:
     input:
         "data/samples/{sample}.fasta"
     output:
-        report("plasmid_prediction/{sample}.tsv", category="Plasmid Prediction")
+        #report("plasmid_prediction/{sample}.tsv", category="Plasmid Prediction")
+        "plasmid_prediction/{sample}.tsv"
     conda:
         "envs/abricate.yaml"
     shell:
         "abricate --minid=60 --mincov=90 --db=plasmidfinder {input} > {output}"
-
 
 rule summarize_plasmid_prediction:
     input:
@@ -68,43 +65,33 @@ rule resistome_prediction:
     input:
         "data/samples/{sample}.fasta"
     output:
-        log = "resistome_prediction/{sample}"
+        log = "resistome_prediction/{sample}",
+        #txt = report("resistome_prediction/{sample}.txt", category="Resistance prediction")
+        txt = "resistome_prediction/{sample}.txt"
         #txt = "resistome_prediction/{sample}.txt",
         #json = "resistome_prediction/{sample}.json"
+    conda:
+        "envs/rgi.yaml"
     shell:
-        "docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{input} -o data/resistome_prediction/{wildcards.sample} -t contig --clean --debug > {output.log}"
-
-
-rule resistome_all:
-    input:
-        expand("data/samples/{sample}.fasta", sample=SAMPLES)
-    output:
-        directory("res_prediction/")
-    run:
-        for i,s in zip(input,SAMPLES):
-             #print("input file:",i,"\n name:",s)
-             shell("docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi main -i data/{i} -o data/res_prediction/{s} -t contig --clean --debug > res_prediction/{s}")
-
+        "rgi main -i {input} -o resistome_prediction/{wildcards.sample} -a DIAMOND -t contig --clean --debug > {output.log}"
 
 rule generate_resistome_heatmap:
     input:
         logs = expand("resistome_prediction/{sample}", sample=SAMPLES),
-        #jsons = expand("resistome_prediction/{sample}.json", sample=SAMPLES),
-        #tabs = expand("resistome_prediction/{sample}.txt", sample=SAMPLES),
-        dir = "resistome_summary/"
+        dir = "resistome_prediction/"
     output:
-        log = "resistome_summary/RGI_heatmap"
-    run:
-        shell("cp {input.logs} resistome_summary/")
-        shell("cp -r resistome_prediction/.  resistome_summary")
-        shell("docker run -v $PWD:/data -t quay.io/biocontainers/rgi:4.2.2--py35ha92aebf_1 rgi heatmap --input data/{input.dir} --output data/{output} --category drug_class --cluster samples -d text > {output}")
+        log = "resistome_prediction/RGI_heatmap"
+    conda:
+        "envs/rgi.yaml"
+    shell:
+        "rgi heatmap --input {input.dir} --output {output} --category drug_class --cluster samples -d text > {output}"
 
 
 rule summary_results:
     input:
         p="plasmid_prediction/summary.tsv",
         v="virulence_prediction/summary.tsv",
-        r="resistome_summary/RGI_heatmap",
+        r="resistome_prediction/RGI_heatmap",
         #gi=expand("genomic_islands/{sample}_GI.gff3", sample=SAMPLES),
         #rt=expand("resistome_summary/{sample}.txt", sample=SAMPLES),
         #pr=expand("prophage_prediction/{sample}/prophage_coordinates.tsv", sample=SAMPLES),
@@ -114,24 +101,24 @@ rule summary_results:
         r="WGCA_analysis_result/RGI_heatmap",
         v=report("WGCA_analysis_result/virulence_summary.tsv", caption="report_description/virulence.rst", category="General"),
         p=report("WGCA_analysis_result/plasmid_summary.tsv", caption="report_description/plasmid.rst", category="General"),
-        #t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
+        t=report("WGCA_analysis_result/RGI_heatmap-"+str(len(SAMPLES))+".png", caption="report_description/heatmap.rst" , category="General"),
         #rr=report(expand("WGCA_analysis_result/{sample}.tsv", sample=SAMPLES), category="Resistance"),
         compact=report("jamira_integrative_results.zip", caption="report_description/report.rst", category="General"),
-        spr=report("WGCA_analysis_result/prophage_summary.tsv", category="General"),
-        rgi=report("WGCA_analysis_result/GI_summary.tsv", category="General")
+        spr=report("WGCA_analysis_result/prophage_summary.tsv",caption="report_description/report.rst", category="General"),
+        rgi=report("WGCA_analysis_result/GI_summary.tsv", caption="report_description/report.rst", category="General")
     run:
 
         shell("cp {input.p} {output.p}")
         shell("cp {input.v} {output.v}")
         shell("cp {input.r} {output.r}")
-        shell("cp resistome_summary/RGI_* WGCA_analysis_result/")
+        shell("cp resistome_prediction/RGI_* WGCA_analysis_result/")
         shell("cp {input.sgi} WGCA_analysis_result/")
         #shell("cp {input.rt} WGCA_analysis_result/")
         shell("cp {input.spr} WGCA_analysis_result/")
         shell("cd WGCA_analysis_result/ ; rename 's/.txt/.tsv/' *")
         #for i,s in zip(input.pr,SAMPLES):
         #    shell("cp {i} WGCA_analysis_result/{s}_prophage_coordinates.tsv")
-        shell("zip -r jamira_integrative_results plasmid_prediction/ prophage_prediction/ virulence_genes/ resistome_summary/ genomic_islands/")
+        shell("zip -r jamira_integrative_results plasmid_prediction/ prophage_prediction/ virulence_prediction/ resistome_prediction/ genomic_islands/")
 
 rule genome_annotation:
     input:
@@ -143,19 +130,12 @@ rule genome_annotation:
     shell:
         "prokka --force --outdir genome_annotation/ --cpus 1 --usegenus --Genus Enterococcus --compliant --prefix {wildcards.sample} {input}"
 
-# rule genomic_island_prediction_docker:
-#     input:
-#         "genome_annotation/{sample}.gbk"
-#     output:
-#         report("genomic_islands/{sample}", category="Genomic Islands")
-#     shell:
-#         "docker run -v $PWD:/data -i -t quay.io/biocontainers/islandpath:1.0.4--pl526_0 islandpath data/{input} data/{output}_GI.tsv > {output}"
-
 rule genomic_island_prediction:
     input:
         "genome_annotation/{sample}.gbk"
     output:
-        report("genomic_islands/{sample}_GI.gff3", category="Genomic Islands")
+        #report("genomic_islands/{sample}_GI.gff3", category="Genomic Islands")
+        "genomic_islands/{sample}_GI.gff3"
     conda:
         "envs/island_path.yaml"
     shell:
@@ -177,7 +157,8 @@ rule prophage_prediction:
     output:
         #d = dir("prophage_prediction/{sample}"),
         r1 = "prophage_prediction/{sample}/prophage.tbl",
-        r2 = report("prophage_prediction/{sample}/prophage_coordinates.tsv", category="Prophages"),
+        #r2 = report("prophage_prediction/{sample}/prophage_coordinates.tsv", category="Prophages"),
+        r2 = "prophage_prediction/{sample}/prophage_coordinates.tsv",
         r3 = "prophage_prediction/{sample}/prophage_tbl.tsv"
     conda:
         "envs/phispy.yaml"
@@ -200,7 +181,7 @@ rule summarize_prophage_prediction:
             for i in input.pr:
                 filepath=i
                 #get number of prophages
-                n_prophages = len(open(filepath).readlines(  ))
+                n_prophages = len(open(filepath).readlines())
 
                 #get filename alias
                 sample = filepath.split("/")[-2]
