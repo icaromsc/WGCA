@@ -1,5 +1,6 @@
-<img src="https://github.com/icaromsc/WGCA/blob/master/src/jamira_logo.jpeg" width="350" height="300">
-
+<h1 align="center">
+  <img src="https://github.com/icaromsc/WGCA/blob/master/src/jamira_logo.jpeg" width="40%" height="40%"/>
+</h1>
 
 # JAMIRA WORKFLOW
 JAMIRA is a Bioinformatics Workflow for Integrative Exploration of Genomic Features of bacterias including:
