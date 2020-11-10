@@ -49,6 +49,11 @@ conda activate jamira
 mamba install -c conda-forge -c bioconda snakemake
 ```
 
+- Install rename, if you don't have yet:
+```
+sudo apt install rename
+```
+
 Congratulations!
 The JAMIRA workflow is ready to be used!
 
